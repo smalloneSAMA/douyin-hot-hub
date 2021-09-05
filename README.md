@@ -11,29 +11,29 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2021-09-06 05:12:22 +0800`
+`更新时间：2021-09-06 06:13:50 +0800`
 
 ## 抖音热榜
 
 1. 美6万多球迷同场狂欢引发地震
 1. 前奏一响就会emo的歌
+1. 这就是上过大学的宠物吗
 1. 妈妈说这首歌不好唱
 1. 穿越时光洪流的意难平
 1. 顶楼3制作组道歉
-1. 这就是上过大学的宠物吗
-1. 北京环球影城有多好玩
-1. 直击国足12强赛备战日本
-1. 英国特种兵男扮女装逃出阿富汗
 1. 西蒙斯或将面临每日22万罚款
-1. 手工版全息投影
 1. 张国伟在努力学习物理
 1. 小伙称相亲被欺骗彩礼给了人不见
+1. 英国特种兵男扮女装逃出阿富汗
 1. 马涛全班大结局
+1. 手工版全息投影
+1. 北京环球影城有多好玩
+1. C罗晒吉尼斯证书
 1. 余生请多指教改档
 1. 大师兄版蜻蜓点水俯卧撑
-1. QGhappy正式更名重庆狼队
-1. 张靓颖清唱再现海豚音
 1. 玉米还能这样吃
+1. 张靓颖清唱再现海豚音
+1. 学校回应领导陪学生冒雨军训汇演
 1. 王者荣耀官方回应服务器崩了
 1. 从圣斗士星矢看十二星座
 1. 老樊飙泪为李莎旻子唱情歌
@@ -60,11 +60,11 @@
 1. 赵文卓不要轻易试探我
 1. 乔家的帅哥们
 1. 多重人格面具
-1. 广西版桃花运的灵魂翻唱
+1. QGhappy正式更名重庆狼队
+1. 保姆平台回应男婴从床上摔下受伤
 1. 粉丝敲碎玻璃制作科比头像
-1. C罗晒吉尼斯证书
-1. 学校回应领导陪学生冒雨军训汇演
 1. 警方通报男子大力挤压幼儿肚子
+1. 微信回应反诈宣传民警微信被封
 
 ## 明星榜
 
@@ -76,7 +76,7 @@
 
 ## 音乐榜
 
-1. [夏日晚风](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/48fb12bf307c48afb58ac6c80209ed35) - xxxmiracle、Aioz
+1. [夏日晚风](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/48fb12bf307c48afb58ac6c80209ed35) - xxxmiracle、Aioz
 1. [目及皆是你（心跳版）（剪辑版）]() - 小蓝背心
 1. [雨爱（雨上晴空）]() - 不是花火呀
 1. [解药 (新版)]() - 来一碗老于
@@ -86,32 +86,32 @@
 1. [飞船（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a5acdd7e03714ddc936e5e0da63d89e8) - 刘可以
 1. [时间沦陷-王忻辰（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7fa8d0afdac84604b561a6bae3390113) - 王忻辰
 1. [不值得你喜欢]() - 王子明 / Copy / WYAN王毓千
-1. [画离弦-海伦（戏腔版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8f235c63c69940bda737153d8adc152d) - 海伦
-1. [Dễ Đến Dễ Đi #1](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4e58392c02f4464b95e03b05e0066366) - Quang Hùng MasterD
+1. [画离弦-海伦（戏腔版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8f235c63c69940bda737153d8adc152d) - 海伦
+1. [Dễ Đến Dễ Đi #1](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4e58392c02f4464b95e03b05e0066366) - Quang Hùng MasterD
 1. [过去未来（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/382c23fbfd5a4e43aa8d3d0fb9b5221f) - 刘瑞琦
 1. [曾经你说(剪辑版1）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/009731e932704ed28ba74617e292f8c0) - 赵乃吉
-1. [Free Loop](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6bf7cbdca7a54b26983694a314531bd4) - Daniel Powter
+1. [Free Loop](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6bf7cbdca7a54b26983694a314531bd4) - Daniel Powter
 1. [Boom Boom](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/734a506f0eef41528e2061edc0d8f5a8) - CHYL
 1. [孤城]() - 洛先生
 1. [小城小爱]() - Uu
-1. [时光背面的我（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d5c634788d8245f796314952f28e1891) - 刘至佳/韩瞳
+1. [时光背面的我（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d5c634788d8245f796314952f28e1891) - 刘至佳/韩瞳
 1. [微风吹（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/13c7f1a894c1443baad9b835bcb8e4dd) - 李润祺
 1. [星光降落](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/69c2c0bdd07941bd875538ac21bdbcd4) - 王宗介
-1. [Past Lives](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/201a624b4b4f47d4ac8c895a2c7aeb32) - Martin Arteta
+1. [Past Lives](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/201a624b4b4f47d4ac8c895a2c7aeb32) - Martin Arteta
 1. [Bygone Bumps]() - Deep East Music
 1. [hallo每一天（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0723042fced94f938344fffd1ee6aa00) - 薛廷佑
 1. [Power (In Your Soul)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fd7e24a379524831a3735ead41eb0f1f) - Interupt
 1. [Stray]() - Feint
 1. [Every Breath You Take](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/58046ea1ace046738bbc23f1d84e8751) - Carles Arbusé "Xiulet"
 1. [My Treasure]() - Stanislav Artemyev
-1. [艾蜜莉（温柔剪辑版1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e685df7456634d0682d17974d1b47952) - 来自阿曼
+1. [艾蜜莉（温柔剪辑版1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e685df7456634d0682d17974d1b47952) - 来自阿曼
 1. [满目星辰皆是你（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f750c9d3284c45dd99ebf8d39f9dbe68) - LKer林柯
 1. [别错过（DJ阿卓版）]() - 程jiajia
 1. [STAY](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/888b40ee58934cae8d8ed1a96db93c57) - The Kid LAROI & Justin Bieber
 1. [Light It Up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3b77cb7037e54b3dbf432784f1436614) - Robin Hustin & Tobimorrow & Jex
 1. [Lone Ranger]() - Rachel Platten
 1. [처음 그 자리에](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/92900e2313044272b111815ddceef84a) - 이보람
-1. [I LOVE YOU](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c302ebd27f31424091e9d2773d742f63) - Kevin Rater
+1. [I LOVE YOU](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c302ebd27f31424091e9d2773d742f63) - Kevin Rater
 1. [At My Worst](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e27c2d66fe624dd2a0d70f38698e2680) - Pink Sweat$
 1. [You and I](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6d41d079cdc24be0b6a3311869b3fa44) - Will Armex
 1. [风夜行](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/05856beb813a491da6dcf418d1e24e98) - 蒋雪儿
