@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2021-12-09 12:20:05 +0800`
+`更新时间：2021-12-09 13:14:57 +0800`
 
 ## 抖音热榜
 
 1. 我的神秘小屋被发现了吗
 1. 全网挑战福原爱十级东北话
 1. 百年奋斗教会我们十个坚持
-1. 原来小猫咪也要看动画片
-1. 福原爱入驻抖音
-1. 当流浪狗把孩子带给你看
-1. 见丈母娘的风格变化
 1. 全网美食达人投喂福原爱
-1. 他不会是有偶像包袱吧
-1. 香港维港上空出现不明飞行物
+1. 缉毒牺牲民警蔡晓东妻子发声
+1. 当流浪狗把孩子带给你看
+1. 女子遛狗不牵绳还辱骂老人
+1. 被辱骂外卖员辞职后发声
+1. 德国新总理与默克尔正式交接
+1. 姆巴佩说梅西是世界上最好的球员
 1. 埃博拉前线开播
-1. 一见倾心大结局
-1. 张同学发布新歌了
+1. 2021国剧盛典红毯
+1. 福原爱入驻抖音
 1. 警方调查孙卓符建涛户籍情况
 1. 浙江新增12例本土确诊病例
-1. 2021国剧盛典红毯
-1. 缉毒牺牲民警蔡晓东妻子发声
-1. 被抢甘蔗老人发声
+1. 一见倾心大结局
+1. 原来小猫咪也要看动画片
+1. 见丈母娘的风格变化
 1. 男子买卡地亚手镯被气到要住院
-1. 仨小伙打工受挫一怒回家成老板
 1. 孙海洋称送孙卓回去后会悄悄离开
-1. 姆巴佩说梅西是世界上最好的球员
-1. 小棉袄又漏风了
-1. 德国新总理与默克尔正式交接
-1. 谢霆锋从来没这么委屈过
-1. 没想到漠叔还有跨国生意
-1. 我们意念合一
-1. 游客与玲娜贝儿的双向奔赴
 1. 哈登比心回应火箭主场欢迎视频
+1. 孙海洋称不想见儿子养父母
+1. 没想到漠叔还有跨国生意
+1. 小棉袄又漏风了
+1. 女生上课迟到表演二人转
+1. 吴谨言白色深V长裙好仙
+1. 中国空间站首次太空授课
+1. 仨小伙打工受挫一怒回家成老板
 1. 31省区市新增60例本土确诊
 1. 人民网评呼吁将平静还久别重逢家庭
-1. 外卖小哥被扣车下跪求交警
 1. 外交部回应澳官员不出席冬奥
+1. 谢霆锋从来没这么委屈过
 1. 校方回应女生辱骂外卖员
-1. 女生上课迟到表演二人转
-1. 巴萨21年来首次欧冠小组出局
-1. 周琦称澳大利亚联赛水平更高
+1. 他不会是有偶像包袱吧
+1. 坠机身亡的印军国防参谋长是谁
+1. 詹姆斯37岁还能起飞
 1. 孙卓养母发声
 1. 镇政府回应将补助8个孩子到成年
-1. 德杯预选赛选手内讧
-1. 成都地铁呼吁大家归还地铁票
+1. 香港维港上空出现不明飞行物
+1. 巴萨21年来首次欧冠小组出局
 1. 安徽一女大学生辱骂外卖小哥
-1. 乔家的儿女四兄妹合体
-1. 孙海洋现场帮朋友找失踪孩子
+1. NBA全明星投票本月26日开启
+1. 美团外卖崩了
 1. 百变小樱cos挑战
-1. 詹姆斯37岁还能起飞
-1. 货拉拉坠亡案司机首次面对镜头
-1. 小舅子连续6天缠着姐夫去钓鱼
-1. 被喊一路姐姐好是什么体验
-1. 光剑变装还得是贾玲
+1. 被抢甘蔗老人发声
+1. 游客与玲娜贝儿的双向奔赴
+1. 周琦称澳大利亚联赛水平更高
+1. 乔家的儿女四兄妹合体
+1. 成都地铁呼吁大家归还地铁票
+1. 中国印钞造币总公司董事被查
 
 ## 明星榜
 
@@ -80,9 +80,9 @@
 1. [Aloha Heja He](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/59a06c12650341f8b6e82b97c7a20b90) - Achim Reichel
 1. [哭泣站台]() - 王小帅
 1. [我不是刘德华]() - 新地/卢克
-1. [予你 剪辑](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/81338df63fc64aa5a879e0eca063afc8) - 队长
+1. [予你 剪辑](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/81338df63fc64aa5a879e0eca063afc8) - 队长
 1. [Infinity](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7861e9af59e04a7aa61cb096ab7a5652) - Jaymes Young
-1. [风吹过八千里](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
+1. [风吹过八千里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
 1. [靠近]() - Morris赖仔
 1. [拍照指南]() - 黑糖
 1. [A Thousand Miles]() - Josh Vietti
@@ -106,25 +106,25 @@
 1. [necessary girl](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/357e1cc9d4564b0db7f589d498e98d2d) - oceanfromtheblue
 1. [特别的人]() - 方大同
 1. [Coming Baby](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f02fe2dbebf642a6ba6faa6c3b9853ad) - 律野 & Evis Wy
-1. [Haru Haru（하루하루）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/940c04aa98154ee7bdbaaa2ad9f28aec) - BIGBANG
+1. [Haru Haru（하루하루）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/940c04aa98154ee7bdbaaa2ad9f28aec) - BIGBANG
 1. [天亮以前说再见](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3013c42faac54ddaa71750945ec91fce) - 何野
-1. [Dogs (Original Version)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d3679b1ec20f48cb8b38eb5445299b38) - HVOB
-1. [失忆（男生版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/886488823e4d448e9cefef2df680d397) - 蔡鹤峰
-1. [起舞（剪辑版1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/245ae079b0294c0fa4a8957192a151c3) - 艾热
-1. [Light It Up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3b77cb7037e54b3dbf432784f1436614) - Robin Hustin & Tobimorrow & Jex
+1. [Dogs (Original Version)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d3679b1ec20f48cb8b38eb5445299b38) - HVOB
+1. [失忆（男生版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/886488823e4d448e9cefef2df680d397) - 蔡鹤峰
+1. [起舞（剪辑版1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/245ae079b0294c0fa4a8957192a151c3) - 艾热
+1. [Light It Up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3b77cb7037e54b3dbf432784f1436614) - Robin Hustin & Tobimorrow & Jex
 1. [枫]() - 周杰伦
 1. [One Night in ShangHai](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/df8d723f3364477492d8da468d5de458) - 胡彦斌
-1. [LOVE SCENARIO](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/25822197988c41c3b476d82741550f52) - Dragon Stone
-1. [鲸落孤岛-郁欢（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/25a36af15c314589bd5079d73fdb8e83) - 郁欢
+1. [LOVE SCENARIO](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/25822197988c41c3b476d82741550f52) - Dragon Stone
+1. [鲸落孤岛-郁欢（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/25a36af15c314589bd5079d73fdb8e83) - 郁欢
 1. [爱在西元前]() - 周杰伦
-1. [秒针 主歌](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7d369723b0834237a3e3da4aa34fe78d) - 阿梨粤
+1. [秒针 主歌](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7d369723b0834237a3e3da4aa34fe78d) - 阿梨粤
 1. [solicitous]() - XLBolo
 1. [Can't Take My Eyes Off You - Original Extended Version](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7440d4fd48cf452abbd3a50184d4f1c3) - Boys Town Gang
-1. [Lonely (Remastered)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dfea66e39df34fe5bed8a5c9016328e7) - Nana Darkman & Booya Family
+1. [Lonely (Remastered)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dfea66e39df34fe5bed8a5c9016328e7) - Nana Darkman & Booya Family
 1. [Gentleman (演奏曲)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ba37a6c94f4345ad8fce3f57c5e9e08e) - Victor 刘伟德 & 戴爱玲
 1. [BIG TIME（慢摇版）]() - 王以太
 1. [Shape of You](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/af2950a1d5e34ad18f7c2cb23bc46e19) - J.Fla
-1. [COCO](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e543fa2950e1488fa7a3ecf60e8aeb50) - Pochito
+1. [COCO](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e543fa2950e1488fa7a3ecf60e8aeb50) - Pochito
 1. [Ngau Hung](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fe5b05b2ffb64697a7fa68eaa202c953) - Hoaprox
 
 ## 品牌榜
