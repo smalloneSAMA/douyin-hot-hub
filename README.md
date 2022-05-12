@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2022-05-12 09:23:18 +0800`
+`更新时间：2022-05-12 11:13:57 +0800`
 
 ## 抖音热榜
 
 1. 汶川地震14周年
-1. 儿子抗疫去世40天家人瞒父亲
+1. 男子陪妻子生产完眼红隔壁女婴
 1. 汶川地震中被托举起的生命
-1. 衡水妈妈们太暖心了
-1. 上海新增确诊144例无症状1305例
-1. 公安部A级通缉犯刘上英被抓获
-1. 免除今年应偿还国家助学贷款利息
-1. 美众议院将举行UFO公开听证会
-1. 直击广东暴雨现场
-1. 31省区市新增本土确诊222例
 1. 朝鲜出现奥密克戎毒株感染病例
+1. 上海新增确诊144例无症状1305例
+1. 儿子抗疫去世40天家人瞒父亲
+1. 衡水妈妈们太暖心了
+1. 起火航班共40余名旅客受轻伤
+1. 跨越14年的汶川记忆
+1. 31省区市新增本土确诊222例
 1. 许昌学院应对疫情超酷的
+1. 重庆江北机场一航班冲出跑道起火
+1. 蒸馒头不需要那么认真
 1. 网剧偷偷藏不住7月开机
-1. 浙江走失两天两夜的孩子找到了
 1. 北京新增确诊35例无症状11例
 1. 深圳发布今年首个暴雨红色预警
 1. 名校退出国际大学排名意味什么
 1. 魔性duidui舞
+1. 西藏航空重庆分公司回应飞机冒烟
 1. 衡水妈妈带二十多个孩子回家照顾
 1. 全国各地来上分了
 1. 我是云南的是什么梗
 1. 外交部回应谭德塞看法
 1. 汪汪队开大会一只大鹅想插队
-1. 盒马回应配送员与逆行大爷剐蹭
+1. 多所名校退出世界大学排名
 1. 北京海淀部分地区实行居家办公
 1. 如何看待保时捷减配事件
 1. 联合国官员称乌军虐待俄战俘
 1. 张韶涵清唱天赐的声音主题曲
+1. 汶川地震亲历者如今怎样了
 1. 萧北辰莫伟毅反目成仇
-1. 蒸馒头不需要那么认真
-1. 曹芳回应嘲讽徐杰
-1. 摆摊篮球少年回应人民日报点赞
+1. 2岁留守男孩雨天躺屋外睡觉
 1. 不炫汉堡睡不着
-1. 跨越14年的汶川记忆
+1. 公安部A级通缉犯刘上英落网
+1. 美众议院将举行UFO公开听证会
+1. 曹芳回应嘲讽徐杰
+1. 今年应偿还国家助学贷款免息
 1. 秋天爸爸给秋天妈妈庆生
-1. 英雄联盟赛事负责人回应MSI争议
-1. 全网钓鱼大师今天又出动了
+1. 摆摊篮球少年回应人民日报点赞
+1. 直击广东暴雨现场
 1. 猪坚强标本5月12日正式展出
-1. 百名犹太人登德国航班遭拒
-1. 上汽大众品牌多车型价格上调
-1. 男生淡定走近篮筐轻松扣篮
+1. 英雄联盟赛事负责人回应MSI争议
+1. 女子发现房东儿子进入自己房间
 1. 韩媒要求官方对RNG发起调查
-1. 巴基斯坦前总理解释访俄原因
+1. 中日英三语烫嘴混读挑战
+1. 男生淡定走近篮筐轻松扣篮
+1. 浙江走失两天两夜的孩子找到了
+1. 上汽大众品牌多车型价格上调
 1. 新疆沙漠公路施工现场有多壮观
 1. 嘉士伯啤酒起诉吴亦凡
-1. 中日英三语烫嘴混读挑战
-1. 夏天的感觉也可以画出来
-1. 李小萌发布汶川地震路遇完整版
-1. 一场大火让鸿星尔克又火了
-1. 男子被绞断腿医生现场截肢
 
 ## 明星榜
 
@@ -76,8 +76,8 @@
 
 ## 音乐榜
 
-1. [最美的瞬间（女版）已上线](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/527ce7f66142422e8d0727588b4f7c73) - 弹棉花的小花
-1. [麦浪（吃可爱多版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
+1. [最美的瞬间（女版）已上线](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/527ce7f66142422e8d0727588b4f7c73) - 弹棉花的小花
+1. [麦浪（吃可爱多版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
 1. [本草纲目]() - 周杰伦
 1. [你过得好吗]() - 刘大拿
 1. [快乐是什么(海绵宝宝)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c4bb2c16b7f24d34af3edcfb56be2d66) - 耀温顺
@@ -89,9 +89,9 @@
 1. [恋爱频率（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5fe5fbbb62d9433798e07a2fddb2213d) - Sasablue
 1. [爷爷泡的茶]() - 周杰伦
 1. [Afterthought](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5b832cdf45494148ba3c17fc04eec659) - Joji & BENEE
-1. [Why Would Ever(抖音版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2a3916415e4a4ac2b3262d6ad0ef853c) - 王梦瑶
+1. [Why Would Ever(抖音版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2a3916415e4a4ac2b3262d6ad0ef853c) - 王梦瑶
 1. [风吹一夏](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
-1. [Classic soccer song "Triumphal March" weakness arrangement(790711)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7881e2ee1b664fe9ae8d0b4e47c46751) - yo suzuki(akisai)
+1. [Classic soccer song "Triumphal March" weakness arrangement(790711)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7881e2ee1b664fe9ae8d0b4e47c46751) - yo suzuki(akisai)
 1. [孤勇者]() - 陈奕迅
 1. [爱怎么了-part1]() - 陈村长
 1. [人间烟火（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4cebb1e51fcc4572bebc0cee135924a2) - 程响
@@ -106,10 +106,10 @@
 1. [园游会]() - 周杰伦
 1. [夜空中最亮的星](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cd6eff61e2364374acb5fa54b61db9f8) - 者思范Remix
 1. [迷途的孤鸟（剪辑版2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2e66f1fbe49240fd8c37a0e510129c89) - 王天阳
-1. [Captain (whistle) [Restricted Remix]](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/762266c11e97422eb5b70dbcbc04b5e9) - Nutcase22
-1. [落在生命里的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
-1. [petit poney](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/22115febaa06423fadf2d8df1cc3175e) - 88century
-1. [风吹一夏](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4a925585bb8c477698f9003d867b9ca5) - DP龙猪/Swei水/Rays陈袁
+1. [Captain (whistle) [Restricted Remix]](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/762266c11e97422eb5b70dbcbc04b5e9) - Nutcase22
+1. [落在生命里的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
+1. [petit poney](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/22115febaa06423fadf2d8df1cc3175e) - 88century
+1. [风吹一夏](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4a925585bb8c477698f9003d867b9ca5) - DP龙猪/Swei水/Rays陈袁
 1. [目及皆是你（心跳版）]() - 小蓝背心
 1. [好一点（男版）]() - 罗大为
 1. [春日漫游](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/614f052b8f134eee85f8160524ce2f33) - BCD Studio
