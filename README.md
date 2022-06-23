@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2022-06-24 00:24:47 +0800`
+`更新时间：2022-06-24 01:21:05 +0800`
 
 ## 抖音热榜
 
@@ -21,50 +21,50 @@
 1. 蔚来汽车坠楼两名试车员身亡
 1. 丹东高铁飞机已停运三个月
 1. iPhone14古铜色
-1. 日本一市含所有市民信息U盘丢失
-1. 白棕先生告别敦敦
-1. 四川高考分数线公布
 1. 曝湖人被认为是签走欧文最大威胁
+1. 白棕先生告别敦敦
+1. 日本一市含所有市民信息U盘丢失
+1. 四川高考分数线公布
 1. 91岁默多克被曝将第四次离婚
-1. 官方回应男子大桥上跳车后跳江
-1. 山东高考成绩26日前公布
+1. 山东首次办跆拳道亚洲顶级赛事
+1. 陕西一男生课间暴打女生
 1. 詹姆斯是众多NBA新秀的偶像
 1. 中国神秘女富豪5.6亿买欧洲豪宅
 1. 女生去校医院拔牙报销后付1元
 1. 广东这次洪涝灾害为何这么严重
-1. 伦敦发现脊髓灰质炎病毒
-1. 山东首次办跆拳道亚洲顶级赛事
-1. 高考生凌晨查分激动到尖叫
-1. 中国人2020平均初婚年龄28.67
-1. 陕西一男生课间暴打女生
-1. 2022NBA选秀前瞻
-1. 云南高考分数线公布
-1. 日本陷入印度高铁困局
-1. 丹东回应父女看病袭警事件
-1. 男孩高考查分后盯手机面无表情
-1. 狗在家拉屎被扫地机器人涂满全家
-1. 曝欧文詹姆斯近期有过接触
-1. 瑞达利欧对话沈南鹏
 1. 传迪拜王子CSGO顶级库存被盗
-1. 江西高招录取分数线公布
-1. 曝维金斯想要顶薪续约
-1. 董宇辉说驴也有休息的时候
+1. 2022NBA选秀前瞻
+1. 男孩高考查分后盯手机面无表情
+1. 中国人2020平均初婚年龄28.67
 1. 警方通报父女黄码看病闯卡袭警
-1. 刘畊宏终于对孤勇者下手了
+1. 高考生凌晨查分激动到尖叫
+1. 山东高考成绩26日前公布
+1. 云南高考分数线公布
+1. 丹东回应父女看病袭警事件
+1. 日本陷入印度高铁困局
+1. 狗在家拉屎被扫地机器人涂满全家
 1. 千万别跟00后客套
+1. 瑞达利欧对话沈南鹏
+1. 伦敦发现脊髓灰质炎病毒
+1. 曝维金斯想要顶薪续约
 1. 儿子高考681分父亲偷偷抹泪
+1. 江西高招录取分数线公布
+1. 官方回应男子大桥上跳车后跳江
+1. 刘畊宏终于对孤勇者下手了
+1. 曝欧文詹姆斯近期有过接触
+1. 董宇辉说驴也有休息的时候
 1. 欧阳娜娜出现在痞幼抖音里
-1. 当外国人遇到雪糕刺客
 1. 朝阳禁毒携百乔呼吁防范新型毒品
 1. 丹东持黄码看病被拦女子发声
 1. 2022年吉林高考分数线
 1. 第一批00后毕业了
-1. 内蒙古高考成绩公布
-1. 银行储蓄员携200万巨款潜逃20年
 1. 张艺兴joker
+1. 银行储蓄员携200万巨款潜逃20年
+1. 内蒙古高考成绩公布
 1. 渔民放生甲鱼疑为有害外来物种
+1. 澳门本轮疫情传播毒株是BA5.1
 1. 这狗子还挺会找遮阳的地方
-1. 直击全国各地高校毕业典礼
+1. 男生高考查分朋友连喊18声好
 
 ## 明星榜
 
@@ -78,7 +78,7 @@
 
 1. [就忘了吧（刘大拿DJ版）]() - 刘大拿
 1. [小城夏天]() - LBI利比
-1. [看得最远的地方（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
+1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
 1. [单人券]() - 张齐山DanieL
 1. [Afterthought](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5b832cdf45494148ba3c17fc04eec659) - Joji & BENEE
 1. [最远的你是我最近的爱 ]() - 金润吉
@@ -100,28 +100,28 @@
 1. [试着断了联系 ]() - 王超然
 1. [起风了]() - 吴青峰
 1. [微风吹（剪辑版）]() - 李润祺
-1. [Black (Feat. 제니 of BLACKPINK)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/97b52b90d39643a192d08ab8c9b08678) - G-Dragon
+1. [Black (Feat. 제니 of BLACKPINK)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/97b52b90d39643a192d08ab8c9b08678) - G-Dragon
 1. [Of her eyes]() - 覃晨皓
-1. [爱都爱了（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ea838a8eccd2486f8d7aa26551f04225) - 小洲
-1. [沈以诚-雨](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/12ca00e82fc34bd4880d181c2afaff1d) - 沈以诚
+1. [爱都爱了（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ea838a8eccd2486f8d7aa26551f04225) - 小洲
+1. [沈以诚-雨](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/12ca00e82fc34bd4880d181c2afaff1d) - 沈以诚
 1. [Wake (Live)]() - Hillsong Young & Free & TAYA
-1. [You're Beautiful](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/956433a3bed543cc83d1cb4d719d7580) - Peaceful Melody & soave lofi
-1. [篇章](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6cd3e3ba67254449ae2883146305ac06) - 张韶涵/王赫野
+1. [You're Beautiful](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/956433a3bed543cc83d1cb4d719d7580) - Peaceful Melody & soave lofi
+1. [篇章](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6cd3e3ba67254449ae2883146305ac06) - 张韶涵/王赫野
 1. [Melô de Lana Del Rey - Reggae Remix](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8ee0eb2f5e704f54a7bf3dc9d3253032) - Luciano CDs
-1. [Young and Beautiful](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/49bd7f88437f4d86982fa511270b36fd) - Aylin my moon
+1. [Young and Beautiful](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/49bd7f88437f4d86982fa511270b36fd) - Aylin my moon
 1. [爱怎么了-part1]() - 陈村长
-1. [风吹一夏](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
-1. [Everytime We Touch](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c75ab010a32d4437a8c98ef5c7b40478) - Veronica Bravo & lost. & Pop Mage
-1. [Not Angry](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
+1. [风吹一夏](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
+1. [Everytime We Touch](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c75ab010a32d4437a8c98ef5c7b40478) - Veronica Bravo & lost. & Pop Mage
+1. [Not Angry](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
 1. [剑魂-鱼多余DJ版正式上线]() - 鱼多余
 1. [雨天（相遇版）]() - 呆呆破
 1. [张钰琪-陪你度过漫长岁月]() - 张钰琪
-1. [爱你](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/738d8b240f1e4519b44cf31c84e02e24) - 王心凌
+1. [爱你](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/738d8b240f1e4519b44cf31c84e02e24) - 王心凌
 1. [一样的月光]() - 徐佳莹
 1. [Monsieur Melody]() - Deep East Music
 1. [满目星辰皆是你（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f750c9d3284c45dd99ebf8d39f9dbe68) - LKer林柯
 1. [我太笨（伤感版 JIYEYILANG）]() - 吉野一郎
-1. [我惊了！！](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4ed69e350acd4332ae6e3f6e2a7856ce) - BCD Studio - Oran
+1. [我惊了！！](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4ed69e350acd4332ae6e3f6e2a7856ce) - BCD Studio - Oran
 1. [呓语]() - 毛不易
 1. [落日与晚风](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c0df4d955e5e4cda94db402d63b71b53) - IN-K/王忻辰/苏星婕
 1. [目及皆是你（心跳版）（剪辑版）]() - 小蓝背心
