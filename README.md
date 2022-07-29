@@ -11,23 +11,23 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2022-07-30 03:14:15 +0800`
+`更新时间：2022-07-30 04:18:12 +0800`
 
 ## 抖音热榜
 
 1. 陆军第80集团军发布2字博文
-1. 于文文钢琴着火
+1. 赵露思可爱小仓鼠
 1. 上半年我国物流运行企稳回升
-1. 香港红馆伤者颈部以下或瘫痪
-1. 美军里根号航母进南海想干啥
-1. 中金回应90后交易员月入超8万
-1. 美媒：佩洛西台湾行程为待定
 1. 清华大学晋级全国四强
-1. 草莓芝士林朝夕见面
+1. RNG官宣Ana替补
+1. 美媒：佩洛西台湾行程为待定
+1. 美军里根号航母进南海想干啥
+1. 台名嘴怒评佩洛西访台
+1. 林朝夕芝士世界学渣变学霸
 1. 被共享单车围住的外卖小哥回应
 1. 香港体育馆事故初步调查原因
-1. 密逃4被质疑抄袭纸嫁衣
-1. 台名嘴怒评佩洛西访台
+1. 于文文钢琴着火
+1. 成都双流区调整社会面防疫措施
 1. 第5号台风桑达已生成
 1. 日本给俄罗斯军演提意见
 1. 为二舅打针医生已过世
@@ -38,33 +38,33 @@
 1. 霍华德：打不了NBA会进军WWE
 1. 二舅确为河北某村村民
 1. 结婚16年3孩均非亲生男子发声
-1. 赵露思可爱小仓鼠
-1. 王心凌在乘风破浪开演唱会
 1. 独行月球观后感
+1. 王心凌在乘风破浪开演唱会
+1. 若美方挑战中方底线必遭坚决反制
 1. 10岁女孩捐骨髓救父
 1. 中方回应元首通话是否谈及佩洛西
-1. 官方通报中学强制女生留超短发
-1. 成都双流区调整社会面防疫措施
-1. RNG官宣Ana替补
-1. 林朝夕芝士世界学渣变学霸
-1. 直击四川枪击案嫌疑人搜捕现场
-1. 众所周知视频是可以p的
+1. 小伙误把丹毒当虫咬进EICU
 1. 台湾是中国的台湾
-1. 若美方挑战中方底线必遭坚决反制
+1. 朝鲜向韩国发出最严厉警告
+1. 福建平潭局部海域实弹射击训练
+1. 消费者称乌江榨菜里吃出脚指甲
+1. 香港红馆伤者颈部以下或瘫痪
+1. 众所周知视频是可以p的
+1. 不同视角看佩洛西窜访台湾
 1. ​印度30人用同一注射器接种疫苗
 1. 库克否认苹果打折清库存
-1. 不同视角看佩洛西窜访台湾
-1. 福建平潭局部海域实弹射击训练
-1. 雷克萨斯车祸起火致1死2伤
 1. 北京大学止步8强
+1. 草莓芝士林朝夕见面
+1. 疑女子未管教孩子被店主甩耳光
 1. 香奈儿广告模特引争议
-1. 西安交大男篮晋级全国四强
-1. 毒液的原型找到了
-1. 香港红馆重伤舞者手术完成
 1. 推动新冠核酸结果全国互认
 1. W两个世界翻拍周期为15天
+1. 毒液的原型找到了
+1. 官方通报中学强制女生留超短发
 1. 台风桑达携雨水周末影响江浙沪
-1. 疑女子未管教孩子被店主甩耳光
+1. 西安交大男篮晋级全国四强
+1. 成都封控小区里的夜晚
+1. 香港红馆重伤舞者手术完成
 
 ## 明星榜
 
@@ -76,27 +76,27 @@
 
 ## 音乐榜
 
-1. [给你一瓶魔法药水](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7feb593ee8de4da69c1370c49d58b610) - 告五人
+1. [给你一瓶魔法药水](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7feb593ee8de4da69c1370c49d58b610) - 告五人
 1. [下一个天亮-颜人中](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/708711beff664743880de4d894dbe1fc) - 颜人中
-1. [隆里电丝（剪辑版2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/71295eab838a43b2a4d5bb5f6bf8dbf7) - 盛宇D-SHINE
-1. [满天星辰不及你(剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3ce8247b98cd4d9c9f6c054899259a87) - ycccc
+1. [隆里电丝（剪辑版2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/71295eab838a43b2a4d5bb5f6bf8dbf7) - 盛宇D-SHINE
+1. [满天星辰不及你(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3ce8247b98cd4d9c9f6c054899259a87) - ycccc
 1. [或许（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9f28eadc95fd446ea33d23555c7f02ed) - LBI利比
-1. [See Tình (Speed Up Version)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/301481e082f64064adeb6285740d54eb) - Hoang Thuy Linh
+1. [See Tình (Speed Up Version)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/301481e082f64064adeb6285740d54eb) - Hoang Thuy Linh
 1. [Hug me(抱我)]() - 蔡徐坤
 1. [粉色海洋]() - 周杰伦
 1. [我的月亮（剪辑版）]() - 苏星婕
-1. [麦浪 (吃可爱多吗版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
+1. [麦浪 (吃可爱多吗版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
 1. [帶我去找夜生活]() - 告五人
 1. [半山腰 (主歌版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9c05de55a3e343cba35eda07fbd90ab2) - Zic子晨
-1. [โต๊ะริม - Melt](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a9315380427a4088b0aaa11093a69b46) - DoubleBam & JIXGO & sarah salola
+1. [โต๊ะริม - Melt](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a9315380427a4088b0aaa11093a69b46) - DoubleBam & JIXGO & sarah salola
 1. [Tiktok Baby (剪辑版2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/409234e9be76489d9e51cf47453104f6) - 947.ASH
 1. [A Thousand Miles]() - Josh Vietti
-1. [Upupu（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f05adf8a32ec4a9290c3215caa938174) - 小皮皮爱习题
-1. [看得最远的地方（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
-1. [爱你](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/738d8b240f1e4519b44cf31c84e02e24) - 王心凌
+1. [Upupu（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f05adf8a32ec4a9290c3215caa938174) - 小皮皮爱习题
+1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
+1. [爱你](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/738d8b240f1e4519b44cf31c84e02e24) - 王心凌
 1. [小城夏天]() - LBI利比
 1. [爱都爱了 (片段)]() - 小洲
-1. [I LOVE YOU](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/405c4cbe02ed4ee6ab6e84be1907f54f) - Kevin Rater
+1. [I LOVE YOU](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/405c4cbe02ed4ee6ab6e84be1907f54f) - Kevin Rater
 1. [零落(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3f8755b6b8f9427abf5f192dbec92abc) - 金天
 1. [未出现传闻]() - 胡66
 1. [落在生命里的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
@@ -114,7 +114,7 @@
 1. [太迟 (胖虎版)]() - 胖虎
 1. [绝配]() - 时代少年团
 1. [一样的月光]() - 徐佳莹
-1. [等你归来（主歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e4e9a639694b44ddb269a82fe57b96f5) - 程响
+1. [等你归来（主歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e4e9a639694b44ddb269a82fe57b96f5) - 程响
 1. [In The Shadow Of The Sun]() - Professor Green
 1. [好一点（don't emo)]() - 小蓝背心
 1. [Happy People]() - Inspired
