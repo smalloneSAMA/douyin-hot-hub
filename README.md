@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2022-09-14 16:23:34 +0800`
+`更新时间：2022-09-14 17:20:26 +0800`
 
 ## 抖音热榜
 
+1. 做梦都在羊了个羊
 1. 台风梅花今日登陆浙江
-1. 蚊子带编号38系谣言
-1. 中秋消费成绩单来了
-1. 水库被信徒放生入侵鱼种
-1. 抖音创作者大会官宣
-1. 羊了个羊通关技巧
-1. iPhone14ProMax史上最重
-1. 冯远征就任北京人艺院长
-1. 网友称羊了个羊疑似抄袭
+1. 新视角从空间站看地球
 1. 16岁女孩湍流中连救2人
-1. CSGO首个中文音乐盒
-1. 贵州追加8000万采购抗原试剂
-1. 现在一吃东西满脑子三花淡奶
+1. 羊了个羊通关技巧
+1. 52岁新生报到被误认为家长
+1. 羊了个羊爆火背后
+1. 冯远征就任北京人艺院长
+1. 昆仑神宫明天定档
+1. 羊了个羊 抄袭
+1. 2022首个台风红色预警
+1. 微信腾讯视频等尚未适配灵动岛
+1. 王鹤棣听土味情话的反应
 1. 郑州火车站附近发现弃婴
 1. 羊了个羊急招后端开发
-1. 消失的孩子片名解读
-1. 王鹤棣听土味情话的反应
-1. 羊了个羊第二关终于过了
-1. 浮图缘何润东人设
-1. 天沈一对太好嗑了
-1. 做梦都在羊了个羊
-1. 双20列阵长空告慰革命先烈
-1. 百色回应澄碧湖被投放清道夫
-1. 湖北统一销毁非法枪爆物品
-1. 你写下的抖音购物日记
 1. 每个人都是消失的孩子
-1. 男孩在幼儿园坦然展示假肢
-1. 当代氛围感生日拍照
-1. 2022首个台风红色预警
-1. 强台风梅花携风带雨而来
-1. 法拉利SUV发布
-1. 新川日常阵容官宣
-1. 农村自来水普及率达84%
-1. 野猪闯小区撞伤晨跑者
-1. 52岁新生报到被误认为家长
-1. 旺旺推出2999元超大陶瓷杯
-1. 曾舜晞欧阳娜娜恋综首秀
-1. 石家庄天空现丁达尔效应
-1. 羊了个羊爆火的背后
-1. 雷军卸任小米电子软件董事长
 1. 面带笑容必占上风
-1. 婴儿掉下瞬间舅舅飞奔接住
-1. 杨迪妈妈网购被骗
-1. 熊猫打架输了向饲养员撒娇
-1. 威少以3000万美元出售豪宅
-1. 小姨抱着6个月宝宝猛亲
-1. 我们还有多久才能见面
-1. 海贼王1060话情报
+1. 羊了个羊第二关终于过了
 1. 今晚不走是小狗
-1. 贵州新增本土3+246
+1. 水库被信徒放生入侵鱼种
+1. 宁波全域台风红色预警
+1. 熊猫打架输了向饲养员撒娇
+1. 天沈一对太好嗑了
+1. 双20列阵长空告慰革命先烈
+1. 江西新增本土2+55
+1. 贵阳调整中高风险区
+1. 被覆流年虐惨了
+1. 吞噬星空罗峰复仇李耀
+1. 李甫西大夫真人版
+1. 法拉利SUV发布
+1. 百色回应澄碧湖被投放清道夫
+1. BLACKPINK最新回归曲
+1. 范世錡重新定义摇滚
+1. 湖北统一销毁非法枪爆物品
+1. 石家庄天空现丁达尔效应
+1. 请君预计明天定档
+1. 你写下的抖音购物日记
+1. 一吃东西就满脑子三花淡奶
+1. 雷军卸任小米电子软件董事长
+1. iPhone14开箱
+1. 农村自来水普及率达84%
+1. 小姨抱着6个月宝宝猛亲
+1. 野猪闯小区撞伤晨跑者
+1. 当代氛围感生日拍照
+1. 杨迪妈妈网购被骗
+1. 他好像知道自己跳得好帅
+1. 男子半夜偷窥夫妻睡觉
+1. 吉塔两国边境交火
+1. 婴儿掉下瞬间舅舅飞奔接住
+1. 拜仁2比0巴萨
 
 ## 明星榜
 
@@ -95,24 +95,24 @@
 1. [邂逅一夏（男声版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2a724b75b43f494489b8745fd22fa322) - 余佳运/王OK(王澳珂)
 1. [千千阕歌](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ec5175dc85cf45cc9d893b377e82bc9d) - 陈慧娴
 1. [帶我去找夜生活]() - 告五人
-1. [隆里电丝（剪辑版2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/71295eab838a43b2a4d5bb5f6bf8dbf7) - 盛宇D-SHINE/刘聪KEY.L
-1. [追寻你（万物复苏版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
-1. [下一个天亮 (心动版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eed20c698e8d4ccea9f62040d3815d32) - 颜人中
+1. [隆里电丝（剪辑版2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/71295eab838a43b2a4d5bb5f6bf8dbf7) - 盛宇D-SHINE/刘聪KEY.L
+1. [追寻你（万物复苏版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
+1. [下一个天亮 (心动版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eed20c698e8d4ccea9f62040d3815d32) - 颜人中
 1. [NUNA（告白版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
-1. [Past Lives](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e75cfe0f1fa54d25951fc9e1411226aa) - Martin Arteta & creamy & 11:11 Music Group
+1. [Past Lives](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e75cfe0f1fa54d25951fc9e1411226aa) - Martin Arteta & creamy & 11:11 Music Group
 1. [A Thousand Miles]() - Josh Vietti
 1. [太阳下山有月光]() - 歪歪超
 1. [カタコト](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c2b2f5a0d95349eb9c9e0d7bef00bc9d) - sloppy dim
 1. [我是如此相信]() - 周杰伦
 1. [就忘了吧（一口甜版）]() - 一口甜
 1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
-1. [โต๊ะริม - Melt](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a9315380427a4088b0aaa11093a69b46) - DoubleBam & JIXGO & sarah salola
+1. [โต๊ะริม - Melt](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a9315380427a4088b0aaa11093a69b46) - DoubleBam & JIXGO & sarah salola
 1. [或许（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9f28eadc95fd446ea33d23555c7f02ed) - LBI利比
 1. [满天星辰不及你(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3ce8247b98cd4d9c9f6c054899259a87) - ycccc
 1. [三生三幸]() - 海来阿木
 1. [晚风心里吹（片段1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
 1. [粉色海洋]() - 周杰伦
-1. [西楼别序](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e23a96f493c2460886cb74669352f6d4) - 尹昔眠/小田音乐社
+1. [西楼别序](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e23a96f493c2460886cb74669352f6d4) - 尹昔眠/小田音乐社
 1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/53a701c9c2fa45a0b21bb0c91aa90880) - 傅如乔
 1. [呓语]() - 毛不易
 1. [Not Angry](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
@@ -120,7 +120,7 @@
 1. [Every Time Around](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/de87465b261c46fdaa5adb2d3a492268) - Vansire
 1. [Tiktok Baby (剪辑版2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/409234e9be76489d9e51cf47453104f6) - 947.ASH
 1. [后来的你在哪 (剪辑版)]() - 树泽
-1. [去见想见的人 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ee3c1a10936f4d83b81608bb346a33dc) - Joysaaaa
+1. [去见想见的人 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ee3c1a10936f4d83b81608bb346a33dc) - Joysaaaa
 1. [单人券]() - 张齐山DanieL
 1. [微风吹（剪辑版）]() - 李润祺
 1. [命运（电视剧《兰陵王》主题曲）]() - 家家
