@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2022-12-08 14:19:52 +0800`
+`更新时间：2022-12-08 15:14:10 +0800`
 
 ## 抖音热榜
 
 1. 新冠感染者居家治疗指南
 1. 张文宏团队称99.5%感染者无需就医
 1. 全国多地落实最新出行政策
-1. 世界杯最难打破的纪录
+1. 抗原检测试剂盒打响价格战
 1. 新冠感染者居家治疗常用药
-1. 女子回应怀孕36周仍坚持健身
-1. 克罗地亚主帅：面对巴西不会缴械
+1. 国务院联防联控新闻发布会
+1. 我是羌族小煞
 1. 不建议布洛芬与对乙酰氨基酚同服
-1. 马斯克暂失全球首富头衔
+1. 女子回应怀孕36周仍坚持健身
 1. 袁家军任重庆市委书记
-1. 多家药企回应布洛芬遭抢购
 1. 多地核检采购项目宣告终止
+1. 韩总统府回应总统夫人穿拖鞋
+1. 克罗地亚主帅：面对巴西不会缴械
 1. 杞县曾通报19岁女孩父亲死亡事件
-1. 白岩松说西班牙掉链子不意外
 1. 交通运输部删除查验落地检要求
-1. 31省区市新增本土4031+17134
-1. 县委大院是戏骨大院吧
-1. 普京：核战争风险正在上升
+1. 一两个月内或现大规模疫情冲击
+1. 马斯克暂失全球首富头衔
+1. 上海明日起堂食不再查验核酸
 1. 尹峥和李薇大婚
+1. 新冠病毒抗原检测应用方案
 1. 新冠患者自述感染经历
-1. C罗有事儿佩佩真上啊
-1. 武磊预测法国3比0英格兰
+1. 12月8日上海疫情发布会
 1. 赵丽颖李光洁挂腰吻花絮
-1. 杞县警方回应网传女子失联
-1. 县委大院首播收视率
-1. 张继科说C罗比梅西更有冲击力
-1. 赵垒人设崩没崩
 1. 爵士抢断绝杀勇士
-1. 原来武磊竟没有梅西球衣
-1. 六种新冠症状应对指南
-1. 白岩松的世界杯4强预测
-1. 姐姐不满C罗替补
-1. 县委大院林志为演我上班
 1. 浙江四川包机组团出海抢订单
-1. 今年可以返乡过年吗
-1. 北京抗原试剂盒供不应求
-1. 警方回应网传女孩举报后失联
+1. 张继科说C罗比梅西更有冲击力
+1. 人民网评风吹半夏
+1. 武磊预测法国3比0英格兰
+1. 卡塔尔小王子预测巴西夺冠
+1. 男子凌晨隧道内逆行用头撞车
+1. 广州此轮疫情发布会将告一段落
+1. 打击哄抬物价力度也要翻倍
+1. 赵垒人设崩没崩
+1. 白岩松的世界杯4强预测
+1. 县委大院首播收视率
+1. 普京：核战争风险正在上升
+1. 原来武磊竟没有梅西球衣
 1. 曝阿根廷对阵荷兰可能会变阵
 1. 60岁产女的盛海琳丈夫离世
-1. 世界杯身价暴涨的球员
+1. 警方回应网传女孩举报后失联
 1. 卿卿日常山峥海薇圆房
-1. 董老厮看世界杯偶遇马凡舒
-1. 人民网评风吹半夏
+1. 今年可以返乡过年吗
+1. 31省区市新增本土4031+17134
+1. 县委大院林志为演我上班
+1. 北京抗原试剂盒供不应求
 1. 潘晓婷说加维球衣全场最脏
-1. 广州此轮疫情发布会将告一段落
+1. 危险爱人原生家庭的不幸
+1. 世界杯身价暴涨的球员
 1. 北京发布感染者居家康复指引
 1. 当外国人突然炫耀中文
-1. 卡塔尔开始拆球场了
-1. 危险爱人原生家庭的不幸
-1. 田曦薇哭戏感染力
 
 ## 明星榜
 
@@ -87,22 +87,22 @@
 1. [Shut up My Moms Calling](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d40301b58d8d47e990e3897e88a0fa89) - Hotel Ugly
 1. [故事还长]() - 云汐
 1. [黄昏晓 (Shake9.慢速版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cd9dda94f3dd48d994b6cd859ab68326) - INTO1-周柯宇
-1. [Head In The Clouds](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocSfDBmOnoV52y4eF28Hg3zXxCbhGeDQDHAma5) - Hayd
-1. [人间烟火（长段落）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
+1. [Head In The Clouds](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocSfDBmOnoV52y4eF28Hg3zXxCbhGeDQDHAma5) - Hayd
+1. [人间烟火（长段落）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
 1. [满天星辰不及你(剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/967cfdb40fa94d60af1ae47c8dc174f0) - ycccc
 1. [守护着我的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ed20fb3dda19418492eb676bfe287e15) - 李巍V仔
 1. [巡光 (主歌版)]() - 就是南方凯
 1. [我搞不懂 (副歌)]() - 甘草片r
-1. [麦浪 (吃可爱多吗版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
+1. [麦浪 (吃可爱多吗版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
 1. [楼顶上的小斑鸠 - 外套版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIbASvxZH1s1hJYWfmBBvIUz8wXovR7AQvNg8K) - 队长
 1. [谁会被吻（全网已上线）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b4aa7945c88d491584f57caea87b054c) - Lil Jet
 1. [Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1abbdde7ebee475886fab19365b8795e) - Trinidad Cardona & Davido & Aisha
 1. [可是你说 (剪辑版)]() - 张德伊玲
 1. [Favorite Song（剪辑版）]() - 刘瑞琦
 1. [追寻你（万物复苏版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeAZJsbjIDit9APmBg8u6uDUQnHmoCf3gbo74) - 王天戈/川青
-1. [3:03 PM](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6dbc1e43a5424f1d8e026f901c4ecac6) - しゃろう
-1. [Arhbo [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dec1c933119a4722bc7d15cb815cc975) - Ozuna & GIMS & RedOne
-1. [sun and moon](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5a7c699932f84c15a27fb33e7ce40d1d) - anees
+1. [3:03 PM](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6dbc1e43a5424f1d8e026f901c4ecac6) - しゃろう
+1. [Arhbo [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dec1c933119a4722bc7d15cb815cc975) - Ozuna & GIMS & RedOne
+1. [sun and moon](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5a7c699932f84c15a27fb33e7ce40d1d) - anees
 1. [Q]() - 金渔、迟里乌布
 1. [风吹过八千里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
 1. [不回头的人 (剪辑版)]() - 苏星婕
@@ -116,15 +116,15 @@
 1. [Keep Your Head Up Princess](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9fb413866ca047b8a208bb2eb2dde21a) - Anson Seabra
 1. [天生反骨的鸵鸟（高热片段）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oApb6e0VCRRZHnbfUVrBQ079VhDtdj9QgHB3IC) - 毛毛不插电
 1. [多想还小（Part2）]() - 豆包
-1. [现在的我（还在一个人过）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7cb0ab1bceed4d3d97c171b913397e49) - 刘大壮
-1. [Cool Kids](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb53961b549943f2b97f436a450f92d3) - Echosmith
+1. [现在的我（还在一个人过）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7cb0ab1bceed4d3d97c171b913397e49) - 刘大壮
+1. [Cool Kids](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb53961b549943f2b97f436a450f92d3) - Echosmith
 1. [再见我的女孩 (副歌)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owhsZHUWAR0KY1zJAwt6fhBoFsIuiGaSAyqxVW) - 烟(许佳豪)
 1. [赐我]() - 一只白羊
 1. [Fallin' Out]() - Keyshia Cole
 1. [Month (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUCKEbQonB9j80et4XDn5HITVBQU5legywZx0C) - NINEONE赵馨玥
-1. [狂恋（全网已上线）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d5f15632926e41d191233d633bf09ca8) - GALI/万妮达Vinida
+1. [狂恋（全网已上线）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d5f15632926e41d191233d633bf09ca8) - GALI/万妮达Vinida
 1. [小雨 (副歌2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8xZGGk7bFCVMDnfaaLcaUoAP8zCB3eZegDQD8) - 黄龄
-1. [艾丽-那奇沃夫-汽水音乐听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b95eb39c792641e4933e496ebd155b0b) - 那奇沃夫
+1. [艾丽-那奇沃夫-汽水音乐听](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b95eb39c792641e4933e496ebd155b0b) - 那奇沃夫
 1. [帶我去找夜生活]() - 告五人
 
 ## 品牌榜
