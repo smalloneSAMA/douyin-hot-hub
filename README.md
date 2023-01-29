@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-01-29 07:14:30 +0800`
+`更新时间：2023-01-29 09:16:08 +0800`
 
 ## 抖音热榜
 
-1. 美军司令预测2025年中美将开战
+1. 辉瑞
 1. 专家称新冠病毒有点传不动了
 1. 如何远离节后综合征
-1. 俄外交部：美国正在入侵网络空间
-1. 佩洛西丈夫在家遇袭视频首曝光
-1. 吴京被刘德华的京哥吓了一跳
-1. 张译时隔多年再演反派
-1. WHO更新应对核紧急情况药物清单
-1. 美军启用关岛新基地
-1. 店主春节忘锁门8天未丢一物
+1. 是尽忠报国还是精忠报国
+1. 世卫更新应对核紧急情况药物清单
+1. 人民网评流浪地球2
+1. 14岁女孩寒假能有多自律
 1. 狂飙黄瑶扮演者：谁是小白花
-1. 狂飙高启强有多爱陈书婷
+1. 张译四十一枝花
+1. 高启强你别太嚣张
 1. Uzi61万股权被冻结
+1. 狂飙高启强竟然有原型
+1. 狂飙高启强周围都是猪队友
 1. 俄罗斯警告美国和北约领导人
+1. 女子投简历被回不招豫籍
+1. 谷爱凌因伤退出xgames
+1. 全抖音复诵满江红
 1. 岳云鹏被0713盘到退场
 1. 春节第二波感染高峰没来
-1. 妈妈留儿子分手两年的前任照片
-1. 狂飙高启强周围都是猪队友
+1. 美军司令预测2025年中美将开战
 1. 宁波一景区悬崖秋千牵引绳断裂
 1. 动物园回应男孩摔打孔雀
 1. 胡鑫宇家人春节收到线索搜寻未果
+1. 美军启用关岛新基地
 1. 华晨宇方回应应援棒抄袭
 1. 库里向观众席扔牙套被罚2.5万美元
-1. 央视评宰客事件
+1. 新西兰洪水致3死
+1. 唐艺昕新剧坐月子情节好真实
 1. 女子生娃后弟弟心疼落泪
-1. 济南一方舱变人才公寓
-1. 郭明錤：苹果暂停自研WiFi芯片
-1. 谷爱凌因伤退出xgames
+1. 官方辟谣1月份不认证停发养老金
+1. 强盛集团回应法人为孙红雷
+1. 俄称美正在入侵网络空间
+1. 熊出没大电影累计票房破50亿
+1. 这种奶茶杯千万不要碰
+1. 央视评宰客事件
+1. 高启强刘华强的梦幻联动
+1. 秦霄贤哈妮克孜发糖
+1. 车厘子摊主调包过程被拍
+1. 正月初八祝福语
+1. 张颂文赋予了高启强生命力
 1. 满江红回应争议
 1. 官方进驻雅圣思基地展开调查
-1. 秦霄贤哈妮克孜发糖
-1. T1战胜DK
-1. 唐艺昕新剧坐月子情节好真实
-1. 北海市通报4菜1500元事件
-1. 克宫：拜登有结束俄乌冲突的钥匙
-1. 又一颗彗星正抵近地球
-1. 印军两架战机坠毁
-1. 车厘子摊主调包过程被拍
 1. 河南一景区背满江红免门票
-1. 吴刚脸肿的原因
-1. 这种奶茶杯千万不要碰
+1. 店主春节忘锁门8天未丢一物
 1. 狂飙孟钰被分手李一桐发动态
-1. 张颂文赋予了高启强生命力
-1. 14岁女孩寒假能有多自律
-1. 高启强你别太嚣张
-1. 浙江高速服务区有多豪华
-1. 妹妹街头相亲家人暗中观察
-1. 强盛集团回应法人为孙红雷
-1. 德民众抗议政府供乌坦克
-1. 狂飙高启强竟然有原型
+1. 又一颗彗星正抵近地球
+1. 济南一方舱变人才公寓
+1. 开工朋友圈准备起来啦
+1. 吴刚脸肿的原因
+1. 佩洛西丈夫在家遇袭视频首曝光
 
 ## 明星榜
 
@@ -83,15 +83,15 @@
 1. [我曾遇到一束光 (氛围版)]() - 叶斯淳
 1. [见面吧趁新年 (完整版全网可听)]() - 汪苏泷
 1. [Heaven](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeNfUaiKKP4umZfAh40h7AP623iAXfHG1F2HQ) - Ailee
-1. [开心往前飞（开心超人联盟主题曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
+1. [开心往前飞（开心超人联盟主题曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
 1. [大貔貅 (剪辑版)]() - ONER/宋木子
 1. [我记得]() - 赵雷
-1. [爱的蠢动 (总是执着等待爱情的到来)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osB9AW8xohlGrsNUX9GNAfK4bzdzSxIPVq7gIw) - 胡期皓
+1. [爱的蠢动 (总是执着等待爱情的到来)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osB9AW8xohlGrsNUX9GNAfK4bzdzSxIPVq7gIw) - 胡期皓
 1. [故事还长]() - 云汐
 1. [China-E]() - 徐梦圆
 1. [春节到]() - 宝宝巴士
 1. [小城夏天]() - LBI利比
-1. [祝福你](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1a6cface2cce4e2dae2974b83d03615f) - MY ASTRO
+1. [祝福你](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1a6cface2cce4e2dae2974b83d03615f) - MY ASTRO
 1. [You & Me]() - Fingazz ft.H-Slang & Choco
 1. [Shut up My Moms Calling - (Sped Up)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5e82508e4a754574bd5b91135ffab1ee) - Hotel Ugly
 1. [F*ck Love](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQvPQKbdAeQ7Q2m31eAmhl8DeOWcINwAnfGGFh) - Lund
@@ -109,10 +109,10 @@
 1. [新年元气曲 (副歌)]() - Luya
 1. [满天星辰不及你(剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/967cfdb40fa94d60af1ae47c8dc174f0) - ycccc
 1. [晚风告白 (副歌)]() - 星野
-1. [Sokka](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b9c3e305c0474c898ce221c7aa498547) - you
+1. [Sokka](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b9c3e305c0474c898ce221c7aa498547) - you
 1. [陪你度过漫长岁月]() - 陈奕迅
 1. [就让这大雨全都落下 (剪辑版1)]() - 容祖儿
-1. [Creep](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5a32c4737f714f9ab8a22f0ada774a56) - GAMPER & DADONI
+1. [Creep](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5a32c4737f714f9ab8a22f0ada774a56) - GAMPER & DADONI
 1. [麦浪 (吃可爱多吗版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
 1. [人间烟火（长段落）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
 1. [星星住进你眼睛]() - 刘至远、Mimmi
