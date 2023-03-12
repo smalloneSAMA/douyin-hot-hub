@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-03-13 05:13:07 +0800`
+`更新时间：2023-03-13 06:14:03 +0800`
 
 ## 抖音热榜
 
@@ -20,8 +20,8 @@
 1. 中国国土绿化状况公报发布
 1. 丁薛祥何立峰张国清刘国中为副总理
 1. 国务委员名单
-1. 马尔代夫恢复与伊朗外交关系
 1. 李尚福任国防部部长
+1. 马尔代夫恢复与伊朗外交关系
 1. 李小鹏任交通运输部部长
 1. 郑栅洁任发改委主任
 1. 任子威：我的人生词典里没有躺平
@@ -34,6 +34,7 @@
 1. 北京动物园回应网传丫丫新居
 1. 看保你平安笑麻了
 1. 小鬼live现场好稳
+1. 新娘自己主持婚礼省下万元
 1. 电影除恶飞车党细节
 1. 汽车降价结束会迎报复性涨价吗
 1. 儿媳带78岁公公体验各种小吃
@@ -51,19 +52,18 @@
 1. 王菊相亲被男生说太强势
 1. 广东冷空气返场
 1. 张信哲33年出了35张专辑
-1. 花花在熊猫界的辨识度
 1. 中国外交悄悄干了件大事
 1. 泽连斯基助手透露乌军反攻时间表
-1. 新娘自己主持婚礼省下万元
-1. 日本人有多爱大熊猫
-1. 李月汝受伤
-1. 女子回应烧伤后被男友照顾6年
+1. 大妈们又在婚礼上整活了
+1. 父母联手忽悠孩子说钱会过期
+1. 改编东野圭吾为啥总水土不服
 1. 男子爬山偶遇赤狐
+1. 花花在熊猫界的辨识度
+1. Jennie雅加达solo舞台
+1. 日本人有多爱大熊猫
+1. 女子回应烧伤后被男友照顾6年
 1. 少年感穿搭
 1. 对视变装
-1. Jennie雅加达solo舞台
-1. 佘诗曼林峯的越难越爱最对味
-1. 改编东野圭吾为啥总水土不服
 1. 林孝埈1000米被撞无缘晋级
 
 ## 明星榜
@@ -82,21 +82,21 @@
 1. [我会等（现场版1）]() - 承桓
 1. [我记得]() - 赵雷
 1. [You & Me]() - Fingazz ft.H-Slang & Choco
-1. [开心往前飞（开心超人联盟主题曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
-1. [BABYDOLL (Speed)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
+1. [开心往前飞（开心超人联盟主题曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
+1. [BABYDOLL (Speed)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
 1. [123我爱你 (加速版)]() - 贺子玲
 1. [循迹 (琵琶版)]() - Jakub狗子哥
 1. [爱如火（破碎版）-Zy](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEvtIoMp7zBvFT8ic4fLAsxIrWDwAAp9UBNvvh) - Zy
 1. [帶我去找夜生活]() - 告五人
 1. [SummerSweet](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1f607ae2eddd4d769089c69e1b5690b9) - NavyQuokka
 1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
-1. [苦咖啡·唯一 (DJ版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oohZWXUzNXlh9bzpBgNUfJCQHGILwWgDBaejQt) - 那奇沃夫/KKECHO
+1. [苦咖啡·唯一 (DJ版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oohZWXUzNXlh9bzpBgNUfJCQHGILwWgDBaejQt) - 那奇沃夫/KKECHO
 1. [Hot](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63be641febf4335a8996c8a877dee1c) - Liili
 1. [Why Why Why]() - 王嘉尔
 1. [麦浪（四月天特别版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/26f5501a6547411fa3fbedc592fed0ad) - yihuik苡慧
-1. [人间烟火（长段落）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
+1. [人间烟火（长段落）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
 1. [故事还长]() - 云汐
-1. [One More Last Time](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fbe80e953d994d4793d482105a4fbbf8) - Henry Young
+1. [One More Last Time](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fbe80e953d994d4793d482105a4fbbf8) - Henry Young
 1. [粉色海洋]() - 周杰伦
 1. [5：23PM (片段)]() - 宋亚轩
 1. [雾起海岸]() - 苏星婕
@@ -108,18 +108,18 @@
 1. [晚风告白 (副歌)]() - 星野
 1. [花_剪辑版2_全网可听](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogyasxh67XPhWNGqABUYrIuNVZ0wtfIzKqoA2R) - 鞠婧祎
 1. [星星住进你眼睛]() - 刘至远、Mimmi
-1. [Head In The Clouds](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocSfDBmOnoV52y4eF28Hg3zXxCbhGeDQDHAma5) - Hayd
+1. [Head In The Clouds](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocSfDBmOnoV52y4eF28Hg3zXxCbhGeDQDHAma5) - Hayd
 1. [我愛你-上海蟹-](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7cc6d91d8fb54e6194eabea288d60d9f) - カニ研究会
 1. [All Girls Are The Same]() - Juice WRLD
 1. [春山行(主歌剪辑版)]() - 亦伊
 1. [PLAY](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/45f0eaf5d56244feb1a9f39aa3a85f3c) - Ricii Lompeurs & Ticia
-1. [看得最远的地方（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
+1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
 1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
-1. [LEFT RIGHT](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4bDEuYCBOBD6fgpPhnNQjUBxIZwQ7ZxOeZtPt) - XG
+1. [LEFT RIGHT](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4bDEuYCBOBD6fgpPhnNQjUBxIZwQ7ZxOeZtPt) - XG
 1. [i walk this earth all by myself](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
-1. [你啊你啊（剪辑版1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooAo4zmIvPf9AtdtWwKnYoxzsisv0BFJhUAAJ0) - 林俊杰
-1. [Boy's a liar Pt. 2](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LdBZtzQIAMZSjtIi8xLfTs9BnCVhUsfCo4Ug) - PinkPantheress & Ice Spice
-1. [Popipo](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/768f2c2597214222b217c7596635a9c2) - Hatsune Miku
+1. [你啊你啊（剪辑版1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooAo4zmIvPf9AtdtWwKnYoxzsisv0BFJhUAAJ0) - 林俊杰
+1. [Boy's a liar Pt. 2](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LdBZtzQIAMZSjtIi8xLfTs9BnCVhUsfCo4Ug) - PinkPantheress & Ice Spice
+1. [Popipo](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/768f2c2597214222b217c7596635a9c2) - Hatsune Miku
 1. [就让这大雨全都落下 (剪辑版1)]() - 容祖儿
 1. [推开世界的门]() - 杨乃文
 1. [花_剪辑版1_全网可听](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4Nt6DHngcuBxceebmjZBICdIxaiy2UvjowHtQ) - 鞠婧祎
