@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-03-14 00:20:56 +0800`
+`更新时间：2023-03-14 01:14:38 +0800`
 
 ## 抖音热榜
 
@@ -21,49 +21,49 @@
 1. 总理说自己是老网民
 1. 总理回应中美脱钩论调
 1. 总理说我国人口红利并没消失
-1. 22岁丫丫约等于人类80岁
-1. 王楚钦晋级
 1. 杜锋被驱逐
+1. 王楚钦晋级
+1. 退休局长10年种15万棵树
+1. TheShy越塔被单杀语音
+1. 22岁丫丫约等于人类80岁
 1. 特朗普称美国将出现新的大萧条
-1. 全在俊是黑暗荣耀的源头
-1. 过早起床可能比熬夜危害更大
 1. 钱天一3比2伊藤美诚
 1. 花花哭了
 1. 电视剧归路心动名场面
 1. 俄称防空系统击落4枚导弹
 1. 原来嫁给喜欢的人这么幸福
 1. 又一家美国银行倒闭
-1. 理智克己河道英
-1. 退休局长10年种15万棵树
+1. 海洋馆回应鲨鱼撕咬同类
+1. 网友为了看黑暗荣耀2有多拼
 1. 格鲁吉亚让乌总统别干涉其内政
 1. 水母头日常造型
+1. 清华博士回应送外卖凑学费
 1. 张译新剧悬疑感
 1. 郑钧频繁参加综艺的原因
-1. WBG战胜OMG
 1. 小鬼王琳凯音乐节现场
-1. 网友为了看黑暗荣耀2有多拼
+1. 全在俊是黑暗荣耀的源头
 1. 大江健三郎去世
 1. 张信哲版嚣张唱在我心上
 1. 张颂文新剧孤舟杀青
 1. 陈学冬车祸后恢复状态
 1. 杨紫琼获奥斯卡影后
-1. 李莎拉纯疯战神养成
+1. 理智克己河道英
 1. 美国公示丫丫回国相关申请
-1. 感染甲流后什么情况需就医
+1. 过早起床可能比熬夜危害更大
 1. 官方辟谣天津女子被醉汉骚扰
-1. 广东将开启雨天模式
+1. WBG战胜OMG
 1. 瞬息全宇宙横扫奥斯卡7项大奖
+1. 感染甲流后什么情况需就医
+1. 李莎拉纯疯战神养成
+1. 广东将开启雨天模式
 1. 丫丫近期状态如何
-1. 海洋馆回应鲨鱼撕咬同类
+1. 丫丫伙食新添胡萝卜但它没碰
 1. 心想事成里的丈母娘有多难搞
 1. 少年感穿搭
-1. 丫丫伙食新添胡萝卜但它没碰
 1. 小女孩跳拉丁舞可爱又有样
-1. 春日暖阳开播
-1. 浙江升温
 1. 洪金宝获终身成就奖哽咽
-1. 电视剧心想事成好看吗
 1. 熊猫花花是如何成为顶流的
+1. 电视剧心想事成好看吗
 
 ## 明星榜
 
@@ -75,17 +75,17 @@
 
 ## 音乐榜
 
-1. [可能（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
+1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
 1. [雪 Distance](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocFrKTxfp5fS11koCPHPrx2pgwevA8RnGAea9m) - Capper
 1. [姑娘在远方 (主歌)]() - 柯柯柯啊
 1. [我会等（现场版1）]() - 承桓
 1. [我记得]() - 赵雷
 1. [You & Me]() - Fingazz ft.H-Slang & Choco
 1. [开心往前飞（开心超人联盟主题曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
-1. [BABYDOLL (Speed)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
+1. [BABYDOLL (Speed)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
 1. [123我爱你 (加速版)]() - 贺子玲
 1. [循迹 (琵琶版)]() - Jakub狗子哥
-1. [爱如火（破碎版）-Zy](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEvtIoMp7zBvFT8ic4fLAsxIrWDwAAp9UBNvvh) - Zy
+1. [爱如火（破碎版）-Zy](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEvtIoMp7zBvFT8ic4fLAsxIrWDwAAp9UBNvvh) - Zy
 1. [帶我去找夜生活]() - 告五人
 1. [SummerSweet](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1f607ae2eddd4d769089c69e1b5690b9) - NavyQuokka
 1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
@@ -103,21 +103,21 @@
 1. [小城夏天]() - LBI利比
 1. [Girlfriend](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bc8a19faf706400f8482278800fd94f8) - dori
 1. [给你给我]() - 毛不易
-1. [江南烟雨色 (副歌版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI2gfucqC3Mt3lQjZYABBUe3yDUiIE8j0344bn) - 杨树人
+1. [江南烟雨色 (副歌版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI2gfucqC3Mt3lQjZYABBUe3yDUiIE8j0344bn) - 杨树人
 1. [晚风告白 (副歌)]() - 星野
-1. [花_剪辑版2_全网可听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogyasxh67XPhWNGqABUYrIuNVZ0wtfIzKqoA2R) - 鞠婧祎
+1. [花_剪辑版2_全网可听](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogyasxh67XPhWNGqABUYrIuNVZ0wtfIzKqoA2R) - 鞠婧祎
 1. [星星住进你眼睛]() - 刘至远、Mimmi
 1. [Head In The Clouds](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocSfDBmOnoV52y4eF28Hg3zXxCbhGeDQDHAma5) - Hayd
-1. [我愛你-上海蟹-](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7cc6d91d8fb54e6194eabea288d60d9f) - カニ研究会
+1. [我愛你-上海蟹-](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7cc6d91d8fb54e6194eabea288d60d9f) - カニ研究会
 1. [All Girls Are The Same]() - Juice WRLD
 1. [春山行(主歌剪辑版)]() - 亦伊
 1. [PLAY](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/45f0eaf5d56244feb1a9f39aa3a85f3c) - Ricii Lompeurs & Ticia
 1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
 1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
-1. [LEFT RIGHT](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4bDEuYCBOBD6fgpPhnNQjUBxIZwQ7ZxOeZtPt) - XG
-1. [i walk this earth all by myself](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
+1. [LEFT RIGHT](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4bDEuYCBOBD6fgpPhnNQjUBxIZwQ7ZxOeZtPt) - XG
+1. [i walk this earth all by myself](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
 1. [你啊你啊（剪辑版1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooAo4zmIvPf9AtdtWwKnYoxzsisv0BFJhUAAJ0) - 林俊杰
-1. [Boy's a liar Pt. 2](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LdBZtzQIAMZSjtIi8xLfTs9BnCVhUsfCo4Ug) - PinkPantheress & Ice Spice
+1. [Boy's a liar Pt. 2](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LdBZtzQIAMZSjtIi8xLfTs9BnCVhUsfCo4Ug) - PinkPantheress & Ice Spice
 1. [Popipo](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/768f2c2597214222b217c7596635a9c2) - Hatsune Miku
 1. [就让这大雨全都落下 (剪辑版1)]() - 容祖儿
 1. [推开世界的门]() - 杨乃文
