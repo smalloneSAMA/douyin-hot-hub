@@ -11,34 +11,36 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-03-15 21:23:23 +0800`
+`更新时间：2023-03-15 22:14:43 +0800`
 
 ## 抖音热榜
 
 1. 315晚会
-1. 湖南武冈回应发现“龙化石”
+1. 蜜雪冰城被曝用过期食材
 1. 亚洲陆上垂深最深千吨井诞生
 1. 网红餐厅火烧云吃出异物
-1. 微胖女生真的很适合贝拉风
-1. 名学版全员加速中重启
+1. 湖南武冈回应发现“龙化石”
+1. 宋慧乔韩素希出演自白的代价
 1. 本地米勾兑香精变泰国香米
-1. 伍六七第四季大结局
-1. 父亲回应16岁女儿众筹登珠峰
 1. 315消费者权益日
+1. 中国杭州问题车展
 1. 广州一月子中心提供代孕服务
 1. 张译新剧人设
 1. 厂家偷工减料劣质头盔变刀片
 1. 20吨木炭中暗藏108公斤冰毒
+1. 伍六七第四季大结局
 1. 清明节放假1天不调休
 1. 回廊亭16分钟高能预警
 1. 宋慧乔相当于国内的谁
+1. 微胖女生真的很适合贝拉风
 1. 耿爽：个别国家患了中国恐惧症
 1. 妆字号美容针注射乱象
+1. 网红桥三点式安全带存隐患
 1. 熊孩子被罚折500个纸飞机
-1. 来一口巨型三文鱼
 1. 殴打代驾女子谎称老公是民警
+1. 近期重庆甲流患者明显增加
 1. 女子疑吃自嗨锅后食物中毒死亡
-1. 蜜雪冰城被曝用过期食材
+1. 沙尘污染影响上海
 1. 广东一公寓被贴红牌警示
 1. 美获刑400年男子被无罪释放
 1. 赵露思王鹤棣同框路透
@@ -48,23 +50,21 @@
 1. 谁把我的自行车偷走了
 1. 女子柬埔寨遭性侵报警逃脱
 1. 钟奇找到女生被盗单车
+1. 媒体人：新疆男篮有望回归CBA
 1. ETC短信隔空盗刷钓鱼骗局
-1. 哈兰德五子登科
+1. 废旧绝缘子翻新造假合格证
 1. 美国银行股暴涨
-1. 成龙新片收一匹马当徒弟
-1. 阿根廷总统突发疼痛送医
-1. 没有女主黑暗荣耀反派组有多爽
-1. 合肥市监局正前往假香米企业
+1. 恢复出厂设置并没有清除数据
+1. 直击假香米企业查处现场
 1. 免费评书机暗藏天价药骗局
 1. 黑暗荣耀拍摄时曾被路人阻拦
-1. 皇马vs利物浦
-1. 中国杭州问题车展
-1. 挖机师傅温柔叫醒熟睡狗狗
-1. 小猫的必杀技是可爱吧
-1. 抗美援朝老兵离世后捐赠遗体
-1. 妍珍原来是时间管理大师
-1. 宋慧乔韩素希出演自白的代价
 1. 中伊俄等国举行海上军演
+1. 皇马vs利物浦
+1. 克雷格被字母哥打掉牙
+1. 北京16日起结束集中供暖
+1. 妍珍原来是时间管理大师
+1. 抗美援朝老兵离世后捐赠遗体
+1. 没有女主黑暗荣耀反派组有多爽
 
 ## 明星榜
 
@@ -83,20 +83,20 @@
 1. [我记得]() - 赵雷
 1. [You & Me]() - Fingazz ft.H-Slang & Choco
 1. [开心往前飞（开心超人联盟主题曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
-1. [BABYDOLL (Speed)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
+1. [BABYDOLL (Speed)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
 1. [123我爱你 (加速版)]() - 贺子玲
 1. [循迹 (琵琶版)]() - Jakub狗子哥
 1. [爱如火（破碎版）-Zy](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEvtIoMp7zBvFT8ic4fLAsxIrWDwAAp9UBNvvh) - Zy
 1. [帶我去找夜生活]() - 告五人
-1. [SummerSweet](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1f607ae2eddd4d769089c69e1b5690b9) - NavyQuokka
-1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
-1. [苦咖啡·唯一 (DJ版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oohZWXUzNXlh9bzpBgNUfJCQHGILwWgDBaejQt) - 那奇沃夫/KKECHO
+1. [SummerSweet](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1f607ae2eddd4d769089c69e1b5690b9) - NavyQuokka
+1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
+1. [苦咖啡·唯一 (DJ版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oohZWXUzNXlh9bzpBgNUfJCQHGILwWgDBaejQt) - 那奇沃夫/KKECHO
 1. [Hot](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63be641febf4335a8996c8a877dee1c) - Liili
 1. [Why Why Why]() - 王嘉尔
-1. [麦浪（四月天特别版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/26f5501a6547411fa3fbedc592fed0ad) - yihuik苡慧
-1. [人间烟火（长段落）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
+1. [麦浪（四月天特别版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/26f5501a6547411fa3fbedc592fed0ad) - yihuik苡慧
+1. [人间烟火（长段落）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
 1. [故事还长]() - 云汐
-1. [One More Last Time](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oA0AO6zwf14qCRRMlsaLBAyWdABIUoONwyKQEh) - Henry Young & Ashley Alisha
+1. [One More Last Time](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oA0AO6zwf14qCRRMlsaLBAyWdABIUoONwyKQEh) - Henry Young & Ashley Alisha
 1. [粉色海洋]() - 周杰伦
 1. [5：23PM (片段)]() - 宋亚轩
 1. [雾起海岸]() - 苏星婕
@@ -118,11 +118,11 @@
 1. [LEFT RIGHT](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4bDEuYCBOBD6fgpPhnNQjUBxIZwQ7ZxOeZtPt) - XG
 1. [i walk this earth all by myself](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
 1. [你啊你啊（剪辑版1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooAo4zmIvPf9AtdtWwKnYoxzsisv0BFJhUAAJ0) - 林俊杰
-1. [Boy's a liar Pt. 2](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LdBZtzQIAMZSjtIi8xLfTs9BnCVhUsfCo4Ug) - PinkPantheress & Ice Spice
+1. [Boy's a liar Pt. 2](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LdBZtzQIAMZSjtIi8xLfTs9BnCVhUsfCo4Ug) - PinkPantheress & Ice Spice
 1. [Popipo](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/768f2c2597214222b217c7596635a9c2) - Hatsune Miku
 1. [就让这大雨全都落下 (剪辑版1)]() - 容祖儿
 1. [推开世界的门]() - 杨乃文
-1. [花_剪辑版1_全网可听](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4Nt6DHngcuBxceebmjZBICdIxaiy2UvjowHtQ) - 鞠婧祎
+1. [花_剪辑版1_全网可听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4Nt6DHngcuBxceebmjZBICdIxaiy2UvjowHtQ) - 鞠婧祎
 1. [热恋情节 (剪辑版)]() - 吴子健REmi,Kiya
 1. [月亮之上（原版)]() - 凤凰传奇
 1. [我想离开浪浪山 (大川版)]() - 大川Dietry
