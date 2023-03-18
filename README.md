@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-03-19 04:15:12 +0800`
+`更新时间：2023-03-19 05:13:31 +0800`
 
 ## 抖音热榜
 
@@ -19,7 +19,7 @@
 1. 初代未拆封iPhone拍出37.9万元
 1. 中国生态治沙打造经济绿洲
 1. 我国首次发现奥密克戎新亚型
-1. 超市底薪6500招大学生引热议
+1. 特朗普自称将被捕
 1. 曹曦月方否认带货3个月成交278元
 1. 小学生发现罂粟果步行2公里报警
 1. 印男子要求退婚称新娘成绩不好
@@ -29,42 +29,42 @@
 1. 强盛公司被判赔消费者7千万
 1. 3名女大学生与偷拍男子对峙
 1. 游客98元买走60根虫草已找回
-1. 张俪发际线粉掉了
+1. 狄龙推翻摄影师被罚3万5美元
 1. 体育老师他是体弱多病大男孩
 1. 男教师被举报猥亵女生后坠亡
 1. 苏大造谣学生被拘十天暑假执行
+1. 西南大学开设公务员专业
 1. 苏大造黄谣学生与受害者对话曝光
-1. 特朗普自称将被捕
 1. 朝鲜约80万人报名参军抗美
-1. 狄龙推翻摄影师被罚3万5美元
 1. 唐嫣曾用网名
-1. XYG七连败
 1. 男孩一定要多亲亲自己的女孩
 1. 他是谁二刷全是细节
+1. XYG七连败
 1. TheShy上单石头人
+1. TES四连败
 1. 好友去世少年深夜街头痛哭
 1. 高启盛红了自己都不适应
-1. TES四连败
-1. 何洁把自己唱哭了
+1. 超市底薪6500招大学生引热议
+1. 张俪发际线粉掉了
 1. 他是谁男女主CP名卫雨绸缪
+1. 何洁把自己唱哭了
+1. 美媒：特朗普或最早下周被起诉
 1. 陈晓李沁新剧定档0320
+1. 陈雨菲进决赛
 1. 归路晨晓夫妇拥吻
+1. 什么也阻止不了山东人买单
+1. 大熊猫花花休息了
 1. 24岁当村长是什么体验
+1. 看保你平安霸凌哭戏破防
+1. 他是谁跋扈富二代拿合作换美人
+1. 独行侠绝杀湖人
 1. 柯南里出现九转大肠
 1. 奶爸跪地给婴儿喂奶
-1. 美媒：特朗普或最早下周被起诉
-1. 大熊猫花花休息了
-1. 什么也阻止不了山东人买单
-1. 独行侠绝杀湖人
-1. 陈雨菲进决赛
-1. 他是谁跋扈富二代拿合作换美人
+1. 冀X来了
 1. 女子10元买满满一袋葡萄
 1. 浓眉透露被绝杀原因
-1. 101次抢婚跟我玩尬的
-1. 看保你平安霸凌哭戏破防
 1. 陈星旭李兰迪你好星期六预告
-1. RA不敌Navi
-1. 冀X来了
+1. 101次抢婚跟我玩尬的
 
 ## 明星榜
 
@@ -77,7 +77,7 @@
 ## 音乐榜
 
 1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
-1. [雪 Distance](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEC6ofzrsWAXLUBquIhIKiABUGbwVL0QByNUyw) - Capper
+1. [雪 Distance](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEC6ofzrsWAXLUBquIhIKiABUGbwVL0QByNUyw) - Capper
 1. [我会等（现场版1）]() - 承桓
 1. [姑娘在远方 (主歌)]() - 柯柯柯啊
 1. [桃花不用开 (女版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocQnOkYpDYeFoZ8gkW0CYaDbcTfZBJtCQQBKl5) - BBerryZ
@@ -92,7 +92,7 @@
 1. [开心往前飞（开心超人联盟主题曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
 1. [苦咖啡·唯一 (那奇片段-全网可听)]() - 那奇沃夫/KKECHO
 1. [帶我去找夜生活]() - 告五人
-1. [爱的蠢动 (总是执着等待爱情的到来)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osB9AW8xohlGrsNUX9GNAfK4bzdzSxIPVq7gIw) - 胡期皓
+1. [爱的蠢动 (总是执着等待爱情的到来)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osB9AW8xohlGrsNUX9GNAfK4bzdzSxIPVq7gIw) - 胡期皓
 1. [小城夏天]() - LBI利比
 1. [SummerSweet](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1f607ae2eddd4d769089c69e1b5690b9) - NavyQuokka
 1. [我想离开浪浪山 (大川版)]() - 大川Dietry
@@ -102,29 +102,29 @@
 1. [月亮之上（原版)]() - 凤凰传奇
 1. [晚风告白 (副歌)]() - 星野
 1. [爱怎么了]() - 陈村长
-1. [看得最远的地方（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
+1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
 1. [子莫格尼_剪辑版1_全网可听](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
 1. [l  wanted  you (BGM女声版)]() - 13C
 1. [故事还长]() - 云汐
 1. [BABYDOLL (Speed)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
 1. [粉色海洋]() - 周杰伦
-1. [Head In The Clouds](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocSfDBmOnoV52y4eF28Hg3zXxCbhGeDQDHAma5) - Hayd
-1. [麦浪（四月天特别版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/26f5501a6547411fa3fbedc592fed0ad) - yihuik苡慧
+1. [Head In The Clouds](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocSfDBmOnoV52y4eF28Hg3zXxCbhGeDQDHAma5) - Hayd
+1. [麦浪（四月天特别版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/26f5501a6547411fa3fbedc592fed0ad) - yihuik苡慧
 1. [Raindrops](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f8339372210944729db657a3619578ef) - Katja Krasavice & Leony
-1. [江南烟雨色 (副歌版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI2gfucqC3Mt3lQjZYABBUe3yDUiIE8j0344bn) - 杨树人
+1. [江南烟雨色 (副歌版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI2gfucqC3Mt3lQjZYABBUe3yDUiIE8j0344bn) - 杨树人
 1. [热恋情节 (剪辑版)]() - 吴子健REmi,Kiya
 1. [小神仙]() - 郭斯
 1. [One More Last Time](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAzTlo0LUAdCAIhjktsKWcLAEUKmZwGcOoB1fy) - Henry Young & Ashley Alisha
-1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
+1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
 1. [安和桥]() - 宋冬野
 1. [三拜红尘凉]() - 尹昔眠
 1. [给你给我]() - 毛不易
 1. [Own Way (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ochA57DoQBgjUeYbuKeQHKrtIiU5HtCInB5ZXd) - ZHANGYE
 1. [Different Flow]() - 马思唯
-1. [gamble](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/521cf65fa6174a3cac2873b8f20f8192) - Alys & Fcj
+1. [gamble](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/521cf65fa6174a3cac2873b8f20f8192) - Alys & Fcj
 1. [云边书坊 (副歌2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE1iIocZDzBQ8zhlqvfPAsxKRW4wiAhtU7tWth) - 旺仔小乔
 1. [i walk this earth all by myself](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
-1. [花_剪辑版1_全网可听](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4Nt6DHngcuBxceebmjZBICdIxaiy2UvjowHtQ) - 鞠婧祎
+1. [花_剪辑版1_全网可听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4Nt6DHngcuBxceebmjZBICdIxaiy2UvjowHtQ) - 鞠婧祎
 1. [Like That](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o428IIeQg5Q0BhwFBOnCUchcZejgdBOt1XDYbs) - DojaQueen
 
 ## 品牌榜
