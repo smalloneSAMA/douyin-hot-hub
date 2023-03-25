@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-03-25 13:13:17 +0800`
+`更新时间：2023-03-25 14:17:51 +0800`
 
 ## 抖音热榜
 
-1. 男子取10万帮朋友还债
 1. 大学情侣一个月要花多少
+1. 邓超陈赫一开口梦回跑男
 1. 中国科学家发现耐碱基因
-1. 张沛勉获得冠军挑战权
+1. 英特尔创始人戈登摩尔去世
 1. 中国驻泰使馆回应涉泰旅游问题
-1. 温州两人遭雷击身亡
-1. 被萌娃耍金箍棒帅了一脸
+1. 被五哈接水游戏笑疯了
+1. 父亲毫不犹豫跳井救女儿
 1. 拜登夸完中国又改口
-1. 崩坏星穹铁道公测定档
+1. 父母与走失39年的儿子团聚
 1. 男子醉酒后坐女子腿上驾车
 1. 兰亭序后遗症
 1. 新婚第二天新娘就消失不见
-1. 郑永刚儿子当选董事长 继母称违规
+1. 张沛勉获得冠军挑战权
 1. 李景亮受伤退赛
+1. 谊谊和升谊即将回国
 1. 美舰再次擅闯西沙领海
 1. 老师疑让学生对墙坐半年
-1. 付海东心算打平日本第一
-1. 英特尔创始人戈登摩尔去世
-1. 医院通报医生被妻子举报出轨
+1. 哒啦滴哒啦熊出没版
 1. 刘亦菲腰臀比好绝
-1. 她考研成功却觉得对不起哥哥
+1. 男子取10万帮朋友还债
+1. 老师在试卷上贴糖果鼓励学生
 1. 比利时3比0瑞典
 1. 白敬亭是懂抖音的
-1. Jiejie说想再跟Scout打一次
+1. 郑永刚儿子当选董事长 继母称违规
 1. 女子在美食城被多人追打
 1. 张凌赫喂白鹿吃薯条
-1. 沉默只会让校园霸凌愈演愈烈
-1. 哒啦滴哒啦熊出没版
-1. 丰田计划年底在日停售凯美瑞
-1. 和西直门三太子萌兰贴贴
-1. 刘少林刘少昂加入天津短道速滑队
-1. 安徽一高校宣布放假7天
 1. 2023年CBA全明星周末
+1. 被萌娃耍金箍棒帅了一脸
+1. 崩坏星穹铁道公测定档
+1. 深圳暴雨
+1. 付海东心算打平日本第一
+1. 老人屋内堆垃圾满地蟑螂
+1. 耳念珠菌是什么
+1. 和西直门三太子萌兰贴贴
+1. 铃芽之旅三年之约
 1. 孙悟空再厉害也要去上班
-1. 美媒：中国推动和平 美国别挡道
-1. 谭松韵一句话打破浪漫氛围
 1. 卫国平聂小雨分手
-1. 谁说张杰唱歌没感情
+1. 妈妈用纸挨个包草莓带给女儿
 1. 广东惠州一学校突然倒闭
-1. 老师在试卷上贴糖果鼓励学生
-1. 警方自俄成功引渡1名杀人嫌犯
-1. 张镇麟说最喜欢的扣将是郭艾伦
-1. 五哈3体验沈阳洗浴文化
-1. 勿将泰国旅游网络妖魔化
-1. 和平精英新版本上分教学
-1. 父母与走失39年的儿子团聚
-1. 范志毅拿捏东北澡堂气质
-1. 解放军军舰回怼台舰
-1. DK季后赛一轮游
 1. 所有系统全部启动启动启动
+1. 和平精英新版本上分教学
+1. 谭松韵一句话打破浪漫氛围
+1. 张兰称没有一分钱存款
+1. 刘少林刘少昂加入天津短道速滑队
+1. 美媒：中国推动和平 美国别挡道
+1. 五哈3体验沈阳洗浴文化
+1. 警方自俄成功引渡1名杀人嫌犯
+1. 她考研成功却觉得对不起哥哥
+1. 沉默只会让校园霸凌愈演愈烈
+1. 铃芽之旅好看吗
 
 ## 明星榜
 
@@ -76,24 +76,24 @@
 
 ## 音乐榜
 
-1. [雪 Distance](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEC6ofzrsWAXLUBquIhIKiABUGbwVL0QByNUyw) - Capper
+1. [雪 Distance](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEC6ofzrsWAXLUBquIhIKiABUGbwVL0QByNUyw) - Capper
 1. [我会等（现场版1）]() - 承桓
 1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
 1. [心里种下一颗种子哒啦滴哒啦]() - 贝乐虎
-1. [Rumors](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o81jReDoQBgklaFbYp8Qo44ZAUKfktC4nBFZTy) - Jake Miller
+1. [Rumors](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o81jReDoQBgklaFbYp8Qo44ZAUKfktC4nBFZTy) - Jake Miller
 1. [自由行走的花 - 自由行走的花](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oA9EdHfhgGZ3OUzIiBfkCzUzgxQ61Bk7NMBttJ) - 萨顶顶
-1. [Boy's a liar Pt. 2](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LdBZtzQIAMZSjtIi8xLfTs9BnCVhUsfCo4Ug) - PinkPantheress & Ice Spice
+1. [Boy's a liar Pt. 2](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LdBZtzQIAMZSjtIi8xLfTs9BnCVhUsfCo4Ug) - PinkPantheress & Ice Spice
 1. [我想离开浪浪山 (大川版)]() - 大川Dietry
-1. [Hot](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63be641febf4335a8996c8a877dee1c) - Liili
+1. [Hot](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63be641febf4335a8996c8a877dee1c) - Liili
 1. [姑娘在远方 (主歌)]() - 柯柯柯啊
 1. [我曾遇到一束光 (氛围版)]() - 叶斯淳
 1. [爱的蠢动 (总是执着等待爱情的到来)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osB9AW8xohlGrsNUX9GNAfK4bzdzSxIPVq7gIw) - 胡期皓
 1. [苦咖啡·唯一 (那奇片段-全网可听)]() - 那奇沃夫/KKECHO
 1. [帶我去找夜生活]() - 告五人
-1. [桃花不用开 (女版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocQnOkYpDYeFoZ8gkW0CYaDbcTfZBJtCQQBKl5) - BBerryZ
+1. [桃花不用开 (女版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocQnOkYpDYeFoZ8gkW0CYaDbcTfZBJtCQQBKl5) - BBerryZ
 1. [故事还长]() - 云汐
 1. [晚风告白 (副歌)]() - 星野
-1. [花_我很满意我自己](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4zXRD9QFb0odJPH21g8DzRfQCsbZd9fOAnXaf) - 鞠婧祎
+1. [花_我很满意我自己](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4zXRD9QFb0odJPH21g8DzRfQCsbZd9fOAnXaf) - 鞠婧祎
 1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
 1. [All Girls Are The Same]() - Juice WRLD
 1. [是妈妈是女儿-60s]() - 黄绮珊/希林娜依·高
@@ -108,19 +108,19 @@
 1. [月亮之上（原版)]() - 凤凰传奇
 1. [星星住进你眼睛]() - 刘至远、Mimmi
 1. [热恋情节 (剪辑版)]() - 吴子健REmi,Kiya
-1. [江南烟雨色 (副歌版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI2gfucqC3Mt3lQjZYABBUe3yDUiIE8j0344bn) - 杨树人
+1. [江南烟雨色 (副歌版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI2gfucqC3Mt3lQjZYABBUe3yDUiIE8j0344bn) - 杨树人
 1. [突然好想你_汽水音乐听]() - 小笨瓜
-1. [One More Last Time](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAzTlo0LUAdCAIhjktsKWcLAEUKmZwGcOoB1fy) - Henry Young & Ashley Alisha
-1. [云边书坊 (副歌2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE1iIocZDzBQ8zhlqvfPAsxKRW4wiAhtU7tWth) - 旺仔小乔
+1. [One More Last Time](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAzTlo0LUAdCAIhjktsKWcLAEUKmZwGcOoB1fy) - Henry Young & Ashley Alisha
+1. [云边书坊 (副歌2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE1iIocZDzBQ8zhlqvfPAsxKRW4wiAhtU7tWth) - 旺仔小乔
 1. [Own Way (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ochA57DoQBgjUeYbuKeQHKrtIiU5HtCInB5ZXd) - ZHANGYE
 1. [小雨 (副歌2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8xZGGk7bFCVMDnfaaLcaUoAP8zCB3eZegDQD8) - 黄龄
-1. [爱如火（破碎版）-Zy](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEvtIoMp7zBvFT8ic4fLAsxIrWDwAAp9UBNvvh) - Zy
-1. [人间烟火（长段落）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
+1. [爱如火（破碎版）-Zy](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEvtIoMp7zBvFT8ic4fLAsxIrWDwAAp9UBNvvh) - Zy
+1. [人间烟火（长段落）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
 1. [You & Me]() - Fingazz ft.H-Slang & Choco
 1. [起风了]() - 吴青峰
 1. [Different Flow]() - 马思唯
 1. [最好的我 (男生版) -三杯]() - 三杯
-1. [Head In The Clouds](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocSfDBmOnoV52y4eF28Hg3zXxCbhGeDQDHAma5) - Hayd
+1. [Head In The Clouds](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocSfDBmOnoV52y4eF28Hg3zXxCbhGeDQDHAma5) - Hayd
 1. [推开世界的门]() - 杨乃文
 1. [我记得]() - 赵雷
 1. [夏天]() - 李玖哲
