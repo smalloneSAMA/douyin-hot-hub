@@ -11,24 +11,25 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-03-29 11:15:30 +0800`
+`更新时间：2023-03-29 12:18:21 +0800`
 
 ## 抖音热榜
 
-1. 美众议院剥夺中国发展中国家地位
 1. 阿根廷7比0库拉索
-1. 2023年清朗专项行动
+1. vivo将整合旗下iQOO手机
+1. 多项阶段性税费优惠将延续优化
 1. 村BA拒绝50万元广告赞助
 1. 广东中山报告1例H3N8病例
 1. 水务公司回应林场主跪地求水
-1. 孟晚舟将任华为轮值董事长
+1. 男子用廉价探测器淘到9斤金块
 1. 中国田协主席于洪臣被查
-1. 陈晓李沁新剧约会被围观
+1. 美众议院剥夺中国发展中国家地位
 1. 高校回应老人82元只买到俩素菜
-1. 王钟瑶杰哥小羽铁豆争冠500万
+1. 美临时喊停蔡英文“过境”简报会
 1. 孙国友家属发声
 1. 三火看聂小雨的眼神不清白
 1. 原来鱼也能撸啊
+1. 麻六记回应拖欠前运营工资
 1. 殷美根接受中纪委审查调查
 1. 甘孜文旅局回应男子被拦车收费
 1. 淄博烧烤炸裂整个烧烤界
@@ -36,35 +37,34 @@
 1. 腾讯回应微信异常
 1. 微信QQ出现功能异常
 1. 万亩树木被断水面临枯死
-1. 程鑫凯被最强高中生打爆
 1. 瑶一瑶唱小兔子乖乖好甜
+1. 探访宁夏断水万亩树木现场
 1. 跪地求供水林场主此前受访画面
 1. 怎么看38岁记者失业送外卖
 1. 宋茜的屋顶着火变装画风清奇
 1. 镇政府回应林场主跪地求水
 1. 五月天26岁了
-1. 沧州废弃冷库火灾致11死
 1. 中超公司原总经理董铮被查
-1. 中国足球职业联赛准入名单
+1. 比利时3比2德国
 1. 跪求供水事件此前判决书曝光
+1. 梅西半场帽子戏法
 1. 梅西国家队生涯102球
-1. 比比谁家的小猫最可爱
 1. 归路路炎晨重伤
 1. 金铲铲新版本上分阵容
 1. 怎么看大学情侣每月花1500
 1. 加拿大失联中国学者遗体被找到
-1. 美民调称超六成人不支持特朗普
-1. 姐弟坠亡案母亲回应二审开庭
-1. 豚鼠被泡泡骗到了纽约
-1. 于东来曾称胖东来被神话是悲哀
-1. 塞尔达王国之泪实机演示
-1. 看高加林报复性消费好解气
-1. 威震天下场时不慎摔倒
-1. 王鹤棣发抖音帮范丞丞打歌
-1. 这是汉语言文学就业现状吗
-1. 说杭州话和说河南话的都沉默了
+1. 阿里设立六大业务集团
+1. 众人地铁口欢唱似演唱会
+1. 心疼他是谁的聂小雨
 1. 中国科学家发现月球水库
-1. 网友用华为和库克合照
+1. 美民调称超六成人不支持特朗普
+1. 比比谁家的小猫最可爱
+1. 豚鼠被泡泡骗到了纽约
+1. 我们为什么要关注老人跪地求水
+1. 于东来曾称胖东来被神话是悲哀
+1. 孟晚舟将任华为轮值董事长
+1. 塞尔达王国之泪实机演示
+1. 动物奶油和植物奶油的区别
 
 ## 明星榜
 
@@ -78,27 +78,27 @@
 
 1. [雪 Distance](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEC6ofzrsWAXLUBquIhIKiABUGbwVL0QByNUyw) - Capper
 1. [我会等（现场版1）]() - 承桓
-1. [可能（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
+1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
 1. [心里种下一颗种子哒啦滴哒啦]() - 贝乐虎
 1. [Rumors](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o81jReDoQBgklaFbYp8Qo44ZAUKfktC4nBFZTy) - Jake Miller
-1. [自由行走的花 - 自由行走的花](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oA9EdHfhgGZ3OUzIiBfkCzUzgxQ61Bk7NMBttJ) - 萨顶顶
-1. [Boy's a liar Pt. 2](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LdBZtzQIAMZSjtIi8xLfTs9BnCVhUsfCo4Ug) - PinkPantheress & Ice Spice
+1. [自由行走的花 - 自由行走的花](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oA9EdHfhgGZ3OUzIiBfkCzUzgxQ61Bk7NMBttJ) - 萨顶顶
+1. [Boy's a liar Pt. 2](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LdBZtzQIAMZSjtIi8xLfTs9BnCVhUsfCo4Ug) - PinkPantheress & Ice Spice
 1. [我想离开浪浪山 (大川版)]() - 大川Dietry
-1. [Hot](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63be641febf4335a8996c8a877dee1c) - Liili
+1. [Hot](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63be641febf4335a8996c8a877dee1c) - Liili
 1. [姑娘在远方 (主歌)]() - 柯柯柯啊
 1. [我曾遇到一束光 (氛围版)]() - 叶斯淳
-1. [爱的蠢动 (总是执着等待爱情的到来)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osB9AW8xohlGrsNUX9GNAfK4bzdzSxIPVq7gIw) - 胡期皓
+1. [爱的蠢动 (总是执着等待爱情的到来)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osB9AW8xohlGrsNUX9GNAfK4bzdzSxIPVq7gIw) - 胡期皓
 1. [苦咖啡·唯一 (那奇片段-全网可听)]() - 那奇沃夫/KKECHO
 1. [帶我去找夜生活]() - 告五人
-1. [桃花不用开 (女版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocQnOkYpDYeFoZ8gkW0CYaDbcTfZBJtCQQBKl5) - BBerryZ
+1. [桃花不用开 (女版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocQnOkYpDYeFoZ8gkW0CYaDbcTfZBJtCQQBKl5) - BBerryZ
 1. [故事还长]() - 云汐
 1. [晚风告白 (副歌)]() - 星野
-1. [花_我很满意我自己](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4zXRD9QFb0odJPH21g8DzRfQCsbZd9fOAnXaf) - 鞠婧祎
+1. [花_我很满意我自己](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4zXRD9QFb0odJPH21g8DzRfQCsbZd9fOAnXaf) - 鞠婧祎
 1. [All Girls Are The Same]() - Juice WRLD
 1. [是妈妈是女儿-60s]() - 黄绮珊/希林娜依·高
 1. [阴雨天气 (片段)]() - 佳霓
 1. [小城夏天]() - LBI利比
-1. [看得最远的地方（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
+1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
 1. [爱怎么了]() - 陈村长
 1. [子莫格尼_剪辑版1_全网可听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
 1. [晚风的颜色 (说唱版)]() - 嘿人李逵Noisemakers+薯片啾啾
@@ -107,13 +107,13 @@
 1. [月亮之上（原版)]() - 凤凰传奇
 1. [星星住进你眼睛]() - 刘至远、Mimmi
 1. [热恋情节 (剪辑版)]() - 吴子健REmi,Kiya
-1. [江南烟雨色 (副歌版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI2gfucqC3Mt3lQjZYABBUe3yDUiIE8j0344bn) - 杨树人
+1. [江南烟雨色 (副歌版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI2gfucqC3Mt3lQjZYABBUe3yDUiIE8j0344bn) - 杨树人
 1. [突然好想你_汽水音乐听]() - 小笨瓜
 1. [One More Last Time](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAzTlo0LUAdCAIhjktsKWcLAEUKmZwGcOoB1fy) - Henry Young & Ashley Alisha
 1. [云边书坊 (副歌2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE1iIocZDzBQ8zhlqvfPAsxKRW4wiAhtU7tWth) - 旺仔小乔
-1. [Own Way (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ochA57DoQBgjUeYbuKeQHKrtIiU5HtCInB5ZXd) - ZHANGYE
-1. [小雨 (副歌2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8xZGGk7bFCVMDnfaaLcaUoAP8zCB3eZegDQD8) - 黄龄
-1. [爱如火（破碎版）-Zy](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEvtIoMp7zBvFT8ic4fLAsxIrWDwAAp9UBNvvh) - Zy
+1. [Own Way (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ochA57DoQBgjUeYbuKeQHKrtIiU5HtCInB5ZXd) - ZHANGYE
+1. [小雨 (副歌2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8xZGGk7bFCVMDnfaaLcaUoAP8zCB3eZegDQD8) - 黄龄
+1. [爱如火（破碎版）-Zy](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEvtIoMp7zBvFT8ic4fLAsxIrWDwAAp9UBNvvh) - Zy
 1. [人间烟火（长段落）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
 1. [You & Me]() - Fingazz ft.H-Slang & Choco
 1. [起风了]() - 吴青峰
@@ -123,8 +123,8 @@
 1. [推开世界的门]() - 杨乃文
 1. [我记得]() - 赵雷
 1. [夏天]() - 李玖哲
-1. [开心往前飞（开心超人联盟主题曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
-1. [kiss me more](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a85a783e2118425096db289f86556e25) - Yiğit Diri
+1. [开心往前飞（开心超人联盟主题曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
+1. [kiss me more](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a85a783e2118425096db289f86556e25) - Yiğit Diri
 1. [给你给我]() - 毛不易
 
 ## 品牌榜
