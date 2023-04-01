@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-04-01 18:13:51 +0800`
+`更新时间：2023-04-01 19:11:26 +0800`
 
 ## 抖音热榜
 
 1. 成龙说70岁在上班是因为热爱
-1. 张继科否认传播女明星私照抵债
 1. 今天向海空卫士王伟致敬
 1. 4月你好
 1. 女生穿汉服进教室惊艳全班
-1. 多地查处公务员考试作弊行为
-1. 泰国坠崖孕妇3年后站起来了
+1. 特朗普将被提审
+1. 教育局回应女孩称曾遭校园霸凌
+1. 枪杀UCCA创始人者曾是特工
 1. 李亚玲因国航监督员案被判赔5万
 1. 西安已有人感染鹦鹉热
-1. 重庆被杀害母亲怀有6个月身孕
 1. 福建漳州警方通报妇女打人事件
+1. 小伙偷女友近4万供女友消费
+1. 张继科否认传播女明星私照抵债
 1. 张国荣逝世20周年
-1. 特朗普将被提审
-1. 呼叫81192
 1. 狗狗自带餐具能有多可爱
+1. 老师结束恋爱长跑给学生撒糖
 1. 保姆凌晨用被子捂住婴儿的头
-1. 愚人节文案
-1. 最食人间烟火色甜度爆表
+1. 多地查处公务员考试作弊行为
+1. 韩国主持人流鼻血仍淡定直播
+1. 呼叫81192
 1. 铃芽之旅小说藏了这么多细节
-1. 罗永浩直播间卖卫星
 1. 意大利封禁ChatGPT
 1. 今天是愚人节
 1. 杨幂2023年第一条抖音
-1. 网红编造肝癌晚期卖惨平台被约谈
-1. 不能错过的只有你上映
-1. 老师结束恋爱长跑给学生撒糖
-1. 湖人力擒森林狼
-1. 体育总局副局长杜兆才被查
-1. 尾鱼电影三线轮洄上线
+1. 愚人节文案
 1. 问界门店将拆除华为标识
-1. 粉丝把成龙唱哭了
+1. 最食人间烟火色甜度爆表
+1. 湖人力擒森林狼
+1. 尾鱼电影三线轮洄上线
+1. 不能错过的只有你上映
+1. 体育总局副局长杜兆才被查
+1. 薛之谦演唱会南宁站
 1. 女子每天擦拭上百块墓碑
 1. 恒弟弟回归抖音
-1. 专升本要“凉”了吗
+1. 罗永浩直播间卖卫星
+1. 网红编造肝癌晚期卖惨平台被约谈
 1. 蔡英文当局被曝将机密献给美国
 1. 卖房不必先还清贷款了
-1. 韩国主持人流鼻血仍淡定直播
 1. 仿佛看到了大唐盛世
 1. 张杰听后来哭了
-1. 卫国平差一点就发现聂小雨了
-1. 鹿晗有仇当场就报了
 1. BLACKPINK成员solo单曲
-1. 4月新片上映片单
+1. 粉丝把成龙唱哭了
 1. 英雄联盟裁决之镰回归
 1. 贾冰柳岩在我笑点上蹦迪
+1. 4月新片上映片单
 1. 马斯克74岁母亲来武汉游玩
-1. 原神 原梦冒险团
-1. 刘巧珍马栓结婚
+1. 上海5平方米超迷你loft长啥样
 1. 中国战机正在凝视你
 1. 和周深一起唱铃芽之旅
+1. 鹿晗有仇当场就报了
+1. 刘巧珍马栓结婚
 
 ## 明星榜
 
@@ -81,20 +81,20 @@
 1. [すずめ feat.十明]() - RADWIMPS
 1. [我曾遇到一束光 (氛围版)]() - 叶斯淳
 1. [Hot](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63be641febf4335a8996c8a877dee1c) - Liili
-1. [爱的蠢动 (总是执着等待爱情的到来)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osB9AW8xohlGrsNUX9GNAfK4bzdzSxIPVq7gIw) - 胡期皓
+1. [爱的蠢动 (总是执着等待爱情的到来)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osB9AW8xohlGrsNUX9GNAfK4bzdzSxIPVq7gIw) - 胡期皓
 1. [子莫格尼_剪辑版1_全网可听](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
 1. [Rumors](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o81jReDoQBgklaFbYp8Qo44ZAUKfktC4nBFZTy) - Jake Miller
 1. [我想离开浪浪山 (大川版)]() - 大川Dietry
 1. [当代年轻人现状]() - coco这个李文
 1. [可能（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
 1. [All Girls Are The Same]() - Juice WRLD
-1. [Careless Whisper](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/21704ef7a1204caeaad8d60c78671a06) - daddy's girl & creamy & 11:11 Music Group
+1. [Careless Whisper](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/21704ef7a1204caeaad8d60c78671a06) - daddy's girl & creamy & 11:11 Music Group
 1. [花_我很满意我自己](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4zXRD9QFb0odJPH21g8DzRfQCsbZd9fOAnXaf) - 鞠婧祎
 1. [雪 Distance](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEC6ofzrsWAXLUBquIhIKiABUGbwVL0QByNUyw) - Capper
 1. [推开世界的门]() - 杨乃文
 1. [小城夏天]() - LBI利比
-1. [看得最远的地方（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
-1. [One More Last Time](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAzTlo0LUAdCAIhjktsKWcLAEUKmZwGcOoB1fy) - Henry Young & Ashley Alisha
+1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
+1. [One More Last Time](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAzTlo0LUAdCAIhjktsKWcLAEUKmZwGcOoB1fy) - Henry Young & Ashley Alisha
 1. [小神仙]() - 郭斯
 1. [catch me]() - JVKE
 1. [安和桥]() - 宋冬野
@@ -111,7 +111,7 @@
 1. [给你给我]() - 毛不易
 1. [半生出走 (剪辑版)]() - 胡彦斌
 1. [LOVE2_剪辑版1_汽水音乐可听]() - YOUNG/果妹
-1. [2 O' CLOCK](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3565890a419c4ad8aa3481fc03437bcf) - dori
+1. [2 O' CLOCK](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3565890a419c4ad8aa3481fc03437bcf) - dori
 1. [晚风告白 (副歌)]() - 星野
 1. [我愛你-上海蟹-](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7cc6d91d8fb54e6194eabea288d60d9f) - カニ研究会
 1. [BABYDOLL (Speed)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
@@ -122,9 +122,9 @@
 1. [You & Me]() - Fingazz ft.H-Slang & Choco
 1. [苦咖啡·唯一 (那奇片段-全网可听)]() - 那奇沃夫/KKECHO
 1. [Closure](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/84f7422b29f94b78a5f3b0386275db35) - Sarcastic Sounds & BIRDY & Mishaal
-1. [SexyBack](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/198758899dd54359be21c9bf47326c90) - ilkan Gunuc & Clara Stegall
+1. [SexyBack](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/198758899dd54359be21c9bf47326c90) - ilkan Gunuc & Clara Stegall
 1. [Different Flow]() - 马思唯
-1. [i walk this earth all by myself](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
+1. [i walk this earth all by myself](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
 1. [夏天]() - 李玖哲
 
 ## 品牌榜
