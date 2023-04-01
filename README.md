@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-04-02 06:13:05 +0800`
+`更新时间：2023-04-02 07:13:47 +0800`
 
 ## 抖音热榜
 
-1. 断崖式分手什么意思
 1. 4月1至5日将出现大范围强雨雪
-1. 黄河保护法正式施行
 1. 体育总局：坚决拥护中央调查杜兆才
-1. 成龙说70岁在上班是因为热爱
+1. 黄河保护法正式施行
 1. 被秦岚新剧节奏爽到
-1. 枪杀UCCA创始人者曾是特工
-1. 卖房不必先还清贷款了
-1. 多地查处公务员考试作弊行为
-1. 福建漳州警方通报妇女打人事件
-1. 张国荣逝世20周年
+1. 成龙说70岁在上班是因为热爱
 1. 张杰广州演唱会
+1. 枪杀UCCA创始人者曾是特工
+1. 孟子义玩游戏把王鹤棣整不会了
+1. 王伟烈士妻子对“王伟英雄班”点名
+1. 最食人间烟火色司清美强惨
+1. 多地查处公务员考试作弊行为
+1. 蔡英文当局被曝将机密献给美国
 1. 网红编造肝癌晚期卖惨平台被约谈
 1. 女生穿汉服进教室惊艳全班
 1. 拼多多回应“炸店”事件
 1. 尾鱼电影三线轮洄上线
+1. 断崖式分手什么意思
 1. 特朗普将被提审
 1. 保姆虐待老人让其吃排泄物
-1. 克烈加入永劫职业
-1. 上海5平方米超迷你loft长啥样
 1. 贾冰柳岩在我笑点上蹦迪
-1. 孟子义玩游戏把王鹤棣整不会了
-1. 杨幂2023年第一条抖音
-1. 蔡英文当局被曝将机密献给美国
-1. 最食人间烟火色甜度爆表
-1. 最食人间烟火色司清美强惨
-1. 人造流星雨将砸向日本
-1. 张杰听后来哭了
-1. 被铃芽之旅的中文翻译惊艳到
-1. 王伟烈士妻子对“王伟英雄班”点名
+1. 克烈加入永劫职业
 1. AG战胜KSG
-1. 仿佛看到了大唐盛世
-1. BLG战胜RNG
-1. 刘巧珍女儿被确诊心脏畸形
-1. 悉尼狱警性侵多名女囚
+1. 杨幂2023年第一条抖音
 1. 大唐不夜城三巨头battle起来了
-1. 忠犬八公最后30分钟
-1. 毛毛姐和阿姨去新加坡了
-1. 马斯克74岁母亲来武汉游玩
+1. 上海5平方米超迷你loft长啥样
+1. 狗狗自带餐具能有多可爱
+1. 张杰听后来哭了
+1. 最食人间烟火色甜度爆表
+1. 卖房不必先还清贷款了
 1. 足协只剩两位副主席维持运转
+1. 刘巧珍女儿被确诊心脏畸形
+1. 体育总局副局长杜兆才被查
+1. 仿佛看到了大唐盛世
+1. 曝梅西愿意回归巴萨
+1. BLG战胜RNG
+1. 人造流星雨将砸向日本
+1. 忠犬八公最后30分钟
+1. 马斯克74岁母亲来武汉游玩
+1. 秦霄贤被孟子义气到抓狂
+1. 毛毛姐和阿姨去新加坡了
 1. 意大利封禁ChatGPT
 1. 普京已提交2022收入申报单
-1. 秦霄贤被孟子义气到抓狂
-1. 体育总局副局长杜兆才被查
-1. 问界门店将拆除华为标识
+1. 监控拍高空坠物砸到三人
 1. 高加林黄亚萍上海重逢
-1. 兰亭序舞蹈挑战
-1. 曝梅西愿意回归巴萨
 1. 萧敬腾打篮球没防住白敬亭
+1. 小学生合唱勇气大爆发
+1. 问界门店将拆除华为标识
+1. 兰亭序舞蹈挑战
 1. 4月新片上映片单
+1. 被铃芽之旅的中文翻译惊艳到
 
 ## 明星榜
 
@@ -80,21 +80,21 @@
 1. [我会等（现场版1）]() - 承桓
 1. [すずめ feat.十明]() - RADWIMPS
 1. [我曾遇到一束光 (氛围版)]() - 叶斯淳
-1. [Hot](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63be641febf4335a8996c8a877dee1c) - Liili
+1. [Hot](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63be641febf4335a8996c8a877dee1c) - Liili
 1. [爱的蠢动 (总是执着等待爱情的到来)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osB9AW8xohlGrsNUX9GNAfK4bzdzSxIPVq7gIw) - 胡期皓
-1. [子莫格尼_剪辑版1_全网可听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
-1. [Rumors](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o81jReDoQBgklaFbYp8Qo44ZAUKfktC4nBFZTy) - Jake Miller
+1. [子莫格尼_剪辑版1_全网可听](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
+1. [Rumors](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o81jReDoQBgklaFbYp8Qo44ZAUKfktC4nBFZTy) - Jake Miller
 1. [我想离开浪浪山 (大川版)]() - 大川Dietry
 1. [当代年轻人现状]() - coco这个李文
-1. [可能（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
+1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
 1. [All Girls Are The Same]() - Juice WRLD
-1. [Careless Whisper](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/21704ef7a1204caeaad8d60c78671a06) - daddy's girl & creamy & 11:11 Music Group
+1. [Careless Whisper](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/21704ef7a1204caeaad8d60c78671a06) - daddy's girl & creamy & 11:11 Music Group
 1. [花_我很满意我自己](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4zXRD9QFb0odJPH21g8DzRfQCsbZd9fOAnXaf) - 鞠婧祎
-1. [雪 Distance](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEC6ofzrsWAXLUBquIhIKiABUGbwVL0QByNUyw) - Capper
+1. [雪 Distance](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEC6ofzrsWAXLUBquIhIKiABUGbwVL0QByNUyw) - Capper
 1. [推开世界的门]() - 杨乃文
 1. [小城夏天]() - LBI利比
 1. [看得最远的地方（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
-1. [One More Last Time](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAzTlo0LUAdCAIhjktsKWcLAEUKmZwGcOoB1fy) - Henry Young & Ashley Alisha
+1. [One More Last Time](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAzTlo0LUAdCAIhjktsKWcLAEUKmZwGcOoB1fy) - Henry Young & Ashley Alisha
 1. [小神仙]() - 郭斯
 1. [catch me]() - JVKE
 1. [安和桥]() - 宋冬野
@@ -105,23 +105,23 @@
 1. [星星住进你眼睛]() - 刘至远、Mimmi
 1. [西厢寻他(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUsAVfAQKlRNxEv5qxvIB8o5qmIWUcXbzJKJhw) - 唐伯虎Annie、伯爵Johnny
 1. [姑娘在远方 (主歌)]() - 柯柯柯啊
-1. [江南烟雨色 (DJ剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocle8PKQeJ58Dcq2aAnTAgIqwAz6EFs4HoNCKe) - 杨树人
+1. [江南烟雨色 (DJ剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocle8PKQeJ58Dcq2aAnTAgIqwAz6EFs4HoNCKe) - 杨树人
 1. [爱如火（破碎版）-Zy](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEvtIoMp7zBvFT8ic4fLAsxIrWDwAAp9UBNvvh) - Zy
 1. [热恋情节 (剪辑版)]() - 吴子健REmi,Kiya
 1. [给你给我]() - 毛不易
 1. [半生出走 (剪辑版)]() - 胡彦斌
 1. [LOVE2_剪辑版1_汽水音乐可听]() - YOUNG/果妹
-1. [2 O' CLOCK](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3565890a419c4ad8aa3481fc03437bcf) - dori
+1. [2 O' CLOCK](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3565890a419c4ad8aa3481fc03437bcf) - dori
 1. [晚风告白 (副歌)]() - 星野
-1. [我愛你-上海蟹-](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7cc6d91d8fb54e6194eabea288d60d9f) - カニ研究会
+1. [我愛你-上海蟹-](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7cc6d91d8fb54e6194eabea288d60d9f) - カニ研究会
 1. [BABYDOLL (Speed)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
 1. [就让这大雨全都落下 (剪辑版1)]() - 容祖儿
-1. [Heaven](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeNfUaiKKP4umZfAh40h7AP623iAXfHG1F2HQ) - Ailee
+1. [Heaven](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeNfUaiKKP4umZfAh40h7AP623iAXfHG1F2HQ) - Ailee
 1. [传奇]() - 郭沁
 1. [月亮之上（原版)]() - 凤凰传奇
 1. [You & Me]() - Fingazz ft.H-Slang & Choco
 1. [苦咖啡·唯一 (那奇片段-全网可听)]() - 那奇沃夫/KKECHO
-1. [Closure](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/84f7422b29f94b78a5f3b0386275db35) - Sarcastic Sounds & BIRDY & Mishaal
+1. [Closure](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/84f7422b29f94b78a5f3b0386275db35) - Sarcastic Sounds & BIRDY & Mishaal
 1. [SexyBack](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/198758899dd54359be21c9bf47326c90) - ilkan Gunuc & Clara Stegall
 1. [Different Flow]() - 马思唯
 1. [i walk this earth all by myself](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
