@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-04-12 18:15:24 +0800`
+`更新时间：2023-04-12 19:12:45 +0800`
 
 ## 抖音热榜
 
 1. 60秒回顾中国航天大事记
 1. 混血宝宝打妈妈被爸爸教育
 1. 首艘国产大型邮轮即将交付
-1. 三北防护林为何挡不住沙尘暴
 1. 冯小刚不理解弹幕和倍速看剧
-1. 聋哑修脚父亲和他的小翻译官
-1. 多地省委书记密集调研路边摊
-1. 疯狂小杨哥杭州分公司开业
+1. 贵州茅台跌破1700元关口
+1. RTX5090爆料来了
+1. 湖人晋级季后赛
+1. C罗6000万欧买新飞机
 1. 男子购文胸让女店员试穿遭怒怼
 1. 周冬雨慢镜头成片
-1. 俄称打死530名乌军
+1. 退伍军人回应勇敢制止咸猪手
 1. 8岁男孩疑染狂犬病死亡
-1. 香港一毒贩偷换身份逃脱
-1. 湖人晋级季后赛
+1. 吞噬星空地球篇大决战
 1. 丫丫将通过温控卡车运至机场
-1. 工人误触高压线身亡
 1. 泰国坠崖孕妇为何无法离婚
-1. 专家称年轻人不生小孩是不对的
-1. 中国女足0:3西班牙
+1. 桑酒捏爆天欢仙髓
+1. 小杨哥回应开杭州分公司
+1. 白鹿桑酒堕魔黑化花絮
+1. 长月烬明预告
 1. 关于阿富汗问题的中国立场
 1. 广西外国语学院疑强迫学生实习
 1. 网友在泰国偶遇杨紫
-1. 白鹿桑酒堕魔黑化花絮
-1. 曼城3比0拜仁
-1. 曾黎赵露思美女同框
+1. 聋哑修脚父亲和他的小翻译官
+1. 三北防护林为何挡不住沙尘暴
 1. 白鹿说和王鹤棣是病友相见
+1. 上海老夫妻搬个家花费4万多
+1. 戚薇晒和李晨12年前旧照
 1. 白鹿想和杨幂互换衣橱
-1. 长月烬明预告
-1. Lisa将参与太阳新专辑
+1. 曼城3比0拜仁
 1. 桑酒坠魔杀天欢
 1. 男子被捅后趴地上玩手机
-1. C罗6000万欧买新飞机
+1. 奔跑吧第十一季定档
 1. 六公主高速慢镜头群星大片
-1. 长月烬明桑酒全家被灭
-1. 吞噬星空地球篇大决战
-1. 长月烬明热度断层
+1. 中国女足0:3西班牙
+1. 杭州多校因沙尘取消户外活动
+1. 刘晓庆慢镜头
 1. 女子醉酒后在酒店遭两次性侵
 1. 冯小刚女儿是范丞丞粉丝
 1. 车祸身亡网红马若松父亲发声
 1. 真实版线条小狗
-1. 刘晓庆慢镜头
-1. 奔跑吧第十一季定档
-1. 检察风云王丽坤硬刚恶人
+1. Lisa将参与太阳新专辑
+1. 长月烬明热度断层
+1. 被韩国酵母放过的男艺人
 1. 狗狗坐电梯时能有多卑微
 1. 国台办回应大陆高铁无靠背谬论
-1. 被韩国酵母放过的男艺人
-1. 三生友幸甜不活了
-1. 广西首次发现罕见物种淡水蛏
+1. 检察风云王丽坤硬刚恶人
 1. 为什么石楠花受城市绿化青睐
+1. 三生友幸甜不活了
 1. 安徽沙尘来袭
+1. 一口沦陷的扣碗肘子
 
 ## 明星榜
 
@@ -90,13 +90,13 @@
 1. [七月上 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owFfIQx8VzC6jnb31IfFBZkHwtHgsBFAUTt4Ah) - Jam
 1. [One More Last Time](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAzTlo0LUAdCAIhjktsKWcLAEUKmZwGcOoB1fy) - Henry Young & Ashley Alisha
 1. [All Girls Are The Same]() - Juice WRLD
-1. [Everytime We Touch](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAOaxedrHe4qFCgITGKmzbAraDQebDinoxzxEE) - FiO Baby
-1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
+1. [Everytime We Touch](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAOaxedrHe4qFCgITGKmzbAraDQebDinoxzxEE) - FiO Baby
+1. [可能（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
 1. [开心往前飞（开心超人联盟主题曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
-1. [Rumors](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o81jReDoQBgklaFbYp8Qo44ZAUKfktC4nBFZTy) - Jake Miller
+1. [Rumors](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o81jReDoQBgklaFbYp8Qo44ZAUKfktC4nBFZTy) - Jake Miller
 1. [就让这大雨全都落下 (剪辑版1)]() - 容祖儿
 1. [I Don’t Think That I Like Her](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okVBU3jUsjenWBXbgQQdGbDzetCZvD7PIKvGvI) - Charlie Puth
-1. [i walk this earth all by myself](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
+1. [i walk this earth all by myself](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
 1. [すずめ feat.十明]() - RADWIMPS
 1. [热恋情节 (剪辑版)]() - 吴子健REmi,Kiya
 1. [给你给我]() - 毛不易
@@ -110,7 +110,7 @@
 1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
 1. [爱的蠢动 (总是执着等待爱情的到来)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osB9AW8xohlGrsNUX9GNAfK4bzdzSxIPVq7gIw) - 胡期皓
 1. [小神仙]() - 郭斯
-1. [BANANA SHAKE (SPED UP)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIBd1j8BIJJhtEfZb6UOHOCQAhgtpYA3EPeILz) - HUS
+1. [BANANA SHAKE (SPED UP)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIBd1j8BIJJhtEfZb6UOHOCQAhgtpYA3EPeILz) - HUS
 1. [看得最远的地方（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
 1. [故事还长]() - 云汐
 1. [先说谎的人（片段2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/742e959cae1b456ab2e6d998f4d3e620) - h3R3
@@ -120,11 +120,11 @@
 1. [花_我很满意我自己](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4zXRD9QFb0odJPH21g8DzRfQCsbZd9fOAnXaf) - 鞠婧祎
 1. [Why Why Why]() - 王嘉尔
 1. [SummerSweet](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1f607ae2eddd4d769089c69e1b5690b9) - NavyQuokka
-1. [Head In The Clouds](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocSfDBmOnoV52y4eF28Hg3zXxCbhGeDQDHAma5) - Hayd
+1. [Head In The Clouds](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocSfDBmOnoV52y4eF28Hg3zXxCbhGeDQDHAma5) - Hayd
 1. [最美的瞬间（童声版）]() - 李悟小礼物
-1. [WAIT FOR U](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a198d74c0ca54263a113feea925b8be8) - Future
+1. [WAIT FOR U](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a198d74c0ca54263a113feea925b8be8) - Future
 1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
-1. [达尔文（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQuPQQmEgnCeZsgKQ78VBZjNVtegzBGpoSbQPD) - 林俊杰
+1. [达尔文（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQuPQQmEgnCeZsgKQ78VBZjNVtegzBGpoSbQPD) - 林俊杰
 1. [巡光 (主歌版)]() - 就是南方凯
 
 ## 品牌榜
