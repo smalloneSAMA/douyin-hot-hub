@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-04-12 16:18:02 +0800`
+`更新时间：2023-04-12 17:14:25 +0800`
 
 ## 抖音热榜
 
-1. 我国算力总规模全球第二
-1. 丫丫将通过温控卡车运至机场
-1. 巴西总统卢拉访华
-1. 人民网评淄博烧烤出圈
-1. 中国女足0:3西班牙
+1. 60秒回顾中国航天大事记
 1. 混血儿子因打妈妈被爸爸教育
-1. 小孩被狗抓伤后现狂犬病症状
+1. 首艘国产大型邮轮即将交付
+1. 冯小刚不理解弹幕和倍速看剧
+1. 三北防护林为何挡不住沙尘暴
 1. C罗6000万欧买新飞机
-1. 桑酒坠魔杀天欢
-1. 什么是格莱美慢镜头
+1. 台当局承认明年也可能缺蛋
+1. 中国女足0:3西班牙
+1. 多地省委书记密集调研路边摊
 1. 曼城3比0拜仁
 1. 唐朝诡事录2官宣
+1. 8岁男孩疑染狂犬病死亡
 1. 香港一毒贩偷换身份逃脱
 1. 湖人晋级季后赛
-1. 杜小华重走儿子被拐之路
-1. 工人误触高压线身亡
+1. 丫丫将通过温控卡车运至机场
 1. 泰国坠崖孕妇为何无法离婚
 1. 专家称年轻人不生小孩是不对的
-1. 冥夜为爱装瞎
+1. 什么是格莱美慢镜头
+1. 李三金求婚戴大梨
 1. 关于阿富汗问题的中国立场
 1. 广西外国语学院疑强迫学生实习
 1. 网友在泰国偶遇杨紫
-1. 广西首次发现罕见物种淡水蛏
-1. 长月烬明预告
+1. 桑酒坠魔杀天欢
+1. 长月烬明桑酒全家被灭
 1. 曾黎赵露思美女同框
 1. 白鹿说和王鹤棣是病友相见
-1. 奔跑吧第十一季定档
 1. 白鹿想和杨幂互换衣橱
+1. 检察风云王丽坤硬刚恶人
 1. 狗狗坐电梯时能有多卑微
 1. 第28届上海电视节官宣
 1. 白鹿罗云熙跳舞对比
 1. 男子被捅后趴地上玩手机
 1. 26岁韩女星郑彩率身亡
 1. 六公主高速慢镜头群星大片
-1. 专家称北京拥堵因为网约车
+1. 聋哑修脚父亲和他的小翻译官
 1. Lisa将参与太阳新专辑
 1. 女子醉酒后在酒店遭两次性侵
 1. 冯小刚女儿是范丞丞粉丝
 1. 车祸身亡网红马若松父亲发声
 1. 真实版线条小狗
 1. 刘亚仁体内检出第5种毒品
-1. 三北防护林为何挡不住沙尘暴
-1. 被韩国酵母放过的男艺人
-1. 罗云熙吐槽澹台烬没长嘴
-1. 三生友幸甜不活了
-1. 尘封十三载全员狠人
-1. 刘晓庆慢镜头
-1. 为什么石楠花受城市绿化青睐
-1. 检察风云王丽坤硬刚恶人
+1. 冥夜为爱装瞎
+1. 广西首次发现罕见物种淡水蛏
+1. 长月烬明预告
+1. 奔跑吧第十一季定档
 1. 长月烬明热度断层
+1. 三生友幸甜不活了
+1. 被韩国酵母放过的男艺人
+1. 刘晓庆慢镜头
+1. 安徽沙尘来袭
 
 ## 明星榜
 
@@ -76,7 +76,7 @@
 
 ## 音乐榜
 
-1. [麦浪（四月天特别版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/26f5501a6547411fa3fbedc592fed0ad) - yihuik苡慧
+1. [麦浪（四月天特别版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/26f5501a6547411fa3fbedc592fed0ad) - yihuik苡慧
 1. [月亮不曾奔我而来]() - 好多倩
 1. [You & Me]() - Fingazz ft.H-Slang & Choco
 1. [我记得]() - 赵雷
@@ -88,39 +88,39 @@
 1. [心里种下一颗种子哒啦滴哒啦]() - 贝乐虎
 1. [星星住进你眼睛]() - 刘至远、Mimmi
 1. [七月上 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owFfIQx8VzC6jnb31IfFBZkHwtHgsBFAUTt4Ah) - Jam
-1. [One More Last Time](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAzTlo0LUAdCAIhjktsKWcLAEUKmZwGcOoB1fy) - Henry Young & Ashley Alisha
+1. [One More Last Time](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAzTlo0LUAdCAIhjktsKWcLAEUKmZwGcOoB1fy) - Henry Young & Ashley Alisha
 1. [All Girls Are The Same]() - Juice WRLD
 1. [Everytime We Touch](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAOaxedrHe4qFCgITGKmzbAraDQebDinoxzxEE) - FiO Baby
 1. [可能（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
 1. [开心往前飞（开心超人联盟主题曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
-1. [Rumors](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o81jReDoQBgklaFbYp8Qo44ZAUKfktC4nBFZTy) - Jake Miller
+1. [Rumors](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o81jReDoQBgklaFbYp8Qo44ZAUKfktC4nBFZTy) - Jake Miller
 1. [就让这大雨全都落下 (剪辑版1)]() - 容祖儿
-1. [I Don’t Think That I Like Her](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okVBU3jUsjenWBXbgQQdGbDzetCZvD7PIKvGvI) - Charlie Puth
+1. [I Don’t Think That I Like Her](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okVBU3jUsjenWBXbgQQdGbDzetCZvD7PIKvGvI) - Charlie Puth
 1. [i walk this earth all by myself](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
 1. [すずめ feat.十明]() - RADWIMPS
 1. [热恋情节 (剪辑版)]() - 吴子健REmi,Kiya
 1. [给你给我]() - 毛不易
-1. [BABYDOLL (Speed)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
+1. [BABYDOLL (Speed)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
 1. [三拜红尘凉 (剪辑版)]() - 尹昔眠
 1. [月亮之上（原版)]() - 凤凰传奇
 1. [爱在期待 (剪辑版)]() - 胖凯
 1. [我曾遇到一束光 (氛围版)]() - 叶斯淳
 1. [循迹 (琵琶版)]() - Jakub狗子哥
 1. [我也有撑不住的时候]() - 派星儿
-1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
+1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
 1. [爱的蠢动 (总是执着等待爱情的到来)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osB9AW8xohlGrsNUX9GNAfK4bzdzSxIPVq7gIw) - 胡期皓
 1. [小神仙]() - 郭斯
 1. [BANANA SHAKE (SPED UP)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIBd1j8BIJJhtEfZb6UOHOCQAhgtpYA3EPeILz) - HUS
 1. [看得最远的地方（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
 1. [故事还长]() - 云汐
-1. [先说谎的人（片段2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/742e959cae1b456ab2e6d998f4d3e620) - h3R3
+1. [先说谎的人（片段2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/742e959cae1b456ab2e6d998f4d3e620) - h3R3
 1. [推开世界的门]() - 杨乃文
 1. [catch me]() - JVKE
-1. [雪 Distance](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEC6ofzrsWAXLUBquIhIKiABUGbwVL0QByNUyw) - Capper
-1. [花_我很满意我自己](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4zXRD9QFb0odJPH21g8DzRfQCsbZd9fOAnXaf) - 鞠婧祎
+1. [雪 Distance](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEC6ofzrsWAXLUBquIhIKiABUGbwVL0QByNUyw) - Capper
+1. [花_我很满意我自己](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4zXRD9QFb0odJPH21g8DzRfQCsbZd9fOAnXaf) - 鞠婧祎
 1. [Why Why Why]() - 王嘉尔
-1. [SummerSweet](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1f607ae2eddd4d769089c69e1b5690b9) - NavyQuokka
-1. [Head In The Clouds](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocSfDBmOnoV52y4eF28Hg3zXxCbhGeDQDHAma5) - Hayd
+1. [SummerSweet](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1f607ae2eddd4d769089c69e1b5690b9) - NavyQuokka
+1. [Head In The Clouds](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocSfDBmOnoV52y4eF28Hg3zXxCbhGeDQDHAma5) - Hayd
 1. [最美的瞬间（童声版）]() - 李悟小礼物
 1. [WAIT FOR U](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a198d74c0ca54263a113feea925b8be8) - Future
 1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
