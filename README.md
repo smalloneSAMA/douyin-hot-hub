@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-04-15 13:13:21 +0800`
+`更新时间：2023-04-15 14:17:13 +0800`
 
 ## 抖音热榜
 
+1. 00后老师收到75岁学生的道歉
 1. 董宇辉江南水乡坐花船等你
-1. 第一视角看玉溪山火扑救
 1. 全民国家安全教育日
 1. 岸田文雄演讲场所传出爆炸声
-1. 世界最矮狗身高不足10厘米
+1. 第一视角看玉溪山火扑救
 1. 岸田演讲投爆炸物男子被捕
+1. 澹台烬与黎苏苏孕有一女
 1. 江苏男篮最后时刻连续失误
-1. 泫雅泰国泼水节舞台
-1. 薛之谦粤语口音走丢还没回来
+1. 奶奶把爷爷拿捏稳稳的
 1. 抗癌共享厨房申请公益账户不符要求
-1. 篮协要求调查上海江苏季后赛
 1. 玉溪山火系违规野外用火所致
 1. 江苏男篮 假球
-1. 什么是生理性喜欢
+1. 泫雅泰国泼水节舞台
+1. 医院回应护士戴美甲扎针
 1. 尘封十三载凶案横跨十三年
-1. 血蛤只煮7秒真的能吃吗
-1. 河南慈善总会回应共享厨房争议
+1. 薛之谦粤语口音走丢还没回来
+1. 林峯蒋梦婕新剧拿反剧本了吧
 1. 长月烬明断更原因找到了
-1. 裴珠泫即将solo
 1. 贾跃亭又跳票了
+1. 血蛤只煮7秒真的能吃吗
 1. 贵州倪青青
-1. 何超莲何超琼亲密合照
 1. 淮阴工学院回应网传女生劈腿
 1. 岸田文雄将更换场地演讲
-1. 奶奶把爷爷拿捏稳稳的
-1. 林峯蒋梦婕新剧拿反剧本了吧
-1. 陈小纭回应薄冰片场摔飞
-1. 潍坊风筝节放的是人类想象力
-1. 杭州女童电梯坠亡案18日开庭
-1. 俄方：黑海永远不会属于北约
+1. 陈都灵演反派不怕被观众记恨
+1. 裴珠泫即将solo
+1. 包贝尔薅王丽坤头发花絮
+1. 林俊杰新歌MV
+1. 泼水节的狗狗也需要些必备技能
+1. 热火淘汰公牛
+1. 洛阳这两天是捅了神仙窝吗
 1. 男子56刀刺死前女友被执行死刑
 1. 刘英杰带老婆打卡淄博烧烤
-1. 洛阳这两天是捅了神仙窝吗
-1. 泼水节的狗狗也需要些必备技能
+1. 潍坊风筝节放的是人类想象力
+1. 世界最矮狗身高不足10厘米
 1. 直击岸田文雄演说现场
-1. 林俊杰新歌MV
-1. 外卖员撞到老人被索赔崩溃下跪
-1. 罗云熙白鹿头发勾在一起
-1. 95后妈妈去世后捐献器官
-1. 张杰西安演唱会
-1. 包贝尔薅王丽坤头发花絮
-1. 特斯拉掀起新一轮全球降价
 1. 张杰身骑白马戏腔舞台封神
-1. 特种兵旅行有多令人着迷
 1. 女同学穿婚纱助阵歌手大赛
-1. 中国高铁是懂反讽的
+1. 罗云熙白鹿头发勾在一起
 1. 苹果测试iOS16.6
+1. 张杰西安演唱会
 1. 孙珍妮回应吻戏被围观
-1. 肉肉大搜索回应给共享厨房捐款
-1. 主持人版七十二变
+1. 特斯拉掀起新一轮全球降价
+1. 杭州女童电梯坠亡案18日开庭
+1. 欢乐颂4五美怼人太爽
+1. 去世的小狗又回到了我家
+1. 特种兵旅行有多令人着迷
+1. 谭松韵来听黄绮珊演唱会
+1. 藏族姑娘回应陪嫁100头牦牛
+1. 河南慈善总会回应共享厨房争议
+1. 俄方：黑海永远不会属于北约
 
 ## 明星榜
 
@@ -79,19 +79,19 @@
 1. [麦浪（四月天特别版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/26f5501a6547411fa3fbedc592fed0ad) - yihuik苡慧
 1. [月亮不曾奔我而来]() - 好多倩
 1. [You & Me]() - Fingazz ft.H-Slang & Choco
-1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
-1. [Cupid – Twin Ver. (FIFTY FIFTY) – Sped Up Version](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4b41lHCBEBDPBgkVXnRQkMgNI24lHZmReftkm) - sped up 8282
-1. [子莫格尼_剪辑版1_全网可听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
+1. [可能（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
+1. [Cupid – Twin Ver. (FIFTY FIFTY) – Sped Up Version](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4b41lHCBEBDPBgkVXnRQkMgNI24lHZmReftkm) - sped up 8282
+1. [子莫格尼_剪辑版1_全网可听](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
 1. [DADADA]() - WWPAT
-1. [七月上 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owFfIQx8VzC6jnb31IfFBZkHwtHgsBFAUTt4Ah) - Jam
+1. [七月上 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owFfIQx8VzC6jnb31IfFBZkHwtHgsBFAUTt4Ah) - Jam
 1. [我也有撑不住的时候]() - 派星儿
 1. [我记得]() - 赵雷
-1. [雪 Distance](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEC6ofzrsWAXLUBquIhIKiABUGbwVL0QByNUyw) - Capper
+1. [雪 Distance](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEC6ofzrsWAXLUBquIhIKiABUGbwVL0QByNUyw) - Capper
 1. [帶我去找夜生活]() - 告五人
 1. [我想离开浪浪山 (大川版)]() - 大川Dietry
 1. [男人的累自己体会]() - 蛋蛋老弟
 1. [小城夏天]() - LBI利比
-1. [Careless Whisper](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/21704ef7a1204caeaad8d60c78671a06) - daddy's girl & creamy & 11:11 Music Group
+1. [Careless Whisper](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/21704ef7a1204caeaad8d60c78671a06) - daddy's girl & creamy & 11:11 Music Group
 1. [姑娘在远方 (主歌)]() - 柯柯柯啊
 1. [开心往前飞（开心超人联盟主题曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
 1. [streets x kiss it better - sped up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooUtB0CQboCTurArQwMFRbdUygDJHBnfjQ8ZGe) - INDRAGERSN
@@ -112,13 +112,13 @@
 1. [晚风告白 (副歌)]() - 星野
 1. [Wake (Live)]() - Hillsong Young & Free
 1. [人间烟火（长段落）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
-1. [i walk this earth all by myself](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
+1. [i walk this earth all by myself](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
 1. [故事还长]() - 云汐
-1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
-1. [Heaven](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeNfUaiKKP4umZfAh40h7AP623iAXfHG1F2HQ) - Ailee
+1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
+1. [Heaven](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeNfUaiKKP4umZfAh40h7AP623iAXfHG1F2HQ) - Ailee
 1. [月亮之上（原版)]() - 凤凰传奇
 1. [热恋情节 (剪辑版)]() - 吴子健REmi,Kiya
-1. [SummerSweet](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1f607ae2eddd4d769089c69e1b5690b9) - NavyQuokka
+1. [SummerSweet](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1f607ae2eddd4d769089c69e1b5690b9) - NavyQuokka
 1. [写不完的温柔]() - G.E.M. 邓紫棋
 1. [看得最远的地方（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
 1. [粉色海洋]() - 周杰伦
