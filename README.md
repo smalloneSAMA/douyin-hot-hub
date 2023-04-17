@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-04-17 11:15:15 +0800`
+`更新时间：2023-04-17 12:17:30 +0800`
 
 ## 抖音热榜
 
 1. 上海江苏季后赛消极比赛属实
-1. 调休
-1. 打卡史上规模最大广交会
+1. 姚明回应两队消极比赛
+1. 攒了三年的热情在春天尽情释放
 1. 李春江禁赛5年
 1. 周杰伦诉网易案开庭
 1. 李楠禁赛3年
-1. 字母哥受伤
-1. 湖人战胜灰熊
+1. 南京交警查酒驾遭网约车撞飞
 1. 国内油价将大幅上调
-1. 莫兰特受伤
+1. 湖人战胜灰熊
 1. 普京会见李尚福
-1. 薛之谦抖音告别佛山演唱会
-1. 游客回应在淄博买锅饼被宰
-1. 女子泼水节遭撕雨衣
-1. 女子10次勒索饮品店获刑
-1. 恩比德：我是现今世界篮坛最佳
-1. 白鹿片场mua罗云熙
-1. CBA回应篮协相关处罚
-1. SpaceX星舰首次试飞
-1. 警方回应村民夜钓遭枪击
-1. 女子回应泼水节被撕雨衣
-1. “成功学大师”杨涛鸣落网
 1. 郑州抗癌厨房会继续营业
-1. 热火胜雄鹿
-1. 官方回应网传淄博酒店坐地涨价
-1. 祥生创始人陈国祥去世
-1. 孙珍妮演的翩然整顿职场
 1. 冷门宝藏旅游地
-1. 是小姐姐的头发埋没了五官
+1. 女子泼水节遭撕雨衣
+1. 金字塔尖尖真的在大英博物馆
+1. CBA回应篮协相关处罚
+1. 警方回应村民夜钓遭枪击
+1. 刘德华姜涛合照
+1. 热火胜雄鹿
+1. 莫兰特受伤
+1. 字母哥受伤
+1. “成功学大师”杨涛鸣落网
+1. 山东一村庄疑遭龙卷风袭击
+1. 官方回应网传淄博酒店坐地涨价
+1. 科切拉的风又吹向了朴彩英
+1. SpaceX星舰首次试飞
+1. 孙珍妮演的翩然整顿职场
+1. 千万丈母娘云参加董宇辉演唱会
+1. 王鹤棣腰力输给了秦霄贤
+1. 白鹿片场连翻9个侧手翻
 1. 官方再通报杂技演员坠亡
 1. BLACKPINK科切拉舞台
 1. 向华强入驻抖音
 1. 周星驰说喜欢Lisa
 1. 坠亡杂技女演员丈夫发声
+1. 薛之谦抖音告别佛山演唱会
 1. 沃尔沃EX90国内首发
+1. 游客回应在淄博买锅饼被宰
 1. 陈都灵南航
 1. 郑秀文获金像奖影后
 1. 东方甄选CEO一夜换人
+1. 恩比德：我是现今世界篮坛最佳
 1. 淄博一烧烤店被指强制消费
+1. 女子回应泼水节被撕雨衣
 1. Lisa开场VCR身材
 1. 4999人跳麦迪逊舞创世界纪录
-1. 长月烬明新预告
 1. 金像奖
-1. 岸田遇袭渔港大叔率先压制嫌犯
 1. 淄博烧烤凭啥这么火
 1. 隔壁半是蜜糖半是伤赢麻了
-1. 丁俊晖世锦赛单杆134分
-1. Jennie科切拉solo舞台
-1. 刘德华姜涛合照
-1. 科切拉的风又吹向了朴彩英
+1. 东部战区回应美军舰过航台湾海峡
+1. 刘诗雯又多了一个新身份
 
 ## 明星榜
 
@@ -76,7 +76,7 @@
 
 ## 音乐榜
 
-1. [麦浪（四月天特别版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/26f5501a6547411fa3fbedc592fed0ad) - yihuik苡慧
+1. [麦浪（四月天特别版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/26f5501a6547411fa3fbedc592fed0ad) - yihuik苡慧
 1. [月亮不曾奔我而来]() - 好多倩
 1. [You & Me]() - Fingazz ft.H-Slang & Choco
 1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
@@ -86,7 +86,7 @@
 1. [七月上 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owFfIQx8VzC6jnb31IfFBZkHwtHgsBFAUTt4Ah) - Jam
 1. [我也有撑不住的时候]() - 派星儿
 1. [我记得]() - 赵雷
-1. [雪 Distance](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEC6ofzrsWAXLUBquIhIKiABUGbwVL0QByNUyw) - Capper
+1. [雪 Distance](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEC6ofzrsWAXLUBquIhIKiABUGbwVL0QByNUyw) - Capper
 1. [帶我去找夜生活]() - 告五人
 1. [我想离开浪浪山 (大川版)]() - 大川Dietry
 1. [男人的累自己体会]() - 蛋蛋老弟
@@ -106,7 +106,7 @@
 1. [I Don’t Think That I Like Her](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okVBU3jUsjenWBXbgQQdGbDzetCZvD7PIKvGvI) - Charlie Puth
 1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
 1. [Kiss Me More (Slowed Version)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b4a7d9ddd43b4d90906c691ec6c5b81a) - Slowed Remix DJ
-1. [Reminder](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM0aGfgUDLnCWQ1ejTBuhjP7V1cBZtOlIUstbg) - The Weeknd
+1. [Reminder](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM0aGfgUDLnCWQ1ejTBuhjP7V1cBZtOlIUstbg) - The Weeknd
 1. [晚风的颜色 (说唱版)]() - 嘿人李逵Noisemakers+薯片啾啾
 1. [As the World Caves In - Wuki Remix](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owgneB9c8tQ7DbSnQdqiDb47QicfjoC7BBXZgZ) - Sarah Cothran & Wuki
 1. [晚风告白 (副歌)]() - 星野
@@ -115,14 +115,14 @@
 1. [i walk this earth all by myself](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
 1. [故事还长]() - 云汐
 1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
-1. [Heaven](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeNfUaiKKP4umZfAh40h7AP623iAXfHG1F2HQ) - Ailee
+1. [Heaven](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeNfUaiKKP4umZfAh40h7AP623iAXfHG1F2HQ) - Ailee
 1. [月亮之上（原版)]() - 凤凰传奇
 1. [热恋情节 (剪辑版)]() - 吴子健REmi,Kiya
-1. [SummerSweet](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1f607ae2eddd4d769089c69e1b5690b9) - NavyQuokka
+1. [SummerSweet](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1f607ae2eddd4d769089c69e1b5690b9) - NavyQuokka
 1. [写不完的温柔]() - G.E.M. 邓紫棋
-1. [看得最远的地方（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
+1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
 1. [粉色海洋]() - 周杰伦
-1. [Everytime We Touch](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAOaxedrHe4qFCgITGKmzbAraDQebDinoxzxEE) - FiO Baby
+1. [Everytime We Touch](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAOaxedrHe4qFCgITGKmzbAraDQebDinoxzxEE) - FiO Baby
 1. [达尔文（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQuPQQmEgnCeZsgKQ78VBZjNVtegzBGpoSbQPD) - 林俊杰
 1. [推开世界的门]() - 杨乃文
 1. [是妈妈是女儿-60s]() - 黄绮珊/希林娜依·高
