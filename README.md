@@ -11,60 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-04-18 16:18:20 +0800`
+`更新时间：2023-04-18 17:14:51 +0800`
 
 ## 抖音热榜
 
-1. XBB.1.16毒株来袭
+1. 国内检出多例XBB.1.16毒株
 1. 美军已派百名教官驻台指导
 1. 中国古遗址保护中心挂牌
 1. 窦骁何超莲大婚
-1. 追梦格林被驱逐
-1. 差点忘了男友也只是普通人
-1. 印尼制定35万侨民撤台计划
-1. 校方回应网传学生聚集声讨渣男
 1. 老娘80多天没放假了什么梗
+1. 小樱桃爸爸说保姆怀恨在心
+1. 苹果版余额宝上线
+1. 校方回应网传学生聚集声讨渣男
+1. 追梦格林被驱逐
 1. 做AI大模型就上火山引擎
+1. 福州2人被防护栏困在火场身亡
 1. 杭州女童坠亡案将择期宣判
 1. 美国外交使团在苏丹遇袭
 1. 演员宗利群离世
 1. 养了2年的金毛突然攻击主人
+1. 黄绍明主动投案
 1. 美16岁黑人按错门铃被房主枪击
 1. 河南将迎雷暴大风或冰雹
 1. 医生提醒不要频繁清嗓子
-1. 女子因烤肠2块5一根不卖报警
 1. 王一博坐进战斗机不敢动
 1. 国内检出多例XBB.1.16
 1. 于正发文否认借钱给张继科
-1. 隧道内可以查酒驾吗
 1. IU蓝色长裙路透
-1. 沈晚意专治恋爱脑
-1. 专家建议增加假期取消调休
-1. 苹果版余额宝上线
-1. 女子将公厕当家拒绝救助
-1. 林更新给赵丽颖拍照
-1. 丫丫乐乐回国申请进入最后审核
 1. 山东舰编队继续向东
-1. 珠江口部分海域将进行军事演习
+1. 专家建议增加假期取消调休
 1. 李春江得知禁赛五年的表情
-1. 婴儿意外窒息在ICU抢救80天
+1. 差点忘了男友也只是普通人
+1. 女子不满1根烤肠卖3块报警
+1. 林更新给赵丽颖拍照
+1. 沈晚意专治恋爱脑
+1. 女子将公厕当家拒绝救助
+1. 浙江11死火灾搜救现场曝光
 1. 多地天空划过不明物体
+1. 山东一地机关人员回国后要3天2检
 1. 王石说市场会惩罚暴利
-1. 罗云熙白鹿把鱼甩烂了
 1. 长月烬明隐藏虐点
 1. 澹台烬墓地表白叶夕雾
 1. 刘德华也在泰国过泼水节
 1. 当我们遇见你王静蓉
-1. 花数百万整容市委书记获刑
 1. 是小姐姐的头发埋没了五官
 1. 全抖音都去淄博吃烧烤了
-1. 郑州共享厨房事件仍需继续调查
-1. 特斯拉缺席上海车展
-1. 男孩用泥巴捏出整个村庄
-1. 江歌妈妈诉网暴者案宣判
-1. 一季度河南存款余额突破10万亿
-1. 2023上海国际车展
+1. 印尼制定35万侨民撤台计划
+1. 隧道内可以查酒驾吗
+1. 成都下冰雹
+1. 丫丫回国申请进入最后审核
+1. 罗云熙白鹿把鱼甩烂了
+1. 婴儿意外窒息在ICU抢救80天
 1. 暖心老板娘抱着孩子帮找妈妈
+1. 灌篮高手终极预告
 
 ## 明星榜
 
@@ -86,12 +85,12 @@
 1. [七月上 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owFfIQx8VzC6jnb31IfFBZkHwtHgsBFAUTt4Ah) - Jam
 1. [我也有撑不住的时候]() - 派星儿
 1. [我记得]() - 赵雷
-1. [雪 Distance](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEC6ofzrsWAXLUBquIhIKiABUGbwVL0QByNUyw) - Capper
+1. [雪 Distance](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEC6ofzrsWAXLUBquIhIKiABUGbwVL0QByNUyw) - Capper
 1. [帶我去找夜生活]() - 告五人
 1. [我想离开浪浪山 (大川版)]() - 大川Dietry
 1. [男人的累自己体会]() - 蛋蛋老弟
 1. [小城夏天]() - LBI利比
-1. [Careless Whisper](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/21704ef7a1204caeaad8d60c78671a06) - daddy's girl & creamy & 11:11 Music Group
+1. [Careless Whisper](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/21704ef7a1204caeaad8d60c78671a06) - daddy's girl & creamy & 11:11 Music Group
 1. [姑娘在远方 (主歌)]() - 柯柯柯啊
 1. [开心往前飞（开心超人联盟主题曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
 1. [streets x kiss it better - sped up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooUtB0CQboCTurArQwMFRbdUygDJHBnfjQ8ZGe) - INDRAGERSN
@@ -101,14 +100,14 @@
 1. [星星住进你眼睛]() - 刘至远、Mimmi
 1. [苦咖啡·唯一 (那奇片段-全网可听)]() - 那奇沃夫/KKECHO
 1. [循迹 (琵琶版)]() - Jakub狗子哥
-1. [BABYDOLL (Speed)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
+1. [BABYDOLL (Speed)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
 1. [心里种下一颗种子哒啦滴哒啦]() - 贝乐虎
-1. [I Don’t Think That I Like Her](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okVBU3jUsjenWBXbgQQdGbDzetCZvD7PIKvGvI) - Charlie Puth
-1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
-1. [Kiss Me More (Slowed Version)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b4a7d9ddd43b4d90906c691ec6c5b81a) - Slowed Remix DJ
+1. [I Don’t Think That I Like Her](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okVBU3jUsjenWBXbgQQdGbDzetCZvD7PIKvGvI) - Charlie Puth
+1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
+1. [Kiss Me More (Slowed Version)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b4a7d9ddd43b4d90906c691ec6c5b81a) - Slowed Remix DJ
 1. [Reminder](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM0aGfgUDLnCWQ1ejTBuhjP7V1cBZtOlIUstbg) - The Weeknd
 1. [晚风的颜色 (说唱版)]() - 嘿人李逵Noisemakers+薯片啾啾
-1. [As the World Caves In - Wuki Remix](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owgneB9c8tQ7DbSnQdqiDb47QicfjoC7BBXZgZ) - Sarah Cothran & Wuki
+1. [As the World Caves In - Wuki Remix](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owgneB9c8tQ7DbSnQdqiDb47QicfjoC7BBXZgZ) - Sarah Cothran & Wuki
 1. [晚风告白 (副歌)]() - 星野
 1. [Wake (Live)]() - Hillsong Young & Free
 1. [人间烟火（长段落）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
