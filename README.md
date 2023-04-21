@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-04-22 00:18:29 +0800`
+`更新时间：2023-04-22 01:13:43 +0800`
 
 ## 抖音热榜
 
-1. 宝马称两名涉事女生已离职
 1. 午睡超30分钟心脏跟着受累
-1. 网友镜头里的中国
-1. 张颂文北影节红毯好绅士
 1. 泰裤辣是什么梗
-1. 陈凯歌陈红陈飞宇同框
+1. 网友镜头里的中国
+1. 日本第8师团长确认死亡
+1. 日本国会又收威胁邮件
 1. 日本2040年单身比例或将达47%
+1. 张颂文北影节红毯好绅士
 1. 樊振东2比3A勒布伦
 1. 深圳发现一例黑热病
-1. 胡锡进：不要对MINI事件上纲上线
+1. 华侨大学时隔八年再夺东南王
 1. 1.6吨黄金在加拿大机场被盗
 1. 163亿一杯冰淇淋 宝马值不值
 1. 薛之谦演唱会南昌站
 1. 男孩拽爸爸车把手误被拖行
+1. 宝马称两名涉事女生已离职
 1. 安以轩老公陈荣炼被判14年
 1. 女主播车祸毁容“美容费”谁买单
-1. 华侨大学时隔八年再夺东南王
 1. 祖孙3人遭杀害 凶手曾买寿衣
 1. 大闹迪士尼男子被行拘
 1. 北影节开幕式红毯
-1. 欢乐颂戚牧彻底掌控何悯鸿
-1. 因姓氏太罕见全村改姓鸭
-1. 杜小华回应小米奇新线索
 1. 长月烬明打灭魂钉预告
-1. 哈登被驱逐
-1. 山西多地4月飞雪
-1. 贵阳一地遭12级强风袭击
-1. 秦刚：中国土地收回来就绝不会再失去
-1. 浙大回应学生因辱华被拒录公务员
-1. 就知道长月烬明停更会出事
-1. 周也陈飞宇同框像公主王子
-1. 8艘055大驱全部服役亮相
-1. 赵小棠红毯摔倒
-1. 民警为保护战友身中数刀牺牲
-1. 张子枫胡先煦北影节同框
 1. 张新成孙千真没把我们当外人
+1. 因姓氏太罕见全村改姓鸭
+1. 8艘055大驱全部服役亮相
+1. 杜小华回应小米奇新线索
+1. 学生实力演绎雷雨片段爆火
+1. 秦刚：中国土地收回来就绝不会再失去
+1. 贵阳一地遭12级强风袭击
+1. 浙大回应学生因辱华被拒录公务员
+1. 吴君如17岁女儿出道
+1. 张子枫胡先煦北影节同框
+1. 周也陈飞宇同框像公主王子
+1. 北约秘书长访乌承诺更多军援
+1. 这件事情泰酷辣
+1. 民警为保护战友身中数刀牺牲
+1. 印度一军车在克什米尔遭袭
 1. 中俄蒙边境火明火已扑灭
 1. 宝马MINI再道歉
-1. 雪碧是东霓亲生女儿
-1. 沧州雄狮1比2不敌成都蓉城
-1. 王一博被金靖河南话夸害羞
-1. 男孩送烤鱼摔倒主动向爸爸道歉
-1. 罗云熙白鹿彩虹屁互夸
-1. 李显龙称台海误判风险增高
-1. 学生实力演绎雷雨片段爆火
-1. 印度一军车在克什米尔遭袭
-1. 华为辟谣孟晚舟将赴美出差
-1. 日本国会又收威胁邮件
+1. 欢乐颂戚牧彻底掌控何悯鸿
+1. 沙子哥龙狙逐梦夜
 1. 华为宣布实现ERP自主可控
-1. 五一假期高速免费
+1. 山西多地4月飞雪
+1. 俄媒：美全球鹰停止前往黑海
+1. 就知道长月烬明停更会出事
+1. 华为辟谣孟晚舟将赴美出差
+1. 罗云熙白鹿彩虹屁互夸
+1. 沧州雄狮1比2不敌成都蓉城
+1. 赵小棠红毯摔倒
+1. 官方通报摊主被贴膏药后倒地
+1. 陈凯歌陈红陈飞宇同框
 
 ## 明星榜
 
@@ -76,10 +76,10 @@
 
 ## 音乐榜
 
-1. [麦浪（四月天特别版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/26f5501a6547411fa3fbedc592fed0ad) - yihuik苡慧
+1. [麦浪（四月天特别版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/26f5501a6547411fa3fbedc592fed0ad) - yihuik苡慧
 1. [月亮不曾奔我而来]() - 好多倩
 1. [You & Me]() - Fingazz ft.H-Slang & Choco
-1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
+1. [可能（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
 1. [Cupid – Twin Ver. (FIFTY FIFTY) – Sped Up Version](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4b41lHCBEBDPBgkVXnRQkMgNI24lHZmReftkm) - sped up 8282
 1. [子莫格尼_剪辑版1_全网可听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
 1. [DADADA]() - WWPAT
@@ -94,10 +94,10 @@
 1. [Careless Whisper](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/21704ef7a1204caeaad8d60c78671a06) - daddy's girl & creamy & 11:11 Music Group
 1. [姑娘在远方 (主歌)]() - 柯柯柯啊
 1. [开心往前飞（开心超人联盟主题曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
-1. [streets x kiss it better - sped up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooUtB0CQboCTurArQwMFRbdUygDJHBnfjQ8ZGe) - INDRAGERSN
+1. [streets x kiss it better - sped up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooUtB0CQboCTurArQwMFRbdUygDJHBnfjQ8ZGe) - INDRAGERSN
 1. [假如爱有天意]() - 贺三
-1. [One More Last Time](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAzTlo0LUAdCAIhjktsKWcLAEUKmZwGcOoB1fy) - Henry Young & Ashley Alisha
-1. [Rumors](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o81jReDoQBgklaFbYp8Qo44ZAUKfktC4nBFZTy) - Jake Miller
+1. [One More Last Time](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAzTlo0LUAdCAIhjktsKWcLAEUKmZwGcOoB1fy) - Henry Young & Ashley Alisha
+1. [Rumors](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o81jReDoQBgklaFbYp8Qo44ZAUKfktC4nBFZTy) - Jake Miller
 1. [星星住进你眼睛]() - 刘至远、Mimmi
 1. [苦咖啡·唯一 (那奇片段-全网可听)]() - 那奇沃夫/KKECHO
 1. [循迹 (琵琶版)]() - Jakub狗子哥
@@ -106,9 +106,9 @@
 1. [I Don’t Think That I Like Her](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okVBU3jUsjenWBXbgQQdGbDzetCZvD7PIKvGvI) - Charlie Puth
 1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
 1. [Kiss Me More (Slowed Version)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b4a7d9ddd43b4d90906c691ec6c5b81a) - Slowed Remix DJ
-1. [Reminder](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM0aGfgUDLnCWQ1ejTBuhjP7V1cBZtOlIUstbg) - The Weeknd
+1. [Reminder](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM0aGfgUDLnCWQ1ejTBuhjP7V1cBZtOlIUstbg) - The Weeknd
 1. [晚风的颜色 (说唱版)]() - 嘿人李逵Noisemakers+薯片啾啾
-1. [As the World Caves In - Wuki Remix](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owgneB9c8tQ7DbSnQdqiDb47QicfjoC7BBXZgZ) - Sarah Cothran & Wuki
+1. [As the World Caves In - Wuki Remix](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owgneB9c8tQ7DbSnQdqiDb47QicfjoC7BBXZgZ) - Sarah Cothran & Wuki
 1. [晚风告白 (副歌)]() - 星野
 1. [Wake (Live)]() - Hillsong Young & Free
 1. [人间烟火（长段落）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
@@ -118,9 +118,9 @@
 1. [Heaven](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeNfUaiKKP4umZfAh40h7AP623iAXfHG1F2HQ) - Ailee
 1. [月亮之上（原版)]() - 凤凰传奇
 1. [热恋情节 (剪辑版)]() - 吴子健REmi,Kiya
-1. [SummerSweet](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1f607ae2eddd4d769089c69e1b5690b9) - NavyQuokka
+1. [SummerSweet](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1f607ae2eddd4d769089c69e1b5690b9) - NavyQuokka
 1. [写不完的温柔]() - G.E.M. 邓紫棋
-1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
+1. [看得最远的地方（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
 1. [粉色海洋]() - 周杰伦
 1. [Everytime We Touch](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAOaxedrHe4qFCgITGKmzbAraDQebDinoxzxEE) - FiO Baby
 1. [达尔文（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQuPQQmEgnCeZsgKQ78VBZjNVtegzBGpoSbQPD) - 林俊杰
