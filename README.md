@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-04-23 17:13:26 +0800`
+`更新时间：2023-04-23 18:14:34 +0800`
 
 ## 抖音热榜
 
@@ -22,49 +22,49 @@
 1. 冤枉小女孩偷文具店主致歉
 1. 开网约车被处分的副镇长任新职
 1. 云南曲靖交通事故致7死2伤
-1. 俄称美是俄乌冲突最大受益者
 1. 体彩中心回应开奖圆球不往下滚
-1. 男子买8公斤金条藏楼道离开
 1. 警方辟谣高校女生遭黑人侵犯
-1. 游客路边摊买麻辣烫被收86
-1. 肖战如梦之梦又现覃头造型
 1. 今年全球或迎史上最热夏天
-1. 五一出游小众宝藏城市
-1. 星穹铁道预下载
-1. 威少37分0罚球
-1. 罗云熙澹台烬疯批眼神
-1. 76人横扫篮网
-1. 张颂文介绍高叶给陈凯歌
-1. 多地网友晒抗原称“二阳”了
-1. 店主冤枉小女孩偷拿文具
-1. 陈思诚到场支持佟丽娅电影
+1. 金毛撞车死亡 主人索赔2万
+1. 游客路边摊买麻辣烫被收86
 1. LISA科切拉鱼尾裤造型
-1. 萌娃参观博物馆时看到妈妈
-1. 奥拉迪波受伤
-1. 娜扎自玩穷哈梗
+1. 澹台烬误会叶夕雾下毒
+1. 博主称78元酸菜鱼结账变78一斤
+1. 战火中的青春开播
+1. 外机飞行员摆不友好手势
 1. 小猫happy歌
+1. 萌娃参观博物馆时看到妈妈
+1. 张颂文介绍高叶给陈凯歌
+1. 多地网友晒抗原“二阳”
+1. AG十冠王
+1. 陈思诚到场支持佟丽娅电影
+1. 淄博烧烤的热度能持续多久
+1. 网传罗云熙出演千劫眉
+1. 星穹铁道预下载
+1. 76人横扫篮网
+1. 肖战如梦之梦又现覃头造型
 1. 何超莲婚后发文怀念父亲
+1. 店主冤枉小女孩偷拿文具
 1. 423世界读书日
 1. 印度男子被奶牛砸死
 1. 宋茜出手再现神级舞台
 1. 漫长的季节剧情紧张感
 1. 台中女子被整锅热汤泼脸
-1. 人货混装的定义
+1. 全抖音都在读什么书
 1. 邓紫棋音乐节现场
+1. 五一出游小众宝藏城市
+1. 女子婚内出轨小三后又找小四
 1. CFPLS21总决赛
-1. 战火中的青春开播
-1. 海军航空兵将挑衅外机飞行员驱离
-1. 白鹿看到罗云熙超开心
 1. 广西再现800米巨龙巡游
-1. 福建舰动力测试顺利展开
-1. 网传罗云熙出演千劫眉
-1. 中国红牛辟谣被禁止生产销售
-1. 警方介入墨点文创店事件
 1. 漫长的季节又贡献狠人
+1. 俄称美是俄乌冲突最大受益者
+1. 福建舰动力测试顺利展开
+1. 中国红牛辟谣被禁止生产销售
 1. 26岁女村支书爆火之后
-1. 赘婿动画开播
-1. 新发现本土重点关注变异株275例
-1. 云岚宗不足惧也
+1. 威少37分0罚球
+1. 薛之谦石家庄演唱会报批中
+1. 26岁喝奶茶还要躲着老爸
+1. 娜扎自玩穷哈梗
 
 ## 明星榜
 
@@ -81,40 +81,40 @@
 1. [You & Me]() - Fingazz ft.H-Slang & Choco
 1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
 1. [Cupid – Twin Ver. (FIFTY FIFTY) – Sped Up Version](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4b41lHCBEBDPBgkVXnRQkMgNI24lHZmReftkm) - sped up 8282
-1. [子莫格尼_剪辑版1_全网可听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
+1. [子莫格尼_剪辑版1_全网可听](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
 1. [DADADA]() - WWPAT
 1. [七月上 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owFfIQx8VzC6jnb31IfFBZkHwtHgsBFAUTt4Ah) - Jam
 1. [我也有撑不住的时候]() - 派星儿
 1. [我记得]() - 赵雷
-1. [雪 Distance](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEC6ofzrsWAXLUBquIhIKiABUGbwVL0QByNUyw) - Capper
+1. [雪 Distance](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEC6ofzrsWAXLUBquIhIKiABUGbwVL0QByNUyw) - Capper
 1. [帶我去找夜生活]() - 告五人
 1. [我想离开浪浪山 (大川版)]() - 大川Dietry
 1. [男人的累自己体会]() - 蛋蛋老弟
 1. [小城夏天]() - LBI利比
 1. [Careless Whisper](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/21704ef7a1204caeaad8d60c78671a06) - daddy's girl & creamy & 11:11 Music Group
 1. [姑娘在远方 (主歌)]() - 柯柯柯啊
-1. [开心往前飞（开心超人联盟主题曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
+1. [开心往前飞（开心超人联盟主题曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
 1. [streets x kiss it better - sped up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooUtB0CQboCTurArQwMFRbdUygDJHBnfjQ8ZGe) - INDRAGERSN
 1. [假如爱有天意]() - 贺三
-1. [One More Last Time](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAzTlo0LUAdCAIhjktsKWcLAEUKmZwGcOoB1fy) - Henry Young & Ashley Alisha
-1. [Rumors](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o81jReDoQBgklaFbYp8Qo44ZAUKfktC4nBFZTy) - Jake Miller
+1. [One More Last Time](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAzTlo0LUAdCAIhjktsKWcLAEUKmZwGcOoB1fy) - Henry Young & Ashley Alisha
+1. [Rumors](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o81jReDoQBgklaFbYp8Qo44ZAUKfktC4nBFZTy) - Jake Miller
 1. [星星住进你眼睛]() - 刘至远、Mimmi
 1. [苦咖啡·唯一 (那奇片段-全网可听)]() - 那奇沃夫/KKECHO
 1. [循迹 (琵琶版)]() - Jakub狗子哥
-1. [BABYDOLL (Speed)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
+1. [BABYDOLL (Speed)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
 1. [心里种下一颗种子哒啦滴哒啦]() - 贝乐虎
-1. [I Don’t Think That I Like Her](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okVBU3jUsjenWBXbgQQdGbDzetCZvD7PIKvGvI) - Charlie Puth
-1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
-1. [Kiss Me More (Slowed Version)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b4a7d9ddd43b4d90906c691ec6c5b81a) - Slowed Remix DJ
+1. [I Don’t Think That I Like Her](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okVBU3jUsjenWBXbgQQdGbDzetCZvD7PIKvGvI) - Charlie Puth
+1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
+1. [Kiss Me More (Slowed Version)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b4a7d9ddd43b4d90906c691ec6c5b81a) - Slowed Remix DJ
 1. [Reminder](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM0aGfgUDLnCWQ1ejTBuhjP7V1cBZtOlIUstbg) - The Weeknd
 1. [晚风的颜色 (说唱版)]() - 嘿人李逵Noisemakers+薯片啾啾
 1. [As the World Caves In - Wuki Remix](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owgneB9c8tQ7DbSnQdqiDb47QicfjoC7BBXZgZ) - Sarah Cothran & Wuki
 1. [晚风告白 (副歌)]() - 星野
 1. [Wake (Live)]() - Hillsong Young & Free
 1. [人间烟火（长段落）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
-1. [i walk this earth all by myself](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
+1. [i walk this earth all by myself](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
 1. [故事还长]() - 云汐
-1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
+1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
 1. [Heaven](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeNfUaiKKP4umZfAh40h7AP623iAXfHG1F2HQ) - Ailee
 1. [月亮之上（原版)]() - 凤凰传奇
 1. [热恋情节 (剪辑版)]() - 吴子健REmi,Kiya
