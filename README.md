@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-04-24 16:19:00 +0800`
+`更新时间：2023-04-24 17:15:29 +0800`
 
 ## 抖音热榜
 
 1. 日本乌鸦刺身引连锁争议
-1. 三星被美国罚4000亿韩元
-1. 五一假期铁路部门加大运力
 1. 罗云熙白鹿大婚大虐花絮
-1. INTO1正式解散
+1. 五一假期铁路部门加大运力
+1. 中国龙芯之母黄令仪逝世
 1. 勇士险胜国王
-1. 警方通报3人林场自杀
+1. INTO1正式解散
+1. 五一出游小众宝藏城市
 1. 张新成孙千360度转圈吻
-1. 电视剧龙城有多狗血
+1. 海军戴的面罩有什么用
+1. 首批中国公民撤离苏丹
 1. 法考主观题成绩公布
-1. 丫丫将回国
-1. 吾夫冥夜救了澹台烬
-1. 如何应对新冠二次感染
-1. 女子遛狗不牵绳还嚣张发言
-1. 警方辟谣墙内藏尸
-1. 财务把公司偷得只剩20块
 1. 翟欣欣
-1. 曼联7比6布莱顿
-1. 火灾现场群众用被子接住孩子
+1. 丫丫将回国
+1. 美国华裔女孩公交上被刺7刀
+1. 女子遛狗不牵绳还嚣张发言
+1. 警方通报3人林场自杀
+1. 财务把公司偷得只剩20块
+1. 二次感染比第一次更难受吗
+1. 三星被美国罚4000亿韩元
+1. 高校回应院长工作群发不雅照
 1. 网易起诉暴雪欠款3亿
 1. 淄博大哥给黄景瑜送烧烤
-1. 无人超市2男子拿编织袋偷东西
-1. 黎苏苏看着萧凛死了3次
-1. 中国龙芯之母黄令仪逝世
+1. 电视剧龙城有多狗血
+1. 吾夫冥夜救了澹台烬
 1. 冤枉女孩文具店发致歉公告
-1. 26岁女村支书爆火之后
-1. 雷军退出小米智能科技公司
+1. 法治日报评劣迹艺人复出
+1. 曼联7比6布莱顿
 1. 叶夕雾终于要跳城楼了
-1. 微软总裁称中国是ChatGPT竞争者
-1. 五一出游小众宝藏城市
+1. 火灾现场群众用被子接住孩子
+1. 如何应对新冠二次感染
 1. 白鹿演技
 1. 粉丝喊话戚薇不要再减肥
 1. 冤枉女孩商店门口被放白花
 1. 灭魂钉虐场面还是来了
-1. 田曦薇新剧全员恶人
-1. 河南一高校女副校长美出圈
 1. 杨利伟现身长空之王首映礼
-1. 灌篮高手 屏摄
-1. 漫长的季节小品式悬疑
+1. 河南一高校女副校长美出圈
+1. 无人超市2男子拿编织袋偷东西
+1. 王楚钦横扫马龙夺澳门赛冠军
+1. 26岁女村支书爆火之后
 1. 白鹿道歉
 1. 你给我的喜欢开播
+1. 微软总裁称中国是ChatGPT竞争者
+1. 漫长的季节小品式悬疑
+1. 灌篮高手 屏摄
+1. 叶檀自述乳腺癌经历
+1. 田曦薇新剧全员恶人
+1. 黎苏苏看着萧凛死了3次
+1. 京Q追尾鲁C反受盛情邀请
 1. 门诊阳性多是此前未感染者
-1. 王楚钦横扫马龙夺澳门赛冠军
-1. 广东迎雷雨和冷空气
-1. 向往的生活7定档
-1. 广厦淘汰广东
-1. 漫长的季节谁害死了沈墨
-1. 海军戴的面罩有什么用
-1. 蛋仔派对红小豆返场
-1. 挑战教路人跳flower
+1. 055大驱有多厉害
 
 ## 明星榜
 
@@ -76,7 +76,7 @@
 
 ## 音乐榜
 
-1. [麦浪（四月天特别版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/26f5501a6547411fa3fbedc592fed0ad) - yihuik苡慧
+1. [麦浪（四月天特别版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/26f5501a6547411fa3fbedc592fed0ad) - yihuik苡慧
 1. [月亮不曾奔我而来]() - 好多倩
 1. [You & Me]() - Fingazz ft.H-Slang & Choco
 1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
@@ -91,12 +91,12 @@
 1. [我想离开浪浪山 (大川版)]() - 大川Dietry
 1. [男人的累自己体会]() - 蛋蛋老弟
 1. [小城夏天]() - LBI利比
-1. [Careless Whisper](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/21704ef7a1204caeaad8d60c78671a06) - daddy's girl & creamy & 11:11 Music Group
+1. [Careless Whisper](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/21704ef7a1204caeaad8d60c78671a06) - daddy's girl & creamy & 11:11 Music Group
 1. [姑娘在远方 (主歌)]() - 柯柯柯啊
 1. [开心往前飞（开心超人联盟主题曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
-1. [streets x kiss it better - sped up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooUtB0CQboCTurArQwMFRbdUygDJHBnfjQ8ZGe) - INDRAGERSN
+1. [streets x kiss it better - sped up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooUtB0CQboCTurArQwMFRbdUygDJHBnfjQ8ZGe) - INDRAGERSN
 1. [假如爱有天意]() - 贺三
-1. [One More Last Time](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAzTlo0LUAdCAIhjktsKWcLAEUKmZwGcOoB1fy) - Henry Young & Ashley Alisha
+1. [One More Last Time](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAzTlo0LUAdCAIhjktsKWcLAEUKmZwGcOoB1fy) - Henry Young & Ashley Alisha
 1. [Rumors](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o81jReDoQBgklaFbYp8Qo44ZAUKfktC4nBFZTy) - Jake Miller
 1. [星星住进你眼睛]() - 刘至远、Mimmi
 1. [苦咖啡·唯一 (那奇片段-全网可听)]() - 那奇沃夫/KKECHO
@@ -112,18 +112,18 @@
 1. [晚风告白 (副歌)]() - 星野
 1. [Wake (Live)]() - Hillsong Young & Free
 1. [人间烟火（长段落）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
-1. [i walk this earth all by myself](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
+1. [i walk this earth all by myself](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
 1. [故事还长]() - 云汐
 1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
-1. [Heaven](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeNfUaiKKP4umZfAh40h7AP623iAXfHG1F2HQ) - Ailee
+1. [Heaven](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeNfUaiKKP4umZfAh40h7AP623iAXfHG1F2HQ) - Ailee
 1. [月亮之上（原版)]() - 凤凰传奇
 1. [热恋情节 (剪辑版)]() - 吴子健REmi,Kiya
 1. [SummerSweet](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1f607ae2eddd4d769089c69e1b5690b9) - NavyQuokka
 1. [写不完的温柔]() - G.E.M. 邓紫棋
 1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
 1. [粉色海洋]() - 周杰伦
-1. [Everytime We Touch](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAOaxedrHe4qFCgITGKmzbAraDQebDinoxzxEE) - FiO Baby
-1. [达尔文（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQuPQQmEgnCeZsgKQ78VBZjNVtegzBGpoSbQPD) - 林俊杰
+1. [Everytime We Touch](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAOaxedrHe4qFCgITGKmzbAraDQebDinoxzxEE) - FiO Baby
+1. [达尔文（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQuPQQmEgnCeZsgKQ78VBZjNVtegzBGpoSbQPD) - 林俊杰
 1. [推开世界的门]() - 杨乃文
 1. [是妈妈是女儿-60s]() - 黄绮珊/希林娜依·高
 
