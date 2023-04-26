@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-04-26 13:14:00 +0800`
+`更新时间：2023-04-26 14:18:34 +0800`
 
 ## 抖音热榜
 
 1. 警方回应网传梅姨被抓
-1. 丫丫正进行运输笼适应训练
-1. 我国高速飞车取得新进展
 1. 为什么直系亲属不能输血
+1. 我国高速飞车取得新进展
+1. 青岛震感
 1. 抖音发布原创保护指南
-1. 特雷杨绝杀
+1. 丫丫正进行运输笼适应训练
 1. 叶夕雾终于跳城楼了
-1. 王一博再现张子枫神走位
-1. 警察爸爸被仨娃扑倒在地
+1. 特雷杨绝杀
+1. 崩坏星穹铁道提前开服
 1. 台湾一出版社总编辑在上海被捕
+1. 淄博酒店回应房费只用付一半
 1. 申军良回应网传梅姨被抓
 1. 高校回应被刘畊宏放鸽子
+1. 宝马排水渠过弯式冲卡
+1. 单身女性冻卵案当事人发声
 1. 长月烬明第三世预告
+1. 广西宝马冲卡逃逸后续
 1. 教育厅回应高校雨天开动员会
-1. 淄博酒店回应房费只用付一半
 1. 劳荣枝律师回应被投诉炒作案件
 1. 专家：年轻女性要会与狼共舞
-1. 崩坏星穹铁道提前开服
-1. 苏丹首都民众逃难
-1. 星穹铁道模拟宇宙攻略
-1. 退休局长孙女炫富事件仍无结果
+1. 传下去罗云熙跳了黑月光
 1. 朴秀荣因状态不佳暂停行程
-1. 漫长的季节沈墨遭大爷抽打
+1. 罗云熙一字马坐姿
 1. 淄博F4
 1. 孙珍妮耿業庭flower手势舞
-1. 罗云熙一字马坐姿
-1. 巩俐再现经典裸唇
+1. 漫长的季节沈墨遭大爷抽打
+1. 退休局长孙女炫富事件仍无结果
+1. 警察爸爸被仨娃扑倒在地
 1. 大陆批捕杨智渊震动岛内
-1. 传下去罗云熙跳了黑月光
-1. 青岛震感
+1. 如何看待律师称梅姨被抓
 1. 13岁少女3天遭2次校园欺凌
-1. 特朗普模仿拜登迷路
-1. 俄轰炸机进行14小时巡航
-1. 当社牛成功登顶泰山
-1. 孙珍妮再现翩然名场面
-1. 拜登正式宣布竞选连任
-1. 陈伟霆章若楠cp感
-1. 律师称梅姨已被抓
 1. 我国全面实现不动产统一登记
-1. 乌士兵挑衅俄狙击手被击中
-1. 董宇辉俞敏洪对话刘永好
-1. 今年已经有这么多热门梗了
-1. 全网都在唱孤雏
-1. 实探爆火后的淄博
-1. 宫城17年成就40分钟
+1. 孙珍妮再现翩然名场面
 1. 长月烬明叶家父子战死
-1. 创二代女孩们开始接棒千亿资产
-1. 不动产统一登记是什么意思
-1. 赫罗纳4比2皇马
+1. 全网都在唱孤雏
+1. 苏丹首都民众逃难
+1. 王一博再现张子枫神走位
+1. 宫城17年成就40分钟
+1. 陈伟霆章若楠cp感
+1. 乌士兵挑衅俄狙击手被击中
+1. 今年已经有这么多热门梗了
+1. 拜登正式宣布竞选连任
+1. 长月烬明评分下降
+1. 俄轰炸机进行14小时巡航
+1. 董宇辉俞敏洪对话刘永好
 1. 沈阳下雪
+1. 实探爆火后的淄博
+1. 创二代女孩们开始接棒千亿资产
+1. 当社牛成功登顶泰山
+1. 赫罗纳4比2皇马
 
 ## 明星榜
 
@@ -76,14 +76,14 @@
 
 ## 音乐榜
 
-1. [麦浪（四月天特别版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/26f5501a6547411fa3fbedc592fed0ad) - yihuik苡慧
+1. [麦浪（四月天特别版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/26f5501a6547411fa3fbedc592fed0ad) - yihuik苡慧
 1. [月亮不曾奔我而来]() - 好多倩
 1. [You & Me]() - Fingazz ft.H-Slang & Choco
 1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
-1. [Cupid – Twin Ver. (FIFTY FIFTY) – Sped Up Version](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4b41lHCBEBDPBgkVXnRQkMgNI24lHZmReftkm) - sped up 8282
+1. [Cupid – Twin Ver. (FIFTY FIFTY) – Sped Up Version](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4b41lHCBEBDPBgkVXnRQkMgNI24lHZmReftkm) - sped up 8282
 1. [子莫格尼_剪辑版1_全网可听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
 1. [DADADA]() - WWPAT
-1. [七月上 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owFfIQx8VzC6jnb31IfFBZkHwtHgsBFAUTt4Ah) - Jam
+1. [七月上 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owFfIQx8VzC6jnb31IfFBZkHwtHgsBFAUTt4Ah) - Jam
 1. [我也有撑不住的时候]() - 派星儿
 1. [我记得]() - 赵雷
 1. [雪 Distance](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEC6ofzrsWAXLUBquIhIKiABUGbwVL0QByNUyw) - Capper
@@ -93,15 +93,15 @@
 1. [小城夏天]() - LBI利比
 1. [Careless Whisper](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/21704ef7a1204caeaad8d60c78671a06) - daddy's girl & creamy & 11:11 Music Group
 1. [姑娘在远方 (主歌)]() - 柯柯柯啊
-1. [开心往前飞（开心超人联盟主题曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
-1. [streets x kiss it better - sped up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooUtB0CQboCTurArQwMFRbdUygDJHBnfjQ8ZGe) - INDRAGERSN
+1. [开心往前飞（开心超人联盟主题曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
+1. [streets x kiss it better - sped up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooUtB0CQboCTurArQwMFRbdUygDJHBnfjQ8ZGe) - INDRAGERSN
 1. [假如爱有天意]() - 贺三
 1. [One More Last Time](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAzTlo0LUAdCAIhjktsKWcLAEUKmZwGcOoB1fy) - Henry Young & Ashley Alisha
-1. [Rumors](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o81jReDoQBgklaFbYp8Qo44ZAUKfktC4nBFZTy) - Jake Miller
+1. [Rumors](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o81jReDoQBgklaFbYp8Qo44ZAUKfktC4nBFZTy) - Jake Miller
 1. [星星住进你眼睛]() - 刘至远、Mimmi
 1. [苦咖啡·唯一 (那奇片段-全网可听)]() - 那奇沃夫/KKECHO
 1. [循迹 (琵琶版)]() - Jakub狗子哥
-1. [BABYDOLL (Speed)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
+1. [BABYDOLL (Speed)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
 1. [心里种下一颗种子哒啦滴哒啦]() - 贝乐虎
 1. [I Don’t Think That I Like Her](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okVBU3jUsjenWBXbgQQdGbDzetCZvD7PIKvGvI) - Charlie Puth
 1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
@@ -111,16 +111,16 @@
 1. [As the World Caves In - Wuki Remix](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owgneB9c8tQ7DbSnQdqiDb47QicfjoC7BBXZgZ) - Sarah Cothran & Wuki
 1. [晚风告白 (副歌)]() - 星野
 1. [Wake (Live)]() - Hillsong Young & Free
-1. [人间烟火（长段落）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
+1. [人间烟火（长段落）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
 1. [i walk this earth all by myself](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
 1. [故事还长]() - 云汐
-1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
-1. [Heaven](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeNfUaiKKP4umZfAh40h7AP623iAXfHG1F2HQ) - Ailee
+1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
+1. [Heaven](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeNfUaiKKP4umZfAh40h7AP623iAXfHG1F2HQ) - Ailee
 1. [月亮之上（原版)]() - 凤凰传奇
 1. [热恋情节 (剪辑版)]() - 吴子健REmi,Kiya
 1. [SummerSweet](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1f607ae2eddd4d769089c69e1b5690b9) - NavyQuokka
 1. [写不完的温柔]() - G.E.M. 邓紫棋
-1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
+1. [看得最远的地方（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
 1. [粉色海洋]() - 周杰伦
 1. [Everytime We Touch](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAOaxedrHe4qFCgITGKmzbAraDQebDinoxzxEE) - FiO Baby
 1. [达尔文（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQuPQQmEgnCeZsgKQ78VBZjNVtegzBGpoSbQPD) - 林俊杰
