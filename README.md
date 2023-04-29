@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-04-29 14:17:15 +0800`
+`更新时间：2023-04-29 15:14:59 +0800`
 
 ## 抖音热榜
 
-1. 五一假期预计2.4亿人次出游
 1. 淄博烧烤的爆火能变长红吗
-1. 祖国军舰上的饭菜真香
-1. 于文文小鬼合唱带我去找夜生活
 1. 程响淄博烧烤节
+1. 祖国军舰上的饭菜真香
 1. 丫丫的口粮浙江承包了
+1. 于文文小鬼合唱带我去找夜生活
+1. 薛之谦说车上没人认得他
 1. 大熊猫小丫因尿毒症去世
-1. 大熊猫保护研究中心发文
-1. C罗头球破门
-1. 首架接苏丹撤侨航班抵京
 1. 谢娜被孙红雷气哭了
-1. 长月烬明将在网飞上线
+1. 中国大使警告日本
+1. 首架接苏丹撤侨航班抵京
+1. 电影这么多年上映
+1. 电影奇门遁甲2上线
 1. 张天爱吊带黑丝绒短裙造型
+1. 汤唯宋慧乔朴恩斌林智妍合影
+1. 酒泉发生交通事故致6死12伤
+1. 满脑子都是挖呀挖呀挖
+1. 勇士主场不敌国王
 1. 向往的生活最后一季
 1. 李春江被解除主教练职务
-1. 满脑子都是挖呀挖呀挖
-1. 孙红雷说从小就怕宁静
-1. 电影这么多年上映
-1. 勇士主场不敌国王
+1. 五一假期景点现状
+1. 海军撤侨舰艇抵沙特获花束迎接
 1. 青年艺术家孙博离世
-1. 看长空之王笑泪燃爽炸
-1. 汤唯宋慧乔朴恩斌林智妍合影
 1. 男子摸邻座女孩大腿称一时冲动
-1. 日照文旅也出手了
-1. 五一的快乐让河南给你吧
+1. 陈赫乔装成功骗过五哈团
+1. 长月烬明将在网飞上线
 1. 王豆豆爱逗逗儿官宣结婚
-1. 音乐节主打的就是一个燃
+1. 人生路不熟范丞丞张婧仪婚礼
 1. 林小宅flower手势舞
-1. 北影节闭幕式红毯
-1. 罗云熙白鹿吐血戏花絮
+1. 五一的快乐让河南给你吧
+1. 巴基斯坦公民搭中国军舰撤离苏丹
 1. 宋慧乔百想视后
 1. 贝克汉姆自曝患严重强迫症
-1. 长月烬明开启仙门篇
+1. 罗云熙白鹿吐血戏花絮
 1. 林更新去了薛之谦演唱会
-1. 张碧晨希林娜依高合唱慢冷
+1. 日照文旅也出手了
 1. 天赐的声音新一期
 1. 12306众生平等
-1. 何炅片场自曝老花眼
 1. 美食城回应游客买炸串被骂
 1. 著名相声演员李建华去世
 1. 抖音数据揭秘淄博爆火源头
 1. 容祖儿汪苏泷合唱让这大雨全落下
 1. 李亚鹏称为自己的错误买单
 1. 薛之谦演唱会南京站
-1. 海军撤侨舰艇抵沙特获花束迎接
-1. 人生路不熟范丞丞张婧仪婚礼
-1. 巴基斯坦公民搭中国军舰撤离苏丹
-1. 林智妍获奖感言提到李到晛
-1. 陈赫乔装成功骗过五哈团
+1. 张元英姐姐撞脸周雨彤
 1. 你给我的喜欢太上头了
+1. 美国陆军停飞休整
+1. 张碧晨希林娜依高合唱慢冷
+1. 五一旅游大军已抵达重庆
+1. 杜兰特与耐克签下终身合同
+1. 林智妍获奖感言提到李到晛
 
 ## 明星榜
 
@@ -76,14 +76,14 @@
 
 ## 音乐榜
 
-1. [孤雏](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0pxgkL6nYiYoEOCCpePQWZ97BbfklBQD6g7tQ) - AGA
+1. [孤雏](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0pxgkL6nYiYoEOCCpePQWZ97BbfklBQD6g7tQ) - AGA
 1. [有风无风都不自由 (新版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osNym1s0WazDjbdhoafXZIJ8AR1aUwAGbNOoJB) - 奶栗
 1. [JNK Session 05]() - 格莱美汇（ClubGalame）&Taisheng Music
 1. [世界が終るまでは…(直到世界尽头)]() - 章智捷+老尹
-1. [ไม่ได้ก็ไม่เอา - Speed Ver.](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMsFyA3EBDiUgOWxcdofhRnrIAWth1ab8wzqWo) - PiXXiE
-1. [混的伦](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o88RfmpDLFzt7QehJC8HFVvnAwgHWDfTbK6ar0) - 混的伦
+1. [ไม่ได้ก็ไม่เอา - Speed Ver.](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMsFyA3EBDiUgOWxcdofhRnrIAWth1ab8wzqWo) - PiXXiE
+1. [混的伦](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o88RfmpDLFzt7QehJC8HFVvnAwgHWDfTbK6ar0) - 混的伦
 1. [山茶花读不懂白玫瑰吉他版-全网可听]() - 柯柯柯啊
-1. [怎么这么可爱 (新版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0QnOqxfDoJdobegkiyCLbmbdzcZBgtBGQBTYa) - 铁骨曾曾
+1. [怎么这么可爱 (新版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0QnOqxfDoJdobegkiyCLbmbdzcZBgtBGQBTYa) - 铁骨曾曾
 1. [山茶花读不懂白玫瑰](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
 1. [我用情付诸流水爱比不爱可悲]() - 精彩轩迪
 1. [不遗憾(前奏降调版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4MEoIRUznHcvA7HwhNiBQLbLfbXHyAW7AMsxl) - 自然力量
@@ -98,21 +98,21 @@
 1. [我曾遇到一束光 (氛围版)]() - 叶斯淳
 1. [野花做了场玫瑰花的梦(剪辑版)]() - 半吨兄弟
 1. [该见面了 (新版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oESOJM1usbkCWlFm3NDABeLtZBHneghQwIbcg5) - 奶屁日记
-1. [Early Morning Dreams](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okxnIabWBzhQhwYbIChANfzBWAomZUw1sQ7a3D) - 何丹彤的日常
+1. [Early Morning Dreams](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okxnIabWBzhQhwYbIChANfzBWAomZUw1sQ7a3D) - 何丹彤的日常
 1. [One More Light](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okIBCInhecoGOE5h6ZvqCBYtfXCIMQEbgkRKgD) - Linkin Park
 1. [去有风的地方]() - 郁可唯
 1. [嘟嘟嘟嘟嘟]() - 王亚鹏
-1. [One More Light](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osBegWYfZf69rbfD6wznYfRnpKhWjcIAA7eFUn) - Linkin Park
-1. [喜欢什么就追赶什么](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAQH4jotaBFq0gZUtcoCd8DBstnPRvdtfbmkfQ) - 马犇犇
-1. [五月天_火鸡 (全网已上线)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEtOMSQZstjlJ4nfBEgeqN29IbWjkmDBrFtF2C) - 火鸡
-1. [时间会验证我多爱你呀 (0.8X)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o42zPHAqQeHdW1adoCmY7g4qepQ9HD2hEfFQ1o) - 草莓味的软妹
+1. [One More Light](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osBegWYfZf69rbfD6wznYfRnpKhWjcIAA7eFUn) - Linkin Park
+1. [喜欢什么就追赶什么](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAQH4jotaBFq0gZUtcoCd8DBstnPRvdtfbmkfQ) - 马犇犇
+1. [五月天_火鸡 (全网已上线)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEtOMSQZstjlJ4nfBEgeqN29IbWjkmDBrFtF2C) - 火鸡
+1. [时间会验证我多爱你呀 (0.8X)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o42zPHAqQeHdW1adoCmY7g4qepQ9HD2hEfFQ1o) - 草莓味的软妹
 1. [你不明白 (苦Ferry版)]() - Joysaaaa
-1. [Brooklyn Love](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/65eab8ad9e394a839ce45609f503f887) - Lolo Zouaï
+1. [Brooklyn Love](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/65eab8ad9e394a839ce45609f503f887) - Lolo Zouaï
 1. [迷失的季节]() - 武勋Wacko (BoosterX)
 1. [黑月光 (《长月烬明》电视剧片尾曲)]() - 张碧晨/毛不易
 1. [小城夏天]() - LBI利比
-1. [被爱就像中彩票 (新版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUiaDgtgioFfRr9GGGf4Dbd9AADfHCnOHQgzM8) - 染屿
-1. [Hot](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63be641febf4335a8996c8a877dee1c) - Liili
+1. [被爱就像中彩票 (新版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUiaDgtgioFfRr9GGGf4Dbd9AADfHCnOHQgzM8) - 染屿
+1. [Hot](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63be641febf4335a8996c8a877dee1c) - Liili
 1. [生活总要继续]() - 黑左
 1. [我这套造型一定会风靡万千少女 (DJ版)]() - 杀手.
 1. [山茶花读不懂白玫瑰_剪辑版1](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osZvbBubCCKUXDTjlkQeDUQ2IBebQ3DakgnRt4) - lil笑笑
@@ -122,9 +122,9 @@
 1. [风浪越大鱼越贵](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owj7fTDboDGiB6etQIrsrBC9dZ8E4QbpTgznxD) - 李文星
 1. [金风玉露-响指版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM1T5BsMKoH3lhMysHfNAAwIdQGsCHIoskzJWd) - 旅行新蜜蜂乐队
 1. [自由行走的花（BGM版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAbMGggCBlBDJSgS1NnHQkQ3IhfuflZ708ctJV) - 自然力量
-1. [无语死了](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/196d753259104d31a6a43f352b7ff779) - 李袈
+1. [无语死了](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/196d753259104d31a6a43f352b7ff779) - 李袈
 1. [我懂你的特别]() - 未归
-1. [2023福气满满](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4jdhkVtCnD0EgLuM6BBb8ecrBQ30QtKZT2dfd) - 胡大愣
+1. [2023福气满满](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4jdhkVtCnD0EgLuM6BBb8ecrBQ30QtKZT2dfd) - 胡大愣
 1. [偏爱（钢琴版）]() - 风起词+顾依辰
 
 ## 品牌榜
