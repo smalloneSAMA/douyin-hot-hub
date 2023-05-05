@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-05-05 19:12:37 +0800`
+`更新时间：2023-05-05 20:25:17 +0800`
 
 ## 抖音热榜
 
-1. 日本6.3级地震
-1. 秋瓷炫李彩桦世纪拥抱
-1. 中国建设首个商业航天发射场
-1. 鹿晗说黄子韬状态像发疯
-1. 挖呀挖呀挖是什么梗
 1. 蔡徐坤被判支付300万违约金
 1. 汪苏泷张碧晨唱亲爱的那不是爱情
-1. 7人吃自助炫了300多只螃蟹
-1. 厦门机场通报摆渡车撞航站楼
-1. 亚运电竞国家集训队名单公布
-1. 人民网评淄博鸭头小哥落泪
+1. 中国建设首个商业航天发射场
 1. 男子在澳门赌城酒店内身亡
+1. 同事否认挖呀挖黄老师辞职
+1. 鹿晗说黄子韬状态像发疯
+1. 完美世界七神下界结束
+1. 7人吃自助炫了300多只螃蟹
+1. 人民网评淄博鸭头小哥落泪
+1. 电竞国家集训队名单公布
+1. 谁还没听龚琳娜唱爱如火
 1. 把烦恼都摇出来
+1. 身亡情侣家属已赶赴巴厘岛
 1. 男子在银行掏出1300张身份证
 1. 乘风2023开播
 1. 五月天演唱会官宣
 1. 秋瓷炫初舞台唱无法原谅
+1. 日本6.3级地震
+1. 桃子老师现场教学挖呀挖呀挖
 1. 勇士大胜湖人总分1比1
-1. 苏群：湖人演过头了
+1. Ella再唱出道曲恋人未满
+1. 谢娜乘风初舞台菠萝菠萝蜜
 1. 张嘉倪唱歌镜头切给吴倩
-1. 于文文吉克隽逸合唱
-1. 朱珠问回家的诱惑是什么
-1. 蔡少芬谢娜Ella好吵
-1. 为何挖呀挖童谣能火爆全网
+1. 亚翰刘畊宏百分大战开打
 1. 巴厘岛情侣身亡酒店仍营业
 1. 孙坚中戏同学聚会vlog
 1. 乌空军承认击落自家无人机
-1. 完美世界七神下界结束
+1. 于文文吉克隽逸合唱
 1. 肖战看小抄
-1. 谁还没听龚琳娜唱爱如火
-1. 桃子老师现场教学挖呀挖呀挖
-1. 谢娜乘风初舞台菠萝菠萝蜜
-1. 亚翰刘畊宏百分大战开打
-1. 颖儿为新剧剪掉长发
-1. Ella再唱出道曲恋人未满
-1. 气象版挖呀挖呀挖
+1. 秋瓷炫李彩桦世纪拥抱
+1. 为何挖呀挖童谣能火爆全网
 1. 美依礼芽初舞台极乐净土
 1. 跟毛孩子一起挖呀挖呀挖
-1. 老师扔摔致4岁男童颅脑损伤
+1. 朱珠问回家的诱惑是什么
+1. 气象版挖呀挖呀挖
+1. 蔡少芬谢娜Ella好吵
 1. 于天奇挑战湖北武警
-1. 小鬼刘柏辛改编版爱如火
-1. 银河护卫队3上映
-1. 乘高铁遭孩子家长扇耳光后续
-1. NBA官方夺冠概率
+1. 张碧晨开往早晨的午夜
+1. 老师扔摔致4岁男童颅脑损伤
+1. 挖呀挖呀挖是什么梗
+1. 熊出没版挖呀挖呀挖
+1. 给孩子挖得哇哇哭
+1. 苏群：湖人演过头了
+1. 颖儿为新剧剪掉长发
 1. 完美世界再见已是荒天帝
-1. 台军狂言攻击解放军四大军舰
-1. 那不勒斯夺得意甲冠军
-1. 雄鹿炒掉主教练布登霍尔泽
+1. 小鬼刘柏辛改编版爱如火
+1. NBA官方夺冠概率
+1. 五一河南旅游总收入位列前三
 1. 澹台烬黎苏苏吻戏花絮
-1. 长月烬明妺女姒婴姐妹情深
+1. 接下来江苏人餐桌上的食物
 
 ## 明星榜
 
@@ -76,56 +76,56 @@
 
 ## 音乐榜
 
-1. [孤雏](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0pxgkL6nYiYoEOCCpePQWZ97BbfklBQD6g7tQ) - AGA
-1. [有风无风都不自由 (新版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osNym1s0WazDjbdhoafXZIJ8AR1aUwAGbNOoJB) - 奶栗
-1. [JNK Session 05]() - 格莱美汇（ClubGalame）&Taisheng Music
-1. [世界が終るまでは…(直到世界尽头)]() - 章智捷+老尹
-1. [ไม่ได้ก็ไม่เอา - Speed Ver.](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMsFyA3EBDiUgOWxcdofhRnrIAWth1ab8wzqWo) - PiXXiE
-1. [混的伦](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o88RfmpDLFzt7QehJC8HFVvnAwgHWDfTbK6ar0) - 混的伦
-1. [山茶花读不懂白玫瑰吉他版-全网可听]() - 柯柯柯啊
-1. [怎么这么可爱 (新版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0QnOqxfDoJdobegkiyCLbmbdzcZBgtBGQBTYa) - 铁骨曾曾
-1. [山茶花读不懂白玫瑰](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
-1. [不遗憾(前奏降调版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4MEoIRUznHcvA7HwhNiBQLbLfbXHyAW7AMsxl) - 自然力量
-1. [Cupid (Twin Ver.)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oATDVnFvoCQu47dtyBPDPI0qGQEZgf88kUBYeb) - FIFTY FIFTY
-1. [心里种下一颗种子哒啦滴哒啦]() - 贝乐虎
-1. [人间这一遭（剪辑版2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocEhqgscITFWmsEA3mOzNg2sDgBfQE0QBCTyUA) - 木杰
-1. [子莫格尼_剪辑版1_全网可听](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
-1. [我寄了张卡片(热播版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocQFVZBkZLZO0e9eZYpnngdtQLBbC2YkUorTDJ) - 浪漫音乐馆
-1. [Careless Whisper](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/21704ef7a1204caeaad8d60c78671a06) - daddy's girl & creamy & 11:11 Music Group
-1. [姑娘在远方 (剪辑版)]() - Li敖
-1. [算了吧（1coco Remix）（剪辑版1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okZBI8ANSqubGf3AGjfMCSN4o9Qtoi27nH5sDg) - 1coco
-1. [我曾遇到一束光 (氛围版)]() - 叶斯淳
-1. [野花做了场玫瑰花的梦(剪辑版)]() - 半吨兄弟
-1. [该见面了 (新版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oESOJM1usbkCWlFm3NDABeLtZBHneghQwIbcg5) - 奶屁日记
-1. [Early Morning Dreams](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okxnIabWBzhQhwYbIChANfzBWAomZUw1sQ7a3D) - 何丹彤的日常
-1. [One More Light](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okIBCInhecoGOE5h6ZvqCBYtfXCIMQEbgkRKgD) - Linkin Park
-1. [去有风的地方]() - 郁可唯
-1. [嘟嘟嘟嘟嘟]() - 王亚鹏
-1. [One More Light](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osBegWYfZf69rbfD6wznYfRnpKhWjcIAA7eFUn) - Linkin Park
-1. [喜欢什么就追赶什么](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAQH4jotaBFq0gZUtcoCd8DBstnPRvdtfbmkfQ) - 马犇犇
+1. [子莫格尼_剪辑版1_全网可听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
+1. [ไม่ได้ก็ไม่เอา - Speed Ver.](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMsFyA3EBDiUgOWxcdofhRnrIAWth1ab8wzqWo) - PiXXiE
 1. [五月天_火鸡 (全网已上线)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEtOMSQZstjlJ4nfBEgeqN29IbWjkmDBrFtF2C) - 火鸡
-1. [时间会验证我多爱你呀 (0.8X)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o42zPHAqQeHdW1adoCmY7g4qepQ9HD2hEfFQ1o) - 草莓味的软妹
-1. [你不明白 (苦Ferry版)]() - Joysaaaa
-1. [Brooklyn Love](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/65eab8ad9e394a839ce45609f503f887) - Lolo Zouaï
-1. [迷失的季节]() - 武勋Wacko (BoosterX)
-1. [黑月光 (《长月烬明》电视剧片尾曲)]() - 张碧晨/毛不易
+1. [我生性爱自由]() - 阿吉野马
+1. [I'll Do It (新版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0IcAyFWnAB1XwscIWMB9fhApNzcTIOBbNadNo) - 绔子一
+1. [山茶花读不懂白玫瑰](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
+1. [孤雏](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0pxgkL6nYiYoEOCCpePQWZ97BbfklBQD6g7tQ) - AGA
+1. [One More Light](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okIBCInhecoGOE5h6ZvqCBYtfXCIMQEbgkRKgD) - Linkin Park
+1. [有风无风都不自由 (新版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osNym1s0WazDjbdhoafXZIJ8AR1aUwAGbNOoJB) - 奶栗
+1. [人间这一遭（剪辑版2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocEhqgscITFWmsEA3mOzNg2sDgBfQE0QBCTyUA) - 木杰
+1. [帶我去找夜生活]() - 告五人
+1. [i walk this earth all by myself](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
+1. [我想离开浪浪山 (大川版)]() - 大川Dietry
 1. [小城夏天]() - LBI利比
-1. [被爱就像中彩票 (新版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUiaDgtgioFfRr9GGGf4Dbd9AADfHCnOHQgzM8) - 染屿
-1. [Hot](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63be641febf4335a8996c8a877dee1c) - Liili
-1. [生活总要继续]() - 黑左
-1. [我这套造型一定会风靡万千少女 (DJ版)]() - 杀手.
-1. [山茶花读不懂白玫瑰_剪辑版1](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osZvbBubCCKUXDTjlkQeDUQ2IBebQ3DakgnRt4) - lil笑笑
-1. [感谢你曾经来过（抖音新曲版） （剪辑版）]() - 佐藤遥希
-1. [雨过天不晴 (剪辑版)]() - 柯柯柯啊
+1. [麦浪（四月天特别版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/26f5501a6547411fa3fbedc592fed0ad) - yihuik苡慧
+1. [浪漫黄昏](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a2e4e0b8cf8b4cc0a6bfed7cd21bd5a0) - sour milk & 7Evo
+1. [晚风心里吹(纯享版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0IIgiLTsCfQeF8zKDxoVGedrSaDAYbBk43nDM) - 南樱
+1. [Doin' the Limbo]() - James Brown & His Famous Flames
+1. [心里种下一颗种子哒啦滴哒啦]() - 贝乐虎
+1. [Cupid (Twin Ver.)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oATDVnFvoCQu47dtyBPDPI0qGQEZgf88kUBYeb) - FIFTY FIFTY
+1. [去有风的地方]() - 郁可唯
+1. [浪漫的不一定是夏天，而是有你的夏天 (呜呜呜版)]() - 13C
+1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
+1. [Cruel Summer](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b35ad770e6d4495abefaa493fa46b555) - Taylor Swift
+1. [說好的幸福呢]() - 周杰伦
+1. [Wake (Live)]() - Hillsong Young & Free
+1. [春不晚（剪辑版）]() - 李常超（Lao乾媽）
+1. [Reminder](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM0aGfgUDLnCWQ1ejTBuhjP7V1cBZtOlIUstbg) - The Weeknd
+1. [我记得]() - 赵雷
+1. [One More Light](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osBegWYfZf69rbfD6wznYfRnpKhWjcIAA7eFUn) - Linkin Park
+1. [You & Me]() - Fingazz ft.H-Slang & Choco
 1. [月亮之上（原版)]() - 凤凰传奇
-1. [风浪越大鱼越贵](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owj7fTDboDGiB6etQIrsrBC9dZ8E4QbpTgznxD) - 李文星
-1. [金风玉露-响指版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM1T5BsMKoH3lhMysHfNAAwIdQGsCHIoskzJWd) - 旅行新蜜蜂乐队
-1. [自由行走的花（BGM版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAbMGggCBlBDJSgS1NnHQkQ3IhfuflZ708ctJV) - 自然力量
-1. [无语死了](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/196d753259104d31a6a43f352b7ff779) - 李袈
-1. [我懂你的特别]() - 未归
-1. [2023福气满满](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4jdhkVtCnD0EgLuM6BBb8ecrBQ30QtKZT2dfd) - 胡大愣
-1. [偏爱（钢琴版）]() - 风起词+顾依辰
-1. [开心往前飞（开心超人联盟主题曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
+1. [恶作剧]() - 林依晨
+1. [BANKAI](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bca9b7155f2746f3b27fb85c4d1eab4e) - Aega
+1. [故事还长]() - 云汐
+1. [Rumors](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o81jReDoQBgklaFbYp8Qo44ZAUKfktC4nBFZTy) - Jake Miller
+1. [Felicity](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/16b98e9eac6e4aebba5e87968090de94) - Isaac Shepard
+1. [Jellyfish]() - 落日飛車 Sunset Rollercoaster
+1. [肯定 (剪辑版1)]() - RE-D+是二哈ya+Masta
+1. [Hot](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63be641febf4335a8996c8a877dee1c) - Liili
+1. [Favorite Song - Sped Up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oA2Wq8BZQnjf9UtLggrhCkwuQbe7bYBDytoCod) - Toosii
+1. [TURN&BRING IT BACK（Prod.Gr33nart Beats）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1821b5f8d0384f7ba8b99ffaa9d30fb8) - younggoldwontlost
+1. [Past Lives](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e75cfe0f1fa54d25951fc9e1411226aa) - Martin Arteta & creamy & 11:11 Music Group
+1. [catch me]() - JVKE
+1. [晚风遇见你]() - 陆杰
+1. [Pebble（前奏）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5e6913036e674b34b92df6abd1361f00) - BlackDD
+1. [If We Ever Broke Up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8onj5HDk0ImtBmO0URBfeyCDXQJMYkQ1gb8Zy) - Mae Stephens
+1. [One More Last Time](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAzTlo0LUAdCAIhjktsKWcLAEUKmZwGcOoB1fy) - Henry Young & Ashley Alisha
+1. [in heat. - ALEJANDRO Remix](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/48f0438d83da47cc95579af06ff42588) - Hentai Xander
+1. [Who Says](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f6a468914cf243f68b7f047bad22afa5) - Selena Gomez & The Scene
 
 ## 品牌榜
 
