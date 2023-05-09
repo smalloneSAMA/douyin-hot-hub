@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-05-09 12:16:31 +0800`
+`更新时间：2023-05-09 13:13:36 +0800`
 
 ## 抖音热榜
 
@@ -57,7 +57,6 @@
 1. 来自吊牌的惊吓
 1. 秦刚回应中美会否因台开战
 1. mlxg回应没参加Letme婚礼
-1. 狗狗过吊桥吓到腿抖
 1. 音乐节方否认赵今麦插队
 1. 广东人的夜生活
 1. 广州一小区有黄猄出没
@@ -76,21 +75,21 @@
 
 ## 音乐榜
 
-1. [子莫格尼_剪辑版1_全网可听](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
-1. [ไม่ได้ก็ไม่เอา - Speed Ver.](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMsFyA3EBDiUgOWxcdofhRnrIAWth1ab8wzqWo) - PiXXiE
+1. [子莫格尼_剪辑版1_全网可听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
+1. [ไม่ได้ก็ไม่เอา - Speed Ver.](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMsFyA3EBDiUgOWxcdofhRnrIAWth1ab8wzqWo) - PiXXiE
 1. [五月天_火鸡 (全网已上线)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEtOMSQZstjlJ4nfBEgeqN29IbWjkmDBrFtF2C) - 火鸡
 1. [我生性爱自由]() - 阿吉野马
-1. [I'll Do It (新版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0IcAyFWnAB1XwscIWMB9fhApNzcTIOBbNadNo) - 绔子一
-1. [山茶花读不懂白玫瑰](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
-1. [孤雏](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0pxgkL6nYiYoEOCCpePQWZ97BbfklBQD6g7tQ) - AGA
-1. [One More Light](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okIBCInhecoGOE5h6ZvqCBYtfXCIMQEbgkRKgD) - Linkin Park
-1. [有风无风都不自由 (新版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osNym1s0WazDjbdhoafXZIJ8AR1aUwAGbNOoJB) - 奶栗
-1. [人间这一遭（剪辑版2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocEhqgscITFWmsEA3mOzNg2sDgBfQE0QBCTyUA) - 木杰
+1. [I'll Do It (新版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0IcAyFWnAB1XwscIWMB9fhApNzcTIOBbNadNo) - 绔子一
+1. [山茶花读不懂白玫瑰](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
+1. [孤雏](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0pxgkL6nYiYoEOCCpePQWZ97BbfklBQD6g7tQ) - AGA
+1. [One More Light](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okIBCInhecoGOE5h6ZvqCBYtfXCIMQEbgkRKgD) - Linkin Park
+1. [有风无风都不自由 (新版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osNym1s0WazDjbdhoafXZIJ8AR1aUwAGbNOoJB) - 奶栗
+1. [人间这一遭（剪辑版2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocEhqgscITFWmsEA3mOzNg2sDgBfQE0QBCTyUA) - 木杰
 1. [帶我去找夜生活]() - 告五人
 1. [i walk this earth all by myself](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
 1. [我想离开浪浪山 (大川版)]() - 大川Dietry
 1. [小城夏天]() - LBI利比
-1. [麦浪（四月天特别版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/26f5501a6547411fa3fbedc592fed0ad) - yihuik苡慧
+1. [麦浪（四月天特别版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/26f5501a6547411fa3fbedc592fed0ad) - yihuik苡慧
 1. [浪漫黄昏](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a2e4e0b8cf8b4cc0a6bfed7cd21bd5a0) - sour milk & 7Evo
 1. [晚风心里吹(纯享版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0IIgiLTsCfQeF8zKDxoVGedrSaDAYbBk43nDM) - 南樱
 1. [Doin' the Limbo]() - James Brown & His Famous Flames
@@ -116,7 +115,7 @@
 1. [Jellyfish]() - 落日飛車 Sunset Rollercoaster
 1. [肯定 (剪辑版1)]() - RE-D+是二哈ya+Masta
 1. [Hot](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63be641febf4335a8996c8a877dee1c) - Liili
-1. [Favorite Song - Sped Up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oA2Wq8BZQnjf9UtLggrhCkwuQbe7bYBDytoCod) - Toosii
+1. [Favorite Song - Sped Up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oA2Wq8BZQnjf9UtLggrhCkwuQbe7bYBDytoCod) - Toosii
 1. [TURN&BRING IT BACK（Prod.Gr33nart Beats）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1821b5f8d0384f7ba8b99ffaa9d30fb8) - younggoldwontlost
 1. [Past Lives](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e75cfe0f1fa54d25951fc9e1411226aa) - Martin Arteta & creamy & 11:11 Music Group
 1. [catch me]() - JVKE
