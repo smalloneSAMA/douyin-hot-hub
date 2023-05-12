@@ -11,28 +11,31 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-05-12 20:25:10 +0800`
+`更新时间：2023-05-12 21:16:40 +0800`
 
 ## 抖音热榜
 
-1. 李大钊孙女去世
 1. 汶川地震真实录像
+1. 特斯拉召回超110万辆车
 1. 神十五航天员开门拿快递了
+1. 巴警方击毙强闯中企武装分子
 1. 汶川地震15周年
-1. OPPO终止自研芯片业务
+1. 武警部队公开招聘
 1. 掘金4:2太阳晋级西决
+1. 李巧再次回应开会视频爆火
 1. 孟羽童称在格力月薪没过万
-1. 李国庆：签孟羽童保底要400万
-1. 维金斯肋骨骨折
-1. 平凡之路亲情线好戳
+1. 外交部回应卢沙野将被召回传言
+1. 李大钊孙女去世
 1. 让学生跪地爬行教师已停职
 1. 外交部：美想给中国送发达国家帽子
+1. 维金斯肋骨骨折
+1. OPPO终止自研芯片业务
 1. 如何看待AI孙燕姿爆火
 1. 张碧晨王赫野合唱字字句句
 1. 广州海关查获1881枚纳粹徽章
+1. 女子吃自助偷打包补交4万多
 1. 如果美依礼芽浪姐飙青鸟
 1. 老人被卷入运渣车底碾压身亡
-1. Bin三连MVP
 1. GAI汪苏泷爱江山更爱美人
 1. 男子开铲车马路乱撞被控制
 1. 斗罗大陆2开机
@@ -43,28 +46,25 @@
 1. 霍华德道歉并辩解
 1. 邓紫棋在周杰伦演唱会点歌
 1. 临时抱佛脚是什么梗
-1. AI孙燕姿视频涉嫌这两项侵权
-1. 大美西安 喜迎峰会
 1. 长月烬明后劲好大
-1. 520给男友送什么
-1. 校方回应13岁学生开公司传闻
+1. 李国庆：签孟羽童保底要400万
+1. 小行星撞地球的概率有多大
 1. 76人3:3凯尔特人
 1. 奥尼尔巴克利嘲笑浓眉
-1. 李巧再次回应开会视频爆火
-1. 汶川地震15勇士惊天一跳
-1. 专家建议给生孩子的人发薪水
 1. 28岁女孩演了24年穆桂英
-1. 中方代表将出访俄乌等5国
-1. YG新女团出道成员
+1. 520给男友送什么
 1. 火车命案凶手或将刀藏下腹部
-1. 李嘉诚再度减持邮储银行
-1. 小行星撞地球的概率有多大
-1. 你给我的喜欢里女性的力量
+1. 中方代表将出访俄乌等5国
 1. 寻找你的山茶花少年
+1. 平凡之路亲情线好戳
+1. 汶川地震15勇士惊天一跳
+1. AI孙燕姿视频涉嫌这两项侵权
+1. 你给我的喜欢里女性的力量
 1. 川大再回应部分男厕改女厕
-1. UP主吐槽浪姐4惹争议
-1. 汶川地震获救少年成了子弟兵
+1. 李嘉诚再度减持邮储银行
+1. 北京 大雨
 1. 卧底警花开播
+1. YG新女团出道成员
 
 ## 明星榜
 
@@ -79,14 +79,14 @@
 1. [烦恼进入我的耳朵里（剪辑版2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osESCgpxnAf0jBeRgDblCpAxn8bQHkAtNPYZao) - 曾哥儿
 1. [在小小的花园里面挖呀挖呀挖](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os2adb4RkAEzn5BMQfADFeCEwBoeISLEIHaiBx) - 李袈
 1. [五月天_火鸡 (全网已上线)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEtOMSQZstjlJ4nfBEgeqN29IbWjkmDBrFtF2C) - 火鸡
-1. [Past times (新版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0WCRoIwo7Bfbhu3casaLGNdI6zWAA1MgOXyT1) - 静怡放狗屁
+1. [Past times (新版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0WCRoIwo7Bfbhu3casaLGNdI6zWAA1MgOXyT1) - 静怡放狗屁
 1. [我生性爱自由]() - 阿吉野马
-1. [Beautiful Girls (热门BGM)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osAnWrFEDhzdY58AhSIVW9ebeevMKRrffQMkVQ) - 杀肆
+1. [Beautiful Girls (热门BGM)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osAnWrFEDhzdY58AhSIVW9ebeevMKRrffQMkVQ) - 杀肆
 1. [一个像夏天一个像秋天（房猫剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a5a649d88ef0437b918efc8be7005a59) - 房东的猫
 1. [再也没有(萨克斯版)]() - 玄冥二老
 1. [曾经我看山是山 (新版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok5CBQbnQh6eZTktkPdkQHqJ5BHCzD4e87VuQg) - 小苏菲
-1. [You & Me (0.9x)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMDBqYBbiA4keBCcQVtqZa6ngD8tQedzAyQvY3) - 迅猛龙
-1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
+1. [You & Me (0.9x)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMDBqYBbiA4keBCcQVtqZa6ngD8tQedzAyQvY3) - 迅猛龙
+1. [可能（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
 1. [If We Ever Broke Up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8onj5HDk0ImtBmO0URBfeyCDXQJMYkQ1gb8Zy) - Mae Stephens
 1. [是妈妈是女儿-60s]() - 黄绮珊/希林娜依·高
 1. [One More Light](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okIBCInhecoGOE5h6ZvqCBYtfXCIMQEbgkRKgD) - Linkin Park
@@ -94,12 +94,12 @@
 1. [Cupid – Twin Ver. (FIFTY FIFTY) – Sped Up Version](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4b41lHCBEBDPBgkVXnRQkMgNI24lHZmReftkm) - sped up 8282
 1. [落日亲吻银光海(剪辑版)]() - 皮卡丘多多
 1. [我记得]() - 赵雷
-1. [青春容颜不再 (新版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQ4qwOozxA1Nkjkfh1XmRBIEWADUN6ow8sUSrU) - 小柒同学
+1. [青春容颜不再 (新版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQ4qwOozxA1Nkjkfh1XmRBIEWADUN6ow8sUSrU) - 小柒同学
 1. [Seve(我身材这么好)]() - 温浪漫
 1. [今生相遇](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bedfd34a62654678ac04ce86e1c19051) - 情人
 1. [浪漫黄昏](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a2e4e0b8cf8b4cc0a6bfed7cd21bd5a0) - sour milk & 7Evo
 1. [二两仙]() - 王若熙
-1. [上心 (新版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogDZOOoWEJmV7jn7BgbaePCQdPQPFqetB2Kkyt) - 许呦
+1. [上心 (新版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogDZOOoWEJmV7jn7BgbaePCQdPQPFqetB2Kkyt) - 许呦
 1. [帶我去找夜生活]() - 告五人
 1. [我也有撑不住的时候](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okmtBE1dkIBhwxeiBJeDgQnQtICZWIJUI2bjQr) - 派星儿
 1. [ไม่ได้ก็ไม่เอา - Speed Ver.](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMsFyA3EBDiUgOWxcdofhRnrIAWth1ab8wzqWo) - PiXXiE
@@ -109,19 +109,19 @@
 1. [肯定 (剪辑版1)]() - RE-D+是二哈ya+Masta
 1. [风驶过的声音是](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/occkRiDYQBgkBAPb3JeQ9eBoiwOlItCRnBpZbZ) - Xyisx
 1. [恶作剧]() - 林依晨
-1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
+1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
 1. [GO HARD]() - TWICE
 1. [呼叫酒友](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osia2bvWPAlznRLoaCkDFeCgfDF8QMXfIRwGOo) - 尹大美
 1. [可是后来的我们并没有在爱过 (纯音乐版)]() - 梅尼耶
 1. [You & Me]() - Fingazz ft.H-Slang & Choco
 1. [Reminder - Edit](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQnDPgSAYCGg7QD3sbzfaMVDI7AsfAsuL1FxeI) - The Weeknd
-1. [揉碎夜的光 Zy版 _汽水音乐听](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogKyLGzAIAAhZlBJNWBwMNAfaPZQU1uOyX2so5) - Zy
+1. [揉碎夜的光 Zy版 _汽水音乐听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogKyLGzAIAAhZlBJNWBwMNAfaPZQU1uOyX2so5) - Zy
 1. [Wake (Live)]() - Hillsong Young & Free
 1. [去有风的地方]() - 郁可唯
 1. [She's A 10 But...](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIbUHBsZzzWCvzjbfV3N0qwacFtshbgQyepBI) - ARTAN & Spencer Elmer
 1. [i walk this earth all by myself](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
 1. [A Thousand Miles]() - Josh Vietti
-1. [Children of the Dark (2021)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/43c78522b6434795bdfd761c61768ad9) - Mono Inc.
+1. [Children of the Dark (2021)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/43c78522b6434795bdfd761c61768ad9) - Mono Inc.
 1. [Why Why Why]() - 王嘉尔
 1. [Not Angry](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
 1. [TURN&BRING IT BACK（Prod.Gr33nart Beats）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1821b5f8d0384f7ba8b99ffaa9d30fb8) - younggoldwontlost
