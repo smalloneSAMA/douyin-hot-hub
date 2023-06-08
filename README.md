@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-06-09 03:13:10 +0800`
+`更新时间：2023-06-09 04:14:18 +0800`
 
 ## 抖音热榜
 
@@ -19,13 +19,12 @@
 1. 多方信源称Uzi加盟EDG
 1. 前5月中国外贸稳定增长
 1. 李立群新片遭遇气场压制
-1. Uzi被曝与EDG沟通
 1. 考生和家长赌气不带准考证
+1. 研究生在女厕偷拍被拘留
 1. 男生毕业合影偷亲班主任
-1. 官方回应考点统一用笔质量差
+1. 清潭国际高中女主精神状态
 1. 高考监控有多清晰
 1. 女骑士回应跑山与汽车相撞
-1. 周润发抖音电影年度非凡演员
 1. 医院回应连胎盘婴儿被遗弃大厅
 1. 印度父亲在太平间找到活的儿子
 1. 高考理综
@@ -39,31 +38,32 @@
 1. Leave
 1. 牵手门女子已停职接受调查
 1. 牵手门最新画面曝光
+1. 印度男子抱妻子跳进铁轨
 1. 牵手门女主曾晒账单消费超240万
-1. 梅西的新老板是贝克汉姆
-1. 高考英语
-1. 四川高考结束预计23日可查成绩
-1. 清潭国际高中女主精神状态
-1. 掘金2比1热火
-1. 无畏契约限时终测
+1. Uzi被曝与EDG沟通
+1. 听悲伤的情歌翻唱
 1. 梅西加盟迈阿密国际
+1. 高考英语
+1. 无畏契约限时终测
+1. 掘金2比1热火
+1. 官方回应考点统一用笔质量差
 1. 网传沈阳中街有人撒钱
 1. 广东电信
 1. 向云端翻唱
 1. 理综乙卷 化学难算
 1. 谢霆锋蓝毯灰发造型好帅
-1. 2023高考突发事件一览
-1. 金毛误入考场被民警请出
 1. 彭斯竞选集会上与特朗普决裂
-1. 陈伟霆拍戏差点被火烧到
-1. 听悲伤的情歌翻唱
-1. 俞敏洪是东方铁俞吧
 1. 韩曙光的房车丢了
+1. 2023抖音电影奇遇夜
+1. 四川高考结束预计23日可查成绩
+1. 俞敏洪是东方铁俞吧
+1. 金毛误入考场被民警请出
+1. 梅西的新老板是贝克汉姆
+1. 陈伟霆拍戏差点被火烧到
 1. 妻子的新世界前任现任修罗场
 1. 付辛博庆余年大皇子
-1. 2023抖音电影奇遇夜
-1. 终于等到肖春生被炸腿
-1. 李永乐监考北京高考
+1. 周润发抖音电影年度非凡演员
+1. 太阳或将裁掉保罗
 1. 实拍广西北海大雨
 
 ## 明星榜
@@ -78,12 +78,12 @@
 
 1. [golden hour (剪辑版)]() - JVKE
 1. [苦咖啡·唯一 (DJ版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oohZWXUzNXlh9bzpBgNUfJCQHGILwWgDBaejQt) - 那奇沃夫/KKECHO
-1. [Hot - sped up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY5GA4tzoICWsYxWdyUKW0wulAyBzhWbfKtIUw) - Liili
+1. [Hot - sped up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY5GA4tzoICWsYxWdyUKW0wulAyBzhWbfKtIUw) - Liili
 1. [我曾遇到一束光 (氛围版)]() - 叶斯淳
 1. [ไม่ได้ก็ไม่เอา - Speed Ver.](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMsFyA3EBDiUgOWxcdofhRnrIAWth1ab8wzqWo) - PiXXiE
-1. [五月天_火鸡 (全网已上线)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEtOMSQZstjlJ4nfBEgeqN29IbWjkmDBrFtF2C) - 火鸡
-1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
-1. [恋爱漫画(Prod by RoyalBoyBrazy)（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIeKgoUDBHHF8xTBARD2CeAazB4nVAeGdQbGMy) - Kurama
+1. [五月天_火鸡 (全网已上线)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEtOMSQZstjlJ4nfBEgeqN29IbWjkmDBrFtF2C) - 火鸡
+1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
+1. [恋爱漫画(Prod by RoyalBoyBrazy)（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIeKgoUDBHHF8xTBARD2CeAazB4nVAeGdQbGMy) - Kurama
 1. [小城夏天]() - LBI利比
 1. [小手拉大手 (说唱版)]() - CJ周密/Zy
 1. [山茶花读不懂白玫瑰](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
@@ -93,16 +93,16 @@
 1. [心里种下一颗种子哒啦滴哒啦]() - 贝乐虎
 1. [姑娘在远方 (剪辑版)]() - Li敖
 1. [我记得]() - 赵雷
-1. [Every Time We Touch](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7dd8b96fcbff47d19d30ef4da63805ba) - Dream Tunes
-1. [Pause](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bdc6528437e948f5aa6dd9f7b3e6e1e6) - Lossapardo
-1. [Queencard](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAYCwBDieRnrZNg2n6KdeNEBbWQdTkYtUNQgRG) - (G)I-DLE
+1. [Every Time We Touch](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7dd8b96fcbff47d19d30ef4da63805ba) - Dream Tunes
+1. [Pause](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bdc6528437e948f5aa6dd9f7b3e6e1e6) - Lossapardo
+1. [Queencard](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAYCwBDieRnrZNg2n6KdeNEBbWQdTkYtUNQgRG) - (G)I-DLE
 1. [帶我去找夜生活]() - 告五人
 1. [If We Ever Broke Up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8onj5HDk0ImtBmO0URBfeyCDXQJMYkQ1gb8Zy) - Mae Stephens
 1. [Sleeptalking](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f23bc60230804ede98a163e1926e0857) - Imfinenow & ÊMIA
-1. [爱的蠢动 (总是执着等待爱情的到来)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osB9AW8xohlGrsNUX9GNAfK4bzdzSxIPVq7gIw) - 胡期皓
+1. [爱的蠢动 (总是执着等待爱情的到来)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osB9AW8xohlGrsNUX9GNAfK4bzdzSxIPVq7gIw) - 胡期皓
 1. [如果我们不曾相遇]() - 五月天
 1. [I’ll Do It (Sped Up Version)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogcLCXgZbCQehOLjEnZkmwB4ZDBQetgpgbJYxb) - Heidi Montag
-1. [SPLAT](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/67f380d6ed7e45a6b45a5593e3f0f63b) - Connor Price
+1. [SPLAT](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/67f380d6ed7e45a6b45a5593e3f0f63b) - Connor Price
 1. [LMLY]() - 王嘉尔
 1. [Hot](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63be641febf4335a8996c8a877dee1c) - Liili
 1. [子莫格尼_剪辑版1_全网可听](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
@@ -112,17 +112,17 @@
 1. [Cruel Summer](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b35ad770e6d4495abefaa493fa46b555) - Taylor Swift
 1. [人生的歌(剪辑版)]() - 魏佳艺
 1. [借口（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogtdanbGMCCYllGtZA1Dqfb0rItZgZeiktBl9b) - 侯泽润
-1. [One More Light](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okIBCInhecoGOE5h6ZvqCBYtfXCIMQEbgkRKgD) - Linkin Park
+1. [One More Light](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okIBCInhecoGOE5h6ZvqCBYtfXCIMQEbgkRKgD) - Linkin Park
 1. [我的月亮（剪辑版）]() - 苏星婕
 1. [shin-kokyu (Enryosunnayo Mizunokatteyaruyo! Ver.)]() - Hanaregumi
 1. [月亮之上（原版)]() - 凤凰传奇
 1. [我也有撑不住的时候](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okmtBE1dkIBhwxeiBJeDgQnQtICZWIJUI2bjQr) - 派星儿
-1. [Die For You](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f62fa8755c5743ddb49668e27d1d3eab) - Layanari
+1. [Die For You](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f62fa8755c5743ddb49668e27d1d3eab) - Layanari
 1. [苦咖啡·唯一 (那奇片段-全网可听)]() - 那奇沃夫/KKECHO
 1. [Gwiyomi song 2](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUnZHDor0dP3AfFWQcEaCtftGg5WzL4HerK72O) - Hari
-1. [i walk this earth all by myself](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
+1. [i walk this earth all by myself](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
 1. [stoner lofi](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5d09d7cdbadb455b9b87318ac7fdcce0) - Poor Monkeyz
-1. [Lluvia de Verano](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/696c27600d9b43548268ccd138f68f1f) - Kira Brown & AMEX
+1. [Lluvia de Verano](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/696c27600d9b43548268ccd138f68f1f) - Kira Brown & AMEX
 1. [我是如此相信]() - 周杰伦
 1. [天天](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6b075c4856e34a60a1ef022c4a80dec5) - 陶喆
 1. [Where did u go]() - G.E.M. 邓紫棋
