@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-06-11 02:16:13 +0800`
+`更新时间：2023-06-11 03:11:43 +0800`
 
 ## 抖音热榜
 
-1. 金毛吐血主人瞬间破防
 1. 欧冠决赛
+1. 金毛吐血主人瞬间破防
 1. 三星堆再次成功跨坑拼对文物
-1. 日本羽田机场两架飞机碰撞
-1. 梅西疑似带错护照
-1. 妻子谎称留学分别与2男子同居
+1. 美亚裔高考近满分被六名校拒绝
 1. EDG官宣签约Uzi
-1. 张彬彬妈妈看儿子吻戏麻木了
+1. 私人之间转账10万要交税吗
 1. Uzi确认对阵iG将上场
-1. 野球帝师傅们为了分队打起来了
+1. 乡村小乔马上升级当妈
+1. 抑郁症女生带患癌爷爷游中国
+1. 请成为我的家人齐思乐怀孕
 1. 医院就接种证被盖死亡证明章道歉
 1. 江西成立鼠头鸭脖事件调查组
+1. 胖东来荔枝打开全是虫子
 1. 百万枚旧铜币欲兑换货币遭拒
-1. 乡村小乔马上升级当妈
-1. 女子回应被小学生劝不要结婚
+1. 贵州村超联赛直播
+1. 中国说唱巅峰对决2023
 1. 武汉江汉路
 1. 活死人CDC合作舞台
-1. 娜扎于洋默契出问题了
-1. 梅西已抵达北京
-1. 中文直译版Queencard
+1. 梅西疑似带错护照
+1. 张彬彬妈妈看儿子吻戏麻木了
 1. 蔡英文通话疑被解放军打断
 1. 汕头亚青会体育中心演唱会
 1. 男子从后备箱抬出伴娘绑树上
-1. 美亚裔高考近满分被六名校拒绝
-1. 中国说唱巅峰对决2023
+1. 薛之谦哈尔滨演唱会
+1. 万妮达给朴宰范介绍TangoZ
 1. 掘金客场再胜热火
-1. 徐怀钰肉眼可见进步了
+1. 梅西已抵达北京
 1. 冯绍峰一个视频被黑两次
-1. 梅西中国行首签获得者
-1. 佟晓梅反向拿捏肖春生
+1. 美依礼芽四公要唱青鸟
+1. 唐三成就修罗神
 1. 陈鑫海说我不是谁
 1. 白鹿泰国双马尾造型
-1. 请成为我的家人齐思乐怀孕
+1. 天赐歌喉搭配楼道混音
 1. 张杰发抖音告别声生不息
 1. 整个娱乐圈都在上海了
-1. 抑郁症女生带患癌爷爷游中国
+1. 娜扎于洋默契出问题了
 1. 看红毯还得是谢霆锋
 1. 费翔62岁状态
-1. 媒体评牵手门肖像权问题
-1. 这孩子从小就是当老板的料
 1. 上海暴雨
-1. 主办方用布遮挡梅西身影
-1. 上海人真的吃可乐拌饭吗
-1. 送别23岁离世的护士孙宇鑫
+1. 梅西中国行首签获得者
+1. 这孩子从小就是当老板的料
+1. 徐怀钰肉眼可见进步了
 1. Angelababy泰国风造型
+1. 送别23岁离世的护士孙宇鑫
 1. 欧阳靖舞台梦回2017
-1. Amber的帮唱师姐是郑秀妍
-1. 万妮达给朴宰范介绍TangoZ
-1. 薛之谦哈尔滨演唱会
-1. 贵州村超联赛直播
+1. 上海人真的吃可乐拌饭吗
+1. 主办方用布遮挡梅西身影
+1. 媒体评牵手门肖像权问题
+1. 中使馆回应苏纳克涉华言论
+1. 多地高考查分时间汇总
 
 ## 明星榜
 
@@ -76,18 +76,18 @@
 
 ## 音乐榜
 
-1. [Self Love - Spider-Man: Across the Spider-Verse](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8YzagIFYnO2FNIznDQzpeeLfrdCVAbYDDaLoS) - Metro Boomin & Coi Leray
+1. [Self Love - Spider-Man: Across the Spider-Verse](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8YzagIFYnO2FNIznDQzpeeLfrdCVAbYDDaLoS) - Metro Boomin & Coi Leray
 1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
 1. [晚风遇见你]() - 陆杰
 1. [小城夏天]() - LBI利比
 1. [Hot - sped up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY5GA4tzoICWsYxWdyUKW0wulAyBzhWbfKtIUw) - Liili
-1. [来人间走个过场（剪辑版2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0bZnpnCAYBDfwgiM4n8DkYqZQSaiRZW0e0tNz) - 王超然
+1. [来人间走个过场（剪辑版2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0bZnpnCAYBDfwgiM4n8DkYqZQSaiRZW0e0tNz) - 王超然
 1. [苦咖啡·唯一 (DJ版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oohZWXUzNXlh9bzpBgNUfJCQHGILwWgDBaejQt) - 那奇沃夫/KKECHO
-1. [五月天_火鸡 (全网已上线)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEtOMSQZstjlJ4nfBEgeqN29IbWjkmDBrFtF2C) - 火鸡
-1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
-1. [星光降落 (贝儿完整版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okwB9hAwyAtsFFkFBzAX1hOOfQuIoMNs0W2Mwr) - 陆雨萱（贝儿）
+1. [五月天_火鸡 (全网已上线)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEtOMSQZstjlJ4nfBEgeqN29IbWjkmDBrFtF2C) - 火鸡
+1. [可能（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
+1. [星光降落 (贝儿完整版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okwB9hAwyAtsFFkFBzAX1hOOfQuIoMNs0W2Mwr) - 陆雨萱（贝儿）
 1. [浪漫黄昏](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a2e4e0b8cf8b4cc0a6bfed7cd21bd5a0) - sour milk & 7Evo
-1. [最最美好的夏天（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4FMghDLZkPIkCutdrsXlbTHcaZztBfeCp9AFS) - 夏梓薰
+1. [最最美好的夏天（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4FMghDLZkPIkCutdrsXlbTHcaZztBfeCp9AFS) - 夏梓薰
 1. [开往早晨的午夜 (男生版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUsSGiEWsMvBGoTtJJII8qzyIkJfhAwlAwuwuN) - 柯柯柯啊
 1. [ไม่ได้ก็ไม่เอา](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/556b0e6fe2e8492d8cf1223632e4cb4f) - PiXXiE & Zom Marie
 1. [人生是首唱不完的歌（主歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og5grIuCCA1ttACjZY2BAqmbxhUBIHf1N7Metz) - 李英
@@ -97,9 +97,9 @@
 1. [我好喜欢你（女版）]() - 张茜
 1. [Sunflower - Spider-Man: Into the Spider-Verse](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b96acea44edd4b83b0f7b30a4fc519a0) - Post Malone & Swae Lee
 1. [Every Time We Touch](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7dd8b96fcbff47d19d30ef4da63805ba) - Dream Tunes
-1. [Happy like weekend](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0OfAnfYcF4hwK8mwGGQx597Wf1QAOb9KehnDk) - KeeP
+1. [Happy like weekend](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0OfAnfYcF4hwK8mwGGQx597Wf1QAOb9KehnDk) - KeeP
 1. [Where did u go]() - G.E.M. 邓紫棋
-1. [My Stupid Heart - Kids Version](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o45yQQQFlnCMT9qUekeSBZjdntWg2BA5oUbImD) - Walk Off The Earth & Luminati Suns
+1. [My Stupid Heart - Kids Version](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o45yQQQFlnCMT9qUekeSBZjdntWg2BA5oUbImD) - Walk Off The Earth & Luminati Suns
 1. [如果我们不曾相遇]() - 五月天
 1. [If We Ever Broke Up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8onj5HDk0ImtBmO0URBfeyCDXQJMYkQ1gb8Zy) - Mae Stephens
 1. [去有风的地方]() - 郁可唯
@@ -107,14 +107,14 @@
 1. [姑娘在远方 (剪辑版)]() - Li敖
 1. [Rumors](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o81jReDoQBgklaFbYp8Qo44ZAUKfktC4nBFZTy) - Jake Miller
 1. [还是会寂寞]() - 陈绮贞
-1. [Cake](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3545db16eba4434c853ab891b2b752af) - Flo Rida,99 Percent
-1. [Sokka](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b9c3e305c0474c898ce221c7aa498547) - you
+1. [Cake](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3545db16eba4434c853ab891b2b752af) - Flo Rida,99 Percent
+1. [Sokka](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b9c3e305c0474c898ce221c7aa498547) - you
 1. [我也有撑不住的时候](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okmtBE1dkIBhwxeiBJeDgQnQtICZWIJUI2bjQr) - 派星儿
 1. [雨爱 (氛围版片段)]() - 王琪玮
-1. [一碗烟火二两酒](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8QzFuTkh9GEMzfgkyqCGX1tYeDZBctbvIBIkz) - 王若熙
+1. [一碗烟火二两酒](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8QzFuTkh9GEMzfgkyqCGX1tYeDZBctbvIBIkz) - 王若熙
 1. [8 HOURS (八小时时差英文版)]() - 彭宇昕
-1. [i walk this earth all by myself](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
-1. [Letting Go (emo版剪辑)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okShDobhgXeZCIOdjbUS3O8ZtpBGQub5BeHynq) - cici_
+1. [i walk this earth all by myself](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
+1. [Letting Go (emo版剪辑)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okShDobhgXeZCIOdjbUS3O8ZtpBGQub5BeHynq) - cici_
 1. [我是如此相信]() - 周杰伦
 1. [就让这大雨全都落下 (剪辑版1)]() - 容祖儿
 1. [我们的明天（Live）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8bUwhPHsaUIxBDt4qyv9AXMhZkzWAf4oy8A5I) - 鹿晗
