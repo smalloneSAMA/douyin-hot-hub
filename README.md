@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-07-07 19:13:50 +0800`
+`更新时间：2023-07-07 20:31:24 +0800`
 
 ## 抖音热榜
 
-1. 中央拨1.28亿党费支持救灾
-1. 曝郑欣宜也患抑郁症
+1. 蚂蚁集团被罚款71.23亿元
+1. 国企牵手门男领导被双开
 1. 勿忘国耻 吾辈自强
-1. 姐姐回应李玟窒息死亡传言
 1. 母亲为百元毒品将儿子送给毒贩
 1. 七七事变爆发86周年
+1. 邓伦被品牌方申请强执174万
 1. 丈夫打妻子被店家制止后起争执
-1. Melody官宣离婚
-1. 字母哥终于找回抖音号了
+1. 西安人都成了沈眉庄
+1. 四川人死也不认火锅有问题
 1. 品牌撤下李玟海报：是为尊重
+1. 美国男生因成绩不佳打死老师
+1. 姐姐回应李玟窒息死亡传言
 1. 母婴店员工嚼口香糖掉婴儿头发上
 1. 遇查酒驾亮证警察被免职
-1. 湖南新化一高楼外墙瓷砖脱落
 1. 持枪男子在奥巴马住址附近被捕
 1. 男子用自拍杆逗熊猫被禁入园区
 1. 老人为救17岁女子被捅死
 1. 姐姐说李玟的人生死穴是感情
 1. 知乎宣布将下线匿名功能
-1. 布兰妮希望文班亚马公开道歉
-1. 美国男子称被母亲囚禁性虐待8年
+1. 范玮琪演唱会遭停办
 1. 张元英穿拖鞋时的腿长
+1. 曝郑欣宜也患抑郁症
+1. 乌克兰已正式申请加入CPTPP
 1. EDG更换主教练
-1. 四川人死也不认火锅有问题
-1. 李玟曾说从来没为自己活过
-1. 俞敏洪曾想从20层楼跳下
+1. Melody官宣离婚
 1. 曹云金挖到宝了
-1. 我的人间烟火第9集封神
-1. 八万人线上看俞敏洪策马飞奔
-1. 宋焰许沁玻璃渣里找糖
+1. 中国禁止进口日本多地食品
+1. 我的夏日摆摊日记
+1. 戴佩妮GAI周延用情付流水
 1. 恋爱中的平淡期该怎么度过
 1. 白鹿给宋雨琦喷香水
-1. 媒体评淄博烧烤热度下降
-1. 中国禁止进口日本多地食品
+1. 我的人间烟火第9集封神
+1. 字母哥终于找回抖音号了
 1. 耶伦：中美脱钩是不可能的
-1. 陈哲远睁眼吻
+1. 宋焰许沁玻璃渣里找糖
 1. 周星驰看八角笼中哭了
 1. 霉霉SpeakNow重录版上线
-1. 16家车企联合签署承诺书
-1. 日无人岛发现大量美制哑弹
+1. 张碧晨王赫野见与不见
+1. 陈哲远睁眼吻
 1. gap day是怎么流行起来的
 1. 官方回应花34亿给河道贴瓷砖
-1. 杨颖尘缘花瓣浴
-1. 男高音版恐龙抗狼
-1. PDD调侃彭昱畅
-1. 逆水寒手游攻略
+1. 任敏新剧拿逆袭剧本
+1. 汪苏泷吉克隽逸二搭雨爱
+1. 李玟曾说从来没为自己活过
+1. 布兰妮希望文班亚马公开道歉
+1. 媒体评淄博烧烤热度下降
 1. 七七事变历史真相
-1. 爱自己的100种方式从吃开始
-1. 这是拿显微镜看消失的她吧
-1. 郭刚堂：人贩子拒不认罪
-1. 科比 2K24封面球星
+1. 男高音版恐龙抗狼
+1. NewJeans飞天小女警合作曲
+1. 我的人间烟火翟淼被骗
 
 ## 明星榜
 
@@ -76,40 +76,35 @@
 
 ## 音乐榜
 
-1. [宝贝在干嘛](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okW4hBCfJI5B2ZEgTCtikhMW7IafzNrBQIYkpJ) - 嘿人李逵Noisemakers
-1. [空虚的心](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d9580847e6154ff0b87336972b4973c9) - Anly
-1. [在你的身边](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9dce2ee6c9f84c17a6d68458730d7ae8) - 盛哲
-1. [不爱就算了](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMsFyA3EBDiUgOWxcdofhRnrIAWth1ab8wzqWo) - PiXXiE
-1. [可能（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
-1. [point the star 2](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEHcnbC6aDFgYD5wjdIAeCmzQtzfFiMGpDerb3) - G Sounds
-1. [算了（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUXgExDYQAgkcdgbSNeDDf0xgjsdotCinBZZPY) - 万妮达Vinida Weng
-1. [i still think of you](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oszIpOcf1FoAOzJzAIeoC6gnfbQRc7dDDaCEEU) - Kanto!
-1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
-1. [这份爱 (Inst.) ](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c5b1a8f95e1347dbaf545ba81606b135) - 다비치
-1. [Fainted Priest](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6477e0a77f8f452d8f4e0340de4b87c5) - Fatrik
-1. [恋爱漫画(Prod by RoyalBoyBrazy)（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIeKgoUDBHHF8xTBARD2CeAazB4nVAeGdQbGMy) - Kurama
-1. [山茶花读不懂白玫瑰](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
+1. [哎呀我滴天呐](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQQtBek3PBCbAMnZYb4XwDggDRePwQUD06tCZ0) - 祝福纯音乐
+1. [不爱就算了](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMsFyA3EBDiUgOWxcdofhRnrIAWth1ab8wzqWo) - PiXXiE
+1. [夏天的风（纯音乐） （剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUzLjBZZFQAoNRmGokEeD5zfQCObp6UeFAnTa6) - gusing CC
+1. [Flex](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fdd81ae057724bbe9f599a36af513da8) - Piff Marti
 1. [不需要挽留 Move On（前奏）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
-1. [苦咖啡·唯一 (DJ版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oohZWXUzNXlh9bzpBgNUfJCQHGILwWgDBaejQt) - 那奇沃夫/KKECHO
-1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
-1. [Everybody Red In The Face](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f496bb75b9124e04855790466a0ba308) - Ric Wilson
-1. [Hot](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63be641febf4335a8996c8a877dee1c) - Liili
-1. [Crush](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4fa2a882b3534ea9ab0b7a9320729c46) - Tessa Violet
-1. [What It Is – Edit](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0mszhwrI3yCyGWBMAaQUof2lTzIXANSLrBh4L) - Doechii
-1. [32度的晚风（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8mEd4CARee2Lv5ReRW2KyIyZ9Q1YojfPZyXHA) - 陆杰
-1. [五月天_火鸡 (全网已上线)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEtOMSQZstjlJ4nfBEgeqN29IbWjkmDBrFtF2C) - 火鸡
-1. [Closure](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/84f7422b29f94b78a5f3b0386275db35) - Sarcastic Sounds & BIRDY & Mishaal
-1. [子莫格尼_剪辑版1_全网可听](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
+1. [Past times (新版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0WCRoIwo7Bfbhu3casaLGNdI6zWAA1MgOXyT1) - 静怡放狗屁
+1. [出身寒微不是耻辱](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oc9vabiXnAsk8BUtsiDEQPQ9kBNYXe2gJeZznC) - 李袈三
+1. [最最美好的夏天（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4FMghDLZkPIkCutdrsXlbTHcaZztBfeCp9AFS) - 夏梓薰
+1. [Gentleman (降速版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMoUwZ4Ip8iqAVxhQfFbW2h1AzLFtYBqsOAQno) - Ke08
+1. [好久不见 (Cover 唐嫣)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogDxPCzahBFboQn4VGlAFMVqaC8OyTfnheNheN) - 小渔捏捏
+1. [别怕我伤心（Cover 张信哲）（剪辑版2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/71ecedffda8d4ab8877b98224f3a82a9) - 周以菊
+1. [32度的晚风（live合唱版）（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQUADoyMRFyzcAUVQEhAKNh7fWBsmESGrkDB3I) - 陆杰
+1. [这整个海岸都是我的](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owwD7rHiIOVtQaDBEPanbBfZ4kCeOa6g1sakU8) - 李二瑶
+1. [时间久了都会忘记 (新版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IaUOAlsTh7BuzxhfXmt1Dz5dFWsh1woZSuAj) - 苏静予
+1. [泣不成声](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8n3dTzUzUwS6iFqBsfOoLsU4AtUy1AIhFw5WE) - 顾溪辞
+1. [盛夏的果实 (新版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIWVSEgqaDEySrmjCOdCoWQxbktfCBBQQnXZ8e) - 突变的柠檬
+1. [Why You Look Sad?](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9a2ee7c4e7f645a2b373dcd6d6fe5c04) - Diverseddie
+1. [起风了（间奏加长版） （剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8a927fdf26bc49e0ada58e80d57cf030) - Mianyang
+1. [One Last Time (新版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owb0Ab5CBdBDhygXHZneQjoOwQqyqrZZK8KtfC) - 忘希
+1. [浪漫黄昏](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a2e4e0b8cf8b4cc0a6bfed7cd21bd5a0) - sour milk & 7Evo
+1. [Happy like weekend](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0OfAnfYcF4hwK8mwGGQx597Wf1QAOb9KehnDk) - KeeP
+1. [Trick'n (Sped Up) - Shawty Ya Know Dat I Got Dat Cash](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oorYAQjof6H8XKXXAcYeVgdEeyfKrbMrVKeMvY) - Hiko
+1. [可能（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
+1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
+1. [Closure](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/84f7422b29f94b78a5f3b0386275db35) - Sarcastic Sounds & BIRDY & Mishaal
+1. [Hot - sped up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY5GA4tzoICWsYxWdyUKW0wulAyBzhWbfKtIUw) - Liili
+1. [If We Ever Broke Up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8onj5HDk0ImtBmO0URBfeyCDXQJMYkQ1gb8Zy) - Mae Stephens
+1. [宝贝在干嘛](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okW4hBCfJI5B2ZEgTCtikhMW7IafzNrBQIYkpJ) - 嘿人李逵Noisemakers
 1. [追晚风的人（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/560835060af84ac29cd5c12e2a98f7eb) - 徐薇
-1. [天天](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6b075c4856e34a60a1ef022c4a80dec5) - David Tao
-1. [总有一天你会出现在我身边（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMLsHwhWW7CYoAhoWB9EXUQIzNBsfAJxpAoxCU) - 棱镜
-1. [Here’s Your Perfect (with salem ilese)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/076b1576c6c546598f803fe53da388a7) - Jamie Miller
-1. [Every Time We Touch](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7dd8b96fcbff47d19d30ef4da63805ba) - Dream Tunes
-1. [我也有撑不住的时候](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okmtBE1dkIBhwxeiBJeDgQnQtICZWIJUI2bjQr) - 派星儿
-1. [Sunroof](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/526d5d9bf04f44e088aa0630b417d101) - Nicky Youre & dazy
-1. [III (Find Yourself)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3b9e482a6da74de29fd5e2440e4373b4) - Athletics
-1. [Cruel Summer](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b35ad770e6d4495abefaa493fa46b555) - Taylor Swift
-1. [Sleeptalking](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f23bc60230804ede98a163e1926e0857) - Imfinenow & ÊMIA
 
 ## 品牌榜
 
