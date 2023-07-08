@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-07-09 00:18:52 +0800`
+`更新时间：2023-07-09 01:13:25 +0800`
 
 ## 抖音热榜
 
-1. iPhone15Pro系列将采用深蓝色
-1. 女子用丝袜包5条蛇藏胸口入境
+1. 单依纯一开口梦回爱情公寓
+1. 八角笼中后劲好大
 1. 6月我国外储规模上升
 1. 张惠妹演唱会上缅怀李玟
 1. 罗翔谈村民修桥收费被判刑
-1. 八角笼中后劲好大
-1. 麦小登官宣怀孕
+1. 长安三万里上映
+1. 黄子韬挂徐艺洋电话
 1. 李玟老公称一直对李玟很好
 1. 张大大把直播收入捐抑郁症机构
 1. 湖北山体滑坡已致5伤9失联
+1. 女子用丝袜包5条蛇藏胸口入境
 1. 9个孩子被骗缅甸遭电击开水烫
-1. 特朗普请川粉吃冰激凌
+1. 男子便秘自行灌肠致休克
+1. 麦小登官宣怀孕
+1. 保安为女友花20万遭拉黑
 1. 当事人回应私搭浮桥被判刑
 1. 河南一雪糕店爆炸致1死1伤
+1. iPhone15Pro系列将采用深蓝色
 1. 证监会原主席刘士余有新职务
-1. 河南人都成了红孩儿
-1. 水木年华来村超了
-1. 电影东北警察故事2上线
 1. 女子生日收到十万刮刮卡
 1. 福建人都成了孙悟空
-1. 消失的她血腥爱情故事适配度
-1. 荷兰政府宣布将集体辞职
-1. 黄子韬挂徐艺洋电话
+1. 杨天真考北大博士失败
 1. 黄磊何炅祝汪峰演出顺利
 1. 四川人死也不认火锅有问题
+1. 消失的她血腥爱情故事适配度
 1. 文班亚马回应引争议
-1. 李荣浩长沙演唱会
-1. 长安三万里上映
-1. 5天3地确诊猴痘病例
-1. 玉骨遥带火真的九嶷山
-1. 电力工人高空作业被误认为是小鸟
-1. 娜扎回应和许凯搭档是颜狗的春天
 1. 上海地铁一女子发表辱华言论
+1. 八角笼中恩波卖房是真的
 1. 黄安辟谣费玉清病危传闻
-1. 福宝要当姐姐了
-1. 八角笼中的姐姐让人心疼
-1. 薛之谦青岛演唱会
-1. 鹿晗广州演唱会
-1. 柳玉茹诀别顾九思
-1. 姆巴佩：巴黎是支分裂的球队
 1. 我的人间烟火消防员救人剧情
-1. 山东人都成了铁扇公主
-1. 用解说号打开我的人间烟火
-1. 杨紫你好星期六秋千开场
+1. 电力工人高空作业被误认为是小鸟
+1. 鹿晗广州演唱会
+1. 薛之谦青岛演唱会
 1. 黄明昊通过杨幂认识左立
-1. 布莱泽奥特曼开播
+1. 张韶涵西安演唱会
+1. 河南人都成了红孩儿
 1. 金铲铲3.13d重点改动
-1. 魏大勋新剧演技有点东西
+1. 电影东北警察故事2上线
+1. 用解说号打开我的人间烟火
+1. 福宝要当姐姐了
+1. 小岳岳柳岩热烈番外彩蛋
+1. 娜扎回应和许凯搭档是颜狗的春天
+1. 八角笼中的姐姐让人心疼
+1. 柳玉茹诀别顾九思
+1. 山东人都成了铁扇公主
+1. 杨紫你好星期六秋千开场
 1. 杨洋王楚然在说什么悄悄话
-1. 汪苏泷吉克隽逸二搭雨爱
+1. 偷偷藏不住直播取消
+1. 荷兰政府宣布将集体辞职
+1. 一见茹顾二度开虐
 
 ## 明星榜
 
@@ -78,33 +78,33 @@
 
 1. [不爱就算了](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMsFyA3EBDiUgOWxcdofhRnrIAWth1ab8wzqWo) - PiXXiE
 1. [夏天的风（纯音乐） （剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUzLjBZZFQAoNRmGokEeD5zfQCObp6UeFAnTa6) - gusing CC
-1. [Flex](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fdd81ae057724bbe9f599a36af513da8) - Piff Marti
-1. [不需要挽留 Move On（前奏）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
-1. [Past times (新版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oA1tEf2QB7ms4zF9MAmACHVrGBhWVyaowOAoIh) - 静怡放狗屁
-1. [最最美好的夏天（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4FMghDLZkPIkCutdrsXlbTHcaZztBfeCp9AFS) - 夏梓薰
+1. [Flex](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fdd81ae057724bbe9f599a36af513da8) - Piff Marti
+1. [不需要挽留 Move On（前奏）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
+1. [Past times (新版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oA1tEf2QB7ms4zF9MAmACHVrGBhWVyaowOAoIh) - 静怡放狗屁
+1. [最最美好的夏天（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4FMghDLZkPIkCutdrsXlbTHcaZztBfeCp9AFS) - 夏梓薰
 1. [Gentleman (降速版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMWE2oIwotBfzhBNi7sKEVt5StzxAAlMcO5yFo) - Ke08
 1. [好久不见 (Cover 唐嫣)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogDxPCzahBFboQn4VGlAFMVqaC8OyTfnheNheN) - 小渔捏捏
-1. [别怕我伤心（Cover 张信哲）（剪辑版2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/71ecedffda8d4ab8877b98224f3a82a9) - 周以菊
+1. [别怕我伤心（Cover 张信哲）（剪辑版2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/71ecedffda8d4ab8877b98224f3a82a9) - 周以菊
 1. [32度的晚风（live合唱版）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQUADoyMRFyzcAUVQEhAKNh7fWBsmESGrkDB3I) - 陆杰
-1. [时间久了都会忘记 (新版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogHmjogDDAI4q1wkCWOMZOYePb2YhwtQBnfBgF) - 苏静予
-1. [盛夏的果实 (新版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAokWeBZQnk2qgtiPglKCbONQb39F6BDgaYeDW) - 突变的柠檬
+1. [时间久了都会忘记 (新版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogHmjogDDAI4q1wkCWOMZOYePb2YhwtQBnfBgF) - 苏静予
+1. [盛夏的果实 (新版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAokWeBZQnk2qgtiPglKCbONQb39F6BDgaYeDW) - 突变的柠檬
 1. [Why You Look Sad?](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9a2ee7c4e7f645a2b373dcd6d6fe5c04) - Diverseddie
-1. [起风了（间奏加长版） （剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8a927fdf26bc49e0ada58e80d57cf030) - Mianyang
-1. [One Last Time (新版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owb0Ab5CBdBDhygXHZneQjoOwQqyqrZZK8KtfC) - 忘希
+1. [起风了（间奏加长版） （剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8a927fdf26bc49e0ada58e80d57cf030) - Mianyang
+1. [One Last Time (新版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owb0Ab5CBdBDhygXHZneQjoOwQqyqrZZK8KtfC) - 忘希
 1. [浪漫黄昏](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a2e4e0b8cf8b4cc0a6bfed7cd21bd5a0) - sour milk & 7Evo
-1. [Happy like weekend](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0OfAnfYcF4hwK8mwGGQx597Wf1QAOb9KehnDk) - KeeP
+1. [Happy like weekend](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0OfAnfYcF4hwK8mwGGQx597Wf1QAOb9KehnDk) - KeeP
 1. [Trick'n (Sped Up) - Shawty Ya Know Dat I Got Dat Cash](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oorYAQjof6H8XKXXAcYeVgdEeyfKrbMrVKeMvY) - Hiko
-1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
-1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
+1. [可能（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
+1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
 1. [Closure](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/84f7422b29f94b78a5f3b0386275db35) - Sarcastic Sounds & BIRDY & Mishaal
-1. [Hot - sped up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY5GA4tzoICWsYxWdyUKW0wulAyBzhWbfKtIUw) - Liili
-1. [If We Ever Broke Up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8onj5HDk0ImtBmO0URBfeyCDXQJMYkQ1gb8Zy) - Mae Stephens
+1. [Hot - sped up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY5GA4tzoICWsYxWdyUKW0wulAyBzhWbfKtIUw) - Liili
+1. [If We Ever Broke Up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8onj5HDk0ImtBmO0URBfeyCDXQJMYkQ1gb8Zy) - Mae Stephens
 1. [宝贝在干嘛](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okW4hBCfJI5B2ZEgTCtikhMW7IafzNrBQIYkpJ) - 嘿人李逵Noisemakers
 1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
 1. [快乐恰恰BGM（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok3PUVPVnoel4ltJCf8RCaZSEBbrjXAQDpgotp) - MaksJ
-1. [Not Angry](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
-1. [苦咖啡·唯一 (DJ版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oohZWXUzNXlh9bzpBgNUfJCQHGILwWgDBaejQt) - 那奇沃夫/KKECHO
-1. [追晚风的人（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/560835060af84ac29cd5c12e2a98f7eb) - 徐薇
+1. [Not Angry](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
+1. [苦咖啡·唯一 (DJ版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oohZWXUzNXlh9bzpBgNUfJCQHGILwWgDBaejQt) - 那奇沃夫/KKECHO
+1. [追晚风的人（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/560835060af84ac29cd5c12e2a98f7eb) - 徐薇
 
 ## 品牌榜
 
