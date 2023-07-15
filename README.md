@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-07-15 12:17:51 +0800`
+`更新时间：2023-07-15 13:15:17 +0800`
 
 ## 抖音热榜
 
@@ -20,51 +20,51 @@
 1. 出现中暑症状怎么办
 1. 范丞丞摸空气
 1. 麦小登搬回娘家住
-1. 北控状元签选中陈国豪
-1. 涉案20亿境外电诈女魔头落网
-1. 日本男子烫死3岁孩子被判10年
-1. 小奶狗：再rua就真生气了
-1. 高校回应老师被大树砸倒身亡
+1. 奔跑吧收视率
+1. 官方回应女子吃凉皮中毒身亡
+1. 野球帝师傅集体祝贺陈国豪
+1. CBA历史首位草根球员
 1. 多地烟草局：直系三代血脉不得应聘
-1. 北控第25顺位选择矣进宏
+1. 高二男生被同学以高薪诱骗缅甸
+1. Minnie太冤了
 1. 中学生疑被罚站中暑去世
 1. 男子结扎后妻子怀孕 医院赔偿
 1. 李白唯一存世真迹
-1. 八角笼中马虎原型
 1. 刘若英演唱会嘉宾是王宝强
-1. 野球帝师傅集体祝贺陈国豪
-1. 矣进宏抖音晒与陈国豪合照
-1. 鄱阳湖大草原再现
-1. Minnie太冤了
-1. 感染猴痘病毒有哪些症状
-1. 范丞丞叫Minnie坏巧克力
+1. 八角笼中马虎原型
+1. 北控状元签选中陈国豪
 1. 我的人间烟火地震戏
-1. 如何评价长安三万里
+1. 范丞丞叫Minnie坏巧克力
 1. 李玟丧礼及出殡仪式日期公布
-1. 奔跑吧收视率
+1. 北控第25顺位选择矣进宏
+1. 涉案20亿境外电诈女魔头落网
+1. 女子水下舞蹈寻找“消失的她”
+1. 小奶狗：再rua就真生气了
+1. 导演贝聿娍去世
+1. 感染猴痘病毒有哪些症状
 1. 光大集团原董事长唐双宁被查
 1. 旭旭宝宝代言晶核
-1. 女子水下舞蹈寻找“消失的她”
-1. 导演贝聿娍去世
-1. 久违的快乐是茶啊二中给的
-1. 奔跑吧后期配享太庙
+1. 半月谈评长安三万里出圈
+1. 鹿晗重庆演唱会
+1. 范丞丞水上跳舞
+1. 奔跑吧下期预告呢
 1. 理解那英 成为那英
 1. 非洲人居然在广东中暑了
-1. 告五人吉克隽逸女孩为你上山下海
-1. 奔跑吧下期预告呢
-1. 专家：大多数猴痘病例可自愈
-1. 半月谈评长安三万里出圈
+1. 奔跑吧后期配享太庙
+1. 久违的快乐是茶啊二中给的
 1. 男子用妻儿生日组号中7710万元
-1. 消失的十一层好看吗
-1. 范丞丞水上跳舞
-1. 蔡徐坤广州站演唱会延期
-1. 长风渡大结局
-1. 谢娜拦车不让大家离开
-1. 台风泰利或登陆海南岛
+1. 如何评价长安三万里
 1. 谢娜一秒认出何炅童年照
-1. 江苏报告8例猴痘确诊病例
+1. 广东男篮选中张文逸
+1. 王子异没认出范丞丞
+1. 蔡徐坤广州站演唱会延期
+1. 抓破美人脸肖战
+1. 台风泰利已生成
+1. 告五人吉克隽逸女孩为你上山下海
+1. 专家：大多数猴痘病例可自愈
 1. 薛之谦衡阳演唱会
-1. 范丞丞说主打一个节目效果
+1. 消失的十一层好看吗
+1. 长风渡大结局
 
 ## 明星榜
 
@@ -76,28 +76,28 @@
 
 ## 音乐榜
 
-1. [不需要挽留 Move On（前奏）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
+1. [不需要挽留 Move On（前奏）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
 1. [浪漫黄昏](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a2e4e0b8cf8b4cc0a6bfed7cd21bd5a0) - sour milk & 7Evo
 1. [武家坡2023（女声版）（Cover 龍猛寺寬度）（主歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEIACj0tGBoytgZUwEUCP8DAIgnZfwGIfb9xjD) - 张晓涵
 1. [最最美好的夏天（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4FMghDLZkPIkCutdrsXlbTHcaZztBfeCp9AFS) - 夏梓薰
-1. [模糊的记忆](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocrRNOQnkB1MNO9eD1sd3CIytBehbIbglZUFAT) - 赫野川
-1. [Why Would I Ever (Rs3. Remix)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQNX0xZhO8IXeCRjCJQUZzkfQNLi2ItDAzEBgz) - Rs3.
-1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
-1. [What It Is – Edit](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0mszhwrI3yCyGWBMAaQUof2lTzIXANSLrBh4L) - Doechii
-1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
+1. [模糊的记忆](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocrRNOQnkB1MNO9eD1sd3CIytBehbIbglZUFAT) - 赫野川
+1. [Why Would I Ever (Rs3. Remix)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQNX0xZhO8IXeCRjCJQUZzkfQNLi2ItDAzEBgz) - Rs3.
+1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
+1. [What It Is – Edit](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0mszhwrI3yCyGWBMAaQUof2lTzIXANSLrBh4L) - Doechii
+1. [可能（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
 1. [Nothin' on Me](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4db3d954346848aaa9ec9709bb1eace1) - Leah Marie Perez
 1. [夏天的风（纯音乐） （剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUzLjBZZFQAoNRmGokEeD5zfQCObp6UeFAnTa6) - gusing CC
-1. [Crush on you](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b23c3d5786714e90898fb2a43fb44ff7) - Beacon Z
-1. [期待会再见面](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oILtyb5PbgnZnnFogRIDCNBDmAzeQk8BjThRfX) - Millelii
-1. [苦咖啡·唯一 (DJ版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oohZWXUzNXlh9bzpBgNUfJCQHGILwWgDBaejQt) - 那奇沃夫/KKECHO
+1. [Crush on you](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b23c3d5786714e90898fb2a43fb44ff7) - Beacon Z
+1. [期待会再见面](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oILtyb5PbgnZnnFogRIDCNBDmAzeQk8BjThRfX) - Millelii
+1. [苦咖啡·唯一 (DJ版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oohZWXUzNXlh9bzpBgNUfJCQHGILwWgDBaejQt) - 那奇沃夫/KKECHO
 1. [Hot](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63be641febf4335a8996c8a877dee1c) - Liili
 1. [Flex](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fdd81ae057724bbe9f599a36af513da8) - Piff Marti
 1. [32度的晚风（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8mEd4CARee2Lv5ReRW2KyIyZ9Q1YojfPZyXHA) - 陆杰
 1. [人间烟火（长段落）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
-1. [想你的365天](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f9f7574abe01480a95d11e74817984b4) - 李玟
+1. [想你的365天](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f9f7574abe01480a95d11e74817984b4) - 李玟
 1. [子莫格尼_剪辑版1_全网可听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
-1. [山茶花读不懂白玫瑰](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
-1. [落日与晚风](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIGWNBzwrUqAmfsCxckzkGhWQIaAAUgU19HChy) - 傅梦彤
+1. [山茶花读不懂白玫瑰](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
+1. [落日与晚风](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIGWNBzwrUqAmfsCxckzkGhWQIaAAUgU19HChy) - 傅梦彤
 1. [一个像夏天一个像秋天（房猫剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a5a649d88ef0437b918efc8be7005a59) - 房东的猫
 1. [Cupid – Twin Ver. (FIFTY FIFTY) – Sped Up Version](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMonQQ6t8nCfUnw44y8XBZkJytCgEBtWYebB2D) - sped up 8282
 1. [迷宫（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUkKabRnnDiI8GjaQrDHYQh0VCgQB0AA4ezefF) - step.jad依加
