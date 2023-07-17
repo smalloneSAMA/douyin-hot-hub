@@ -11,20 +11,20 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-07-18 00:20:46 +0800`
+`更新时间：2023-07-18 01:14:10 +0800`
 
 ## 抖音热榜
 
 1. 微信：有零钱的账号不会被注销
-1. WBG击败EDG
-1. 绿水青山间的幸福
-1. 薛之谦演唱会烟花放了7分17秒
 1. 广西17岁少年发现新物种
+1. 绿水青山间的幸福
+1. WBG击败EDG
+1. 薛之谦演唱会烟花放了7分17秒
 1. 南京警方通报街头路怒打斗
 1. 当事人回应赶飞机社死瞬间
 1. 台风泰利在湛江沿海登陆
 1. 刘奕君新剧演林允领导
-1. 曾少年秦川谢乔开始上分
+1. 男子1次存1元占窗口2小时
 1. 初代iPhone拍出113万刷新纪录
 1. 公公杀害儿媳抛尸二审维持死刑
 1. 女子暴雨后骑车过涵洞溺亡
@@ -33,36 +33,36 @@
 1. 佟丽娅新片被家暴
 1. 深圳已做好停工停课准备
 1. 轻舟已过万重山
-1. 消失的十一层上演他逃他追
+1. 曾少年秦川谢乔开始上分
 1. 广州奥特曼灯光秀
 1. 哈妮节目说结婚要自己做主
-1. 被长安三万里的台词戳到
+1. 消失的十一层上演他逃他追
+1. 女子海滩游玩捡到带针头针管
+1. 人民文娱评八角笼中
 1. 梅西亮相仪式上被儿子“穿裆”
-1. 为什么东北人力挺茶啊二中
-1. 玉骨遥预告看伤了
-1. 统计局：中国目前不存在通缩
-1. 他就是我的命名场面来了
+1. 广东67个市县台风预警生效
+1. 欢颜董子健断指救张鲁一
 1. 任贤齐 兵马俑好多人
 1. 巩汉林怀念赵丽蓉
 1. 王宝强刘若英19年的姐弟情
-1. 女子海滩游玩捡到带针头针管
-1. 广东67个市县台风预警生效
-1. 恐龙扛狼成为云南最新打跳曲目
-1. 3岁女童事件蛋糕店老板发声
-1. 玖月晞回应抄袭质疑
-1. 人民文娱评八角笼中
-1. 克里米亚大桥为何再次被炸
-1. 小朋友尴尬地撤回了一条消息
-1. 没有裙子却感觉裙摆闪闪
+1. 玉骨遥预告看伤了
+1. 他就是我的命名场面来了
 1. 我的人间烟火医者誓言
-1. 恐龙扛狼伤感版
-1. 欢颜董子健断指救张鲁一
-1. 秦川为谢乔暴打杨澄
-1. 浙江除杭州市区外取消落户限制
+1. 3岁女童事件蛋糕店老板发声
 1. 封神老戏骨现场爆发力
-1. 钱塘江再现鱼鳞潮
+1. 没有裙子却感觉裙摆闪闪
+1. 小朋友尴尬地撤回了一条消息
+1. 统计局：中国目前不存在通缩
 1. 刘宇宁新剧组讨债联盟
+1. 浙江除杭州市区外取消落户限制
+1. 曾少年李溪芮哭戏太虐了
 1. 湖南首位未婚妈妈领取生育津贴
+1. 玖月晞回应抄袭质疑
+1. 恐龙扛狼成为云南最新打跳曲目
+1. 秦川为谢乔暴打杨澄
+1. 扬州暴雨积水疯狂涌进公交
+1. 山东人：吃不完根本吃不完
+1. 曾少年任思羽没怀孕
 1. 广西女子在泰国用壮语买榴莲
 1. 假如李木子到地府报到
 
@@ -76,31 +76,31 @@
 
 ## 音乐榜
 
-1. [不需要挽留 Move On（前奏）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
-1. [浪漫黄昏](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a2e4e0b8cf8b4cc0a6bfed7cd21bd5a0) - sour milk & 7Evo
-1. [武家坡2023（女声版）（Cover 龍猛寺寬度）（主歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEIACj0tGBoytgZUwEUCP8DAIgnZfwGIfb9xjD) - 张晓涵
+1. [不需要挽留 Move On（前奏）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
+1. [浪漫黄昏](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a2e4e0b8cf8b4cc0a6bfed7cd21bd5a0) - sour milk & 7Evo
+1. [武家坡2023（女声版）（Cover 龍猛寺寬度）（主歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEIACj0tGBoytgZUwEUCP8DAIgnZfwGIfb9xjD) - 张晓涵
 1. [最最美好的夏天（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4FMghDLZkPIkCutdrsXlbTHcaZztBfeCp9AFS) - 夏梓薰
 1. [模糊的记忆](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocrRNOQnkB1MNO9eD1sd3CIytBehbIbglZUFAT) - 赫野川
-1. [Why Would I Ever (Rs3. Remix)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQNX0xZhO8IXeCRjCJQUZzkfQNLi2ItDAzEBgz) - Rs3.
+1. [Why Would I Ever (Rs3. Remix)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQNX0xZhO8IXeCRjCJQUZzkfQNLi2ItDAzEBgz) - Rs3.
 1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
-1. [What It Is – Edit](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0mszhwrI3yCyGWBMAaQUof2lTzIXANSLrBh4L) - Doechii
-1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
+1. [What It Is – Edit](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0mszhwrI3yCyGWBMAaQUof2lTzIXANSLrBh4L) - Doechii
+1. [可能（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
 1. [Nothin' on Me](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4db3d954346848aaa9ec9709bb1eace1) - Leah Marie Perez
-1. [夏天的风（纯音乐） （剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUzLjBZZFQAoNRmGokEeD5zfQCObp6UeFAnTa6) - gusing CC
-1. [Crush on you](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b23c3d5786714e90898fb2a43fb44ff7) - Beacon Z
-1. [期待会再见面](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oILtyb5PbgnZnnFogRIDCNBDmAzeQk8BjThRfX) - Millelii
-1. [苦咖啡·唯一 (DJ版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oohZWXUzNXlh9bzpBgNUfJCQHGILwWgDBaejQt) - 那奇沃夫/KKECHO
+1. [夏天的风（纯音乐） （剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUzLjBZZFQAoNRmGokEeD5zfQCObp6UeFAnTa6) - gusing CC
+1. [Crush on you](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b23c3d5786714e90898fb2a43fb44ff7) - Beacon Z
+1. [期待会再见面](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oILtyb5PbgnZnnFogRIDCNBDmAzeQk8BjThRfX) - Millelii
+1. [苦咖啡·唯一 (DJ版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oohZWXUzNXlh9bzpBgNUfJCQHGILwWgDBaejQt) - 那奇沃夫/KKECHO
 1. [Hot](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63be641febf4335a8996c8a877dee1c) - Liili
-1. [Flex](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fdd81ae057724bbe9f599a36af513da8) - Piff Marti
-1. [32度的晚风（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8mEd4CARee2Lv5ReRW2KyIyZ9Q1YojfPZyXHA) - 陆杰
-1. [人间烟火（长段落）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
+1. [Flex](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fdd81ae057724bbe9f599a36af513da8) - Piff Marti
+1. [32度的晚风（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8mEd4CARee2Lv5ReRW2KyIyZ9Q1YojfPZyXHA) - 陆杰
+1. [人间烟火（长段落）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
 1. [想你的365天](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f9f7574abe01480a95d11e74817984b4) - 李玟
-1. [子莫格尼_剪辑版1_全网可听](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
-1. [山茶花读不懂白玫瑰](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
-1. [落日与晚风](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIGWNBzwrUqAmfsCxckzkGhWQIaAAUgU19HChy) - 傅梦彤
+1. [子莫格尼_剪辑版1_全网可听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
+1. [山茶花读不懂白玫瑰](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
+1. [落日与晚风](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIGWNBzwrUqAmfsCxckzkGhWQIaAAUgU19HChy) - 傅梦彤
 1. [一个像夏天一个像秋天（房猫剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a5a649d88ef0437b918efc8be7005a59) - 房东的猫
-1. [Cupid – Twin Ver. (FIFTY FIFTY) – Sped Up Version](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMonQQ6t8nCfUnw44y8XBZkJytCgEBtWYebB2D) - sped up 8282
-1. [迷宫（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUkKabRnnDiI8GjaQrDHYQh0VCgQB0AA4ezefF) - step.jad依加
+1. [Cupid – Twin Ver. (FIFTY FIFTY) – Sped Up Version](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMonQQ6t8nCfUnw44y8XBZkJytCgEBtWYebB2D) - sped up 8282
+1. [迷宫（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUkKabRnnDiI8GjaQrDHYQh0VCgQB0AA4ezefF) - step.jad依加
 1. [浮光 The History（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIkABGgUD0nCgDneOBBKSj79UBoAZtQjIi3fbl) - Jannik
 
 ## 品牌榜
