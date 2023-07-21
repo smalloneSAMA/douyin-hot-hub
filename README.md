@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-07-21 09:12:45 +0800`
+`更新时间：2023-07-21 10:34:52 +0800`
 
 ## 抖音热榜
 
-1. 女生攒20万裸辞回村生活
-1. 被杨紫挖过鼻孔的男艺人
+1. 景海鹏15年4次飞天终于出舱了
+1. 缉毒警退休警嫂朋友圈破防了
 1. 为中国女足加油
 1. 活死人村晚
-1. 西安就回流生问题成立调查组
-1. 缉毒警退休警嫂朋友圈破防了
 1. 地球连续35年收神秘规律性信号
-1. 封神第一部上映
-1. 长安三万里的诗选有多美
+1. iPhone 15或延后上市
+1. 茶啊二中师生情真实存在吗
+1. 折翼女孩乔乔穿上了漂亮的婚纱
+1. 重庆暴雨
+1. 中方回应俄对乌空袭波及中领馆
 1. 长沙一男子当街杀妻被刑拘
+1. 女邻居带哭腔劝解跳楼女子
 1. 警方通报男子当街捅死2人
+1. 唐尚珺：未填补录准备回家
 1. 警方通报江西河道现无名尸体
 1. 中建八局回应高铁事件
 1. 韩国幽灵婴儿死亡率超10%
 1. 佛山16岁失联女生已找到
-1. 湖南悬赏10万通缉嫌疑人已被抓
+1. 超市电线裸露电倒小孩
 1. 游戏主播金木回应直播中吐血
 1. 南航回应机票近4万只有1瓶水
-1. 演父亲的演员比刘晓庆小18岁
+1. 男孩烧书引火灾后从18楼跳下
 1. 重庆多区县遇强降雨
 1. 张艺兴谈EXO新歌
-1. 山东莱荣高铁被举报偷工减料
 1. 杨祐宁二胎得女
-1. 马化腾在央视网发文
-1. 香港首宗“侮辱国歌罪”定罪案件
-1. 赵寻控告成功侵犯失败
-1. iPhone 15或延后上市
-1. 宋焰许沁筹备结婚
-1. 茶啊二中师生情真实存在吗
-1. 八角笼中全员回应结局
+1. 李玟讣闻公开丧礼细节安排
+1. EDG淘汰WE
 1. 长安三万里票房破9亿
+1. 潮州消防 灭火器不是玩具
+1. 赵寻控告成功侵犯失败
+1. 欢颜张译上线
 1. 印度两女子被迫赤裸游街遭轮奸
 1. 龚俊回应大闹周杰伦演唱会
-1. 王传君捧脸杀张艺兴
-1. 烦念 王者摆烂
-1. 官方通报莱荣高铁被举报偷工减料
-1. 折翼女孩乔乔穿上了漂亮的婚纱
-1. 女足世界杯开赛
-1. 奔跑吧本周预告
-1. 辅警一招制伏发涉黄小广告男子
-1. 杨洋回应演技争议
-1. 陈数新剧手拿复仇剧本
-1. 秦川谢乔终于亲了
-1. EDG淘汰WE
-1. 疑似老人持斧入室追砍两小孩
 1. 中俄联演在日本海开幕
-1. 欢颜张译上线
+1. 周迅不完美受害人哭戏
+1. 官方通报莱荣高铁被举报偷工减料
+1. 陈数新剧手拿复仇剧本
+1. 香港首宗“侮辱国歌罪”定罪案件
 1. 费翔介绍封神妲己
-1. 巴特勒要去贵州看村BA
-1. 宝能：姚振华进入中炬高新遭拒
+1. 辅警一招制伏发涉黄小广告男子
+1. 女足世界杯开赛
+1. 杨洋回应演技争议
+1. 2023上半年广东GDP公布
+1. 易梦玲说男人自信的时候最油
+1. 咒术回战第二季PV
+1. 八角笼中全员回应结局
+1. 超能一家人好看又好笑
+1. 英雄联盟新模式斗魂竞技场上线
+1. 秦川谢乔终于亲了
+1. 安乐传假帝梓元身份暴露
 
 ## 明星榜
 
@@ -78,30 +78,30 @@
 
 1. [不需要挽留 Move On（前奏）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
 1. [浪漫黄昏](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a2e4e0b8cf8b4cc0a6bfed7cd21bd5a0) - sour milk & 7Evo
-1. [武家坡2023（女声版）（Cover 龍猛寺寬度）（主歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEIACj0tGBoytgZUwEUCP8DAIgnZfwGIfb9xjD) - 张晓涵
-1. [最最美好的夏天（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4FMghDLZkPIkCutdrsXlbTHcaZztBfeCp9AFS) - 夏梓薰
+1. [武家坡2023（女声版）（Cover 龍猛寺寬度）（主歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEIACj0tGBoytgZUwEUCP8DAIgnZfwGIfb9xjD) - 张晓涵
+1. [最最美好的夏天（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4FMghDLZkPIkCutdrsXlbTHcaZztBfeCp9AFS) - 夏梓薰
 1. [模糊的记忆](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocrRNOQnkB1MNO9eD1sd3CIytBehbIbglZUFAT) - 赫野川
-1. [Why Would I Ever (Rs3. Remix)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQNX0xZhO8IXeCRjCJQUZzkfQNLi2ItDAzEBgz) - Rs3.
-1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
+1. [Why Would I Ever (Rs3. Remix)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQNX0xZhO8IXeCRjCJQUZzkfQNLi2ItDAzEBgz) - Rs3.
+1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
 1. [What It Is – Edit](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0mszhwrI3yCyGWBMAaQUof2lTzIXANSLrBh4L) - Doechii
 1. [可能（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
-1. [Nothin' on Me](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4db3d954346848aaa9ec9709bb1eace1) - Leah Marie Perez
-1. [夏天的风（纯音乐） （剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUzLjBZZFQAoNRmGokEeD5zfQCObp6UeFAnTa6) - gusing CC
+1. [Nothin' on Me](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4db3d954346848aaa9ec9709bb1eace1) - Leah Marie Perez
+1. [夏天的风（纯音乐） （剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUzLjBZZFQAoNRmGokEeD5zfQCObp6UeFAnTa6) - gusing CC
 1. [Crush on you](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b23c3d5786714e90898fb2a43fb44ff7) - Beacon Z
 1. [期待会再见面](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oILtyb5PbgnZnnFogRIDCNBDmAzeQk8BjThRfX) - Millelii
 1. [苦咖啡·唯一 (DJ版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oohZWXUzNXlh9bzpBgNUfJCQHGILwWgDBaejQt) - 那奇沃夫/KKECHO
 1. [Hot](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63be641febf4335a8996c8a877dee1c) - Liili
 1. [Flex](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fdd81ae057724bbe9f599a36af513da8) - Piff Marti
-1. [32度的晚风（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8mEd4CARee2Lv5ReRW2KyIyZ9Q1YojfPZyXHA) - 陆杰
-1. [人间烟火（长段落）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
-1. [想你的365天](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f9f7574abe01480a95d11e74817984b4) - 李玟
+1. [32度的晚风（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8mEd4CARee2Lv5ReRW2KyIyZ9Q1YojfPZyXHA) - 陆杰
+1. [人间烟火（长段落）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
+1. [想你的365天](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f9f7574abe01480a95d11e74817984b4) - 李玟
 1. [子莫格尼_剪辑版1_全网可听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
-1. [山茶花读不懂白玫瑰](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
+1. [山茶花读不懂白玫瑰](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
 1. [落日与晚风](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIGWNBzwrUqAmfsCxckzkGhWQIaAAUgU19HChy) - 傅梦彤
-1. [一个像夏天一个像秋天（房猫剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a5a649d88ef0437b918efc8be7005a59) - 房东的猫
+1. [一个像夏天一个像秋天（房猫剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a5a649d88ef0437b918efc8be7005a59) - 房东的猫
 1. [Cupid – Twin Ver. (FIFTY FIFTY) – Sped Up Version](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMonQQ6t8nCfUnw44y8XBZkJytCgEBtWYebB2D) - sped up 8282
 1. [迷宫（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUkKabRnnDiI8GjaQrDHYQh0VCgQB0AA4ezefF) - step.jad依加
-1. [浮光 The History（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIkABGgUD0nCgDneOBBKSj79UBoAZtQjIi3fbl) - Jannik
+1. [浮光 The History（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIkABGgUD0nCgDneOBBKSj79UBoAZtQjIi3fbl) - Jannik
 
 ## 品牌榜
 
