@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-07-28 19:11:53 +0800`
+`更新时间：2023-07-28 20:26:36 +0800`
 
 ## 抖音热榜
 
-1. 多平台把帐号改为账号
-1. 成都大运会
+1. 成都大运会开幕式
+1. 中国女足vs海地女足
 1. 大运会开幕式大熊猫含量很足
+1. 多平台把帐号改为账号
+1. 济南暴雨
 1. 实拍台风杜苏芮来袭实况
-1. 中国女足生死战
-1. 赖益烨要和NBA球星打百分
-1. 男子接女友下班的一周表情变化
+1. 覃海洋晋级200蛙决赛
 1. 电影热烈上映
-1. 一个弹得好 一个指挥得好
+1. 外交部网站发布王毅部长致辞
 1. 中方回应美拒邀李家超出席APEC
 1. 王一博黄渤现身热烈观影团
 1. 不完美受害人赵寻跳崖
+1. 为封神姬昌姬发父子情飙泪
 1. 台风杜苏芮在晋江沿海登陆
 1. 杨紫琼结婚
-1. 上海发布暴雨蓝色预警
 1. 24小时直击台风杜苏芮
+1. 王一博 生病时网上冲浪很精彩
 1. 人民网评封神第一部
 1. 专家解读台风对河南的影响
-1. 张晚意说邓为是男妲己
-1. 妲己原来是封神哈基米
+1. 檀健次带上你的演技大火吧
 1. 长相思涂山璟视角
 1. 李莲花被表白吓喷饭
+1. 檀健次说相柳不只是一味的冷
 1. 安徽发布台风黄色预警
 1. 女网红赴海外被滞留系骗局
 1. 恐龙扛狼分手版
 1. 6号台风卡努生成
-1. 台风北上最远或抵达河南
+1. 浙江人防范台风有多努力
 1. 台风致泉州114人受轻伤
 1. 台风卡努预计瞄准浙江
 1. 台风杜苏芮的雨都甩在浙江了
-1. 晋江的雨大到像喷头喷水
-1. 外交部网站发布王毅部长致辞
-1. 记者直播时身后大树突然折断
-1. 台风登陆泉州狂风掀翻屋顶
 1. 杜苏芮将带来强降雨影响北京
-1. 公公踢伤儿媳被提起公诉
-1. 台风登陆后泉州气象局断电了
 1. 女孩体内抽出2升乳白色血
 1. 周杰伦和刀郎都沉默了
-1. 车队未经批准穿越保护区致3死
 1. 杨紫张晚意长相思海外评分2.9
+1. 普京宣布向非洲六国捐赠粮食
+1. 上海发布暴雨蓝色预警
+1. 住建部：落实认房不用认贷
+1. 韩国公布人口普查结果
+1. 泰国机场警察护送王嘉尔被举报
 1. 巨齿鲨2北京全球首映礼
 1. 林嘉欣袁剑伟宣布离婚
-1. 山东修订未成年人保护条例
-1. 住建部：落实认房不用认贷
-1. 跨国打击缅北诈骗难点在哪
-1. 普京宣布向非洲六国捐赠粮食
+1. ChinaJoy来了
+1. 布朗尼出院 詹姆斯晒全家福致谢
+1. 国内团队尝试复现韩国超导发现
 1. 贵州村超奖杯曝光
-1. 福建人防御台风有多努力
-1. 韩国公布人口普查结果
+1. 中国男篮热身赛击败埃及
+1. 奥运健儿为大运会打call
+1. 男子接女友下班的一周表情变化
+1. 跨国打击缅北诈骗难点在哪
 
 ## 明星榜
 
@@ -76,33 +76,36 @@
 
 ## 音乐榜
 
-1. [最最美好的夏天（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4FMghDLZkPIkCutdrsXlbTHcaZztBfeCp9AFS) - 夏梓薰
 1. [瞬（全曲汽水音乐听）-郑润泽](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4Vb9eJZClCZTnRQYy0BRSeHGrDtrkrQgIBvQt) - 郑润泽
-1. [小镇姑娘](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1ee4fa49917d4e9e8f06512cc6e778d9) - David Tao
-1. [宝贝在干嘛](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okW4hBCfJI5B2ZEgTCtikhMW7IafzNrBQIYkpJ) - 嘿人李逵Noisemakers
-1. [If We Ever Broke Up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8onj5HDk0ImtBmO0URBfeyCDXQJMYkQ1gb8Zy) - Mae Stephens
-1. [专属蝴蝶](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIw3zNLcWhUhUDWqtQxQfAx6IXsSBzbyCg7CM0) - BFrV7n
-1. [Sweet Little Lies](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cebdd23e942a452c84c197b17c22ac7a) - bülow
-1. [Here’s Your Perfect (with salem ilese)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/076b1576c6c546598f803fe53da388a7) - Jamie Miller
-1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
-1. [苦咖啡·唯一 (DJ版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oohZWXUzNXlh9bzpBgNUfJCQHGILwWgDBaejQt) - 那奇沃夫/KKECHO
-1. [Why Would I Ever (Rs3. Remix)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQNX0xZhO8IXeCRjCJQUZzkfQNLi2ItDAzEBgz) - Rs3.
-1. [i walk this earth all by myself](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
-1. [III (Find Yourself)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3b9e482a6da74de29fd5e2440e4373b4) - Athletics
-1. [追晚风的人（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/560835060af84ac29cd5c12e2a98f7eb) - 徐薇
-1. [山茶花读不懂白玫瑰](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
-1. [我和比奇堡的朋友们](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f0505db981ea4a6d91453a15924a82aa) - 热水澡
+1. [海边探戈](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
+1. [盛夏的告别 (part.2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4fZOFNyVBU1AUyOhNq0CsjAoouNMPY1WXwwIz) - 袁娅维
+1. [天天](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6b075c4856e34a60a1ef022c4a80dec5) - David Tao
+1. [If We Ever Broke Up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8onj5HDk0ImtBmO0URBfeyCDXQJMYkQ1gb8Zy) - Mae Stephens
+1. [山茶花读不懂白玫瑰](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
+1. [Ain't Your Girl](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3c051e231f0e4668b9039529290acfad) - Bixel Boys & Poupon
+1. [DARARI (1サビ倍速 Ver.)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4176f3bb6e03443f8f26920dcf1676de) - TREASURE
+1. [You Gotta Move](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a2b672af67514106b25cdfd6f1a8aad2) - Mississippi Fred McDowell
 1. [在你的身边](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9dce2ee6c9f84c17a6d68458730d7ae8) - 盛哲
-1. [Sleeptalking](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f23bc60230804ede98a163e1926e0857) - Imfinenow & ÊMIA
-1. [Young And Beautiful](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3ca6987c98c947768abb9cce3ee5530c) - Lana Del Rey
-1. [夏天的风（纯音乐） （剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUzLjBZZFQAoNRmGokEeD5zfQCObp6UeFAnTa6) - gusing CC
-1. [Self Love - Spider-Man: Across the Spider-Verse](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8YzagIFYnO2FNIznDQzpeeLfrdCVAbYDDaLoS) - Metro Boomin & Coi Leray
-1. [2023福气满满](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocebsi6kbCVkBMAcDJkqdZpBQMubYSQetK2gQn) - 胡大愣
-1. [Cake](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3545db16eba4434c853ab891b2b752af) - Flo Rida,99 Percent
-1. [麦浪](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/872ff36b718445c6a3882ba18b546970) - yihuik苡慧
-1. [人间烟火（长段落）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
-1. [Cupid – Twin Ver. (FIFTY FIFTY) – Sped Up Version](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMonQQ6t8nCfUnw44y8XBZkJytCgEBtWYebB2D) - sped up 8282
-1. [Sokka](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b9c3e305c0474c898ce221c7aa498547) - you
+1. [Hot](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63be641febf4335a8996c8a877dee1c) - Liili
+1. [追晚风的人（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/560835060af84ac29cd5c12e2a98f7eb) - 徐薇
+1. [爱你](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/738d8b240f1e4519b44cf31c84e02e24) - 王心凌
+1. [最最美好的夏天（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4FMghDLZkPIkCutdrsXlbTHcaZztBfeCp9AFS) - 夏梓薰
+1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
+1. [Not Angry](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
+1. [五月天_火鸡 (全网已上线)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEtOMSQZstjlJ4nfBEgeqN29IbWjkmDBrFtF2C) - 火鸡
+1. [Why Would I Ever (Rs3. Remix)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQNX0xZhO8IXeCRjCJQUZzkfQNLi2ItDAzEBgz) - Rs3.
+1. [Past Lives](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogYlDILYgrSZCgt2kWw2yf8etMBNQ1baBy7ono) - Dannie Lord
+1. [NUNA（告白版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
+1. [ 一笑倾城](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cb539248cc6e4add8fdc39683808c267) - 汪苏泷
+1. [III (Find Yourself)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3b9e482a6da74de29fd5e2440e4373b4) - Athletics
+1. [Cake](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3545db16eba4434c853ab891b2b752af) - Flo Rida,99 Percent
+1. [Summer Swing!](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4OXw1ebzHDNqgDCCen3XY8fourbAFJIRO91Ua) - Linus' Blanket
+1. [可能（主歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f4ff308363e14823a02b84fe41ce7469) - 程响
+1. [Cruel Summer](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b35ad770e6d4495abefaa493fa46b555) - Taylor Swift
+1. [Heat Waves - Slowed](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/33ae40aabc74454290a7455b79ee70f6) - Glass Animals
+1. [子莫格尼_剪辑版1_全网可听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
+1. [girls like me don't cry (sped up)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYoALuZBJqhz3LCJO1isaTN7WNAfdXhywIUMSg) - thuy
+1. [Undead Funeral March](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3b2008ca604a4559b341e8583e6ce0fc) - Ugress
 
 ## 品牌榜
 
