@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-08-06 20:22:50 +0800`
+`更新时间：2023-08-06 21:15:05 +0800`
 
 ## 抖音热榜
 
@@ -19,52 +19,52 @@
 1. 海贼王太阳神尼卡登场
 1. 为何距离遥远仍能感到山东地震
 1. TFBOYS演唱会进场
-1. EDG冒泡赛对战LNG
-1. 手机地震预警怎么开
-1. 张晚意王楚然 娇藏
+1. LNG击败EDG
 1. 王传君引起朝阳群众的关注
+1. 男孩杀害邻居11岁女孩抛尸湘江
+1. 狗子在水里泡了3天等来了主人
 1. 王传君再现抖音名场面
-1. 周小闹向黑龙江灾区捐款100万元
-1. 奶奶得知冯振牺牲后泣不成声
+1. 张晚意王楚然 娇藏
+1. 手机地震预警怎么开
+1. 莲花楼方多病妈妈全国统一
 1. 封神第一部票房破16亿
-1. 众星驰援黑龙江
+1. 大批无票粉丝夜守TFBOYS演唱会
 1. 山东德州5.5级地震
 1. TFBOYS大概率不解散
+1. 青春修炼手册开场
 1. 山东地震瞬间监控画面
 1. 意大利19岁理发师被肢解
 1. 西安奥体中心被TFBOYS粉丝淹没
-1. 江苏官方辟谣地震云
 1. 河南震感
+1. 郑州大学回应要求员工无偿加班
 1. 地震瞬间：鸭跑狗跳货架倒
 1. 金晨版恐龙扛狼
 1. 按人头收停车费驿站被关停
-1. 黄绮珊粉发
+1. 小杨哥学舞失败
 1. 粉丝戴头纱去TFBOYS演唱会
 1. 莫斯科一机场天空出现不明飞行物
+1. 记者直击黑龙江五常
 1. 孤注一掷抖音观影团
-1. 德州地震山东多地现满天红光
-1. 广西进入降雨最强时段
+1. 牵手门男主卸任其公司法人代表
 1. 山东地震不同狗狗的反应
-1. 网友拍到吉林辽宁车队奔赴黑龙江
 1. 3D全景还原涿州水灾
-1. 影院回应电影放映时暂停
 1. 当事人回应地震老公折回搂自己避险
 1. 济南回应地震前后多地现红光
 1. 迪丽热巴跳了Queencard
-1. 明年或是历史最热一年
-1. 山东地震带
-1. K1178次列车班组每人奖1万
-1. 山东周边多地震感
-1. 成都AG四连冠
-1. 易烊千玺彩排路透
-1. 异人之下宝儿姐用高跟鞋打架
-1. 山东发生更大地震可能性很小
-1. 谷爱凌成都夜跑
-1. 王鹤棣也没逃过本命魔咒
+1. 众星驰援黑龙江
+1. 广西进入降雨最强时段
+1. 奶奶得知冯振牺牲后泣不成声
 1. 相声名家阎月明离世
-1. 莲花楼方多病妈妈全国统一
+1. 异人之下宝儿姐用高跟鞋打架
+1. 易烊千玺彩排路透
+1. 德州地震山东多地现满天红光
+1. 影院回应电影放映时暂停
+1. 大银幕看巨齿鲨2沉浸感
 1. 安乐传今日收官
-1. 姬发一个角色就有三匹马
+1. 莲花楼拍地起是成毅自己设计
+1. K1178次列车班组每人奖1万
+1. 大家好我们是TFBOYS
+1. 唱完这首毒药就释怀了
 
 ## 明星榜
 
@@ -76,36 +76,36 @@
 
 ## 音乐榜
 
-1. [海边探戈](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
-1. [罗刹海市（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAiUeC5RhCS3TDYkdvebABgjPGk1lqQgZynItL) - 刀郎
-1. [我和比奇堡的朋友们](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f0505db981ea4a6d91453a15924a82aa) - 热水澡
-1. [不需要挽留 Move On（前奏）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
-1. [风吹丹顶鹤 (片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oImDzeJM2hbnVCfbAag5NbDteaFzOGbY334A4I) - 葛东琪
+1. [海边探戈](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
+1. [罗刹海市（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAiUeC5RhCS3TDYkdvebABgjPGk1lqQgZynItL) - 刀郎
+1. [我和比奇堡的朋友们](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f0505db981ea4a6d91453a15924a82aa) - 热水澡
+1. [不需要挽留 Move On（前奏）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
+1. [风吹丹顶鹤 (片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oImDzeJM2hbnVCfbAag5NbDteaFzOGbY334A4I) - 葛东琪
 1. [山茶花读不懂白玫瑰](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
 1. [Hot - sped up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY5GA4tzoICWsYxWdyUKW0wulAyBzhWbfKtIUw) - Liili
-1. [盛夏的告别 (part.2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4fZOFNyVBU1AUyOhNq0CsjAoouNMPY1WXwwIz) - 袁娅维
-1. [Closure](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/84f7422b29f94b78a5f3b0386275db35) - Sarcastic Sounds & BIRDY & Mishaal
+1. [盛夏的告别 (part.2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4fZOFNyVBU1AUyOhNq0CsjAoouNMPY1WXwwIz) - 袁娅维
+1. [Closure](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/84f7422b29f94b78a5f3b0386275db35) - Sarcastic Sounds & BIRDY & Mishaal
 1. [模糊的记忆](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocrRNOQnkB1MNO9eD1sd3CIytBehbIbglZUFAT) - 赫野川
-1. [Not Angry](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
-1. [追晚风的人（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/560835060af84ac29cd5c12e2a98f7eb) - 徐薇
-1. [Sleeptalking](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f23bc60230804ede98a163e1926e0857) - Imfinenow & ÊMIA
+1. [Not Angry](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
+1. [追晚风的人（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/560835060af84ac29cd5c12e2a98f7eb) - 徐薇
+1. [Sleeptalking](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f23bc60230804ede98a163e1926e0857) - Imfinenow & ÊMIA
 1. [Undead Funeral March](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3b2008ca604a4559b341e8583e6ce0fc) - Ugress
-1. [Here’s Your Perfect (with salem ilese)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/076b1576c6c546598f803fe53da388a7) - Jamie Miller
-1. [NUNA（告白版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
-1. [四季予你](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cf30fff9208143e4b0aca63a5ab5326b) - 程響
-1. [爱你](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/738d8b240f1e4519b44cf31c84e02e24) - 王心凌
-1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
+1. [Here’s Your Perfect (with salem ilese)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/076b1576c6c546598f803fe53da388a7) - Jamie Miller
+1. [NUNA（告白版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
+1. [四季予你](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cf30fff9208143e4b0aca63a5ab5326b) - 程響
+1. [爱你](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/738d8b240f1e4519b44cf31c84e02e24) - 王心凌
+1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
 1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
 1. [最最美好的夏天（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4FMghDLZkPIkCutdrsXlbTHcaZztBfeCp9AFS) - 夏梓薰
-1. [KATAKOTO](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c2b2f5a0d95349eb9c9e0d7bef00bc9d) - sloppy dim
-1. [ 一笑倾城](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cb539248cc6e4add8fdc39683808c267) - 汪苏泷
+1. [KATAKOTO](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c2b2f5a0d95349eb9c9e0d7bef00bc9d) - sloppy dim
+1. [ 一笑倾城](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cb539248cc6e4add8fdc39683808c267) - 汪苏泷
 1. [瞬（全曲汽水音乐听）-郑润泽](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4Vb9eJZClCZTnRQYy0BRSeHGrDtrkrQgIBvQt) - 郑润泽
-1. [Ieta](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1e804eabb3bf4421ad8d8fc8e962bee3) - 坂本龍一
+1. [Ieta](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1e804eabb3bf4421ad8d8fc8e962bee3) - 坂本龍一
 1. [天天](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6b075c4856e34a60a1ef022c4a80dec5) - David Tao
-1. [星光降落 (贝儿完整版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okwB9hAwyAtsFFkFBzAX1hOOfQuIoMNs0W2Mwr) - 陆雨萱（贝儿）
-1. [Cruel Summer](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b35ad770e6d4495abefaa493fa46b555) - Taylor Swift
-1. [If We Ever Broke Up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8onj5HDk0ImtBmO0URBfeyCDXQJMYkQ1gb8Zy) - Mae Stephens
-1. [春日漫游](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/614f052b8f134eee85f8160524ce2f33) - BCD Studio
+1. [星光降落 (贝儿完整版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okwB9hAwyAtsFFkFBzAX1hOOfQuIoMNs0W2Mwr) - 陆雨萱（贝儿）
+1. [Cruel Summer](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b35ad770e6d4495abefaa493fa46b555) - Taylor Swift
+1. [If We Ever Broke Up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8onj5HDk0ImtBmO0URBfeyCDXQJMYkQ1gb8Zy) - Mae Stephens
+1. [春日漫游](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/614f052b8f134eee85f8160524ce2f33) - BCD Studio
 
 ## 品牌榜
 
