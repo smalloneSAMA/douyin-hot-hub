@@ -11,29 +11,29 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-08-24 10:18:43 +0800`
+`更新时间：2023-08-24 11:14:23 +0800`
 
 ## 抖音热榜
 
-1. 日本核污水排海下午开始
-1. 瓦格纳集团：普里戈任被叛徒杀害
-1. 中国是金砖国家第一大贸易伙伴
-1. 央行辟谣大额存款须出示证明
-1. 欧怒大战
-1. 普京紧急返回莫斯科
+1. 日本今日开始核污水排海
 1. 直击日本核污染水排海
-1. 普里戈任确认在坠机中遇难
-1. 我在福建找到了有风的地方
+1. 中国是金砖国家第一大贸易伙伴
 1. 云南人别解释了
+1. 景甜状态好甜
+1. 普京紧急返回莫斯科
+1. 媒体：日执意排海信用彻底破产
+1. 央行辟谣大额存款须出示证明
+1. 我在福建找到了有风的地方
+1. 动画模拟日本核污水排海流向
 1. 普里戈任坠机残骸上疑有弹孔
 1. 1名在缅赌诈头目被押解回国
-1. 小武和小雨订婚了
+1. 瓦格纳集团：普里戈任被叛徒杀害
 1. 拜登回应普里戈任坠机身亡
 1. 冯绍峰提到了知否
+1. 普里戈任确认在坠机中身亡
 1. 日本团队称外星人将回复地球来信
-1. 特朗普自首前调侃
-1. 赵露思被小朋友夸漂亮
-1. 普京：乌当局不把士兵当人看
+1. GAI：大蘑菇后劲太大了
+1. 欧怒大战
 1. 瓦格纳几乎所有高层均在坠机上
 1. 炫富致丈夫被查妻子回应
 1. 媒体评妻子炫富式举报丈夫
@@ -41,30 +41,30 @@
 1. 虞书欣不规则辣妹裙造型
 1. 核污水排海意味着什么
 1. 吸毒艺人起诉自媒体侵犯肖像权被驳回
-1. 香港工联会抗议日本核污水排海
-1. 万名特种兵夜爬武功山
-1. 外交部回应中方船只围堵菲海警船
+1. 交通部门回应重庆的哥接单去上海
+1. 万名旅游特种兵夜爬武功山
+1. 魏大勋沈腾只差四斤
 1. 传下去檀健次跳了whatever
-1. 日本专家：核污水排海后患无穷
+1. 赵露思被小朋友夸漂亮
 1. 女孩回应26岁还被爸爸接下班
-1. 今日可查英语四六级成绩
-1. 海鲜和日料还能吃吗
-1. 李玟经纪公司回应录音事件
+1. 甄妮连续为李玟发声
+1. 普京：乌当局不把士兵当人看
+1. 小武和小雨订婚了
+1. 特朗普自首前调侃
 1. 拉萨发现国家二级保护动物兔狲
 1. 这波色情诈骗让小狗背锅
-1. 赖益烨单挑戈登圆梦
-1. 油价五连涨
-1. 赵露思丝滑混入小孩圈
-1. 魏大勋沈腾只差四斤
-1. 核污染水和核废水的区别
-1. 张艺兴孤注一掷30亿福利
-1. 广东外卖单点不送可举报
-1. 揭秘孤注一掷扔猫戏
+1. 外交部回应中方船只围堵菲海警船
 1. 吴昕说李维嘉是独居老人
-1. 杨紫檀健次嘿嘿式对戏
+1. 海鲜和日料还能吃吗
+1. 揭秘孤注一掷扔猫戏
+1. 核污染水和核废水的区别
+1. 赖益烨单挑戈登圆梦
 1. 这催婚也太硬核了
-1. 车里只有马立奥懂大喜大悲
-1. 清华专家谈日本核污水排海
+1. 广东外卖单点不送可举报
+1. 韩国民众抗议日本核污水排海
+1. 赵露思丝滑混入小孩圈
+1. 杨紫檀健次嘿嘿式对戏
+1. 油价五连涨
 
 ## 明星榜
 
@@ -76,39 +76,39 @@
 
 ## 音乐榜
 
-1. [年少的你啊（剪辑版3）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oo2vDGhzyAtN1QLfh5k1iBIpWAv2NOZQysM5tK) - 浩然H.R
-1. [不需要挽留 Move On（前奏）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
+1. [年少的你啊（剪辑版3）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oo2vDGhzyAtN1QLfh5k1iBIpWAv2NOZQysM5tK) - 浩然H.R
+1. [不需要挽留 Move On（前奏）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
 1. [最最美好的夏天（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4FMghDLZkPIkCutdrsXlbTHcaZztBfeCp9AFS) - 夏梓薰
-1. [在你的身边](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9dce2ee6c9f84c17a6d68458730d7ae8) - 盛哲
+1. [在你的身边](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9dce2ee6c9f84c17a6d68458730d7ae8) - 盛哲
 1. [Here’s Your Perfect (with salem ilese)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/076b1576c6c546598f803fe53da388a7) - Jamie Miller
-1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
-1. [After Hours（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owgWztApWhImMFMpyEyQfAIyIusRBioqSgWk7T) - 87 ℃
-1. [Closure](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/84f7422b29f94b78a5f3b0386275db35) - Sarcastic Sounds & BIRDY & Mishaal
-1. [凄美地](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oshF4RgFMhmTSa4jCaHNUXI0NetFtBBQBzBZdf) - 郭顶
+1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
+1. [After Hours（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owgWztApWhImMFMpyEyQfAIyIusRBioqSgWk7T) - 87 ℃
+1. [Closure](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/84f7422b29f94b78a5f3b0386275db35) - Sarcastic Sounds & BIRDY & Mishaal
+1. [凄美地](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oshF4RgFMhmTSa4jCaHNUXI0NetFtBBQBzBZdf) - 郭顶
 1. [Happy like weekend](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0OfAnfYcF4hwK8mwGGQx597Wf1QAOb9KehnDk) - KeeP
 1. [满天星辰不及你(剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/967cfdb40fa94d60af1ae47c8dc174f0) - ycccc
-1. [心许百年 (宿命版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM4tBu7QOMCTVT7rK1Pe5NHGFghPMBzykI9ZBf) - 王天戈
+1. [心许百年 (宿命版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM4tBu7QOMCTVT7rK1Pe5NHGFghPMBzykI9ZBf) - 王天戈
 1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
 1. [恋爱循环](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/70a85ab2fc594510b47ea8fc36cd6d71) - MONOGATARI Series
 1. [天天](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6b075c4856e34a60a1ef022c4a80dec5) - David Tao
 1. [瞬（全曲汽水音乐听）-郑润泽](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4Vb9eJZClCZTnRQYy0BRSeHGrDtrkrQgIBvQt) - 郑润泽
 1. [浪漫黄昏](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a2e4e0b8cf8b4cc0a6bfed7cd21bd5a0) - sour milk & 7Evo
 1. [Cruel Summer](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b35ad770e6d4495abefaa493fa46b555) - Taylor Swift
-1. [If We Ever Broke Up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8onj5HDk0ImtBmO0URBfeyCDXQJMYkQ1gb8Zy) - Mae Stephens
+1. [If We Ever Broke Up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8onj5HDk0ImtBmO0URBfeyCDXQJMYkQ1gb8Zy) - Mae Stephens
 1. [追晚风的人（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/560835060af84ac29cd5c12e2a98f7eb) - 徐薇
 1. [ 一笑倾城](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cb539248cc6e4add8fdc39683808c267) - 汪苏泷
 1. [山茶花读不懂白玫瑰](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
-1. [NUNA（告白版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
+1. [NUNA（告白版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
 1. [海边探戈](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
-1. [宝贝在干嘛](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okW4hBCfJI5B2ZEgTCtikhMW7IafzNrBQIYkpJ) - 嘿人李逵Noisemakers
-1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
-1. [我和比奇堡的朋友们](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f0505db981ea4a6d91453a15924a82aa) - 热水澡
+1. [宝贝在干嘛](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okW4hBCfJI5B2ZEgTCtikhMW7IafzNrBQIYkpJ) - 嘿人李逵Noisemakers
+1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
+1. [我和比奇堡的朋友们](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f0505db981ea4a6d91453a15924a82aa) - 热水澡
 1. [想你时风起 (那年我错过的大雨)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooR7G8ftDMzIgnxa0HbReM4CZ74qknQABLtHB1) - 单依纯
 1. [子莫格尼_剪辑版1_全网可听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
-1. [给你一瓶魔法药水](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7feb593ee8de4da69c1370c49d58b610) - 告五人
+1. [给你一瓶魔法药水](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7feb593ee8de4da69c1370c49d58b610) - 告五人
 1. [下一秒](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/16eedda97153423db2501ff6373be86a) - 张碧晨
-1. [勋章 Medals](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYwogDBYZneQjC0buOodj2f8T8PntB82QtgBrv) - 鹿晗
-1. [After Hours](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/aa318ca8d6cd484a902daaf337ef71ca) - The Weeknd
+1. [勋章 Medals](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYwogDBYZneQjC0buOodj2f8T8PntB82QtgBrv) - 鹿晗
+1. [After Hours](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/aa318ca8d6cd484a902daaf337ef71ca) - The Weeknd
 
 ## 品牌榜
 
