@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-08-29 09:49:01 +0800`
+`更新时间：2023-08-29 10:49:02 +0800`
 
 ## 抖音热榜
 
-1. 中国男篮69:89不敌南苏丹
-1. 外交部回应3名中国留学生被遣返
-1. 我国网民规模达10.79亿
-1. 王鹤棣田曦薇搂腰吻戏
 1. 老板回应顾客花5555元买早餐
-1. 刀郎新歌翩翩讲的什么
-1. 疯狂小杨哥开学反诈第一课
+1. 日本核污水排海开始影响邻国
+1. 我国网民规模达10.79亿
 1. 县政府被问天价雕塑连回6个不知道
-1. 燃冬导演说自己受到的打击很大
-1. 和平精英体验服爆料
+1. 瑶一瑶说自己是天上来的
+1. 印尼巴厘海连发2次地震
 1. 孤注一掷王传君在线转行
-1. 苏拉达维海葵三台风共舞
+1. 外交部回应3名中国留学生被遣返
 1. 广东治好了我的穿衣焦虑
+1. 白敬亭赢了游戏输了脾气
+1. 朝鲜就美西方援乌F16战机发声
 1. 郑恺从小猎豹变成爸爸
-1. 郭台铭反问新加坡记者
-1. 约旦男篮87:95新西兰
+1. 虞书欣和冯小刚一起走红毯
+1. 父辈的荣耀好看不
+1. 外交部回应FBI逮捕中国留学生
+1. 武大官宣：雷军再捐2000万元
 1. 贵州省委原书记孙志刚被查
 1. 学生大雨中军训老师打伞围观
-1. 警方回应高三女生车祸身亡
+1. 和平精英体验服爆料
+1. 中国男篮69:89不敌南苏丹
 1. 博主在东京街头反击歧视招牌
+1. 王鹤棣田曦薇搂腰吻戏
 1. 中方要求日方停止强推排海计划
 1. 女子半月被缅北男友骗光850万
 1. 鞠婧祎被停车杆打到
 1. 高校回应学生住进正装修宿舍
-1. 范丞丞：这卧底还用找吗
 1. 中方回应在华日本学校被砸鸡蛋
-1. 父辈的荣耀好看不
-1. 美军打死13名索马里武装分子
+1. 金宇彬飞往釜山吊唁去世粉丝
+1. 胡歌 我对不起好多人
 1. 吴磊把生活过成了电影
-1. 白敬亭赢了游戏输了脾气
-1. 外交部回应FBI逮捕中国留学生
-1. 东契奇34分10篮板
-1. 张艺凡生性不爱笑没人信
-1. 公交公司回应司机跪求老人不投诉
-1. 广西军训太硬核了
+1. 郭台铭反问新加坡记者
+1. 警方回应高三女生车祸身亡
+1. 苏拉达维海葵三台风共舞
+1. 疯狂小杨哥开学反诈第一课
+1. 中国驻日使领馆遭滋扰
 1. 李一桐曾舜晞跳whatever
-1. 朝鲜就美西方援乌F16战机发声
-1. 央媒调查湖南扶贫安置房质量问题
-1. 武大官宣：雷军再捐2000万元
-1. 莲花楼漫画 糖葫芦
+1. 周深雨中走红毯
+1. 美军打死13名索马里武装分子
+1. 东契奇34分10篮板
+1. 当江苏人第一次吃湘菜
 1. oi是什么梗
 1. 好声音多位学员称未被收取费用
-1. 中国驻日使领馆遭滋扰
-1. 虞书欣和冯小刚一起走红毯
-1. 邓为体验派演员的信念感
-1. 周深雨中走红毯
-1. 哈妮说王鹤棣是杜宾
-1. 被记旷工187天遭解聘教师发声
+1. 张艺凡生性不爱笑没人信
+1. 央媒调查湖南扶贫安置房质量问题
 1. 非常杨幂是什么梗
-1. 当江苏人第一次吃湘菜
+1. 荣梓杉演佟丽娅儿子
+1. 辽宁一住宅液化气罐爆炸
+1. 哈妮说王鹤棣是杜宾
+1. 邓为体验派演员的信念感
+1. 范丞丞：这卧底还用找吗
 
 ## 明星榜
 
@@ -76,32 +76,32 @@
 
 ## 音乐榜
 
-1. [爱人呢](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2041dc10f3c442f1992b439a00eaf2ba) - 郭采潔
-1. [毒药（周星星版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAXunb2JtDTQMcBfaEkg8Be5IhZQCmGByB0V33) - 周星星
+1. [爱人呢](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2041dc10f3c442f1992b439a00eaf2ba) - 郭采潔
+1. [毒药（周星星版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAXunb2JtDTQMcBfaEkg8Be5IhZQCmGByB0V33) - 周星星
 1. [不需要挽留 Move On（前奏）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
-1. [I Don't Gotta Know](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8nCfgMGwCsAvgDe5bzzaDQDFf6ksAUxrlFC8J) - 范丞丞 & 歐陽娜娜
-1. [想你时风起 (那年我错过的大雨)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooR7G8ftDMzIgnxa0HbReM4CZ74qknQABLtHB1) - 单依纯
+1. [I Don't Gotta Know](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8nCfgMGwCsAvgDe5bzzaDQDFf6ksAUxrlFC8J) - 范丞丞 & 歐陽娜娜
+1. [想你时风起 (那年我错过的大雨)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooR7G8ftDMzIgnxa0HbReM4CZ74qknQABLtHB1) - 单依纯
 1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
-1. [Sara Sara](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAceDXU2gVHZCQFrkrYmX8e5tUBxQPb6Bmd2nF) - SEVENTEEN
+1. [Sara Sara](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAceDXU2gVHZCQFrkrYmX8e5tUBxQPb6Bmd2nF) - SEVENTEEN
 1. [Here’s Your Perfect (with salem ilese)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/076b1576c6c546598f803fe53da388a7) - Jamie Miller
 1. [瞬（全网听）-郑润泽](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4Vb9eJZClCZTnRQYy0BRSeHGrDtrkrQgIBvQt) - 郑润泽
-1. [海边探戈](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
-1. [那一刻心动](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4c0ed00133e3439592b4741c72acc6f3) - 任子墨
+1. [海边探戈](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
+1. [那一刻心动](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4c0ed00133e3439592b4741c72acc6f3) - 任子墨
 1. [山茶花读不懂白玫瑰](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
 1. [在你的身边](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9dce2ee6c9f84c17a6d68458730d7ae8) - 盛哲
 1. [After Hours（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owgWztApWhImMFMpyEyQfAIyIusRBioqSgWk7T) - 87 ℃
-1. [靠近我](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMGCfQ3FZdrziXO1QC8zgfNXawBf91hGAIvUrY) - Kri9a.
+1. [靠近我](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMGCfQ3FZdrziXO1QC8zgfNXawBf91hGAIvUrY) - Kri9a.
 1. [天天](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6b075c4856e34a60a1ef022c4a80dec5) - David Tao
-1. [年少的你啊（剪辑版3）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oo2vDGhzyAtN1QLfh5k1iBIpWAv2NOZQysM5tK) - 浩然H.R
+1. [年少的你啊（剪辑版3）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oo2vDGhzyAtN1QLfh5k1iBIpWAv2NOZQysM5tK) - 浩然H.R
 1. [You Gotta Move](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a2b672af67514106b25cdfd6f1a8aad2) - Mississippi Fred McDowell
 1. [凄美地](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oshF4RgFMhmTSa4jCaHNUXI0NetFtBBQBzBZdf) - 郭顶
 1. [爱你](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/738d8b240f1e4519b44cf31c84e02e24) - 王心凌
 1. [If We Ever Broke Up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8onj5HDk0ImtBmO0URBfeyCDXQJMYkQ1gb8Zy) - Mae Stephens
-1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
-1. [我和比奇堡的朋友们](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f0505db981ea4a6d91453a15924a82aa) - 热水澡
+1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
+1. [我和比奇堡的朋友们](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f0505db981ea4a6d91453a15924a82aa) - 热水澡
 1. [最最美好的夏天（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4FMghDLZkPIkCutdrsXlbTHcaZztBfeCp9AFS) - 夏梓薰
 1. [下一秒](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/16eedda97153423db2501ff6373be86a) - 张碧晨
-1. [NUNA（告白版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
+1. [NUNA（告白版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
 1. [追晚风的人（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/560835060af84ac29cd5c12e2a98f7eb) - 徐薇
 
 ## 品牌榜
