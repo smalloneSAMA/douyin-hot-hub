@@ -11,29 +11,29 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-08-29 21:17:37 +0800`
+`更新时间：2023-08-29 22:12:58 +0800`
 
 ## 抖音热榜
 
-1. 张晚意新剧演了个苦瓜
+1. 日本核污水排放已累计超1500吨
 1. 董明珠自曝70岁没保养
 1. 开学仪式感拉满了
+1. 挪威自行车电梯
 1. 苏拉或于9月1日登陆广东
-1. 日本核污水排放已累计超1500吨
-1. 蒋万安上海首站参访洋山港
+1. 张晚意新剧演了个苦瓜
 1. 澳洲现全球首例蛇蛔虫感染者
 1. 周杰伦起诉拜伦文化侵权
 1. 中超公司董事长刘军被调查
-1. 关于全抖音选修公开课的通知
-1. 美加州爆发大规模街头斗殴
 1. 台风“达维”停止编号
-1. 女干部多次参与打牌赌博被通报
-1. 非常杨幂是什么梗
-1. 瑶一瑶说自己是天上来的
 1. 韩国中小学食堂禁用日产海鲜
+1. 女干部多次参与打牌赌博被通报
+1. 原来这是仓鼠男友
+1. 美加州爆发大规模街头斗殴
+1. 孤注一掷拍摄现场有多欢乐
+1. 麦小登给公婆发工资
 1. 温州查获核辐射地区食品
 1. 花5555元买烧饼顾客已找到
-1. 县政府被问天价雕塑连回6个不知道
+1. 吴磊给胡歌整不会了
 1. 杰尼斯承认喜多川性侵
 1. 中纪委再公布5名内鬼
 1. 科级干部办公室内搜出吸毒工具
@@ -41,30 +41,30 @@
 1. 杨幂参加中广联合会座谈会
 1. 新款OPPO小折叠发布
 1. 马立奥坐下那刻的杀伤力
-1. 孤注一掷拍摄现场有多欢乐
+1. 二刷莲花楼悟出来的事
 1. 胡歌 我对不起好多人
+1. 乐嘉
 1. 李凯尔：极度渴望一场胜利
-1. 新疆和田断臂男孩开学啦
 1. 吴磊被骑友大哥要微信
-1. 日本核污水排海开始影响邻国
 1. 警方回应高三女生车祸身亡
 1. 河南安阳42死火灾调查报告
 1. 官方回应日料店多人就餐后上吐下泻
-1. 虽然穷但也是最幸福的狗狗
+1. 国际黑客组织攻击日本多家网站
 1. 刀郎演唱新歌序曲
 1. 小黑诸鸣称收到威胁邮件
-1. 原来这是仓鼠男友
+1. 马克龙讥讽美国
 1. 胡锡进实现瞬时整仓翻红
+1. 瑶一瑶说自己是天上来的
 1. oi是什么梗
-1. 麦小登给公婆发工资
-1. 二刷莲花楼悟出来的事
-1. 青海发现3228座先秦墓葬
-1. 山西禁售原产地为日本水产品
+1. 蒋万安上海首站参访洋山港
+1. 新疆和田断臂男孩开学啦
 1. 东契奇34分10篮板
-1. 涂山璟给小夭的信
+1. 云秀行邓为大婚路透
 1. 印尼巴厘海连发多次地震
-1. 2023国庆档电影阵容
-1. 国际黑客组织攻击日本多家网站
+1. 中方回应日本驻华使馆被扔砖头
+1. 用解说号打开父辈的荣耀
+1. 山西禁售原产地为日本水产品
+1. 肖战演的盛阳
 
 ## 明星榜
 
@@ -77,32 +77,32 @@
 ## 音乐榜
 
 1. [爱人呢](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2041dc10f3c442f1992b439a00eaf2ba) - 郭采潔
-1. [毒药（周星星版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAXunb2JtDTQMcBfaEkg8Be5IhZQCmGByB0V33) - 周星星
-1. [不需要挽留 Move On（前奏）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
+1. [毒药（周星星版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAXunb2JtDTQMcBfaEkg8Be5IhZQCmGByB0V33) - 周星星
+1. [不需要挽留 Move On（前奏）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
 1. [I Don't Gotta Know](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8nCfgMGwCsAvgDe5bzzaDQDFf6ksAUxrlFC8J) - 范丞丞 & 歐陽娜娜
 1. [想你时风起 (那年我错过的大雨)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooR7G8ftDMzIgnxa0HbReM4CZ74qknQABLtHB1) - 单依纯
-1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
+1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
 1. [Sara Sara](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAceDXU2gVHZCQFrkrYmX8e5tUBxQPb6Bmd2nF) - SEVENTEEN
 1. [Here’s Your Perfect (with salem ilese)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/076b1576c6c546598f803fe53da388a7) - Jamie Miller
-1. [瞬（全网听）-郑润泽](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4Vb9eJZClCZTnRQYy0BRSeHGrDtrkrQgIBvQt) - 郑润泽
-1. [海边探戈](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
+1. [瞬（全网听）-郑润泽](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4Vb9eJZClCZTnRQYy0BRSeHGrDtrkrQgIBvQt) - 郑润泽
+1. [海边探戈](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
 1. [那一刻心动](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4c0ed00133e3439592b4741c72acc6f3) - 任子墨
-1. [山茶花读不懂白玫瑰](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
+1. [山茶花读不懂白玫瑰](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
 1. [在你的身边](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9dce2ee6c9f84c17a6d68458730d7ae8) - 盛哲
 1. [After Hours（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owgWztApWhImMFMpyEyQfAIyIusRBioqSgWk7T) - 87 ℃
-1. [靠近我](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMGCfQ3FZdrziXO1QC8zgfNXawBf91hGAIvUrY) - Kri9a.
+1. [靠近我](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMGCfQ3FZdrziXO1QC8zgfNXawBf91hGAIvUrY) - Kri9a.
 1. [天天](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6b075c4856e34a60a1ef022c4a80dec5) - David Tao
-1. [年少的你啊（剪辑版3）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oo2vDGhzyAtN1QLfh5k1iBIpWAv2NOZQysM5tK) - 浩然H.R
+1. [年少的你啊（剪辑版3）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oo2vDGhzyAtN1QLfh5k1iBIpWAv2NOZQysM5tK) - 浩然H.R
 1. [You Gotta Move](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a2b672af67514106b25cdfd6f1a8aad2) - Mississippi Fred McDowell
-1. [凄美地](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oshF4RgFMhmTSa4jCaHNUXI0NetFtBBQBzBZdf) - 郭顶
+1. [凄美地](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oshF4RgFMhmTSa4jCaHNUXI0NetFtBBQBzBZdf) - 郭顶
 1. [爱你](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/738d8b240f1e4519b44cf31c84e02e24) - 王心凌
-1. [If We Ever Broke Up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8onj5HDk0ImtBmO0URBfeyCDXQJMYkQ1gb8Zy) - Mae Stephens
+1. [If We Ever Broke Up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8onj5HDk0ImtBmO0URBfeyCDXQJMYkQ1gb8Zy) - Mae Stephens
 1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
 1. [我和比奇堡的朋友们](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f0505db981ea4a6d91453a15924a82aa) - 热水澡
 1. [最最美好的夏天（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4FMghDLZkPIkCutdrsXlbTHcaZztBfeCp9AFS) - 夏梓薰
-1. [下一秒](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/16eedda97153423db2501ff6373be86a) - 张碧晨
+1. [下一秒](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/16eedda97153423db2501ff6373be86a) - 张碧晨
 1. [NUNA（告白版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
-1. [追晚风的人（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/560835060af84ac29cd5c12e2a98f7eb) - 徐薇
+1. [追晚风的人（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/560835060af84ac29cd5c12e2a98f7eb) - 徐薇
 
 ## 品牌榜
 
