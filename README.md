@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-09-11 00:16:08 +0800`
+`更新时间：2023-09-11 01:11:27 +0800`
 
 ## 抖音热榜
 
@@ -22,49 +22,49 @@
 1. 大学生差点被裤子单杀
 1. 马龙击败樊振东夺冠
 1. 野球帝 苏州C12
-1. 杜海涛严格执行李维嘉作息
+1. 如何看待李佳琦带货争议言论
 1. 官方辟谣深圳居民排长队离婚
 1. 美科学家在海底发现神秘物体
 1. 薛之谦演唱会因身体原因取消
 1. 李佳琦带货言论惹争议
 1. 歌迷穿婚纱和周杰伦合唱屋顶
-1. 如何看待李佳琦带货争议言论
-1. 于文文唱体面可以笑着疼了
+1. 杜海涛严格执行李维嘉作息
+1. 第八个嫌疑人张颂文结局
 1. CA403所有人员均安全撤离
 1. 华为Mate X5测速
 1. 出地铁站后失联男生遗体已找到
-1. 老太袭警被警方击伤后死亡
-1. 第八个嫌疑人张颂文结局
-1. 李佳琦说找不到以前状态了
 1. 德国男篮世界杯冠军
-1. 周杰伦演唱会婚纱女孩回应了
+1. 老太袭警被警方击伤后死亡
+1. 李佳琦说找不到以前状态了
+1. 22人倒卖周杰伦演唱会门票被抓
+1. ALGS冠军赛
+1. 于文文唱体面可以笑着疼了
 1. 华晨宇接受法师称号
-1. 特朗普猛批拜登哽咽失语40秒
 1. 被指区别对待游客景区致歉
-1. 被白宇告别戏搞破防了
+1. 宫远徵委屈独自过节
 1. 高泽宇求婚丸子
-1. 宫子羽背秘文过目不忘
+1. 宫尚角给上官浅上药名场面
 1. 台媒：17架次解放军军机台海周边活动
 1. 在伍佰北京演唱会唱给伍佰听
+1. 被白宇告别戏搞破防了
+1. 特朗普猛批拜登哽咽失语40秒
 1. 摩洛哥地震已致超2000人遇难
-1. 黄绮珊和海洋哥合唱向云端
-1. 宫尚角给上官浅上药名场面
-1. 杨紫四年气质变化
 1. 陪Tank再唱一次三国恋
+1. 东契奇把奖杯送给球迷
+1. 黄绮珊和海洋哥合唱向云端
 1. 河南鹤壁发生3.4级地震
-1. 美媒曝越南不顾制裁拟购俄装备
-1. 异人之下冯宝宝被人贩子拐卖
-1. 宫远徵委屈独自过节
+1. 李在明结束10天绝食
+1. 杨紫四年气质变化
 1. 杨政率队淘汰曹芳
-1. 原来情绪价值真的很重要
+1. DF进入决赛
+1. 斗破苍穹第63集预告
+1. 异人之下冯宝宝被人贩子拐卖
+1. 周杰伦演唱会婚纱女孩回应了
+1. 网友吐槽襄阳唐城区别对待
+1. 李帅初步诊断为轻微脑震荡
 1. 1万3买的周杰伦演唱会门票被偷
 1. 广东67夺触地即燃全国总冠军
-1. 网友吐槽襄阳唐城区别对待
-1. 东契奇把奖杯送给球迷
-1. 斗破苍穹第63集预告
-1. 养花是衫羽欲来play一环
-1. 教师节祝福语
-1. 李在明结束10天绝食
+1. 当儿子和妈妈说同学都很有钱
 
 ## 明星榜
 
@@ -80,32 +80,32 @@
 1. [你想要的（深情版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIMnk8GFpoYUtBP39qsBLeMCDPQxxYcI4gbeZS) - 颜人中
 1. [年少的你啊（剪辑版3）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oo2vDGhzyAtN1QLfh5k1iBIpWAv2NOZQysM5tK) - 浩然H.R
 1. [和宇宙的温柔关联-现场合唱](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0hONGDYQBgk0e5bqDeQOonVmncA6tC2nBwZLT) - 房东的猫
-1. [宝贝在干嘛](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okW4hBCfJI5B2ZEgTCtikhMW7IafzNrBQIYkpJ) - 嘿人李逵Noisemakers
-1. [海边探戈](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
+1. [宝贝在干嘛](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okW4hBCfJI5B2ZEgTCtikhMW7IafzNrBQIYkpJ) - 嘿人李逵Noisemakers
+1. [海边探戈](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
 1. [可能（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
 1. [年少的你啊](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUgVxPDvyCARX4khAFfhQuzHWUBsUGvMIJtshK) - 浩然H.R
-1. [你想要的（慢速版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEQBhZBkt8xSt8Cgkafn2gOtQoBbCnelLYHkDU) - 颜人中
-1. [山茶花读不懂白玫瑰](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
+1. [你想要的（慢速版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEQBhZBkt8xSt8Cgkafn2gOtQoBbCnelLYHkDU) - 颜人中
+1. [山茶花读不懂白玫瑰](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
 1. [If We Ever Broke Up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8onj5HDk0ImtBmO0URBfeyCDXQJMYkQ1gb8Zy) - Mae Stephens
 1. [瞬（全网听）-郑润泽](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4Vb9eJZClCZTnRQYy0BRSeHGrDtrkrQgIBvQt) - 郑润泽
-1. [毒药 (释怀版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
+1. [毒药 (释怀版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
 1. [凄美地](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oshF4RgFMhmTSa4jCaHNUXI0NetFtBBQBzBZdf) - 郭顶
 1. [想你时风起 (那年我错过的大雨)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooR7G8ftDMzIgnxa0HbReM4CZ74qknQABLtHB1) - 单依纯
 1. [下一秒](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/16eedda97153423db2501ff6373be86a) - 张碧晨
-1. [NUNA（告白版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
+1. [NUNA（告白版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
 1. [星光降落 (贝儿完整版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okwB9hAwyAtsFFkFBzAX1hOOfQuIoMNs0W2Mwr) - 陆雨萱（贝儿）
-1. [Closure](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/84f7422b29f94b78a5f3b0386275db35) - Sarcastic Sounds & BIRDY & Mishaal
-1. [不需要挽留 Move On（前奏）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
+1. [Closure](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/84f7422b29f94b78a5f3b0386275db35) - Sarcastic Sounds & BIRDY & Mishaal
+1. [不需要挽留 Move On（前奏）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
 1. [爱人呢](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2041dc10f3c442f1992b439a00eaf2ba) - 郭采潔
-1. [ 一笑倾城](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cb539248cc6e4add8fdc39683808c267) - 汪苏泷
+1. [ 一笑倾城](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cb539248cc6e4add8fdc39683808c267) - 汪苏泷
 1. [我撕裂我的身体](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0cWZzf7vIzpjLQBHPXwtFhMxYUvsP8AoC8EgA) - MISTERK/Tphunk
 1. [爱你](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/738d8b240f1e4519b44cf31c84e02e24) - 王心凌
 1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
-1. [After Hours（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owgWztApWhImMFMpyEyQfAIyIusRBioqSgWk7T) - 87 ℃
-1. [夏天的风（纯音乐） （剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUzLjBZZFQAoNRmGokEeD5zfQCObp6UeFAnTa6) - gusing CC
+1. [After Hours（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owgWztApWhImMFMpyEyQfAIyIusRBioqSgWk7T) - 87 ℃
+1. [夏天的风（纯音乐） （剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUzLjBZZFQAoNRmGokEeD5zfQCObp6UeFAnTa6) - gusing CC
 1. [那一刻心动](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4c0ed00133e3439592b4741c72acc6f3) - 任子墨
 1. [达尔文（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQuPQQmEgnCeZsgKQ78VBZjNVtegzBGpoSbQPD) - 林俊杰
-1. [You Gotta Move](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a2b672af67514106b25cdfd6f1a8aad2) - Mississippi Fred McDowell
+1. [You Gotta Move](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a2b672af67514106b25cdfd6f1a8aad2) - Mississippi Fred McDowell
 
 ## 品牌榜
 
