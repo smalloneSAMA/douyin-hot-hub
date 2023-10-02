@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-10-03 01:13:13 +0800`
+`更新时间：2023-10-03 02:18:14 +0800`
 
 ## 抖音热榜
 
 1. 王楚钦4比3胜樊振东夺冠
 1. DOTA2中国队夺冠
 1. 当亚运遇上中国“潮”
-1. 林雨薇：国旗不能签名
+1. 王楚钦夺冠后不停喝水
 1. 王楚钦采访
 1. 耗时2年建造航母模型下水
-1. 抖音倡议用户理性观赛
-1. 巴特勒新发型
+1. 台湾统派：华夏血脉 台湾当归
+1. 林雨薇：国旗不能签名
 1. 警方辟谣中秋节公公收礼事件
 1. 王楚钦你为什么要在杭州剪头发
 1. 吴艳妮深夜道歉：起跑需改进
 1. 小贾老师带李炮儿参加运动会
-1. 男足亚运队就地解散
-1. 吴艳妮妈妈回应抢跑被取消成绩
 1. 林雨薇发抖音了
+1. 吴艳妮妈妈回应抢跑被取消成绩
 1. 坚如磐石让人背后发凉的谜底
-1. 台湾统派：华夏血脉 台湾当归
-1. 好事成双黄晓明张小斐上分
-1. 吴艳妮：跟栏架磨了10年
+1. 柯洁战胜许家元
+1. 网友替全红婵向何超要花
+1. 视障女孩发抖音回应薛之谦
+1. 巴特勒新发型
 1. 陈翔六点半短剧新型超市惊魂
-1. 亚运会乒乓球男单决赛
 1. 狗狗困成了平行四边形
-1. 前任4笑点这么密集
+1. 男足亚运队就地解散
+1. 中国天眼有新发现
 1. 奚梦瑶机场坐轮椅
 1. 这就是小孩哥吗
 1. 酸枣仁价格涨至每公斤千元
-1. 视障女孩发抖音回应薛之谦
-1. 网友替全红婵向何超要花
-1. 丁点被叫错名字反应好可爱
-1. 许昕：孙颖莎逐渐扛起女乒大旗
-1. 印尼总统宣布雅万高铁正式启用
-1. 吃过一次就念念不忘的北京
-1. 夏思凝回应被称为花瓶
+1. 好事成双黄晓明张小斐上分
+1. 朝鲜球员吓唬日本工作人员获黄牌
 1. 被刘德华爱女情刀哭了
-1. 吃过一次就念念不忘的长沙
+1. 丁点被叫错名字反应好可爱
 1. 陈冲坚如磐石极致隐忍
-1. 何超拿全红婵花束拍照
-1. 王楚钦说唯一瑕疵是头发没剪好
 1. 观众鼓掌送别中国台北女篮
 1. 薛之谦给演唱会视障女孩留声
-1. 兰闺喜事跳舞整活吓坏全场
+1. 看林双拿捏卫明爽歪歪
+1. 夏思凝回应被称为花瓶
+1. 印尼总统宣布雅万高铁正式启用
+1. 当假期遇上太空鲨洗脑舞
+1. 前任4笑点这么密集
+1. 网友实拍亚运会赛场机器狗
+1. 2023诺贝尔奖今起公布
 1. 周深太湖湾音乐节
+1. 兰闺喜事跳舞整活吓坏全场
+1. 韩国轮滑选手提前庆祝丢冠
+1. 撑杆跳老将李玲破赛会纪录夺金
+1. 吃过一次就念念不忘的北京
+1. 何超拿全红婵花束拍照
+1. 亚运会播报员超燃播报
 1. 冯巩说经典台词为母校庆生
 1. 西安交警辟谣景区儿童被撞
-1. 中国天眼有新发现
-1. 网友实拍亚运会赛场机器狗
-1. 王楚钦夺冠后不停喝水
-1. 亚运会播报员超燃播报
-1. 看林双拿捏卫明爽歪歪
 
 ## 明星榜
 
@@ -75,30 +75,30 @@
 
 ## 音乐榜
 
-1. [九月底](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMfewG4PDTFhF8iz3OGQ7ABH5i6fCgnMaoCbzZ) - 余佳运
-1. [Black (Feat. 제니 of BLACKPINK)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2eb92e2debbe4fe0a552bc099aef7f28) - G-Dragon
+1. [九月底](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMfewG4PDTFhF8iz3OGQ7ABH5i6fCgnMaoCbzZ) - 余佳运
+1. [Black (Feat. 제니 of BLACKPINK)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2eb92e2debbe4fe0a552bc099aef7f28) - G-Dragon
 1. [我的纸飞机（片段2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM2ZrKcg2CD5AeRB2gkeXOFB1IxAGJdZPazYHf) - GooGoo/王之睿
-1. [朵](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/932f5bdfcd7c47b880525e92ab8a4999) - 赵雷
+1. [朵](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/932f5bdfcd7c47b880525e92ab8a4999) - 赵雷
 1. [和宇宙的温柔关联-现场合唱](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0hONGDYQBgk0e5bqDeQOonVmncA6tC2nBwZLT) - 房东的猫
 1. [可能（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
-1. [银河与星斗](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3cc0bf5f0ef140f7b6743a631bcf3c58) - Yihuik苡慧
+1. [银河与星斗](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3cc0bf5f0ef140f7b6743a631bcf3c58) - Yihuik苡慧
 1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
 1. [能不能 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fc4a6c45b4a34277ba4088e1d7fdff98) - 吴映香
 1. [海边探戈](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
-1. [故事还长](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/30a26758c8594f0ab81ac675c33ee2c5) - 云汐
+1. [故事还长](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/30a26758c8594f0ab81ac675c33ee2c5) - 云汐
 1. [晚安](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a724c5e224464218839820f4e4fd632f) - 鹿先森
-1. [山茶花读不懂白玫瑰](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
-1. [不需要挽留 Move On（前奏）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
+1. [山茶花读不懂白玫瑰](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
+1. [不需要挽留 Move On（前奏）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
 1. [王菲-我和我的祖国](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3ef0f373017541e18566595c96123cab) - 王菲
-1. [我和比奇堡的朋友们](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f0505db981ea4a6d91453a15924a82aa) - 热水澡
+1. [我和比奇堡的朋友们](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f0505db981ea4a6d91453a15924a82aa) - 热水澡
 1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
-1. [宝贝在干嘛](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okW4hBCfJI5B2ZEgTCtikhMW7IafzNrBQIYkpJ) - 嘿人李逵Noisemakers
-1. [NUNA（告白版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
+1. [宝贝在干嘛](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okW4hBCfJI5B2ZEgTCtikhMW7IafzNrBQIYkpJ) - 嘿人李逵Noisemakers
+1. [NUNA（告白版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
 1. [毒药 (释怀版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
 1. [瞬（全网听）-郑润泽](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4Vb9eJZClCZTnRQYy0BRSeHGrDtrkrQgIBvQt) - 郑润泽
-1. [Haru Haru（하루하루）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/940c04aa98154ee7bdbaaa2ad9f28aec) - BIGBANG
+1. [Haru Haru（하루하루）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/940c04aa98154ee7bdbaaa2ad9f28aec) - BIGBANG
 1. [爱人呢](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2041dc10f3c442f1992b439a00eaf2ba) - 郭采潔
-1. [飞天茅台](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4GhTV5kIuMWmC2Ai1WzNglssgBfQaqQCSLxUU) - 俞天时KOZAY & Q.luv
+1. [飞天茅台](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4GhTV5kIuMWmC2Ai1WzNglssgBfQaqQCSLxUU) - 俞天时KOZAY & Q.luv
 1. [看月亮爬上来](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/356c324112764016b25295e535f2daf0) - 张杰
 
 ## 品牌榜
