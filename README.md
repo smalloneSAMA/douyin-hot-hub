@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-10-05 13:13:44 +0800`
+`更新时间：2023-10-05 14:18:50 +0800`
 
 ## 抖音热榜
 
+1. 张艺兴差点说出EXO
 1. 日本东部海域地震并引发海啸
-1. 没有人能空手走出景德镇
 1. 可爱的国美丽的家
-1. 全红婵采访全程没说超50字
-1. 男篮输球众生相
 1. 习惯性反问有多讨厌
 1. 当古装男主走进现实
+1. 王楚钦已经痛失本名
+1. 看前任4笑撅过去了
 1. 乔尔杰维奇 下课
 1. 北大国发院辟谣教授建群荐股
 1. 曾黎与高跟鞋和解了
-1. 杭州亚运会显眼包大盘点
+1. 何杰：全年的训练都是为了亚运会
 1. 高铁不脏手薯片吃法
 1. 当小狗和很久不见的朋友见面
-1. 戴资颖爆冷出局
-1. 看前任4笑撅过去了
-1. 男子向大熊猫投喂苹果被终身禁入
-1. 沈阳烤鸡架真上头
-1. 王楚钦已经痛失本名
-1. 南阳迷笛被盗失主称营地没监控
 1. 苏炳添有自己的奥运奖牌了
+1. 没有人能空手走出景德镇
+1. 男子向大熊猫投喂苹果被终身禁入
+1. 纽卡4:1巴黎
+1. 我把四川做成了一块超大饼干
+1. 迷笛：南阳警方落实被盗案件65起
+1. 沈阳烤鸡架真上头
 1. 印度医院12名婴儿同日死亡
 1. 原来狗蛋长这样
-1. 沧元图第18集预告
 1. 3个月改造父母30年卧室
+1. 2023国风大典
 1. 钮钴禄蜜雪
 1. 第一次见这么胖的狗子
-1. 谢思埸也羡慕全红婵拿7个10分
+1. 男篮输球众生相
 1. if you变装
-1. 我和爸妈旅游的区别
-1. 何杰获亚运男子马拉松中国首金
-1. 还没从于和伟的嘘里走出来
 1. 中国男篮不敌菲律宾无缘决赛
-1. 我把四川做成了一块超大饼干
-1. 在家实现玉米汁自由
-1. 生气抓不住 女人会武术
-1. 董宇辉迷茫的一天
-1. 有男生能拒绝这个玩具吗
-1. 陪你洗碗的兔兔有多可爱
-1. 张艺兴差点说出EXO
-1. 记录智能宅家的一天
-1. 姚明赛后道歉
-1. 何杰：全年的训练都是为了亚运会
+1. 何杰获亚运男子马拉松中国首金
+1. 谢思埸也羡慕全红婵拿7个10分
+1. 还没从于和伟的嘘里走出来
 1. 抖音第二届全国上分挑战
-1. 张予曦国风大典妆造绝美
+1. 我和爸妈旅游的区别
+1. 生气抓不住 女人会武术
+1. 姚明赛后道歉
+1. 在家实现玉米汁自由
+1. 陪你洗碗的兔兔有多可爱
 1. 卫明现世报来了
 1. 葛曼棋相信袁琦琦第三棒就是第一
-1. 亚运会速度攀岩有多快
-1. 2023国风大典
+1. 前任4适合情侣一起看
+1. 海鲜店老板教你怎么剥皮皮虾
+1. 记录智能宅家的一天
+1. 中国女篮vs日本队
+1. 阿尔瓦雷斯世界波
+1. 袁琦琦爆发力
+1. 杭州亚运会显眼包大盘点
 1. 各地交通工具有多硬核
-1. 苹果iOS17.0.3正式版发布
+1. 假期比心手势舞
+1. 好事成双赵昕说黄嘉仪没长眼
 
 ## 明星榜
 
@@ -77,30 +77,30 @@
 ## 音乐榜
 
 1. [九月底](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMfewG4PDTFhF8iz3OGQ7ABH5i6fCgnMaoCbzZ) - 余佳运
-1. [Black (Feat. 제니 of BLACKPINK)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2eb92e2debbe4fe0a552bc099aef7f28) - G-Dragon
+1. [Black (Feat. 제니 of BLACKPINK)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2eb92e2debbe4fe0a552bc099aef7f28) - G-Dragon
 1. [我的纸飞机（片段2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM2ZrKcg2CD5AeRB2gkeXOFB1IxAGJdZPazYHf) - GooGoo/王之睿
-1. [朵](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/932f5bdfcd7c47b880525e92ab8a4999) - 赵雷
+1. [朵](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/932f5bdfcd7c47b880525e92ab8a4999) - 赵雷
 1. [和宇宙的温柔关联-现场合唱](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0hONGDYQBgk0e5bqDeQOonVmncA6tC2nBwZLT) - 房东的猫
 1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
 1. [银河与星斗](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3cc0bf5f0ef140f7b6743a631bcf3c58) - Yihuik苡慧
-1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
-1. [能不能 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fc4a6c45b4a34277ba4088e1d7fdff98) - 吴映香
+1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
+1. [能不能 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fc4a6c45b4a34277ba4088e1d7fdff98) - 吴映香
 1. [海边探戈](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
 1. [故事还长](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/30a26758c8594f0ab81ac675c33ee2c5) - 云汐
-1. [晚安](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a724c5e224464218839820f4e4fd632f) - 鹿先森
-1. [山茶花读不懂白玫瑰](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
+1. [晚安](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a724c5e224464218839820f4e4fd632f) - 鹿先森
+1. [山茶花读不懂白玫瑰](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
 1. [不需要挽留 Move On（前奏）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
-1. [王菲-我和我的祖国](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3ef0f373017541e18566595c96123cab) - 王菲
-1. [我和比奇堡的朋友们](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f0505db981ea4a6d91453a15924a82aa) - 热水澡
+1. [王菲-我和我的祖国](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3ef0f373017541e18566595c96123cab) - 王菲
+1. [我和比奇堡的朋友们](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f0505db981ea4a6d91453a15924a82aa) - 热水澡
 1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
 1. [宝贝在干嘛](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okW4hBCfJI5B2ZEgTCtikhMW7IafzNrBQIYkpJ) - 嘿人李逵Noisemakers
-1. [NUNA（告白版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
-1. [毒药 (释怀版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
-1. [瞬（全网听）-郑润泽](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4Vb9eJZClCZTnRQYy0BRSeHGrDtrkrQgIBvQt) - 郑润泽
-1. [Haru Haru（하루하루）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/940c04aa98154ee7bdbaaa2ad9f28aec) - BIGBANG
+1. [NUNA（告白版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
+1. [毒药 (释怀版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
+1. [瞬（全网听）-郑润泽](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4Vb9eJZClCZTnRQYy0BRSeHGrDtrkrQgIBvQt) - 郑润泽
+1. [Haru Haru（하루하루）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/940c04aa98154ee7bdbaaa2ad9f28aec) - BIGBANG
 1. [爱人呢](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2041dc10f3c442f1992b439a00eaf2ba) - 郭采潔
-1. [飞天茅台](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4GhTV5kIuMWmC2Ai1WzNglssgBfQaqQCSLxUU) - 俞天时KOZAY & Q.luv
-1. [看月亮爬上来](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/356c324112764016b25295e535f2daf0) - 张杰
+1. [飞天茅台](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4GhTV5kIuMWmC2Ai1WzNglssgBfQaqQCSLxUU) - 俞天时KOZAY & Q.luv
+1. [看月亮爬上来](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/356c324112764016b25295e535f2daf0) - 张杰
 
 ## 品牌榜
 
