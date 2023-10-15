@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-10-15 18:14:04 +0800`
+`更新时间：2023-10-15 19:11:05 +0800`
 
 ## 抖音热榜
 
 1. 乡爱13刘能饰演者赵明远去世
-1. 王楚钦遭粉丝跟拍发飙怒怼
-1. 把青春华章写在祖国大地上
 1. 终于明白为什么叫长白山了
+1. 把青春华章写在祖国大地上
 1. 自信就是最有效的穿搭单品
+1. 中国中免董事长李刚去世
 1. 中国将派特使推动巴以停火
 1. 对方撤回了一个起床气
-1. 把刘海撩起来后的反差感
+1. 王楚钦遭粉丝跟拍发飙怒怼
 1. 救援队回应男子自捆双脚投河
 1. 苏州公交起火致2死5伤系谣言
-1. 梅西将战两支中超球队
 1. 发现一只嫌疑猫
-1. 以国家安全顾问承认误判情报
+1. 王栎鑫演唱会嘉宾是一双儿女
 1. 巴以冲突已致近4000人死亡
-1. 当地回应禁止农民机械设备收花生
+1. 最好的花匠是爸爸妈妈
+1. 援巴物资因口岸关闭运输受阻
 1. 和田玉河探昆仑
 1. 伊朗发视频：被轰炸后的加沙
 1. 官方通报黑龙江列车脱轨原因
 1. 美媒：伊朗警告以色列
 1. 黎巴嫩真主党袭击以色列雷达站
 1. 中国援助阿富汗震区物资运抵
-1. 这个bgm里还有多少脆皮故事
-1. 巴以冲突已致中国公民4死6伤
-1. 最好的花匠是爸爸妈妈
-1. 王栎鑫演唱会嘉宾是一双儿女
-1. 电商捧哏
-1. 终于知道我为什么当不了女主了
-1. 吴艳妮发布训练视频
-1. 援巴物资因口岸关闭运输受阻
 1. 不是小瓶买不起大瓶更有性价比
-1. 警方通报男子换零钱被拒掌掴员工
-1. 我国成功发射云海一号04星
-1. 乡政府回应玉米地被哄抢
-1. 前任4突袭于文文演唱会
-1. 华浅提出和离
-1. 麦小登分享孕肚照
-1. 赵露思新歌我先用
-1. 青岛海上马拉松开跑
-1. 不会只有我不知道火车可以坐船吧
-1. 周星驰邀宋康昊出演新片
-1. 李宇春演唱会上妈妈也好会唱
-1. 后妈茶话会翻唱
-1. 你有什么奇怪的收集癖
-1. 第36届金鸡奖提名名单
-1. 佛山电翰向网友宣传佛山
-1. 淅川第一届范蠡文化节
-1. 朴宝英朴炯植时隔六年合作
+1. 巴以冲突已致中国公民4死6伤
+1. 当地回应禁止农民机械设备收花生
+1. 这个bgm里还有多少脆皮故事
+1. 电商捧哏
+1. 旭旭宝宝来广东了
 1. 大连马拉松赛开跑
-1. 拆结婚礼物vlog
-1. 中国中免董事长李刚去世
+1. 赵露思新歌我先用
+1. 丁真肺活量惊呆罗一舟
+1. 杨利伟讲中国载人航天20年
+1. 把刘海撩起来后的反差感
+1. 吴艳妮发布训练视频
+1. 我国成功发射云海一号04星
+1. 赛场上的显眼包
+1. 周星驰邀宋康昊出演新片
+1. 警方通报男子换零钱被拒掌掴员工
+1. 前任4突袭于文文演唱会
+1. 不会只有我不知道火车可以坐船吧
+1. 川大校长汪劲松讲述校史
+1. 音乐一响美食登场
+1. 麦小登分享孕肚照
+1. 看看你们穿冲锋衣的样子
+1. 佛山电翰向网友宣传佛山
+1. 乡政府回应玉米地被哄抢
+1. 青岛海上马拉松开跑
+1. 巴卫生部：加沙地带死伤过万
+1. 李宇春演唱会上妈妈也好会唱
+1. 解救GGBond翻唱
+1. 这回忆承载着我们的童年
 
 ## 明星榜
 
@@ -76,27 +76,27 @@
 
 ## 音乐榜
 
-1. [太阳（你看着我眼睛）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogWbyIQnlBFImVbeDocRdCIYtBHlbJXgfZMvgz) - 刘鹏
+1. [太阳（你看着我眼睛）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogWbyIQnlBFImVbeDocRdCIYtBHlbJXgfZMvgz) - 刘鹏
 1. [我的纸飞机（片段2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM2ZrKcg2CD5AeRB2gkeXOFB1IxAGJdZPazYHf) - GooGoo/王之睿
-1. [瞬-郑润泽](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYXHIohzvbNAzBhHgyksWpRM4bfkDsBdBDAynw) - 郑润泽
+1. [瞬-郑润泽](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYXHIohzvbNAzBhHgyksWpRM4bfkDsBdBDAynw) - 郑润泽
 1. [毒药 (释怀版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
-1. [可能（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
+1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
 1. [山茶花读不懂白玫瑰](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
-1. [活着 (深情版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY8r2TelECK2BPZbDCj8xZKBQfPbwQyCt1cggn) - 黄绮珊
-1. [不需要挽留 Move On（前奏）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
+1. [活着 (深情版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY8r2TelECK2BPZbDCj8xZKBQfPbwQyCt1cggn) - 黄绮珊
+1. [不需要挽留 Move On（前奏）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
 1. [海边探戈](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
-1. [我也有撑不住的时候](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okmtBE1dkIBhwxeiBJeDgQnQtICZWIJUI2bjQr) - 派星儿
+1. [我也有撑不住的时候](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okmtBE1dkIBhwxeiBJeDgQnQtICZWIJUI2bjQr) - 派星儿
 1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
 1. [爱你](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEfyTFYX4gOL9DMKAJebDCAASw8hYVIXz1nYaf) - 王心凌
-1. [九月底](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMfewG4PDTFhF8iz3OGQ7ABH5i6fCgnMaoCbzZ) - 余佳运
-1. [和宇宙的温柔关联-现场合唱](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0hONGDYQBgk0e5bqDeQOonVmncA6tC2nBwZLT) - 房东的猫
+1. [九月底](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMfewG4PDTFhF8iz3OGQ7ABH5i6fCgnMaoCbzZ) - 余佳运
+1. [和宇宙的温柔关联-现场合唱](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0hONGDYQBgk0e5bqDeQOonVmncA6tC2nBwZLT) - 房东的猫
 1. [晚安](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a724c5e224464218839820f4e4fd632f) - 鹿先森
-1. [If We Ever Broke Up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8onj5HDk0ImtBmO0URBfeyCDXQJMYkQ1gb8Zy) - Mae Stephens
+1. [If We Ever Broke Up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8onj5HDk0ImtBmO0URBfeyCDXQJMYkQ1gb8Zy) - Mae Stephens
 1. [Black (Feat. 제니 of BLACKPINK)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2eb92e2debbe4fe0a552bc099aef7f28) - G-Dragon
-1. [星光降落 (贝儿完整版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okwB9hAwyAtsFFkFBzAX1hOOfQuIoMNs0W2Mwr) - 陆雨萱（贝儿）
+1. [星光降落 (贝儿完整版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okwB9hAwyAtsFFkFBzAX1hOOfQuIoMNs0W2Mwr) - 陆雨萱（贝儿）
 1. [悬溺](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f3b6cc53d2e944beb7094a3ff01b4e03) - 葛东琪
 1. [我和比奇堡的朋友们](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f0505db981ea4a6d91453a15924a82aa) - 热水澡
-1. [风之海](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oInqZ2gFbCQvB6wZNnZlJpBcfDBQ8t1e1XwYAi) - 华晨宇
+1. [风之海](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oInqZ2gFbCQvB6wZNnZlJpBcfDBQ8t1e1XwYAi) - 华晨宇
 1. [颜人中 - 追风（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9107f711ded6416ab3279a81d71597f7) - 颜人中
 1. [Let Us Run Away](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a9a280d910044fb0b9f4f74b0b27e854) - Loving Caliber
 1. [我爱你中国（小提琴重编）纯音乐](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/362de867442c4051acadb0a43fd60af8) - 文凤
