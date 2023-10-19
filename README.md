@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-10-19 22:13:50 +0800`
+`更新时间：2023-10-19 23:14:36 +0800`
 
 ## 抖音热榜
 
 1. 俄记者：未见过如此多领导人座驾
 1. 水均益女儿从央视离职
 1. 神十七飞行任务标识发布
-1. 女孩自制计算器出租给同学
+1. 妈妈用水果举例培养女儿自信
+1. 大一vs大四
+1. Bin的奎桑提太牛了
 1. 东北版重庆森林
-1. 勇士胜国王
-1. TheShy赢了后亮IG队标
+1. 普京黑色手提箱曝光
+1. 中储粮集团辟谣停止收购玉米
+1. 广州宝马事故出租车司机被控制
+1. 女孩自制计算器出租给同学
 1. 开扇起武挑战
-1. 官方辟谣拟取消教师编制
-1. 校服下的摩登舞也太酷了
-1. TheShy时隔1447天再登总决赛
-1. 大白鲸：今天的任务完成
-1. 普京回应被美国定义战败
+1. 当小提琴遇上丁香花
+1. 专家称走失女童父亲过于理想化
+1. TheShy赢了后亮IG队标
 1. 麦小登复刻王婆大虾
 1. 电影涉过愤怒的海定档
-1. 只有英叔才知道他们底子有多好
+1. LPL瑞士轮4战全胜
 1. 中方回应美国一票否决巴以决议
+1. 巴以冲突已致超5200人死亡
 1. 美拉德五金女孩
-1. 拯救乳腺之歌是什么梗
-1. 妈妈用水果举例培养女儿自信
 1. 热力感穿搭
 1. JDG战胜BDS
-1. 辽宁原副省长王大伟被控受贿5.5亿
 1. 真正的高手在民间
 1. 警方通报宝马与出租车相撞
 1. 宋轶巴黎铁塔打卡照
-1. 终于找到兜兜转转这首歌了
-1. 李亚鹏被限制高消费
 1. 济南回应突发不明巨响
-1. 当小提琴遇上丁香花
-1. 王毅：日本对华认知出现倒退
-1. 智利85后总统个人经历
-1. 贾玲监制海外版你好李焕英
-1. B太体验新疆婚礼
-1. 该怎么形容她呢
-1. 超1300名儿童死于巴以冲突
-1. 俄外长与朝鲜外务相会晤
-1. 仿生人间疯批文学
-1. 闺蜜和老公的区别
-1. 校方回应学生模仿领导视察
-1. 向太发文祝福萧敬腾结婚
-1. 马思唯台北演唱会
-1. 一键get电子蝴蝶妆
-1. C9战胜MAD
+1. 李亚鹏被限制高消费
+1. 普京回应被美国定义战败
 1. 魔仙小蓝带你重返童年
-1. 大一vs大四
+1. 校服下的摩登舞也太酷了
+1. B太体验新疆婚礼
+1. 拯救乳腺之歌是什么梗
+1. 智利85后总统个人经历
+1. 柚子皮丸子头翻车案例
+1. TheShy时隔1447天再登总决赛
+1. 俄外长与朝鲜外务相会晤
+1. 勇士胜国王
+1. 闺蜜和老公的区别
+1. 辽宁原副省长王大伟被控受贿5.5亿
+1. 向太发文祝福萧敬腾结婚
+1. 该怎么形容她呢
+1. C9战胜MAD
+1. 贾玲监制海外版你好李焕英
+1. 仿生人间疯批文学
 1. 第一次吃到素的柚子鸡
-1. 来见识下2018年运镜天花板
-1. 倒刺伤害到底有多“深”
-1. 无价之宝张译艰难讨债
+1. Faker被Pyosik单杀
+1. 日籍药企员工涉间谍罪在华被捕
+1. 房琪带你领略嵩山少林
+1. 让我再看你一遍 从南到北
 
 ## 明星榜
 
@@ -78,26 +78,26 @@
 
 1. [太阳（全网搜_太阳刘鹏_可听）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogWbyIQnlBFImVbeDocRdCIYtBHlbJXgfZMvgz) - 刘鹏
 1. [我的纸飞机（片段2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM2ZrKcg2CD5AeRB2gkeXOFB1IxAGJdZPazYHf) - GooGoo/王之睿
-1. [瞬-郑润泽](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYXHIohzvbNAzBhHgyksWpRM4bfkDsBdBDAynw) - 郑润泽
+1. [瞬-郑润泽](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYXHIohzvbNAzBhHgyksWpRM4bfkDsBdBDAynw) - 郑润泽
 1. [毒药 (释怀版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
 1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
 1. [山茶花读不懂白玫瑰](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
-1. [活着 (深情版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY8r2TelECK2BPZbDCj8xZKBQfPbwQyCt1cggn) - 黄绮珊
-1. [不需要挽留 Move On（前奏）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
+1. [活着 (深情版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY8r2TelECK2BPZbDCj8xZKBQfPbwQyCt1cggn) - 黄绮珊
+1. [不需要挽留 Move On（前奏）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
 1. [海边探戈](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
 1. [我也有撑不住的时候](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okmtBE1dkIBhwxeiBJeDgQnQtICZWIJUI2bjQr) - 派星儿
 1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
 1. [爱你](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEfyTFYX4gOL9DMKAJebDCAASw8hYVIXz1nYaf) - 王心凌
 1. [九月底](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMfewG4PDTFhF8iz3OGQ7ABH5i6fCgnMaoCbzZ) - 余佳运
 1. [和宇宙的温柔关联-现场合唱](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0hONGDYQBgk0e5bqDeQOonVmncA6tC2nBwZLT) - 房东的猫
-1. [晚安](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a724c5e224464218839820f4e4fd632f) - 鹿先森
+1. [晚安](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a724c5e224464218839820f4e4fd632f) - 鹿先森
 1. [If We Ever Broke Up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8onj5HDk0ImtBmO0URBfeyCDXQJMYkQ1gb8Zy) - Mae Stephens
-1. [Black (Feat. 제니 of BLACKPINK)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2eb92e2debbe4fe0a552bc099aef7f28) - G-Dragon
+1. [Black (Feat. 제니 of BLACKPINK)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2eb92e2debbe4fe0a552bc099aef7f28) - G-Dragon
 1. [星光降落 (贝儿完整版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okwB9hAwyAtsFFkFBzAX1hOOfQuIoMNs0W2Mwr) - 陆雨萱（贝儿）
-1. [悬溺](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f3b6cc53d2e944beb7094a3ff01b4e03) - 葛东琪
+1. [悬溺](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f3b6cc53d2e944beb7094a3ff01b4e03) - 葛东琪
 1. [我和比奇堡的朋友们](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f0505db981ea4a6d91453a15924a82aa) - 热水澡
 1. [风之海](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oInqZ2gFbCQvB6wZNnZlJpBcfDBQ8t1e1XwYAi) - 华晨宇
-1. [颜人中 - 追风（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9107f711ded6416ab3279a81d71597f7) - 颜人中
+1. [颜人中 - 追风（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9107f711ded6416ab3279a81d71597f7) - 颜人中
 1. [Let Us Run Away](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a9a280d910044fb0b9f4f74b0b27e854) - Loving Caliber
 1. [我爱你中国（小提琴重编）纯音乐](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/362de867442c4051acadb0a43fd60af8) - 文凤
 1. [Winter is coming](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0a6c12efb2d84f2ba9a243d4e1eebb4e) - 한수지 & Various Artists
