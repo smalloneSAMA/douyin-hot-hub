@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-10-21 10:18:15 +0800`
+`更新时间：2023-10-21 11:14:19 +0800`
 
 ## 抖音热榜
 
 1. 国考报名人数已破百万
-1. 武契奇谈在中国街头被叫名字
-1. 我国4村入选世界最佳旅游乡村
-1. 沈腾王牌搞笑担当
 1. 公子不修 难度凛冬
-1. 在东北黑熊也得有绝活
-1. 当你穿了一条闪闪发光的裙子
-1. 当女友决定要减肥
-1. “公交司机驾驶室养鸟”不实
-1. 国防部回应美炒作抹黑中国战机
+1. 我国4村入选世界最佳旅游乡村
 1. get不到 但是好快乐啊
-1. 加沙民众从废墟中挖出幸存孩子
+1. 戒不掉奶嘴的年纪记住了乐谱
+1. 在东北黑熊也得有绝活
+1. 持续已超半月 巴以冲突进程一览
+1. 韩国：愿无条件与朝鲜对话
+1. “公交司机驾驶室养鸟”不实
+1. 不要哭我最好的玩伴
+1. 当女友决定要减肥
+1. 国防部回应美炒作抹黑中国战机
 1. 当小象出门遛弯不想回家
-1. 媒体：被火车撞死两人系夫妻
 1. 丫丫肉眼可见的胖了
 1. 以军称约1000吨武器运抵以色列
 1. 放大缩小运镜舞集结半个内娱
 1. 广西一企业爆炸致2死4伤4失联
 1. 巴以冲突已致超5600人死亡
-1. 戒不掉奶嘴的年纪记住了乐谱
-1. 以色列：紧急状态暂停外国频道
-1. 不要哭我最好的玩伴
-1. 可可西里的网红狼胖了
-1. 泰国总理塞塔：中泰是兄弟
+1. 李玟21日在武汉下葬
 1. 校门口吃辣条的还是那批人
-1. 颜骏凌超巨失误
-1. 这首倒的杀伤力太强了
-1. 不是西藏去不起 锦州更有性价比
-1. WBG分锅大会
-1. 王牌对王牌8
+1. 泰国总理塞塔：中泰是兄弟
 1. 终于懂得太极拳的美感了
-1. Mate60 Pro已售出160万部
+1. WBG分锅大会
+1. 日媒炒菲律宾获日本巡逻船扯上中国
+1. 沈腾王牌搞笑担当
+1. 当你穿了一条闪闪发光的裙子
+1. 不是西藏去不起 锦州更有性价比
+1. 王牌对王牌8
+1. 爱上江南 从这口糯叽叽开始
+1. 反向欺骗餐
+1. 颜骏凌超巨失误
+1. 关晓彤AI机械姬造型
+1. 唐嫣钟汉良再次搭档
+1. 男子1天取超4百万银行柜员报警
+1. 武契奇谈在中国街头被叫名字
+1. 这首倒的杀伤力太强了
 1. LPL又是内战
 1. 李健唱了王菲的如愿
-1. 关晓彤AI机械姬造型
-1. 孩子：这父爱让我丢尽颜面
-1. 请给你家的可爱鬼吃点糖果吧
-1. 关晓彤把情侣演成了兄弟
-1. 男子1天取超4百万银行柜员报警
-1. 水均益女儿回应从央视离职
-1. 反向欺骗餐
-1. 马龙说热爱没有天花板
-1. 爱上江南 从这口糯叽叽开始
-1. 印度女主持穿红绿纱丽被质疑
-1. 二手玫瑰乐夏总冠军
-1. 韩国：愿无条件与朝鲜对话
-1. 茄子 我崩溃了
-1. 日媒炒菲律宾获日本巡逻船扯上中国
-1. 情侣版你看着我眼睛
+1. 央媒点评于文亮走红
 1. 我的女神室友斗娜
+1. 茄子 我崩溃了
+1. 学校运动会主打90复古风
+1. 可可西里的网红狼胖了
+1. 绍兴多校因支原体肺炎停课
+1. 情侣版你看着我眼睛
+1. 滴滴滴亲子手势舞
+1. 印度女主持穿红绿纱丽被质疑
+1. 水均益女儿回应从央视离职
+1. 二手玫瑰乐夏总冠军
+1. 麻辣提拉辣苏
 
 ## 明星榜
 
@@ -76,27 +76,27 @@
 
 ## 音乐榜
 
-1. [太阳（全网搜_太阳刘鹏_可听）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogWbyIQnlBFImVbeDocRdCIYtBHlbJXgfZMvgz) - 刘鹏
-1. [有你在 (副歌段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8zImmNsI8B0yfAW5FKAB1oBhkMAlIrwsZEi1V) - 赵露思
+1. [太阳（全网搜_太阳刘鹏_可听）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogWbyIQnlBFImVbeDocRdCIYtBHlbJXgfZMvgz) - 刘鹏
+1. [有你在 (副歌段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8zImmNsI8B0yfAW5FKAB1oBhkMAlIrwsZEi1V) - 赵露思
 1. [我的纸飞机（片段2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM2ZrKcg2CD5AeRB2gkeXOFB1IxAGJdZPazYHf) - GooGoo/王之睿
-1. [到底又兜兜转转多少年](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os1AQ0obZlDYZQByBsnEHx8h9OoIgCJgXeOfwt) - 纯情小瑞
+1. [到底又兜兜转转多少年](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os1AQ0obZlDYZQByBsnEHx8h9OoIgCJgXeOfwt) - 纯情小瑞
 1. [毒药 (释怀版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
 1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
-1. [瞬-郑润泽](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYXHIohzvbNAzBhHgyksWpRM4bfkDsBdBDAynw) - 郑润泽
-1. [Love on the Weekend](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4tVQen5ZtBZEMlD1CDIepBC2OigkU1KQkb1vd) - Aria Ohlsson
-1. [You are beautiful (我会永远永远的爱你) 副歌](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4NlnjbBAIAhg5wOCWzJoyMzkIqGxYsR7f3W4Q) - 井胧
-1. [山茶花读不懂白玫瑰](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
+1. [瞬-郑润泽](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYXHIohzvbNAzBhHgyksWpRM4bfkDsBdBDAynw) - 郑润泽
+1. [Love on the Weekend](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4tVQen5ZtBZEMlD1CDIepBC2OigkU1KQkb1vd) - Aria Ohlsson
+1. [You are beautiful (我会永远永远的爱你) 副歌](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4NlnjbBAIAhg5wOCWzJoyMzkIqGxYsR7f3W4Q) - 井胧
+1. [山茶花读不懂白玫瑰](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
 1. [Mio Mao Dance (Mio Mao La La La La La)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owhJZ1sWIABNvU3gOxlwztm0oAfMK58zHXT8GM) - Gian Maria Misseri & Piero Barbetti & Francesco Misseri
-1. [you are beautiful (永远永远的爱你)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7f5e088a940e42b487e76fd10d0ffcfd) - 刘沁
-1. [Every Time We Touch](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogN6lUKQeBBfEVhIOMikG1CcJjugxk1tztZyhP) - Dream Tunes
-1. [海边探戈](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
+1. [you are beautiful (永远永远的爱你)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7f5e088a940e42b487e76fd10d0ffcfd) - 刘沁
+1. [Every Time We Touch](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogN6lUKQeBBfEVhIOMikG1CcJjugxk1tztZyhP) - Dream Tunes
+1. [海边探戈](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
 1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
-1. [All I Need](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e8b55ca1d1fa4f90a60c22b8ece170ac) - Jemma
-1. [瞬（全网听）-郑润泽](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4Vb9eJZClCZTnRQYy0BRSeHGrDtrkrQgIBvQt) - 郑润泽
-1. [追寻你（万物复苏版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeAZJsbjIDit9APmBg8u6uDUQnHmoCf3gbo74) - 王天戈/川青
-1. [爱你没错-杜宣达版副歌](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUm8ctBZQfZQ4jUNWbseSYV0lZDsWn6LCODgCB) - 杜宣达
-1. [梦游（1.2倍甜蜜版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4gyAUm8hwufoEABmwVIiQtHsFuGzAEEWtNMzo) - 补菜Nveg
-1. [Hard to Be Human](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQItaej4rB1rBfnJUbKPlQOgDWvSUWRy814CZl) - Anson Seabra
+1. [All I Need](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e8b55ca1d1fa4f90a60c22b8ece170ac) - Jemma
+1. [瞬（全网听）-郑润泽](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4Vb9eJZClCZTnRQYy0BRSeHGrDtrkrQgIBvQt) - 郑润泽
+1. [追寻你（万物复苏版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeAZJsbjIDit9APmBg8u6uDUQnHmoCf3gbo74) - 王天戈/川青
+1. [爱你没错-杜宣达版副歌](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUm8ctBZQfZQ4jUNWbseSYV0lZDsWn6LCODgCB) - 杜宣达
+1. [梦游（1.2倍甜蜜版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4gyAUm8hwufoEABmwVIiQtHsFuGzAEEWtNMzo) - 补菜Nveg
+1. [Hard to Be Human](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQItaej4rB1rBfnJUbKPlQOgDWvSUWRy814CZl) - Anson Seabra
 1. [One More Last Time](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAzTlo0LUAdCAIhjktsKWcLAEUKmZwGcOoB1fy) - Henry Young & Ashley Alisha
 1. [故事还长](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/30a26758c8594f0ab81ac675c33ee2c5) - 云汐
 1. [Ride It](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMZDIYec6eQynQyWBQnCM11DZzkgnBPtBpD4bi) - Aziza Qobilova
