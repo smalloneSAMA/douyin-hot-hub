@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-10-21 13:13:09 +0800`
+`更新时间：2023-10-21 14:17:19 +0800`
 
 ## 抖音热榜
 
-1. 国考报名人数已破百万
-1. 冬冬和37举办婚礼
-1. 我国建成5G基站318.9万个
-1. 戒不掉奶嘴的年纪记住了乐谱
-1. 当女友决定要减肥
-1. 在东北黑熊也得有绝活
-1. 听说你们都想来东北逛早市
-1. 歌会跑调 但哥不会跑掉
-1. “公交司机驾驶室养鸟”不实
-1. 田姥姥变身爽剧女主角
-1. 香菜爱好者喜上眉梢
-1. 央媒点评于文亮走红
-1. get不到 但是好快乐啊
-1. 孙灏羽回应小慧君胜诉
-1. 以军称约1000吨武器运抵以色列
-1. 公子不修 难度凛冬
-1. 广西一企业爆炸致2死4伤4失联
-1. 巴以冲突已致超5600人死亡
-1. 校门口吃辣条的还是那批人
-1. 李玟今日在武汉下葬
-1. 伊戈达拉宣布退役
 1. 国防部回应美炒作抹黑中国战机
-1. 反向欺骗餐
-1. 请给你家的可爱鬼吃点糖果吧
-1. 男子1天取超4百万银行柜员报警
+1. 戒不掉奶嘴的年纪记住了乐谱
+1. 我国建成5G基站318.9万个
+1. 江西菜到底有多辣
+1. 关晓彤把情侣演成了兄弟
+1. 库里文班亚马跳球
+1. 加沙最古老教堂遭袭 18人丧生
+1. 拜登申请千亿美元用于军援
+1. “公交司机驾驶室养鸟”不实
+1. 自制海绵宝宝动画片头
+1. 广西平果爆炸事故初步调查情况
+1. 当女友决定要减肥
+1. 南京胖哥：为离开的女儿好好活着
 1. 关晓彤AI机械姬造型
-1. 25岁之前我觉得自己刀枪不入
+1. 公子不修 难度凛冬
+1. 巴以冲突已致超5600人死亡
+1. 歌会跑调 但哥不会跑掉
+1. 反向欺骗餐
+1. 男子1天取超4百万银行柜员报警
+1. 李玟在武汉安葬
+1. get不到 但是好快乐啊
+1. 五金女孩闪耀秋冬
+1. 勇士季前赛117:122不敌马刺
+1. 央媒点评于文亮走红
+1. 冬冬和37举办婚礼
+1. 照明商店作者姜草的逆袭之路
+1. 四郎有淘气堡
+1. 这首敖嫩河畔听了好想吃草
+1. 香菜爱好者喜上眉梢
+1. 问心小睿确诊
 1. 涂磊再谈上海女童事件
+1. 美军首次进驻石垣岛
+1. 三体人刷屏抖音知识弹幕区
+1. 这个冬天来东北看雪吧
+1. 薛之谦演唱会上改词
+1. 校门口吃辣条的还是那批人
+1. 百分大战吴泽健把客场打成主场
 1. 沈腾王牌搞笑担当
 1. 爱上江南 从这口糯叽叽开始
-1. 问心小睿确诊
-1. 薛之谦演唱会上改词
-1. 这首倒的杀伤力太强了
-1. 智利总统发视频回顾访华行程
-1. 不要哭我最好的玩伴
-1. 不是西藏去不起 锦州更有性价比
-1. WBG分锅大会
-1. 颜骏凌超巨失误
-1. 终于懂得太极拳的美感了
-1. 李健唱了王菲的如愿
-1. 斗罗2霍雨浩融合冰碧帝皇蝎
-1. 韩国：愿无条件与朝鲜对话
-1. 日媒炒菲律宾获日本巡逻船扯上中国
-1. 学校运动会主打90复古风
+1. 请给你家的可爱鬼吃点糖果吧
+1. 滴滴滴亲子手势舞
 1. 没时间休息的人总会腾出时间生病
-1. 王牌对王牌8
-1. 真的会因为一群人爱上一座城
-1. LPL又是内战
-1. 奢香夫人版丑八怪
-1. 潮汕人的一天都吃什么
+1. 伊戈达拉宣布退役
+1. 25岁之前我觉得自己刀枪不入
+1. 湖北省委巡视组原组长樊仁富被查
+1. 这首倒的杀伤力太强了
+1. 不是西藏去不起 锦州更有性价比
+1. 不要哭我最好的玩伴
+1. 宿舍有嘻哈第三期
+1. 张雨霏200蝶三连冠
 
 ## 明星榜
 
@@ -79,27 +79,27 @@
 1. [太阳（全网搜_太阳刘鹏_可听）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogWbyIQnlBFImVbeDocRdCIYtBHlbJXgfZMvgz) - 刘鹏
 1. [有你在 (副歌段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8zImmNsI8B0yfAW5FKAB1oBhkMAlIrwsZEi1V) - 赵露思
 1. [我的纸飞机（片段2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM2ZrKcg2CD5AeRB2gkeXOFB1IxAGJdZPazYHf) - GooGoo/王之睿
-1. [到底又兜兜转转多少年](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os1AQ0obZlDYZQByBsnEHx8h9OoIgCJgXeOfwt) - 纯情小瑞
-1. [毒药 (释怀版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
+1. [到底又兜兜转转多少年](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os1AQ0obZlDYZQByBsnEHx8h9OoIgCJgXeOfwt) - 纯情小瑞
+1. [毒药 (释怀版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
 1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
 1. [瞬-郑润泽](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYXHIohzvbNAzBhHgyksWpRM4bfkDsBdBDAynw) - 郑润泽
-1. [Love on the Weekend](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4tVQen5ZtBZEMlD1CDIepBC2OigkU1KQkb1vd) - Aria Ohlsson
+1. [Love on the Weekend](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4tVQen5ZtBZEMlD1CDIepBC2OigkU1KQkb1vd) - Aria Ohlsson
 1. [You are beautiful (我会永远永远的爱你) 副歌](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4NlnjbBAIAhg5wOCWzJoyMzkIqGxYsR7f3W4Q) - 井胧
 1. [山茶花读不懂白玫瑰](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
-1. [Mio Mao Dance (Mio Mao La La La La La)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owhJZ1sWIABNvU3gOxlwztm0oAfMK58zHXT8GM) - Gian Maria Misseri & Piero Barbetti & Francesco Misseri
+1. [Mio Mao Dance (Mio Mao La La La La La)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owhJZ1sWIABNvU3gOxlwztm0oAfMK58zHXT8GM) - Gian Maria Misseri & Piero Barbetti & Francesco Misseri
 1. [you are beautiful (永远永远的爱你)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7f5e088a940e42b487e76fd10d0ffcfd) - 刘沁
 1. [Every Time We Touch](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogN6lUKQeBBfEVhIOMikG1CcJjugxk1tztZyhP) - Dream Tunes
-1. [海边探戈](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
-1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
-1. [All I Need](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e8b55ca1d1fa4f90a60c22b8ece170ac) - Jemma
-1. [瞬（全网听）-郑润泽](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4Vb9eJZClCZTnRQYy0BRSeHGrDtrkrQgIBvQt) - 郑润泽
+1. [海边探戈](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
+1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
+1. [All I Need](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e8b55ca1d1fa4f90a60c22b8ece170ac) - Jemma
+1. [瞬（全网听）-郑润泽](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4Vb9eJZClCZTnRQYy0BRSeHGrDtrkrQgIBvQt) - 郑润泽
 1. [追寻你（万物复苏版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeAZJsbjIDit9APmBg8u6uDUQnHmoCf3gbo74) - 王天戈/川青
-1. [爱你没错-杜宣达版副歌](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUm8ctBZQfZQ4jUNWbseSYV0lZDsWn6LCODgCB) - 杜宣达
-1. [梦游（1.2倍甜蜜版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4gyAUm8hwufoEABmwVIiQtHsFuGzAEEWtNMzo) - 补菜Nveg
+1. [爱你没错-杜宣达版副歌](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUm8ctBZQfZQ4jUNWbseSYV0lZDsWn6LCODgCB) - 杜宣达
+1. [梦游（1.2倍甜蜜版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4gyAUm8hwufoEABmwVIiQtHsFuGzAEEWtNMzo) - 补菜Nveg
 1. [Hard to Be Human](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQItaej4rB1rBfnJUbKPlQOgDWvSUWRy814CZl) - Anson Seabra
 1. [One More Last Time](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAzTlo0LUAdCAIhjktsKWcLAEUKmZwGcOoB1fy) - Henry Young & Ashley Alisha
 1. [故事还长](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/30a26758c8594f0ab81ac675c33ee2c5) - 云汐
-1. [Ride It](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMZDIYec6eQynQyWBQnCM11DZzkgnBPtBpD4bi) - Aziza Qobilova
+1. [Ride It](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMZDIYec6eQynQyWBQnCM11DZzkgnBPtBpD4bi) - Aziza Qobilova
 1. [和宇宙的温柔关联-现场合唱](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0hONGDYQBgk0e5bqDeQOonVmncA6tC2nBwZLT) - 房东的猫
 
 ## 品牌榜
