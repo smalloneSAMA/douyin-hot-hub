@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-10-25 10:21:01 +0800`
+`更新时间：2023-10-25 11:14:49 +0800`
 
 ## 抖音热榜
 
-1. 这书是照着溜溜梅做的吧
-1. 李佳琦方回应被喊话
-1. 今年快递业务量已超千亿件
-1. 我国将增发1万亿元国债
-1. 2024除夕不放假
-1. 海氏电器实名举报京东
-1. 上次看跑男是什么时候
-1. 这辈子不吃蜡瓶糖了
-1. 保定化粪池爆炸致死伤系谣言
 1. 2024年节假日安排公布
-1. 田耕纪连家大哥哄骗秀儿做小妾
+1. 这书是照着溜溜梅做的吧
+1. 今年快递业务量已超千亿件
+1. 这辈子不吃蜡瓶糖了
+1. 大圆哥首次回应粉丝破千万
 1. 好羡慕被坚定选择的感觉
-1. 蓝佛安任财政部部长
+1. 李佳琦方回应被喊话
+1. 我国将增发1万亿元国债
+1. 警方辟谣5名保安强奸1女子
 1. 韩系情侣一周穿搭
+1. 约基奇单打浓眉2+1
+1. 上次看跑男是什么时候
+1. 2024除夕不放假
+1. 蓝佛安任财政部部长
 1. 神十七航天员公布
 1. 巴以冲突超7200人死亡
-1. 约基奇单打浓眉2+1
-1. 甜蜜对唱玫瑰窃贼
-1. 去成为一道光
-1. 神十七新闻发布会
-1. 课本上的小男孩真人版
-1. 李佳琦时隔43天再次带货花西子
-1. C罗2射1传13场进14球
-1. 邓紫棋改编唯一
-1. 苹果10月31日还有发布会
 1. 一通电话说出了80后多少无奈
-1. 奥纳纳扑点
-1. 小鹏展示概念飞行汽车
-1. 这是找厕所还是玩密室逃脱
-1. 普通人13个月把家装修成这样子
+1. 国内成品油价两连降
+1. 去成为一道光
+1. 神十七航天员乘组见面会
+1. 李佳琦时隔43天再次带货花西子
+1. 太阳vs勇士
+1. 掘金领取总冠军戒指
+1. 邓紫棋改编唯一
+1. 4毛特效
+1. 苹果10月31日还有发布会
+1. 田耕纪连家大哥哄骗秀儿做小妾
+1. C罗2射1传13场进14球
+1. 谭松韵新片和狗狗相遇宿命感
+1. 专家称龙年春节将成超级黄金周
 1. 武术教练笨小海涛真会跳水
-1. 问心大结局
-1. 利雅得胜利4:3杜海勒
+1. 小说男主脸NPC找到了
+1. 甜蜜对唱玫瑰窃贼
 1. 王大艺和爸爸参加诗词擂台赛
 1. 走啊 去稻城亚丁
 1. 妈妈回应爸爸口含冰棍给宝宝降温
-1. 特朗普演示将如何暴打拜登
-1. 金世佳毛晓彤身高差太大的烦恼
-1. 爸爸的爱总是那么意外
-1. 李佳琦公司合同细则曝光
+1. 万圣节碎钻妆
+1. 小鹏展示概念飞行汽车
+1. 这是找厕所还是玩密室逃脱
+1. 利雅得胜利4:3杜海勒
+1. 学青会高颜值小姐姐神似桂纶镁
 1. 今天是抗美援朝纪念日
-1. 4毛特效
-1. 一张照片证明你是五金女孩
-1. 毛宁：台湾没有什么“副总统”
-1. 画中人请现身转场挑战
-1. 起猛了黄宗泽公主抱陈家乐
-1. 阿森纳2:1塞维利亚
-1. 周星驰公司参与开发动画电影
-1. 长大后才发现仙剑三居然是悲剧
-1. 王栎鑫无意间中伤陆毅
+1. 奥纳纳扑点
+1. 普通人13个月把家装修成这样子
+1. 旅行转场这样拍太有趣了
+1. 李佳琦公司合同细则曝光
+1. 问心大结局
+1. 金世佳毛晓彤身高差太大的烦恼
+1. 阿凡达仿妆
+1. 威马到底怎么了
 
 ## 明星榜
 
@@ -76,30 +76,30 @@
 
 ## 音乐榜
 
-1. [太阳（全网搜_太阳刘鹏_可听）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogWbyIQnlBFImVbeDocRdCIYtBHlbJXgfZMvgz) - 刘鹏
+1. [太阳（全网搜_太阳刘鹏_可听）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogWbyIQnlBFImVbeDocRdCIYtBHlbJXgfZMvgz) - 刘鹏
 1. [有你在 (副歌段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8zImmNsI8B0yfAW5FKAB1oBhkMAlIrwsZEi1V) - 赵露思
-1. [我的纸飞机（片段2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM2ZrKcg2CD5AeRB2gkeXOFB1IxAGJdZPazYHf) - GooGoo/王之睿
-1. [毒药 (释怀版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
-1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
+1. [我的纸飞机（片段2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM2ZrKcg2CD5AeRB2gkeXOFB1IxAGJdZPazYHf) - GooGoo/王之睿
+1. [毒药 (释怀版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
+1. [可能（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
 1. [瞬-郑润泽](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYXHIohzvbNAzBhHgyksWpRM4bfkDsBdBDAynw) - 郑润泽
-1. [Love on the Weekend](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4tVQen5ZtBZEMlD1CDIepBC2OigkU1KQkb1vd) - Aria Ohlsson
-1. [You are beautiful (我会永远永远的爱你) 副歌](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4NlnjbBAIAhg5wOCWzJoyMzkIqGxYsR7f3W4Q) - 井胧
+1. [Love on the Weekend](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4tVQen5ZtBZEMlD1CDIepBC2OigkU1KQkb1vd) - Aria Ohlsson
+1. [You are beautiful (我会永远永远的爱你) 副歌](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4NlnjbBAIAhg5wOCWzJoyMzkIqGxYsR7f3W4Q) - 井胧
 1. [山茶花读不懂白玫瑰](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
 1. [Mio Mao Dance (Mio Mao La La La La La)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owhJZ1sWIABNvU3gOxlwztm0oAfMK58zHXT8GM) - Gian Maria Misseri & Piero Barbetti & Francesco Misseri
 1. [you are beautiful (永远永远的爱你)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7f5e088a940e42b487e76fd10d0ffcfd) - 刘沁
 1. [Every Time We Touch](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogN6lUKQeBBfEVhIOMikG1CcJjugxk1tztZyhP) - Dream Tunes
-1. [海边探戈](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
-1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
+1. [海边探戈](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
+1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
 1. [All I Need](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e8b55ca1d1fa4f90a60c22b8ece170ac) - Jemma
-1. [瞬（全网听）-郑润泽](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4Vb9eJZClCZTnRQYy0BRSeHGrDtrkrQgIBvQt) - 郑润泽
-1. [追寻你（万物复苏版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeAZJsbjIDit9APmBg8u6uDUQnHmoCf3gbo74) - 王天戈/川青
-1. [爱你没错-杜宣达版副歌](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUm8ctBZQfZQ4jUNWbseSYV0lZDsWn6LCODgCB) - 杜宣达
+1. [瞬（全网听）-郑润泽](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4Vb9eJZClCZTnRQYy0BRSeHGrDtrkrQgIBvQt) - 郑润泽
+1. [追寻你（万物复苏版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeAZJsbjIDit9APmBg8u6uDUQnHmoCf3gbo74) - 王天戈/川青
+1. [爱你没错-杜宣达版副歌](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUm8ctBZQfZQ4jUNWbseSYV0lZDsWn6LCODgCB) - 杜宣达
 1. [梦游（1.2倍甜蜜版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4gyAUm8hwufoEABmwVIiQtHsFuGzAEEWtNMzo) - 补菜Nveg
 1. [Hard to Be Human](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQItaej4rB1rBfnJUbKPlQOgDWvSUWRy814CZl) - Anson Seabra
-1. [One More Last Time](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAzTlo0LUAdCAIhjktsKWcLAEUKmZwGcOoB1fy) - Henry Young & Ashley Alisha
+1. [One More Last Time](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAzTlo0LUAdCAIhjktsKWcLAEUKmZwGcOoB1fy) - Henry Young & Ashley Alisha
 1. [故事还长](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/30a26758c8594f0ab81ac675c33ee2c5) - 云汐
 1. [Ride It](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMZDIYec6eQynQyWBQnCM11DZzkgnBPtBpD4bi) - Aziza Qobilova
-1. [和宇宙的温柔关联-现场合唱](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0hONGDYQBgk0e5bqDeQOonVmncA6tC2nBwZLT) - 房东的猫
+1. [和宇宙的温柔关联-现场合唱](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0hONGDYQBgk0e5bqDeQOonVmncA6tC2nBwZLT) - 房东的猫
 
 ## 品牌榜
 
