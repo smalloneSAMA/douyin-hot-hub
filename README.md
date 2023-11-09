@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-11-10 00:18:05 +0800`
+`更新时间：2023-11-10 01:13:08 +0800`
 
 ## 抖音热榜
 
 1. B太实测大连海鲜加工餐厅
-1. 冬天的第一口美食
+1. 墨西哥展示疑似外星人遗骸X光片
 1. 消防员专属BGM有了
-1. 舍友第一次上台排面有
-1. 吃货的暖冬治愈时刻
-1. 用修正带外壳吹奏猪猪侠
+1. 南京胖哥回应父亲患食道癌
 1. 黄渤涉过愤怒的海演哭曹保平
-1. 他明明也是第一次做爸爸呀
-1. 10月十大谣言
+1. 冬天的第一口美食
+1. 詹姆斯：不去热火我依然有统治力
 1. 这就是了不起的中国智造
-1. 越南甜歌翻唱挑战
-1. 老人欲将房子过户给保姆
-1. 火影忍者光影手工
-1. 旅美大熊猫美香一家回国
+1. 10月十大谣言
+1. 舍友第一次上台排面有
+1. 冬眠带你回到记忆那年
 1. 来自十年前的子弹正中眉心
-1. 医院贩卖出生证 7人被采取强制措施
-1. 埃及拒绝暂时接管加沙提议
-1. 吃饭的时候不要说话
-1. 这里是中国雪乡
-1. 中美两军举行视频会议
+1. 旅美大熊猫美香一家回国
+1. 吃货的暖冬治愈时刻
+1. 央行开展2020亿元逆回购操作
+1. 贩卖出生证7人被采取强制措施
+1. 用修正带外壳吹奏猪猪侠
+1. 中国公民暂勿前往缅北
+1. 原来我是一根烤肠
+1. 美香一家到成都了
 1. 周铁农同志遗体在京火化
-1. 助学金当事人回应高消费行为
-1. 毕加索名画拍出1.39亿美元
-1. 全抖音都在体验消防员的一天
+1. 吃饭的时候不要说话
+1. 前任4破10亿郑恺跳昆卡
+1. 他明明也是第一次做爸爸呀
 1. 赵露思成都生日会
 1. 中国女子在日本街头被杀
-1. 扶梯维修出意外维修工身亡
+1. 各地人互相羡慕的真相
 1. 河南42死火灾事故监控曝光
 1. 田惠宇贪2.1亿受审
-1. 各地人互相羡慕的真相
+1. 这里是中国雪乡
 1. 美媒曝光“高端卖淫网络”
-1. 任素汐回应王招君走红
-1. 冬天的第一份车厘子
-1. 南京胖哥回应父亲患食道癌
-1. 出去闯闯也会有遗憾
-1. 冬眠带你回到记忆那年
-1. 中国公民暂勿前往缅北
-1. 央行开展2020亿元逆回购操作
-1. 仲尼溺亡当地警方排除刑案
+1. 火影忍者光影手工
+1. 中美两军举行视频会议
 1. 白鹿姜雪宁雨中回眸
+1. 美以同时在叙开火局势紧张
+1. 俄设新法与外国人“交换”冻结资产
+1. 知道了去玩吧
+1. 出去闯闯也会有遗憾
+1. 仲尼溺亡当地警方排除刑案
+1. 全抖音都在体验消防员的一天
+1. 冬天的第一份车厘子
+1. 毕加索名画拍出1.39亿美元
+1. 越南甜歌翻唱挑战
+1. 以爱为营提档
 1. 翻十年前相册来配这首王招君
-1. 仲尼遇难事件梳理
-1. 无价之宝张译当爹眼神细节
 1. 王星越张遮白月光登场
-1. B太探访大连海鲜市场
-1. 律师解读孟羽童接私活是否违规
-1. 黄奇帆：居民房产负债占比过高
-1. 尤芳吟原著故事线
-1. 字母哥遭驱逐
+1. 韩女伪刘海教程
+1. 何超琼也拒绝不了江西葛仙村
+1. 印度和巴基斯坦再次交火
 
 ## 明星榜
 
@@ -75,20 +75,20 @@
 
 ## 音乐榜
 
-1. [毒药 (释怀版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
-1. [Every Time We Touch](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogN6lUKQeBBfEVhIOMikG1CcJjugxk1tztZyhP) - Dream Tunes
+1. [毒药 (释怀版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
+1. [Every Time We Touch](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogN6lUKQeBBfEVhIOMikG1CcJjugxk1tztZyhP) - Dream Tunes
 1. [可能（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
-1. [梦游（1.2倍甜蜜版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4gyAUm8hwufoEABmwVIiQtHsFuGzAEEWtNMzo) - 补菜Nveg
-1. [Love Lee](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o05GbkJGbCBTdDnMtB0fwOYgkeZp23vrWQDQBS) - AKMU (악뮤)
-1. [太阳（全网搜_太阳刘鹏_可听）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogWbyIQnlBFImVbeDocRdCIYtBHlbJXgfZMvgz) - 刘鹏
+1. [梦游（1.2倍甜蜜版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4gyAUm8hwufoEABmwVIiQtHsFuGzAEEWtNMzo) - 补菜Nveg
+1. [Love Lee](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o05GbkJGbCBTdDnMtB0fwOYgkeZp23vrWQDQBS) - AKMU (악뮤)
+1. [太阳（全网搜_太阳刘鹏_可听）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogWbyIQnlBFImVbeDocRdCIYtBHlbJXgfZMvgz) - 刘鹏
 1. [追寻你（万物复苏版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeAZJsbjIDit9APmBg8u6uDUQnHmoCf3gbo74) - 王天戈/川青
 1. [万疆（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooG7oVgFlDTelKCjCsTTobQvbdtj1BBQXnfZd8) - 李玉刚
 1. [总有一天你会出现在我身边（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMLsHwhWW7CYoAhoWB9EXUQIzNBsfAJxpAoxCU) - 棱镜
 1. [西厢寻他(剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUsAVfAQKlRNxEv5qxvIB8o5qmIWUcXbzJKJhw) - 唐伯虎Annie、伯爵Johnny
 1. [山茶花读不懂白玫瑰](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
-1. [我的纸飞机（片段2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM2ZrKcg2CD5AeRB2gkeXOFB1IxAGJdZPazYHf) - GooGoo/王之睿
+1. [我的纸飞机（片段2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM2ZrKcg2CD5AeRB2gkeXOFB1IxAGJdZPazYHf) - GooGoo/王之睿
 1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
-1. [快乐恰恰BGM](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/07b173ca7d2f40f3ba0b97ac7fa3a44a) - MaksJ
+1. [快乐恰恰BGM](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/07b173ca7d2f40f3ba0b97ac7fa3a44a) - MaksJ
 1. [有你在](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8zImmNsI8B0yfAW5FKAB1oBhkMAlIrwsZEi1V) - 赵露思
 1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
 1. [海边探戈](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
