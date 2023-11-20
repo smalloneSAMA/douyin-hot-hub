@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-11-20 22:14:21 +0800`
+`更新时间：2023-11-20 23:16:03 +0800`
 
 ## 抖音热榜
 
 1. 普通话哪里最标准
-1. 缅北果敢同盟军警告将开战 敦促撤离
+1. 当你想找个地方大哭
 1. 边防官兵顶风冒雪巡逻
 1. 海底捞科目三来上分
-1. 军大衣也能穿出时尚感
-1. 找呀找呀找米线搭子
-1. 蜜袋鼯的神奇育儿袋
 1. 韩国男足称目标是零封国足
+1. 外交部回应韩总统涉华言论
+1. 蜜袋鼯的神奇育儿袋
+1. 找呀找呀找米线搭子
 1. 小伙为彩礼加班累死系谣言
-1. 我的情人回头看我了
-1. 韩国总统祝贺T1夺冠
-1. 被床位费吓得一激灵
-1. 正面是狗背面是蛋
-1. 谁不想要张沛这样的领导
-1. Letme回归RNG
+1. 特朗普夫人发文悼念罗莎琳卡特
+1. 我想和你长相守这有错吗
+1. 这麻雀真快
+1. 韩国女高超全妆教
+1. 宁王开团WBG教练
+1. 关于我被学生帅了一脸这件事
 1. 黑龙江一平房突发火灾7人遇难
 1. 中方为他国公民撤离缅甸提供便利
-1. 关于我被学生帅了一脸这件事
-1. 挑战把各省省服穿出时尚感
-1. 王小麦回应西北分麦
-1. 我想和你长相守这有错吗
+1. 香港警察入驻排面有了
+1. 被床位费吓得一激灵
+1. 黄子韬演唱会疑因抢座出现混乱
+1. 当网图很好看的衣服去掉滤镜
 1. 警方回应网红夫妇售楼处被打
-1. 这豆汁专用BGM也让爷奶用上了
-1. 薛之谦伦敦演唱会
-1. 吴迪飞退圈
-1. 突击检查长发vs短发照片
+1. Letme回归RNG
+1. 白鹿兑现宁安如梦破万flag
+1. 爱了一辈子打闹了一辈子
 1. 白鹿剪的姜雪宁雪中撑伞
-1. 当我有个比男生还帅的妹妹
-1. 收到草莓熊loopy啦
+1. 章若楠三姐妹合体
+1. 军大衣也能穿出时尚感
+1. 是什么礼物让史策这么激动
 1. 河南联通回应强迫用户换光猫
 1. 贫民美食家
-1. 爱了一辈子打闹了一辈子
-1. 刀郎 颠倒歌
-1. 校园告白的听障学生情侣找到了
-1. 当网图很好看的衣服去掉滤镜
-1. 甄嬛传十二年了竟然还有售后
-1. 韩媒：要小心被韦世豪踢伤
-1. 纳米中的神秘世界
+1. 美国前第一夫人罗莎琳卡特去世
+1. 香港535名拒宣誓政府雇员已离职
 1. 姥姥的爱飞过来啦
-1. 厕所演唱会
-1. 韩国女高超全妆教
-1. 人民文娱评以爱为营
-1. 眉姐姐闪回给孩子上户口名场面
-1. 新闻女王大女主
+1. 校园告白的听障学生情侣找到了
+1. 正面是狗背面是蛋
+1. 突击检查长发vs短发照片
+1. 王小麦回应西北分麦
+1. 薛之谦伦敦演唱会
 1. 马立奥巴黎街头随手拍
-1. 去首尔一定要坐夜行巴士
-1. 香港警察入驻排面有了
-1. 爱自己的我登场
-1. 姜雪宁受鞭刑
-1. 外交部回应韩总统涉华言论
+1. 微醺小猫妆
+1. 刀郎 颠倒歌
+1. 厕所演唱会
+1. 挑战把各省省服穿出时尚感
+1. 韩媒：要小心被韦世豪踢伤
+1. 眉姐姐闪回给孩子上户口名场面
+1. 我的情人回头看我了
+1. 当我有个比男生还帅的妹妹
+1. 甄嬛传十二年了竟然还有售后
+1. 克林斯曼：对阵中国目标拿走3分
 
 ## 明星榜
 
@@ -80,15 +80,15 @@
 1. [太阳（全网搜_太阳刘鹏_可听）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogWbyIQnlBFImVbeDocRdCIYtBHlbJXgfZMvgz) - 刘鹏
 1. [我的纸飞机（片段2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM2ZrKcg2CD5AeRB2gkeXOFB1IxAGJdZPazYHf) - GooGoo/王之睿
 1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
-1. [毒药 (释怀版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
-1. [追寻你（万物复苏版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeAZJsbjIDit9APmBg8u6uDUQnHmoCf3gbo74) - 王天戈/川青
-1. [海边探戈](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
+1. [毒药 (释怀版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
+1. [追寻你（万物复苏版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeAZJsbjIDit9APmBg8u6uDUQnHmoCf3gbo74) - 王天戈/川青
+1. [海边探戈](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
 1. [梦游（1.2倍甜蜜版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4gyAUm8hwufoEABmwVIiQtHsFuGzAEEWtNMzo) - 补菜Nveg
-1. [有你在](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8zImmNsI8B0yfAW5FKAB1oBhkMAlIrwsZEi1V) - 赵露思
+1. [有你在](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8zImmNsI8B0yfAW5FKAB1oBhkMAlIrwsZEi1V) - 赵露思
 1. [山茶花读不懂白玫瑰](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
-1. [不需要挽留 Move On（前奏）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
-1. [陷阱（释怀版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE8C21LeZrzKLDFfQYgMzx4GAIHageG5IzayY7) - Zy/白允y
-1. [故事还长](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/30a26758c8594f0ab81ac675c33ee2c5) - 云汐
+1. [不需要挽留 Move On（前奏）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
+1. [陷阱（释怀版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE8C21LeZrzKLDFfQYgMzx4GAIHageG5IzayY7) - Zy/白允y
+1. [故事还长](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/30a26758c8594f0ab81ac675c33ee2c5) - 云汐
 1. [星光降落 (贝儿完整版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okwB9hAwyAtsFFkFBzAX1hOOfQuIoMNs0W2Mwr) - 陆雨萱（贝儿）
 1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
 1. [希望你被这个世界爱着（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oo4H3BfEygN7l7bQaMBOZHCQ1eI4FqtED5skQ2) - 吕口口
