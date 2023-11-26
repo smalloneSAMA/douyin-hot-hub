@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-11-26 17:12:54 +0800`
+`更新时间：2023-11-26 18:14:11 +0800`
 
 ## 抖音热榜
 
-1. 张大仙官宣抖音首播
-1. 当我穿卫衣时
+1. 威姆斯百分大战周楷恒
+1. 百公里油耗两个馒头半个鸡蛋
 1. 预防呼吸道疾病的有效方法
 1. 这里有颗超大号冰霜糯米糍
+1. 张大仙官宣抖音首播
 1. 期待的不是雪而是有你的冬天
-1. 到底谁不是南方人
-1. 圣诞预热甜甜手势舞
-1. 伍佰演唱会被粉丝喊话不要聊天
+1. 我有一个很好的男朋友
+1. 涩谷夜景真的好美
 1. 中疾控发辟谣声明
-1. 天津海底捞科目三果然不一般
+1. 当我穿卫衣时
 1. 这俩猫是在翻拍女儿国片段吗
-1. 以士兵炫耀在加沙抢到的项链
-1. 刘智杰百分大战柯冉
-1. 弹乒乓球挑战
+1. 宁安如梦里的相互救赎
+1. 天津海底捞科目三果然不一般
+1. 失控杀回来了
+1. 呼吸道感染高发 专家直播支招
 1. 在雪地里疯狂撒欢
-1. 校园版GTA
 1. 上海交大就食堂吃出针头致歉
 1. 走吧 陪我一起去冰岛
 1. 警方通报特斯拉连撞11车事故
-1. 美舰侵闯西沙领海 解放军驱离
+1. 到底谁不是南方人
+1. 刘智杰百分大战柯冉
+1. 圣诞预热甜甜手势舞
 1. 屁股针打完还要打嘴巴针
-1. 似火流年姐夫小舅子开虐
-1. 抖音里的保洁阿姨多才多艺
-1. Cat直播回应花海背刺
-1. 外面的世界已经发展成这样了吗
-1. 我的爱好进化史
-1. 学习版莫生气了属于是
-1. 白鹿帮张凌赫整理发型
-1. 失控杀回来了
 1. 新闻女王台词爽爆了
-1. 戏精点餐处处是戏
-1. 贵州省电炉有多万能
-1. 林俊杰李健合唱传奇
-1. Uzi回应为何决定复出
+1. 白鹿帮张凌赫整理发型
+1. Cat直播回应花海背刺
 1. 这样报备给足女朋友安全感
-1. 张杰的泡沫听完要碎了
-1. 韩国女子杀人分尸称痴迷犯罪
+1. 弹乒乓球挑战
+1. 校园版GTA
 1. 蝎山终于被萧炎打败
-1. 何嘉如怀着二胎假离婚
-1. 威姆斯百分大战周楷恒
-1. 这是不是00后现状
-1. Faker与Ruler乒乓球PK
 1. 邓紫棋海阔天空大合唱好像演唱会
-1. 百公里油耗两个馒头半个鸡蛋
-1. 国考开考
-1. 2023LPL年度纪录片
+1. 我的爱好进化史
 1. 在国外也可以吃到撒撇了
-1. 绍兴马拉松
+1. 美舰侵闯西沙领海 解放军驱离
+1. 杨政x战队vs集梦116
+1. 似火流年姐夫小舅子开虐
+1. 韩国女子杀人分尸称痴迷犯罪
+1. 学习版莫生气了属于是
+1. 何嘉如怀着二胎假离婚
+1. Uzi回应为何决定复出
+1. 2023LPL年度纪录片
+1. 外面的世界已经发展成这样了吗
+1. 抖音里的保洁阿姨多才多艺
+1. 国考开考
+1. 医生：口服药能解决的不建议输液
 1. 大学生回家的仪式感
-1. 她是不是去男寝窃听了
+1. 贵州省电炉有多万能
+1. 绍兴马拉松
+1. 台媒：余光中妻子离世
+1. 2023上海马拉松
 
 ## 明星榜
 
@@ -79,26 +79,26 @@
 1. [冷战 (正式版hook段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMuEoiBasWApEMVDgNiI8VAByNmwo5J0pyf8Yx) - TizzyT/万妮达Vinida Weng
 1. [陷阱（释怀版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE8C21LeZrzKLDFfQYgMzx4GAIHageG5IzayY7) - Zy/白允y
 1. [Every Time We Touch](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogN6lUKQeBBfEVhIOMikG1CcJjugxk1tztZyhP) - Dream Tunes
-1. [Love Lee](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o05GbkJGbCBTdDnMtB0fwOYgkeZp23vrWQDQBS) - AKMU (악뮤)
+1. [Love Lee](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o05GbkJGbCBTdDnMtB0fwOYgkeZp23vrWQDQBS) - AKMU (악뮤)
 1. [太阳（全网搜_太阳刘鹏_可听）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogWbyIQnlBFImVbeDocRdCIYtBHlbJXgfZMvgz) - 刘鹏
-1. [有你在 (第一次见面你的开场白)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAthrQ3ClJBfI57uBoFEgNDYtNCZ0TSYQQfxQ0) - 赵露思
-1. [可能（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
+1. [有你在 (第一次见面你的开场白)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAthrQ3ClJBfI57uBoFEgNDYtNCZ0TSYQQfxQ0) - 赵露思
+1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
 1. [追寻你（万物复苏版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeAZJsbjIDit9APmBg8u6uDUQnHmoCf3gbo74) - 王天戈/川青
-1. [毒药 (释怀版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
+1. [毒药 (释怀版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
 1. [梦游（1.2倍甜蜜版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4gyAUm8hwufoEABmwVIiQtHsFuGzAEEWtNMzo) - 补菜Nveg
-1. [海边探戈](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
-1. [慢慢-颜人中](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocjHNfBXdBxQNC8ZGAeoLMFTUgtBg8bkExunDC) - 颜人中
+1. [海边探戈](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
+1. [慢慢-颜人中](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocjHNfBXdBxQNC8ZGAeoLMFTUgtBg8bkExunDC) - 颜人中
 1. [525 (加速版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIfKCtqfDyP8Vc9FpAPgWMyezT6LnDT1abRwGg) - 卡西恩Cacien
-1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
-1. [西厢寻他(剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUsAVfAQKlRNxEv5qxvIB8o5qmIWUcXbzJKJhw) - 唐伯虎Annie、伯爵Johnny
+1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
+1. [西厢寻他(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUsAVfAQKlRNxEv5qxvIB8o5qmIWUcXbzJKJhw) - 唐伯虎Annie、伯爵Johnny
 1. [我的纸飞机（片段2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM2ZrKcg2CD5AeRB2gkeXOFB1IxAGJdZPazYHf) - GooGoo/王之睿
 1. [哎呦喂 (全网搜_哎呦喂江承_听全曲)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0uEo63ECfIFdmwKF5HMzF1FCfItHEagDDeCAL) - 江承
 1. [星光降落 (贝儿完整版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okwB9hAwyAtsFFkFBzAX1hOOfQuIoMNs0W2Mwr) - 陆雨萱（贝儿）
 1. [If We Ever Broke Up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8onj5HDk0ImtBmO0URBfeyCDXQJMYkQ1gb8Zy) - Mae Stephens
-1. [故事还长](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/30a26758c8594f0ab81ac675c33ee2c5) - 云汐
+1. [故事还长](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/30a26758c8594f0ab81ac675c33ee2c5) - 云汐
 1. [万疆（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooG7oVgFlDTelKCjCsTTobQvbdtj1BBQXnfZd8) - 李玉刚
-1. [希望你被这个世界爱着（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oo4H3BfEygN7l7bQaMBOZHCQ1eI4FqtED5skQ2) - 吕口口
-1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
+1. [希望你被这个世界爱着（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oo4H3BfEygN7l7bQaMBOZHCQ1eI4FqtED5skQ2) - 吕口口
+1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
 1. [山茶花读不懂白玫瑰](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
 
 ## 品牌榜
