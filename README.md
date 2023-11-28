@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-11-28 22:14:19 +0800`
+`更新时间：2023-11-28 23:15:53 +0800`
 
 ## 抖音热榜
 
 1. 中国海军抵达缅甸
 1. 歌唱家德德玛去世
 1. 全景看中国超级工程
-1. 哥哪捡的五情七灭阵啊
+1. 校园歌手大赛有多好听
 1. 橘猫也太影响睡眠了
+1. 哥哪捡的五情七灭阵啊
+1. 这一世若曦也没能护住玉檀
 1. 目击者谈小涛在非洲遇难
-1. 瞒天过海当目睹凶案怎么办
-1. 中年夫妻的感情现状
 1. 多地辟谣物体坠落砸死人事件
-1. 专业的声带是没有年龄差的
-1. 这是鼻基尼吗
+1. 瞒天过海当目睹凶案怎么办
+1. 你问我 为什么顽固而专一
 1. 痞幼就盗用他人视频道歉
 1. 丁亦然回应被痞幼盗用视频
 1. 第一次见一顺顺一窝的
-1. 一念关山开播
-1. 一种很新的接亲游戏
+1. 眼前一黑又一黑
+1. 甜妹冬季穿搭
 1. 马斯克拒和以色列高官合影
 1. 黑龙江煤矿事故致11人遇难
-1. 我的千金小姐闺蜜啥时候露马脚
+1. 一念关山开播
 1. 律师评女子洱海裸泳
-1. 新一代国产CPU正式发布
-1. 东北人的快乐是雪给的
-1. 你问我 为什么顽固而专一
-1. 千万别让巴黎世家看见
-1. 陈赫回福州美食vlog
-1. 和翟子路一起观赏日照金山
-1. WBG回应换掉TheShy传闻
-1. 鹅腿阿姨爆火揭秘
-1. 员工婚礼现场张雪峰花式催生
-1. 影视飓风发射卫星
-1. 网红情侣牛魔王夫妇分手
-1. 甜妹冬季穿搭
-1. 这一世若曦也没能护住玉檀
+1. 山东泰山6:1卡雅小组领跑
+1. 一种很新的接亲游戏
 1. 其他人唱歌他怎么织毛衣啊
-1. 孩子爸爸撤回了一个笑脸
+1. 专业的声带是没有年龄差的
+1. 陈赫回福州美食vlog
+1. 过年给我准备这个红包吧
+1. WBG回应换掉TheShy传闻
+1. 俄罗斯军费增加70%
+1. 影视飓风发射卫星
+1. 童声接力版我的纸飞机
+1. 网红情侣牛魔王夫妇分手
+1. 这是鼻基尼吗
+1. 新一代国产CPU正式发布
+1. 天津消防的试卷要参加婚礼了
+1. 中年夫妻的感情现状
 1. 曝痞幼3个月广告收入约1620万
-1. 数字5剪双喜
-1. 全抖音解读涉过愤怒的海
-1. 海南警方丝滑转场
-1. 娜维娅cos
-1. 军大衣方阵
-1. 网友近3小时买空18吨滞留甘蔗
-1. 电影三大队坚持追凶原因
-1. 谭凯打卡延安美食街
-1. 女孩回应打视频才知道父亲烧伤
-1. 谭松韵说新片疗愈了自己
+1. 吴艳妮：我不是为了当网红
+1. 员工婚礼现场张雪峰花式催生
 1. 刘诗诗任如意白切黑
-1. 当寝室有了一只鹦鹉
-1. 外交部敦促缅甸各方尽快停火止战
-1. 泰总理接到诈骗电话
+1. 千万别让巴黎世家看见
+1. 海南警方丝滑转场
+1. 年轻这个借口你还能用多久
+1. 电影三大队坚持追凶原因
+1. 娜维娅cos
+1. 孩子爸爸撤回了一个笑脸
+1. 新西兰最严禁烟令流产
+1. 许凯景甜帝后日常甜齁了
+1. 找到适合螺蛳粉的bgm了
+1. 乡村小乔晒娃了
+1. 山东明确要求师生不带病上课
 
 ## 明星榜
 
@@ -76,12 +76,12 @@
 
 ## 音乐榜
 
-1. [冷战 (正式版hook段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMuEoiBasWApEMVDgNiI8VAByNmwo5J0pyf8Yx) - TizzyT/万妮达Vinida Weng
+1. [冷战 (正式版hook段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMuEoiBasWApEMVDgNiI8VAByNmwo5J0pyf8Yx) - TizzyT/万妮达Vinida Weng
 1. [陷阱（释怀版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE8C21LeZrzKLDFfQYgMzx4GAIHageG5IzayY7) - Zy/白允y
-1. [Every Time We Touch](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogN6lUKQeBBfEVhIOMikG1CcJjugxk1tztZyhP) - Dream Tunes
-1. [Love Lee](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o05GbkJGbCBTdDnMtB0fwOYgkeZp23vrWQDQBS) - AKMU (악뮤)
+1. [Every Time We Touch](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogN6lUKQeBBfEVhIOMikG1CcJjugxk1tztZyhP) - Dream Tunes
+1. [Love Lee](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o05GbkJGbCBTdDnMtB0fwOYgkeZp23vrWQDQBS) - AKMU (악뮤)
 1. [太阳（全网搜_太阳刘鹏_可听）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogWbyIQnlBFImVbeDocRdCIYtBHlbJXgfZMvgz) - 刘鹏
-1. [有你在 (第一次见面你的开场白)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAthrQ3ClJBfI57uBoFEgNDYtNCZ0TSYQQfxQ0) - 赵露思
+1. [有你在 (第一次见面你的开场白)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAthrQ3ClJBfI57uBoFEgNDYtNCZ0TSYQQfxQ0) - 赵露思
 1. [可能（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
 1. [追寻你（万物复苏版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeAZJsbjIDit9APmBg8u6uDUQnHmoCf3gbo74) - 王天戈/川青
 1. [毒药 (释怀版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
@@ -93,13 +93,13 @@
 1. [西厢寻他(剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUsAVfAQKlRNxEv5qxvIB8o5qmIWUcXbzJKJhw) - 唐伯虎Annie、伯爵Johnny
 1. [我的纸飞机（片段2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM2ZrKcg2CD5AeRB2gkeXOFB1IxAGJdZPazYHf) - GooGoo/王之睿
 1. [哎呦喂 (全网搜_哎呦喂江承_听全曲)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0uEo63ECfIFdmwKF5HMzF1FCfItHEagDDeCAL) - 江承
-1. [星光降落 (贝儿完整版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okwB9hAwyAtsFFkFBzAX1hOOfQuIoMNs0W2Mwr) - 陆雨萱（贝儿）
+1. [星光降落 (贝儿完整版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okwB9hAwyAtsFFkFBzAX1hOOfQuIoMNs0W2Mwr) - 陆雨萱（贝儿）
 1. [If We Ever Broke Up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8onj5HDk0ImtBmO0URBfeyCDXQJMYkQ1gb8Zy) - Mae Stephens
 1. [故事还长](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/30a26758c8594f0ab81ac675c33ee2c5) - 云汐
-1. [万疆（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooG7oVgFlDTelKCjCsTTobQvbdtj1BBQXnfZd8) - 李玉刚
-1. [希望你被这个世界爱着（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oo4H3BfEygN7l7bQaMBOZHCQ1eI4FqtED5skQ2) - 吕口口
-1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
-1. [山茶花读不懂白玫瑰](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
+1. [万疆（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooG7oVgFlDTelKCjCsTTobQvbdtj1BBQXnfZd8) - 李玉刚
+1. [希望你被这个世界爱着（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oo4H3BfEygN7l7bQaMBOZHCQ1eI4FqtED5skQ2) - 吕口口
+1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
+1. [山茶花读不懂白玫瑰](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
 
 ## 品牌榜
 
