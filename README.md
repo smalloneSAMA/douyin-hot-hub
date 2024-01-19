@@ -11,58 +11,58 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-01-19 19:13:32 +0800`
+`更新时间：2024-01-19 20:26:38 +0800`
 
 ## 抖音热榜
 
-1. 九省联考
-1. 梦泪抖音首播官宣
-1. 今年首场寒潮来袭 注意保暖
 1. 公益胡雷：我不当网红
+1. 梦泪抖音首播官宣
+1. 神十七航天员拆快递
+1. 我这鞠躬不正常吗
+1. 终于看见了山河四省的早读
+1. 当文旅开始翻出文化底牌
 1. 中俄船只可在红海安全通行
 1. 铁头被禁言
-1. 朝鲜进行水下核武器系统试验
-1. 当文旅开始翻出文化底牌
-1. 电影动物园贾冰体验熊出没
+1. 董宇辉说已看过贾玲新电影
 1. 张黎发文感谢网友支持
 1. 站在骨头上啃骨头
-1. 韩信终于等到了梦泪
+1. 爱德华兹自抛自扣
 1. 警方通报高三学生跳河溺亡
 1. 交警胳膊要抡冒烟了
-1. 董宇辉说已看过贾玲新电影
-1. 终于看见了山河四省的早读
-1. 我这鞠躬不正常吗
-1. 谁家好人逛三园用英语啊
-1. C罗领衔利雅得胜利中国行名单
-1. 华中农大教授存在学术不端被停职
-1. 一年级考试失控现场
+1. 电影动物园贾冰体验熊出没
+1. 想通电话 问你最近还好吗
+1. 九省联考
 1. 大学生回村穿搭
-1. 洪剑涛品尝东北清真菜
-1. 第二十条里的86年铁盖茅台
-1. 已经提前进入过年状态了
+1. C罗领衔利雅得胜利中国行名单
+1. 朝鲜进行水下核武器系统试验
 1. 黑土无言大结局
-1. 华中农大11名学生配得上光明未来
-1. 云台山景区就男女妲己争议道歉
+1. 一年级考试失控现场
+1. 洪剑涛品尝东北清真菜
 1. 怀念啊我们的青春啊
 1. 武契奇马克龙在瑞士打照面
+1. 如果我拿出人类猫条
+1. 华中农大11名学生配得上光明未来
+1. “冰雪热”带火冰雕师
+1. 孙怡 我一会儿就去吃鸡架
+1. 第二十条里的86年铁盖茅台
+1. 周笔畅17年前的歌又火了
 1. 我何苦又问 你是否认真
+1. 不一样的西游记
+1. 胡塞武装领导人：与美对抗是荣幸
+1. 已经提前进入过年状态了
+1. 问界提前转移暴雷4S店车辆
 1. 长白山把南派三叔喊来了
+1. 谁家好人逛三园用英语啊
+1. 台北夜市举办科目三舞蹈大赛
+1. 我们是彼此的摄影师
+1. 全球超250名富豪发联名信
+1. 罗红守候13年拍到纳纯湖奇迹
+1. 还有梦能紧紧抱着你
+1. 伯虎说翩若惊鸿舞
 1. 话筒故障 俄外长：日本产的吧
 1. 上网冲浪和爸妈相遇了
-1. 不一样的西游记
-1. 全球超250名富豪发联名信
-1. 想通电话 问你最近还好吗
-1. 陈泽锐评无畏契约官号
-1. 还有梦能紧紧抱着你
-1. 我遇到了国风鱼灯的顶级配置
-1. 如果我拿出人类猫条
+1. 张大仙体验李白新皮肤
 1. 郭富城电影临时劫案上映
-1. 我们是彼此的摄影师
-1. 台北夜市举办科目三舞蹈大赛
-1. 周笔畅17年前的歌又火了
-1. 告女子书你的新年战歌
-1. 马竞4:2皇马
-1. 伯虎说翩若惊鸿舞
 
 ## 明星榜
 
@@ -74,22 +74,23 @@
 
 ## 音乐榜
 
-1. [frozen heart.](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIWJfyjIACZA9zQMtnJ6hQQhFC4vhCupoRBsO) - 8Bite
-1. [Every Time We Touch](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogN6lUKQeBBfEVhIOMikG1CcJjugxk1tztZyhP) - Dream Tunes
 1. [我的纸飞机（片段2）](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM2ZrKcg2CD5AeRB2gkeXOFB1IxAGJdZPazYHf) - GooGoo/王之睿
-1. [陷阱（释怀版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE8C21LeZrzKLDFfQYgMzx4GAIHageG5IzayY7) - Zy/白允y
-1. [追寻你（万物复苏版）](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeAZJsbjIDit9APmBg8u6uDUQnHmoCf3gbo74) - 王天戈/川青
-1. [开心往前飞（开心超人联盟主题曲）](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
-1. [希望你被这个世界爱着 (副歌)](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUHCmWQfZlE3QQBKBeD8rCFLpJzPgCpImhsxMt) - 许亚童
-1. [西厢寻他(剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUsAVfAQKlRNxEv5qxvIB8o5qmIWUcXbzJKJhw) - 唐伯虎Annie、伯爵Johnny
+1. [开心往前飞（开心超人联盟主题曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
+1. [西厢寻他(剪辑版)](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUsAVfAQKlRNxEv5qxvIB8o5qmIWUcXbzJKJhw) - 唐伯虎Annie、伯爵Johnny
+1. [追寻你（万物复苏版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeAZJsbjIDit9APmBg8u6uDUQnHmoCf3gbo74) - 王天戈/川青
+1. [陷阱（释怀版）](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE8C21LeZrzKLDFfQYgMzx4GAIHageG5IzayY7) - Zy/白允y
 1. [可能（副歌）](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
-1. [毒药 (释怀版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
-1. [Love Lee](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o05GbkJGbCBTdDnMtB0fwOYgkeZp23vrWQDQBS) - AKMU (악뮤)
-1. [星光降落 (贝儿完整版)](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okwB9hAwyAtsFFkFBzAX1hOOfQuIoMNs0W2Mwr) - 陆雨萱（贝儿）
+1. [希望你被这个世界爱着 (副歌)](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUHCmWQfZlE3QQBKBeD8rCFLpJzPgCpImhsxMt) - 许亚童
 1. [有你在 (第一次见面你的开场白)](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAthrQ3ClJBfI57uBoFEgNDYtNCZ0TSYQQfxQ0) - 赵露思
 1. [太阳（全网搜_太阳刘鹏_可听）](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogWbyIQnlBFImVbeDocRdCIYtBHlbJXgfZMvgz) - 刘鹏
-1. [32度的晚风(心动版）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owNyabsyWdzUulxhoJfK8IBXgp0UMQAHpvGh2B) - 陆杰
+1. [毒药 (释怀版)](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
+1. [Love Lee](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o05GbkJGbCBTdDnMtB0fwOYgkeZp23vrWQDQBS) - AKMU (악뮤)
+1. [梦游（1.2倍甜蜜版）](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4gyAUm8hwufoEABmwVIiQtHsFuGzAEEWtNMzo) - 补菜Nveg
+1. [慢慢-颜人中](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocjHNfBXdBxQNC8ZGAeoLMFTUgtBg8bkExunDC) - 颜人中
+1. [星光降落 (贝儿完整版)](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okwB9hAwyAtsFFkFBzAX1hOOfQuIoMNs0W2Mwr) - 陆雨萱（贝儿）
 1. [山茶花读不懂白玫瑰](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
+1. [海边探戈](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
+1. [是你（剪辑版）](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
 
 ## 品牌榜
 
