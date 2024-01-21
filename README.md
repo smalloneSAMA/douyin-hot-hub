@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-01-21 13:40:13 +0800`
+`更新时间：2024-01-21 14:18:17 +0800`
 
 ## 抖音热榜
 
 1. 贾玲张小斐杨紫演三姐妹
-1. 00后做的龙年宣传视频
-1. 首台国产场发射透射电镜发布
 1. 刘德华新片里的天王嫂是林熙蕾
+1. 首台国产场发射透射电镜发布
 1. 回村前的我vs回村后的我
-1. 第一波回家过年的狗狗
-1. 小城故事多开播
 1. 是谁偷走了他的麦克风
-1. 河南货车侧翻众人哄抢系谣言
+1. 第一波回家过年的狗狗
 1. 雷军回应小米汽车售价
-1. 科目三值得上春晚吗
-1. 孔雀东南飞挑战
-1. 中国选手兔子战术迷惑对手
 1. 杨紫范丞丞新剧观后感
-1. 狗：我的规矩就是规矩
-1. 丁俊晖1:6不敌奥沙利文
+1. 河南货车侧翻众人哄抢系谣言
+1. 科目三值得上春晚吗
+1. 00后做的龙年宣传视频
+1. 小城故事多开播
 1. 全网都在找的初月版爱一点
-1. PoppinC获街舞6总冠军
-1. 男子边打电话边救下坠落男童
 1. 疯驴子演第二十条不遭罪了
-1. 范丞丞大喊我是天才笑拥了
+1. 丁程鑫成功追星王一博
+1. 孔雀东南飞挑战
+1. 龙年央视春晚第二次联排
+1. 黄豆也没想到这辈子能当乐器
+1. 吸完冻梨吸草莓
+1. 收到了小金豆邮寄的特产
+1. 梦泪抖音王者首播
 1. 虞书欣DJ版呱呱舞
 1. 孙俪陪儿子等等打篮球
 1. 我再也不乱取名了
-1. 吸完冻梨吸草莓
-1. 王迅带你寻找重庆隐藏美食
-1. 杨紫新剧说范丞丞是大白鹅
-1. 猫：话可不是这么说的
-1. 张大仙复刻露娜月下无限连
-1. 徐明浩澳门演唱会
-1. 龙年央视春晚第二次联排
-1. 秦霄贤不敢泼何老师泼范丞丞
-1. 过个年还能被鸡欺负了
 1. 温州红十字会回应00后怼领导
-1. 丁程鑫成功追星王一博
+1. 王迅带你寻找重庆隐藏美食
+1. 潜行刘德华最后的心愿
+1. 张大仙复刻露娜月下无限连
+1. 越今朝越祈水下渡气吻
+1. 杨紫新剧说范丞丞是大白鹅
+1. 范丞丞大喊我是天才笑拥了
+1. 要久久爱开播
+1. 过个年还能被鸡欺负了
+1. 男子边打电话边救下坠落男童
+1. 小米汽车已小规模量产
 1. 请与我击掌
-1. 斯洛伐克总理称反对乌加入北约
+1. 秦霄贤不敢泼何老师泼范丞丞
 1. 那个不打你就笑不出来的朋友
-1. 收到了小金豆邮寄的特产
-1. 音乐学院男高音联动强军战歌
-1. 董宇辉个人账号认证变更
-1. 梦泪抖音王者首播
 1. 护理系学生躲不掉的情景模拟
-1. 中国速滑队兔子战术夺冠
+1. 董宇辉个人账号认证变更
+1. 斯洛伐克总理称反对乌加入北约
 1. 关东煮爷爷
-1. 把文字写成高攀不起的样子
+1. 丁俊晖1:6不敌奥沙利文
 1. 西南F4申请出战
 1. 越长越大的时候
-1. 南方迎入冬后最大范围降雪
 1. 过年就给娃梳这个发型了
+1. 过年才艺整活抢先看
+1. 三亚摊贩卖水果三斤变二斤被罚
+1. 中国速滑队兔子战术夺冠
+1. 究极缝合怪幻兽帕鲁上线
 
 ## 明星榜
 
@@ -79,20 +79,20 @@
 1. [我的纸飞机（片段2）](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM2ZrKcg2CD5AeRB2gkeXOFB1IxAGJdZPazYHf) - GooGoo/王之睿
 1. [开心往前飞（开心超人联盟主题曲）](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
 1. [西厢寻他(剪辑版)](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUsAVfAQKlRNxEv5qxvIB8o5qmIWUcXbzJKJhw) - 唐伯虎Annie、伯爵Johnny
-1. [追寻你（万物复苏版）](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeAZJsbjIDit9APmBg8u6uDUQnHmoCf3gbo74) - 王天戈/川青
+1. [追寻你（万物复苏版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeAZJsbjIDit9APmBg8u6uDUQnHmoCf3gbo74) - 王天戈/川青
 1. [陷阱（释怀版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE8C21LeZrzKLDFfQYgMzx4GAIHageG5IzayY7) - Zy/白允y
-1. [可能（副歌）](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
+1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
 1. [希望你被这个世界爱着 (副歌)](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUHCmWQfZlE3QQBKBeD8rCFLpJzPgCpImhsxMt) - 许亚童
-1. [有你在 (第一次见面你的开场白)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAthrQ3ClJBfI57uBoFEgNDYtNCZ0TSYQQfxQ0) - 赵露思
+1. [有你在 (第一次见面你的开场白)](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAthrQ3ClJBfI57uBoFEgNDYtNCZ0TSYQQfxQ0) - 赵露思
 1. [太阳（全网搜_太阳刘鹏_可听）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogWbyIQnlBFImVbeDocRdCIYtBHlbJXgfZMvgz) - 刘鹏
-1. [毒药 (释怀版)](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
-1. [Love Lee](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o05GbkJGbCBTdDnMtB0fwOYgkeZp23vrWQDQBS) - AKMU (악뮤)
-1. [梦游（1.2倍甜蜜版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4gyAUm8hwufoEABmwVIiQtHsFuGzAEEWtNMzo) - 补菜Nveg
+1. [毒药 (释怀版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
+1. [Love Lee](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o05GbkJGbCBTdDnMtB0fwOYgkeZp23vrWQDQBS) - AKMU (악뮤)
+1. [梦游（1.2倍甜蜜版）](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4gyAUm8hwufoEABmwVIiQtHsFuGzAEEWtNMzo) - 补菜Nveg
 1. [慢慢-颜人中](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocjHNfBXdBxQNC8ZGAeoLMFTUgtBg8bkExunDC) - 颜人中
 1. [星光降落 (贝儿完整版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okwB9hAwyAtsFFkFBzAX1hOOfQuIoMNs0W2Mwr) - 陆雨萱（贝儿）
 1. [山茶花读不懂白玫瑰](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
 1. [海边探戈](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
-1. [是你（剪辑版）](https://sf86-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
+1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
 
 ## 品牌榜
 
