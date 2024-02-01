@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-02-01 15:14:17 +0800`
+`更新时间：2024-02-01 16:17:29 +0800`
 
 ## 抖音热榜
 
 1. 晒出你的新春红
+1. 重温经典频道今日开播
+1. 中国同23国全面互免签证
 1. 今年春联是自己写的
-1. 中国经济新动能
-1. 曝特朗普称自己比霉霉更受欢迎
-1. 河南高速多车连环相撞
 1. 2月第一天
-1. 欢乐家长群开播
-1. 谁懂回南天的痛
-1. 北京产权交易所澄清声明
 1. 相亲相爱接力挑战
-1. 复旦教师杀害学院书记被判死缓
+1. 暗夜变装挑战
+1. 召集全抖音晚8找乐子
+1. 北京产权交易所澄清声明
+1. 各地人这么做一定有原因
+1. 这就是传说中的狗压床
 1. 韩国瑜当选台立法机构负责人
-1. 诀别书的正确打开方式
-1. 球友切磋乒乓球上演巅峰对决
+1. 上海楼房凌晨坍塌 多方回应
+1. 网友过年爱上组养生局了
+1. 董宇辉对刘德华说想演兵马俑
+1. 河南高速多车连环相撞
+1. 谁懂回南天的痛
 1. 贵州有多钟爱办酒席
-1. 李玲：医保制度一定要改
-1. 陈泽LOL全英雄全皮肤
-1. 画江湖电影导演解说版上线
-1. 花130万当网红未果起诉要回80万
-1. 银川一工厂突发火灾
+1. 一起跳甜妹手势舞
+1. 欢乐家长群开播
 1. 小杨哥额头受伤
-1. 雷佳音练贾玲是真使劲儿
-1. 吴谢宇姑姑发声
-1. 河北一保安阻止奔驰加塞被顶撞
-1. 红毯先生30万张票十分钟被抢光
-1. 警方回应男生遭多人棍棒皮带殴打
-1. 河南大雪
-1. 最牵挂你是否按时吃饭
-1. 哈尔滨的3车雪已运抵广州
-1. 崩坏3第二部上线
-1. 易烊千玺工作室包场电影第二十条
-1. 官方通报村民酒席饭菜遭撒盐
-1. 邮政回应捐赠物资被弄丢
-1. 男子回应开飞机带女儿回家过年
-1. 谁还没有一件年度战袍了
-1. 中情局局长：美失去绝对领先地位
-1. 刘德华宁浩红毯先生今晚直播
-1. 灰太狼的妈妈
 1. 官方通报四川一学生校内坠亡
-1. 中式弦乐版失恋阵线联盟
-1. 钟楚曦多语言为广东文旅上分
-1. 哈尔滨狐狸宝宝罢工了
-1. 湖北春晚群星版挖呀挖
-1. 如何评价王者新英雄敖隐
+1. 诀别书的正确打开方式
+1. 董宇辉访谈刘德华宁浩
+1. 安徽启动暴雪应急响应
+1. 二月第一天的愿望
+1. 河南大雪
 1. 凤凰传奇演唱会
-1. 陈小纭加入吉林春晚群聊
-1. 女干部被举报维护关系成本太高
+1. 球友切磋乒乓球上演巅峰对决
 1. 网友偶遇狄龙后被追着给红包
-1. 杭州 巨响
-1. 郎朗和老易的钢琴之约兑现了
+1. 李玲：医保制度一定要改
+1. 宝宝不唱儿歌过渡一下吗
+1. 大学生练车日常
+1. 用不同的声音说丫头
+1. 河北一保安阻止奔驰加塞被顶撞
+1. 雷佳音练贾玲是真使劲儿
+1. 刘德华宁浩红毯先生今晚直播
+1. 银川一工厂突发火灾
+1. 中式弦乐版失恋阵线联盟
+1. 一顿饭吃了四个小时
+1. 邮政回应捐赠物资被弄丢
+1. 如何评价王者新英雄敖隐
+1. 陈泽LOL全英雄全皮肤
+1. 95后北大女孩打假名人名言
+1. 湖北春晚群星版挖呀挖
+1. 官方通报村民酒席饭菜遭撒盐
+1. 谁还没有一件年度战袍了
+1. 网络搞笑车贴盘点
+1. 男子回应开飞机带女儿回家过年
+1. 红毯先生30万张票十分钟被抢光
 
 ## 明星榜
 
@@ -80,21 +80,21 @@
 1. [希望你被这个世界爱着 (副歌)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUHCmWQfZlE3QQBKBeD8rCFLpJzPgCpImhsxMt) - 许亚童
 1. [开心往前飞（开心超人联盟主题曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
 1. [追寻你（万物复苏版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeAZJsbjIDit9APmBg8u6uDUQnHmoCf3gbo74) - 王天戈/川青
-1. [我的纸飞机（片段2）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM2ZrKcg2CD5AeRB2gkeXOFB1IxAGJdZPazYHf) - GooGoo/王之睿
+1. [我的纸飞机（片段2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM2ZrKcg2CD5AeRB2gkeXOFB1IxAGJdZPazYHf) - GooGoo/王之睿
 1. [西厢寻他(剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUsAVfAQKlRNxEv5qxvIB8o5qmIWUcXbzJKJhw) - 唐伯虎Annie、伯爵Johnny
-1. [可能（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
+1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
 1. [陷阱（释怀版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE8C21LeZrzKLDFfQYgMzx4GAIHageG5IzayY7) - Zy/白允y
 1. [其实都没有 (剪辑版2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEBNQenHZtBhxYjGgUDQk0BCHTigQafgFlbQ7k) - 于冬然
-1. [毒药 (释怀版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
+1. [毒药 (释怀版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
 1. [universe (sped up)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIQnurQLDCsdYeegkM4CKuVb23MZBXtX6QB8bv) - thuy
 1. [海边探戈](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
 1. [你看我多可爱（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/018d241ee66a4a189b2fa9ea2fe3363d) - 宝韵童声
 1. [有你在 (第一次见面你的开场白)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAthrQ3ClJBfI57uBoFEgNDYtNCZ0TSYQQfxQ0) - 赵露思
 1. [最好的安排（主歌2）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMMZX1DuHpMwgoDztBmZswgQnbCeeANZxBHkFY) - 旺仔小乔
-1. [太阳（全网搜_太阳刘鹏_可听）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogWbyIQnlBFImVbeDocRdCIYtBHlbJXgfZMvgz) - 刘鹏
+1. [太阳（全网搜_太阳刘鹏_可听）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogWbyIQnlBFImVbeDocRdCIYtBHlbJXgfZMvgz) - 刘鹏
 1. [梦游（1.2倍甜蜜版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4gyAUm8hwufoEABmwVIiQtHsFuGzAEEWtNMzo) - 补菜Nveg
-1. [Every Time We Touch](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogN6lUKQeBBfEVhIOMikG1CcJjugxk1tztZyhP) - Dream Tunes
-1. [慢慢-颜人中](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocjHNfBXdBxQNC8ZGAeoLMFTUgtBg8bkExunDC) - 颜人中
+1. [Every Time We Touch](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogN6lUKQeBBfEVhIOMikG1CcJjugxk1tztZyhP) - Dream Tunes
+1. [慢慢-颜人中](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocjHNfBXdBxQNC8ZGAeoLMFTUgtBg8bkExunDC) - 颜人中
 1. [人间惊鸿宴 - 现场版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osF4mrPePAf2Yv8Wfr5fATCHZwL5h1QiGQAKwz) - 指尖笑
 1. [one love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4utbbKzHedACBQ0bkG7ZBgUvDQzbBDnYd1f1k) - 七元
 
