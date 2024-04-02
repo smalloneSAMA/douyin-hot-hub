@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-04-02 18:16:21 +0800`
+`更新时间：2024-04-02 19:13:12 +0800`
 
 ## 抖音热榜
 
+1. 大风为什么能把人从家里吹走
+1. 解放军在中缅边境实兵实弹演习
+1. 有一种叫云南的生活
+1. 雷军这是要整顿各行各业吗
 1. 比亚迪3月销量重返30万
 1. 江西强降雨天气持续
-1. 有一种叫云南的生活
-1. 大风为什么能把人从家里吹走
-1. 你好星星的孩子
 1. 江西省政协主席唐一军被查
-1. 解放军在中缅边境实兵实弹演习
-1. 用薄荷曼波叫醒春天
+1. 华为已撤回遥遥领先商标申请
 1. 盒马辟谣被中粮收购
-1. 开发商回应3人被大风吹坠楼
-1. 淄博烧烤老板们互相送客人
+1. 南昌暴雨致房屋坍塌11人受伤
+1. 王婆说媒启动预约模式
+1. 2013年以来首个强对流橙色预警
 1. 四川11岁遇害女孩父亲发声
+1. 你好星星的孩子
 1. 当地回应提灯定损房东女儿被开除
 1. 沈璃 本王想吃鱼了
-1. 贵州长顺山火3名干部死亡
-1. 王婆说媒启动预约模式
-1. 网友实拍南昌强雷暴天气
 1. 王珞丹和赵小棠妈妈相差十岁
+1. 网友实拍南昌强雷暴天气
 1. 人民网评：别让王婆说媒变味
 1. 马英九率台湾青年参访比亚迪
+1. 用薄荷曼波叫醒春天
 1. 流苏树开花了
-1. 体育生的饭量是个谜
 1. 王灿被烫伤
-1. 雷军这是要整顿各行各业吗
-1. 敌蜜版张元英转圈
-1. 不要美化那条你未走过的路
+1. 开发商回应3人被大风吹坠楼
+1. 淄博烧烤老板们互相送客人
 1. 女子入职体检发现怀孕被拒录用
-1. 男友将情绪价值拉满是什么体验
-1. 女人的友谊都是从吐槽开始
+1. 敌蜜版张元英转圈
+1. 体育生的饭量是个谜
+1. 在宫崎骏的电影里遇见春天
+1. 周扬青何洁Yamy电梯舞
 1. TXT入驻抖音
-1. 人间最美四月天
-1. 电影大反派北京首映
+1. 女人的友谊都是从吐槽开始
 1. 林俊杰弹唱See You Again
-1. 拍照是一件很治愈的事情
-1. 薄荷曼波绿门永存
-1. 顺丰负债超千亿仍掏450亿理财
-1. 和平精英奶龙联动
+1. 贵州长顺山火3名干部死亡
 1. 眼泪女王剧情细节暗示
+1. 男友将情绪价值拉满是什么体验
+1. 薄荷曼波绿门永存
+1. 歼20迎面而来的压迫感
+1. 和平精英奶龙联动
+1. 电影大反派北京首映
+1. 不要美化那条你未走过的路
 1. 福宝将有独立圈舍和几百平米领地
-1. 一起看看海底世界
-1. 爱在天摇地动时开播
-1. 有个不扫兴的另一半太治愈了
-1. 德国民众聚众吸大麻
-1. 陈泽孤独症关爱公益短片上线
+1. 人间最美四月天
 1. 爱与被爱同时发生才有意义
-1. 我才不会以爱之名困住任何人
-1. 和朋友一起拍LOVE
+1. 拍照是一件很治愈的事情
+1. 一起看看海底世界
+1. 孕妇在便利店分娩后续
+1. 花间令白小笙把卓澜江撩害羞
 1. 就是喜欢这只唱歌仓鼠
-1. 葫芦娃就是云南人
-1. 我要迪士尼模仿大赛
+1. 有个不扫兴的另一半太治愈了
 
 ## 明星榜
 
@@ -76,31 +76,31 @@
 
 ## 音乐榜
 
-1. [若月亮没来 (片段3)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okfyEUsGW1B1ovJi5JiN9IjvAT2lMwA054GoEB) - 王宇宙Leto/乔浚丞
+1. [若月亮没来 (片段3)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okfyEUsGW1B1ovJi5JiN9IjvAT2lMwA054GoEB) - 王宇宙Leto/乔浚丞
 1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰&于行
-1. [追寻你（万物复苏版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeAZJsbjIDit9APmBg8u6uDUQnHmoCf3gbo74) - 王天戈/川青
+1. [追寻你（万物复苏版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeAZJsbjIDit9APmBg8u6uDUQnHmoCf3gbo74) - 王天戈/川青
 1. [落（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0h6HvN1BBbli9LtU3i5fQIleBQMF5Cg4TZmmC) - 唐伯虎Annie
 1. [草莓物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okynhJ7jEAIIZBfsLgYMEI8QC3WbQNN66RKzhT) - 于行&仁辰
-1. [温暖治愈(BGM)（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d9d500052e5b48e3baf0e40788cc8160) - 翼
+1. [温暖治愈(BGM)（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d9d500052e5b48e3baf0e40788cc8160) - 翼
 1. [Memory Reboot](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4f3cu5FDdCEBnAitlD4gKYf3QrfJjzxIFoaTd) - VØJ & Narvent
 1. [身骑白马 (pay姐版) 已全网上线](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQLO5ZgLsFkaDhdIIveF2zUCgfweY0gWaH4AQG) - 黏苞米糊糊/潮音铭帝
 1. [可能（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
-1. [希望你被这个世界爱着 (副歌)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUHCmWQfZlE3QQBKBeD8rCFLpJzPgCpImhsxMt) - 许亚童
+1. [希望你被这个世界爱着 (副歌)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUHCmWQfZlE3QQBKBeD8rCFLpJzPgCpImhsxMt) - 许亚童
 1. [春风何时来（等待命运安排）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oICBNbD3gelMfB4WgiD1KI2jQtXZE2FgHLwtsl) - 巴扎黑
-1. [西厢寻他(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUsAVfAQKlRNxEv5qxvIB8o5qmIWUcXbzJKJhw) - 唐伯虎Annie、伯爵Johnny
-1. [我的纸飞机（片段2）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM2ZrKcg2CD5AeRB2gkeXOFB1IxAGJdZPazYHf) - GooGoo/王之睿
-1. [BLVCK (Orginal Mix）（剪辑版）](https://sf27-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osnDnwSfQThtCz8BikQnbAAZHwC8YcmgvnnlYf) - MIRBRO
+1. [西厢寻他(剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUsAVfAQKlRNxEv5qxvIB8o5qmIWUcXbzJKJhw) - 唐伯虎Annie、伯爵Johnny
+1. [我的纸飞机（片段2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM2ZrKcg2CD5AeRB2gkeXOFB1IxAGJdZPazYHf) - GooGoo/王之睿
+1. [BLVCK (Orginal Mix）（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osnDnwSfQThtCz8BikQnbAAZHwC8YcmgvnnlYf) - MIRBRO
 1. [其实都没有 (剪辑版2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEBNQenHZtBhxYjGgUDQk0BCHTigQafgFlbQ7k) - 于冬然
 1. [梦游（1.2倍甜蜜版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4gyAUm8hwufoEABmwVIiQtHsFuGzAEEWtNMzo) - 补菜Nveg
-1. [毒药 (释怀版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
+1. [毒药 (释怀版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
 1. [未必](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogntQMFnKQDZUgTCYuJgfLEtleYZZFxBQqhhFB) - 言瑾羽
-1. [你值得世间所有美好](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQXBiBLpltyHMSeKII42ifKxQXiElMCYqBsZgU) - 王佳音Sgr
-1. [风之海](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oInqZ2gFbCQvB6wZNnZlJpBcfDBQ8t1e1XwYAi) - 华晨宇
+1. [你值得世间所有美好](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQXBiBLpltyHMSeKII42ifKxQXiElMCYqBsZgU) - 王佳音Sgr
+1. [风之海](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oInqZ2gFbCQvB6wZNnZlJpBcfDBQ8t1e1XwYAi) - 华晨宇
 1. [陷阱（释怀版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE8C21LeZrzKLDFfQYgMzx4GAIHageG5IzayY7) - Zy/白允y
-1. [是你（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
+1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
 1. [Zhurek（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooQm8FBZQDlf0btEYgVpCcSCQfrdJGBEKZYBGS) - ADAM
-1. [down down down (Sped Up)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ow80iABiXIO9DsFwK6WeZKMaJRi3BPJAotDy8m) - YOU DAYEON
-1. [春光明媚 春意盎然](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oU4HIfpWhU4IQXCW3WNBSBEBshugyzhMAQZIAI) - 追月者
+1. [down down down (Sped Up)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ow80iABiXIO9DsFwK6WeZKMaJRi3BPJAotDy8m) - YOU DAYEON
+1. [春光明媚 春意盎然](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oU4HIfpWhU4IQXCW3WNBSBEBshugyzhMAQZIAI) - 追月者
 
 ## 品牌榜
 
