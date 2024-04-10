@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-04-10 11:17:01 +0800`
+`更新时间：2024-04-10 12:16:43 +0800`
 
 ## 抖音热榜
 
-1. 暴雪国服官宣回归
 1. 皇马3:3曼城
-1. 有一种春和景明叫百里杜鹃
 1. 阿森纳2:2拜仁
+1. 透视2024年首季中国经济
+1. 暴雪国服官宣回归
+1. 快船vs太阳
+1. 谢帝回应诺米diss
 1. 壮族三月三独有的仪式感
 1. 乘扶梯突遇事故怎么办
-1. 如何看幼儿园孩子烧火做饭
-1. “中国大妈”不仅解套还赚了
 1. 3月辟谣榜
 1. 海南岛商渔船碰撞事故已致6死
-1. 网易回应男孩玩游戏充值上万
+1. 如何看幼儿园孩子烧火做饭
 1. 官方通报网传女生因老师打骂跳楼
-1. 谢帝回应诺米diss
-1. 高合汽车辟谣摄像头拍摄照片泄露
-1. 官方回应女孩被石柱砸中身亡
+1. 羽毛球与花瓣的专属浪漫
 1. 奥本海默日本上映引美日舆论互怼
-1. 白宇帆新剧开局就跳河
-1. 重庆原副市长熊雪被公诉
-1. 龙年龙月龙日龙时
+1. 官方回应女孩被石柱砸中身亡
+1. 香港佐敦道火灾已致5死
 1. 这哪是小姨 这是双胞胎吧
-1. 马树山被逮捕事件22人被问责
-1. 陈赫回应赵丽颖林更新CP粉
+1. 重庆原副市长熊雪被公诉
 1. knowknow写给诺米的歌
+1. 龙年龙月龙日龙时
+1. 马树山被逮捕事件22人被问责
+1. 网易回应男孩玩游戏充值上万
 1. 周雨彤一次醉酒换来一生内向
+1. 陈赫回应赵丽颖林更新CP粉
+1. 承欢记反向掉马文学
 1. 著名指挥家伍佰老师闪亮登场
 1. 广西707万元彩票没人领
-1. 爱了很久 不会分开
-1. 外卖小哥连续3年住15元一晚宾馆
-1. 佩斯科夫证实普京计划访华
 1. 费曼说自己想当个活人
-1. 硬控司机20秒
+1. 爱了很久 不会分开
+1. 童声版阿普的思念上大分
+1. 海关查获57瓶寄生虫
 1. 马云内网发声
+1. 任敏新剧被打让人心疼
+1. 惜花芷虐完男主虐女主
+1. 硬控司机20秒
+1. 佩斯科夫证实普京计划访华
+1. 百亿级公司尾盘放量闪崩
 1. 伍佰打响新一轮模仿大赛
 1. 雷军仍有对手
-1. 海关查获57瓶寄生虫
-1. 泰国征兵抽签现场
-1. 百亿级公司尾盘放量闪崩
-1. 付费会员“套路”防不胜防
-1. 依然随时可以为你疯狂
 1. 大力仑长城炮转场
-1. 不笑一秒变帅
+1. 依然随时可以为你疯狂
+1. 高合汽车辟谣摄像头拍摄照片泄露
+1. 一件T恤能有多开挂
+1. 天水的后劲有多大
 1. 与凤行仿妆
-1. 慢慢来是一种诚意
-1. 养猫人才懂的同款动作
 1. Faker向HLE道歉
-1. 当你的眼睛眯着笑
-1. 想看看你相册里的春天
-1. 以为是卧铺其实是站票
-1. 童声版阿普的思念上大分
-1. 漫山遍野的杜鹃花有多美
+1. 养猫人才懂的同款动作
+1. 媒体评虐猫考生接连被刷
+1. 不笑一秒变帅
+1. 慢慢来是一种诚意
 
 ## 明星榜
 
@@ -76,27 +76,27 @@
 
 ## 音乐榜
 
-1. [落（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0h6HvN1BBbli9LtU3i5fQIleBQMF5Cg4TZmmC) - 唐伯虎Annie
-1. [Magnetic](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAQCYdBNZfLACGDmVFAsfAtpy32tqErgQ3XgBN) - ILLIT
-1. [The Closest Thing I've Found](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/514ab5d9146f4d2ca454b7adff8e5e4d) - YCK
-1. [frozen heart.](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIWJfyjIACZA9zQMtnJ6hQQhFC4vhCupoRBsO) - 8Bite
+1. [落（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0h6HvN1BBbli9LtU3i5fQIleBQMF5Cg4TZmmC) - 唐伯虎Annie
+1. [Magnetic](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAQCYdBNZfLACGDmVFAsfAtpy32tqErgQ3XgBN) - ILLIT
+1. [The Closest Thing I've Found](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/514ab5d9146f4d2ca454b7adff8e5e4d) - YCK
+1. [frozen heart.](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIWJfyjIACZA9zQMtnJ6hQQhFC4vhCupoRBsO) - 8Bite
 1. [Zhurek（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooQm8FBZQDlf0btEYgVpCcSCQfrdJGBEKZYBGS) - ADAM
-1. [猫与小肚](https://sf27-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osZeoClMECgK8DYl6VebABgbchEtPYQjZEnRtd) - BIGNNYYLEI
+1. [猫与小肚](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osZeoClMECgK8DYl6VebABgbchEtPYQjZEnRtd) - BIGNNYYLEI
 1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰&于行
 1. [未必](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogntQMFnKQDZUgTCYuJgfLEtleYZZFxBQqhhFB) - 言瑾羽
 1. [身骑白马 (pay姐版) 已全网上线](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQLO5ZgLsFkaDhdIIveF2zUCgfweY0gWaH4AQG) - 黏苞米糊糊/潮音铭帝
-1. [若月亮没来 (片段3)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okfyEUsGW1B1ovJi5JiN9IjvAT2lMwA054GoEB) - 王宇宙Leto/乔浚丞
+1. [若月亮没来 (片段3)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okfyEUsGW1B1ovJi5JiN9IjvAT2lMwA054GoEB) - 王宇宙Leto/乔浚丞
 1. [草莓物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okynhJ7jEAIIZBfsLgYMEI8QC3WbQNN66RKzhT) - 于行&仁辰
 1. [希望你被这个世界爱着 (副歌)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUHCmWQfZlE3QQBKBeD8rCFLpJzPgCpImhsxMt) - 许亚童
-1. [春风何时来（等待命运安排）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oICBNbD3gelMfB4WgiD1KI2jQtXZE2FgHLwtsl) - 巴扎黑
+1. [春风何时来（等待命运安排）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oICBNbD3gelMfB4WgiD1KI2jQtXZE2FgHLwtsl) - 巴扎黑
 1. [热烈的少年（是热烈）副歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owVNI0CLDAUMtSz6TEYvfFBFL4UDFFhLfgK8fa) - Big Cole
-1. [沉溺1.2_全网可听](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok2QoiBqsWAX9McZmWiI9gAB0EzwD4Xj6yfmtH) - 邹沛沛/Pank
+1. [沉溺1.2_全网可听](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok2QoiBqsWAX9McZmWiI9gAB0EzwD4Xj6yfmtH) - 邹沛沛/Pank
 1. [我的纸飞机（片段2）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM2ZrKcg2CD5AeRB2gkeXOFB1IxAGJdZPazYHf) - GooGoo/王之睿
-1. [其实都没有 (剪辑版2)](https://sf27-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEBNQenHZtBhxYjGgUDQk0BCHTigQafgFlbQ7k) - 于冬然
-1. [可能（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
-1. [梦游（1.2倍甜蜜版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4gyAUm8hwufoEABmwVIiQtHsFuGzAEEWtNMzo) - 补菜Nveg
+1. [其实都没有 (剪辑版2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEBNQenHZtBhxYjGgUDQk0BCHTigQafgFlbQ7k) - 于冬然
+1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
+1. [梦游（1.2倍甜蜜版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4gyAUm8hwufoEABmwVIiQtHsFuGzAEEWtNMzo) - 补菜Nveg
 1. [down down down (Sped Up)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ow80iABiXIO9DsFwK6WeZKMaJRi3BPJAotDy8m) - YOU DAYEON
-1. [是你（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
+1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
 
 ## 品牌榜
 
