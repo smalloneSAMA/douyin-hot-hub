@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-04-14 02:14:39 +0800`
+`更新时间：2024-04-14 03:10:41 +0800`
 
 ## 抖音热榜
 
 1. 沙子哥旭旭宝宝开古堡
-1. 你多久没和父母好好说话了
-1. 秦朗丢寒假作业系摆拍博主被处罚
-1. 广西三月三有多热闹
 1. 哪些瞬间让你想放弃异地恋
+1. 秦朗丢寒假作业系摆拍博主被处罚
+1. 你多久没和父母好好说话了
+1. 广西三月三有多热闹
+1. 四川前首富宣告破产
 1. M2总量突破300万亿是怎么回事
-1. 当泼水节遇上周末
 1. 男生打伤戏弄女同学的醉汉被刑拘
-1. 钟美美称采访被媒体恶意剪辑
+1. 成龙为刘浩存提裙摆
 1. 四川养猪场中毒事故致7死
 1. 秦皇岛一船只侧翻致12死6失联
 1. 游客为看花踩庄稼老人下跪恳求
 1. 网红猫一杯多平台账号被封
-1. 赵丽颖录音频告别与凤行
-1. 功夫熊猫舞挑战
 1. 黄子韬鹿晗新歌我先用
-1. 成龙为刘浩存提裙摆
-1. 爱情碰上金牛座
 1. 诺米南京江豚音乐节
 1. 伊朗要开始袭击以色列了吗
+1. 赵丽颖录音频告别与凤行
 1. 游客发生争执雪饼猴帮忙拉架
+1. 钟美美称采访被媒体恶意剪辑
+1. 当泼水节遇上周末
+1. 爱情碰上金牛座
+1. 功夫熊猫舞挑战
+1. 城中之城美人计反转
 1. Baby我会出现在大银幕
 1. 斗破苍穹萧炎大战洪辰
+1. 轮到10后爆改世界了
+1. 蔡依林贵阳演唱会
 1. 你我都是这池中的鱼
+1. 以军称以色列北部遭火箭弹袭击
 1. 花式泡茶大赏
+1. 终于等到承欢记麦承欢分手
+1. 王嘉尔广东分尔
+1. 像极了小时候的某天晚上
+1. 泰国泼水节
 1. 如何拥有超强的执行力
 1. 宿舍简配版格莱美慢镜头
-1. 蔡依林贵阳演唱会
-1. 以军称以色列北部遭火箭弹袭击
-1. 城中之城美人计反转
-1. 轮到10后爆改世界了
-1. 春天的精神状态
-1. 像极了小时候的某天晚上
-1. 保时捷撞车后女子砸门被行拘
-1. 终于等到承欢记麦承欢分手
 1. 梁山伯与茱丽叶又杀回来了
-1. 泰国泼水节
 1. 中美俄法印等多国发紧急预警
-1. 爱喝咖啡和爱吃葱的人都沉默了
-1. 爱情碰上白羊座
-1. 白天一般但是晚上绝了
-1. 挑战给老人化欧美妆
-1. 被吓到还不忘做个wink
 1. 灵魂附体变装上难度了
-1. 没有人能拒绝泼水节的热情
-1. 那就祝我们友谊长存
+1. 挑战给老人化欧美妆
+1. 爱情碰上白羊座
 1. 双面三异绣的神奇瞬间
-1. 蒙优勒是什么梗
-1. 南京一高中9人被顶尖大学录取
+1. 春天的精神状态
+1. 被吓到还不忘做个wink
+1. 白天一般但是晚上绝了
+1. 没有人能拒绝泼水节的热情
+1. 爱喝咖啡和爱吃葱的人都沉默了
+1. 那就祝我们友谊长存
+1. 抖音达人镜头下的胡一天
 
 ## 明星榜
 
@@ -76,29 +76,29 @@
 ## 音乐榜
 
 1. [99次我爱他beat (甜妹版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocBPCLaDWFQr2tJdQmEDjGfSYIjegYYPBQZykZ) - Eddie Chen
-1. [落（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0h6HvN1BBbli9LtU3i5fQIleBQMF5Cg4TZmmC) - 唐伯虎Annie
+1. [落（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0h6HvN1BBbli9LtU3i5fQIleBQMF5Cg4TZmmC) - 唐伯虎Annie
 1. [猫与小肚](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osZeoClMECgK8DYl6VebABgbchEtPYQjZEnRtd) - BIGNNYYLEI
 1. [写不完的温柔（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYBzzZQJ233GfwkemJJffAIWgeIYrjZfWhHTcG) - G.E.M. 邓紫棋
-1. [にこにこわんちゃん](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooyIapOMDeFipMOAMzingeei01o1UXJZQDlbCr) - Mzyika Sound
+1. [にこにこわんちゃん](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooyIapOMDeFipMOAMzingeei01o1UXJZQDlbCr) - Mzyika Sound
 1. [凭什么说beat （甜妹版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4jT7FfmgeMO96zHaEAeIMFE8U1qkL6UDqDuCy) - Eddie Chen
 1. [frozen heart.](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIWJfyjIACZA9zQMtnJ6hQQhFC4vhCupoRBsO) - 8Bite
 1. [听风](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAPa3yDDDIZygYzQdBemCAIngcCeEARgbQDtJC) - 雪糕超人耶
-1. [i watch the moon（剪辑版1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0I9mSChzHZANMJIEBfkCQzzg6N5WAcVtqft9P) - 东 百 下 小 雨
+1. [i watch the moon（剪辑版1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0I9mSChzHZANMJIEBfkCQzzg6N5WAcVtqft9P) - 东 百 下 小 雨
 1. [Zhurek（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooQm8FBZQDlf0btEYgVpCcSCQfrdJGBEKZYBGS) - ADAM
 1. [未必](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogntQMFnKQDZUgTCYuJgfLEtleYZZFxBQqhhFB) - 言瑾羽
-1. [try](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMCYLreazYIFEgVb1vQdrJnJTbe8DDfiCA6gKw) - Emilee
+1. [try](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMCYLreazYIFEgVb1vQdrJnJTbe8DDfiCA6gKw) - Emilee
 1. [春风何时来（等待命运安排）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oICBNbD3gelMfB4WgiD1KI2jQtXZE2FgHLwtsl) - 巴扎黑
-1. [身骑白马 (pay姐版) 已全网上线](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQLO5ZgLsFkaDhdIIveF2zUCgfweY0gWaH4AQG) - 黏苞米糊糊/潮音铭帝
+1. [身骑白马 (pay姐版) 已全网上线](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQLO5ZgLsFkaDhdIIveF2zUCgfweY0gWaH4AQG) - 黏苞米糊糊/潮音铭帝
 1. [Magnetic](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAQCYdBNZfLACGDmVFAsfAtpy32tqErgQ3XgBN) - ILLIT
 1. [希望你被这个世界爱着 (副歌)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUHCmWQfZlE3QQBKBeD8rCFLpJzPgCpImhsxMt) - 许亚童
-1. [32度的晚风(心动版）（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owNyabsyWdzUulxhoJfK8IBXgp0UMQAHpvGh2B) - 陆杰
+1. [32度的晚风(心动版）（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owNyabsyWdzUulxhoJfK8IBXgp0UMQAHpvGh2B) - 陆杰
 1. [沉溺1.2_全网可听](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok2QoiBqsWAX9McZmWiI9gAB0EzwD4Xj6yfmtH) - 邹沛沛/Pank
-1. [若月亮没来 (片段3)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okfyEUsGW1B1ovJi5JiN9IjvAT2lMwA054GoEB) - 王宇宙Leto/乔浚丞
+1. [若月亮没来 (片段3)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okfyEUsGW1B1ovJi5JiN9IjvAT2lMwA054GoEB) - 王宇宙Leto/乔浚丞
 1. [我的纸飞机（片段2）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM2ZrKcg2CD5AeRB2gkeXOFB1IxAGJdZPazYHf) - GooGoo/王之睿
 1. [BLVCK (Orginal Mix）（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osnDnwSfQThtCz8BikQnbAAZHwC8YcmgvnnlYf) - MIRBRO
 1. [梦游（1.2倍甜蜜版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4gyAUm8hwufoEABmwVIiQtHsFuGzAEEWtNMzo) - 补菜Nveg
 1. [其实都没有 (剪辑版2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEBNQenHZtBhxYjGgUDQk0BCHTigQafgFlbQ7k) - 于冬然
-1. [毒药 (释怀版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
+1. [毒药 (释怀版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
 
 ## 品牌榜
 
