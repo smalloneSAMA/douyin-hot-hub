@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-04-23 16:26:06 +0800`
+`更新时间：2024-04-23 17:14:51 +0800`
 
 ## 抖音热榜
 
 1. 掘金大逆转绝杀湖人
-1. 黄金创近两年最大跌幅
-1. 我国发明专利产业化率达39.6%
-1. 李闽轩 北电艺考
 1. 斗鱼回应PDD停播超5个月
-1. 人民海军75周年舰艇开放日
-1. 常州副市长有多接地气
-1. 地铁司机开车第一视角
+1. 我国发明专利产业化率达39.6%
+1. 黄金创近两年最大跌幅
+1. 茶百道上市首日破发
 1. 学生挂床帘应该被禁止吗
+1. 地铁司机开车第一视角
+1. 人民海军75周年舰艇开放日
+1. 一人推荐一个五一好去处
 1. 30位大咖直播24小时陪你读书
 1. 官方通报9岁学生坠亡事件
 1. 买加速包可优先购票系谣言
 1. 马来西亚直升机相撞10人死亡
-1. 成毅银发封神
-1. 内蒙古通报干部阻挠农民种地
-1. 佛山通报九江大桥沉船事故
 1. 狐妖小红娘竹业篇悲梦版片花
+1. 成毅银发封神
+1. 佛山通报九江大桥沉船事故
+1. 内蒙古通报干部阻挠农民种地
 1. 凤凰传奇伴舞有多好笑
-1. 凤凰传奇演唱会“柱子票”
+1. 演唱会现场不跟唱挑战
 1. 小团团导航语音会下架吗
 1. 一条小团团确认被捕
-1. 女枪王从战士到硕士
-1. 王心凌模仿王心凌男孩
-1. 演唱会现场不跟唱挑战
 1. 成为学霸 易如反掌
-1. 媒体：王婆江西说媒热度难再
-1. 辛巴直播时怒斥平台
 1. 用晚安大小姐拿捏油腻
-1. 人生的下一句 你说了算
-1. 董宇辉让一本书印量达600万册
+1. 凤凰传奇演唱会“柱子票”
+1. 王心凌模仿王心凌男孩
+1. 预言这个假期全是拿下
+1. 常州副市长有多接地气
+1. 五一去哪儿玩
+1. 女枪王从战士到硕士
+1. 半熟3成了4对
 1. 女律师劝同行擦边直播违法吗
+1. 所以什么是爱啊
 1. 遇见你的眉眼如清风明月
 1. 服软有利于恋爱关系吗
-1. 所以什么是爱啊
-1. 正脸一般侧脸绝了
-1. 预言这个假期全是拿下
-1. 一句话打开春天
 1. 谁家演唱会像军训啊
-1. 向往的慢生活
-1. 一人推荐一个五一好去处
-1. 名副其实流水席
-1. 时间都去哪儿了
 1. 五一请到我的城市吃美食
+1. 正脸一般侧脸绝了
+1. 人生的下一句 你说了算
+1. 名副其实流水席
+1. 问界新M5售价公布
+1. 一句话打开春天
 1. 东北雨姐回应做手术
-1. 诺米谈到爷爷全程没有一句M3
+1. 小米SU7锁单量已超7万
+1. 向往的慢生活
+1. 时间都去哪儿了
+1. 常州副市长评论区成许愿池
+1. 丁俊晖世锦赛首战
+1. 伤心女人氛围感转场
 1. 假如情侣吵架后过分客气
-1. 当代微瑕年轻人
-1. 难寻剧里be剧外he
-1. 茶百道上市首日破发
 1. 黄景瑜天选军旅戏男主
 
 ## 明星榜
@@ -77,27 +77,27 @@
 ## 音乐榜
 
 1. [落（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0h6HvN1BBbli9LtU3i5fQIleBQMF5Cg4TZmmC) - 唐伯虎Annie
-1. [孤独材料（VERSE段）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocX7glDNHYlwFeYrGQfBZoThtvPWy8tCCEBGKQ) - 布鲁昔/诺米么Lodmemo
+1. [孤独材料（VERSE段）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocX7glDNHYlwFeYrGQfBZoThtvPWy8tCCEBGKQ) - 布鲁昔/诺米么Lodmemo
 1. [猫与小肚](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osZeoClMECgK8DYl6VebABgbchEtPYQjZEnRtd) - BIGNNYYLEI
 1. [try](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMCYLreazYIFEgVb1vQdrJnJTbe8DDfiCA6gKw) - Emilee
-1. [i watch the moon（剪辑版1）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0I9mSChzHZANMJIEBfkCQzzg6N5WAcVtqft9P) - 东 百 下 小 雨
+1. [i watch the moon（剪辑版1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0I9mSChzHZANMJIEBfkCQzzg6N5WAcVtqft9P) - 东 百 下 小 雨
 1. [若月亮没来 (片段3)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okfyEUsGW1B1ovJi5JiN9IjvAT2lMwA054GoEB) - 王宇宙Leto/乔浚丞
 1. [frozen heart.](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIWJfyjIACZA9zQMtnJ6hQQhFC4vhCupoRBsO) - 8Bite
-1. [追寻你（万物复苏版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeAZJsbjIDit9APmBg8u6uDUQnHmoCf3gbo74) - 王天戈/川青
+1. [追寻你（万物复苏版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeAZJsbjIDit9APmBg8u6uDUQnHmoCf3gbo74) - 王天戈/川青
 1. [写不完的温柔（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYBzzZQJ233GfwkemJJffAIWgeIYrjZfWhHTcG) - G.E.M. 邓紫棋
 1. [未必](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogntQMFnKQDZUgTCYuJgfLEtleYZZFxBQqhhFB) - 言瑾羽
-1. [春风何时来（等待命运安排）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oICBNbD3gelMfB4WgiD1KI2jQtXZE2FgHLwtsl) - 巴扎黑
-1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
-1. [西厢寻他(剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUsAVfAQKlRNxEv5qxvIB8o5qmIWUcXbzJKJhw) - 唐伯虎Annie、伯爵Johnny
+1. [春风何时来（等待命运安排）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oICBNbD3gelMfB4WgiD1KI2jQtXZE2FgHLwtsl) - 巴扎黑
+1. [可能（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
+1. [西厢寻他(剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUsAVfAQKlRNxEv5qxvIB8o5qmIWUcXbzJKJhw) - 唐伯虎Annie、伯爵Johnny
 1. [身骑白马 (pay姐版) 已全网上线](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQLO5ZgLsFkaDhdIIveF2zUCgfweY0gWaH4AQG) - 黏苞米糊糊/潮音铭帝
-1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰&于行
-1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
+1. [蜜桃物语](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰&于行
+1. [是你（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
 1. [听风](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAPa3yDDDIZygYzQdBemCAIngcCeEARgbQDtJC) - 雪糕超人耶
 1. [麦浪（四月天特别版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/26f5501a6547411fa3fbedc592fed0ad) - yihuik苡慧
-1. [沉溺1.2_全网可听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok2QoiBqsWAX9McZmWiI9gAB0EzwD4Xj6yfmtH) - 邹沛沛/Pank
-1. [Zhurek（副歌）](https://sf27-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooQm8FBZQDlf0btEYgVpCcSCQfrdJGBEKZYBGS) - ADAM
+1. [沉溺1.2_全网可听](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok2QoiBqsWAX9McZmWiI9gAB0EzwD4Xj6yfmtH) - 邹沛沛/Pank
+1. [Zhurek（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooQm8FBZQDlf0btEYgVpCcSCQfrdJGBEKZYBGS) - ADAM
 1. [我的纸飞机（片段2）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM2ZrKcg2CD5AeRB2gkeXOFB1IxAGJdZPazYHf) - GooGoo/王之睿
-1. [热烈的少年（是热烈）副歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owVNI0CLDAUMtSz6TEYvfFBFL4UDFFhLfgK8fa) - Big Cole
+1. [热烈的少年（是热烈）副歌](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owVNI0CLDAUMtSz6TEYvfFBFL4UDFFhLfgK8fa) - Big Cole
 1. [Spinning Globe](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAYhDobngQZXzvJaWpxueRR0jC4FZDexedXDYA) - Kenshi Yonezu
 1. [其实都没有 (剪辑版2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEBNQenHZtBhxYjGgUDQk0BCHTigQafgFlbQ7k) - 于冬然
 
