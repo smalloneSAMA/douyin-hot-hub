@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-05-04 19:12:08 +0800`
+`更新时间：2024-05-04 20:23:45 +0800`
 
 ## 抖音热榜
 
-1. 拜登向杨紫琼授予总统自由勋章
-1. 中山三乡多地出现内涝
-1. 这就是青春的“样子”
 1. 五四青年节
+1. 皮肤体验卡怎么成永久的了
+1. 这就是青春的“样子”
+1. 中山三乡多地出现内涝
 1. 广东成立高速塌方灾害调查评估组
-1. 第五人格发布会
-1. 加福德隔扣祖巴茨
-1. 中方回应有关仁爱礁问题
-1. 尤伯杯印尼3:2韩国
 1. 五一热榜竟然被他承包了
+1. 尤伯杯印尼3:2韩国
+1. 中方回应有关仁爱礁问题
+1. 第五人格发布会
+1. 大小杨哥合肥VAC电音节
 1. 哈马斯或即将宣布停火提议
 1. 凤凰传奇北京演唱会
+1. 广东暴雨致农场鳄鱼出逃
+1. 侵华日军731部队再添新罪证
+1. 大连英博0:1广州队
+1. 周雨彤回应保镖撑伞
+1. 梅大高速事故首位伤员出院
+1. ESPN封杀贝弗利
+1. 王小利二儿子结婚
+1. 请戚薇重回舒适圈
+1. 林俊杰深圳演唱会
+1. 时代少年团新歌首唱
+1. 张艺凡新剧为男友整容上瘾
 1. 带娃爬武功山的家长有多崩溃
+1. 杨宗纬姚晓棠我会好好的
+1. 安赛龙：对自己很失望
+1. 被老舅新片职业病笑到
+1. 九龙城寨四少兄弟情
 1. 我的婚礼化妆师
 1. 突击检查假期最近的照片
-1. 周雨彤回应保镖撑伞
-1. ESPN封杀贝弗利
-1. 老师被硬控30秒
-1. 侵华日军731部队再添新罪证
-1. 请戚薇重回舒适圈
-1. 王小利二儿子结婚
-1. 大小杨哥合肥VAC电音节
-1. 广东暴雨致农场鳄鱼出逃
-1. 安赛龙：对自己很失望
+1. 胡一天新剧真的很会
 1. 外国人翻唱今生缘出教程了
 1. 实在是太想搂席了
-1. 张艺凡新剧为男友整容上瘾
-1. Cat变成了Fly Cat
-1. 杨宗纬姚晓棠我会好好的
+1. 加福德隔扣祖巴茨
 1. 跟着花小龙自律一天
-1. 时代少年团新歌首唱
-1. 被老舅新片职业病笑到
-1. 老君山一毛钱奶茶
-1. 梅大高速事故首位伤员出院
-1. 徐杰怒吼
-1. 拦车司机王向楠获奖一万元
-1. 张韶涵方辟谣商演时拉肚子
-1. 胡一天新剧真的很会
-1. 官方通报一家5口落水4人遇难
-1. 九龙城寨四少兄弟情
+1. 拜登向杨紫琼授予总统自由勋章
 1. 维和防暴队丁慧牺牲
+1. 张真源露背西装造型
+1. 取消公摊房价会涨吗
+1. 老君山一毛钱奶茶
 1. 汪苏泷张碧晨合唱命运
-1. 魏锐首秀战胜秋元皓贵
-1. 尤伯杯中国3:0日本
-1. 间谍过家家亲一下怎么了
-1. 朴彩英赵露思撞衫
-1. 贵州村超五一主题烟花秀
-1. 欧文曾考虑与詹姆斯重聚
-1. 关于我被海象挤进水里那件事
-1. 河大礼堂火灾相关责任人被控制
+1. 徐杰怒吼
+1. 广东江西等地局地大暴雨
+1. 一代人有一代人的年轻面貌
+1. 欧文赛点的神
+1. 新说唱2024开播
+1. Cat变成了Fly Cat
+1. 俄政府暂时禁止食糖出口
+1. 萤火虫漫展到处都是长命锁
+1. 史上最大自行火炮
 
 ## 明星榜
 
@@ -77,30 +77,30 @@
 ## 音乐榜
 
 1. [孤独材料（VERSE段）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocX7glDNHYlwFeYrGQfBZoThtvPWy8tCCEBGKQ) - 布鲁昔/诺米么Lodmemo
-1. [Cupid (Twin Ver.)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o01I1anTQDCDTTbqbaFAYtqeAfXn6mr7uJyzgf) - Joseph Vincent
+1. [Cupid (Twin Ver.)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o01I1anTQDCDTTbqbaFAYtqeAfXn6mr7uJyzgf) - Joseph Vincent
 1. [i watch the moon（剪辑版1）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0I9mSChzHZANMJIEBfkCQzzg6N5WAcVtqft9P) - 东 百 下 小 雨
-1. [蜜桃物语](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰&于行
+1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰&于行
 1. [我的世界下了雨](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o85sBiwXIByH9bWIMAEEOoiQ1o1m9Afn15BspE) - Zy
 1. [若月亮没来 (片段3)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okfyEUsGW1B1ovJi5JiN9IjvAT2lMwA054GoEB) - 王宇宙Leto/乔浚丞
 1. [Dancing in my closet (feat. Lee go do)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfHUeIdgm21A3iFeFyP2GsmO0K47FfAWUATwT) - 정바스(J.BASS)
-1. [frozen heart.](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIWJfyjIACZA9zQMtnJ6hQQhFC4vhCupoRBsO) - 8Bite
-1. [Moshi Moshi (feat. 百足) [Sped up]](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocCPFQcXJLeroaIdQLIGAoeeYM3OAUYGDguHXz) - Nozomi Kitay & GAL D
+1. [frozen heart.](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIWJfyjIACZA9zQMtnJ6hQQhFC4vhCupoRBsO) - 8Bite
+1. [Moshi Moshi (feat. 百足) [Sped up]](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocCPFQcXJLeroaIdQLIGAoeeYM3OAUYGDguHXz) - Nozomi Kitay & GAL D
 1. [Our Way](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8tPEkQgQNCe0DPeFwZzYrbqLlnzBBrYidWkEZ) - Sincere
 1. [春风何时来（等待命运安排）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oICBNbD3gelMfB4WgiD1KI2jQtXZE2FgHLwtsl) - 巴扎黑
-1. [可能（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
+1. [可能（副歌）](https://sf27-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
 1. [99次我爱他beat (甜妹版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocBPCLaDWFQr2tJdQmEDjGfSYIjegYYPBQZykZ) - Eddie Chen
-1. [32度的晚风(心动版）（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owNyabsyWdzUulxhoJfK8IBXgp0UMQAHpvGh2B) - 陆杰
-1. [Zhurek（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooQm8FBZQDlf0btEYgVpCcSCQfrdJGBEKZYBGS) - ADAM
-1. [热烈的少年（是热烈）副歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owVNI0CLDAUMtSz6TEYvfFBFL4UDFFhLfgK8fa) - Big Cole
+1. [32度的晚风(心动版）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owNyabsyWdzUulxhoJfK8IBXgp0UMQAHpvGh2B) - 陆杰
+1. [Zhurek（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooQm8FBZQDlf0btEYgVpCcSCQfrdJGBEKZYBGS) - ADAM
+1. [热烈的少年（是热烈）副歌](https://sf27-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owVNI0CLDAUMtSz6TEYvfFBFL4UDFFhLfgK8fa) - Big Cole
 1. [小大人（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhaDwehWhLFsVIG7QIICLLazDNGJAGg5geeb4) - GooGoo
 1. [猫与小肚](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osZeoClMECgK8DYl6VebABgbchEtPYQjZEnRtd) - BIGNNYYLEI
-1. [其实都没有 (剪辑版2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEBNQenHZtBhxYjGgUDQk0BCHTigQafgFlbQ7k) - 于冬然
+1. [其实都没有 (剪辑版2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEBNQenHZtBhxYjGgUDQk0BCHTigQafgFlbQ7k) - 于冬然
 1. [Done Talking](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMOfI3D7oEUCfK4mzCKirWfAJA1DAB2o0lePHB) - EK Darkurai
-1. [听风](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAPa3yDDDIZygYzQdBemCAIngcCeEARgbQDtJC) - 雪糕超人耶
+1. [听风](https://sf27-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAPa3yDDDIZygYzQdBemCAIngcCeEARgbQDtJC) - 雪糕超人耶
 1. [身骑白马 (pay姐版) 已全网上线](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQLO5ZgLsFkaDhdIIveF2zUCgfweY0gWaH4AQG) - 黏苞米糊糊/潮音铭帝
 1. [写不完的温柔（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYBzzZQJ233GfwkemJJffAIWgeIYrjZfWhHTcG) - G.E.M. 邓紫棋
-1. [我的纸飞机（片段2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM2ZrKcg2CD5AeRB2gkeXOFB1IxAGJdZPazYHf) - GooGoo/王之睿
-1. [未必](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogntQMFnKQDZUgTCYuJgfLEtleYZZFxBQqhhFB) - 言瑾羽
+1. [我的纸飞机（片段2）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM2ZrKcg2CD5AeRB2gkeXOFB1IxAGJdZPazYHf) - GooGoo/王之睿
+1. [未必](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogntQMFnKQDZUgTCYuJgfLEtleYZZFxBQqhhFB) - 言瑾羽
 
 ## 品牌榜
 
