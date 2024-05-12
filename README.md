@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-05-12 16:18:41 +0800`
+`更新时间：2024-05-12 17:14:46 +0800`
 
 ## 抖音热榜
 
@@ -20,51 +20,51 @@
 1. 母亲节快乐
 1. 亲手做份礼物给妈妈
 1. 走进汶川地震遗址
-1. 吴艳妮12秒86夺冠
 1. 喜提第一个母亲节
 1. 中国驻缅甸使领馆发布提醒
-1. 马克龙喊话皇马
-1. 不必过分担心地磁暴预警
+1. 吴艳妮12秒86夺冠
+1. 当北京长城与极光同框
+1. 汶川妈妈倪孝兰
 1. 中国南水北调原副总经济师被查
 1. 官方辟谣旅美大熊猫饿得啃墙皮
-1. 广西人对吃水果有自己的看法
-1. 中国最早的母亲节
-1. 沈阳放宽落户条件
-1. 邓紫棋直播回应去歌手救场
 1. 网友玩梗歌手2024
-1. 王婆来武汉了
+1. 央视网喊话袁娅维支援歌手
+1. 沈阳放宽落户条件
+1. 不必过分担心地磁暴预警
+1. 邓紫棋直播回应去歌手救场
+1. 刘维追忆妈妈的青春时光
 1. 专访郭有才
-1. 妈妈不是家务劳动的默认责任人
-1. 当北京长城与极光同框
-1. 酒泉发射中心也有一个帽衫
-1. 今年轮到我给高考生加油了
-1. 上次给妈妈电话是什么时候
-1. 东契奇22分15篮板
+1. 他们和汶川一起重生
 1. 宁静为剪了赵奕欢的戏道歉
-1. 菏泽文旅终于出手了
-1. 李显龙卸任前哽咽寄语年轻人
-1. 吕布弈星蔡文姬增强上线体验服
-1. 汪苏泷回应排名第四
-1. 新生伏笔
-1. 母亲节手势舞
-1. 歌手2024外国选手表情
+1. 马克龙喊话皇马
+1. 中国最早的母亲节
+1. 妈妈不是家务劳动的默认责任人
+1. 酒泉发射中心也有一个帽衫
+1. 在加纳共和国离婚合唱挑战
+1. 职校通报学生校外偷拍
+1. 火车站穹顶到底藏了多少惊喜
+1. 董宇辉描述的母亲有多温暖
 1. 妈妈让平凡的日子闪光
-1. 如果我去参加歌手
-1. 主打一个零成本变妆
+1. 东契奇22分15篮板
 1. 会说话的刘二豆复更
-1. 官方回应执法人员“碰瓷式执法”
-1. 这一刻你是这只蝴蝶的心脏
+1. 主打一个零成本变妆
+1. 歌手2024外国选手表情
+1. 如果我去参加歌手
 1. 开头像内娱正片结尾像内娱宣发
 1. 爱乐之城双人舞挑战
+1. 官方回应执法人员“碰瓷式执法”
 1. 辽宁男篮淘汰广东晋级总决赛
-1. 火影忍者秽土解斑全爆料
-1. 广州确诊一例流产衣原体感染
-1. 压力给到凤凰传奇
+1. 古希腊掌管鼻孔的神
+1. 这一刻你是这只蝴蝶的心脏
+1. 穿上痛衣了
+1. 母亲节手势舞
+1. 汪苏泷回应排名第四
 1. 丁太升辣评歌手第一期
-1. 张予曦寸头照
+1. 苏有朋北京演唱会
+1. 广西人对吃水果有自己的看法
 1. 断眉抖音评论区
 1. 谁来救救那英
-1. 古希腊掌管鼻孔的神
+1. 压力给到凤凰传奇
 
 ## 明星榜
 
@@ -77,23 +77,23 @@
 ## 音乐榜
 
 1. [OK了 (卡机反差慢动作)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osXWgLGizaDPmw9B0CIggvCFeIAAebk1YMe8jD) - KNOWKNOW/陈泽
-1. [五月天_火鸡 (全网已上线)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEtOMSQZstjlJ4nfBEgeqN29IbWjkmDBrFtF2C) - 火鸡
-1. [electronic vibes](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMIpXkYtpBe14gZjOFMCLfhBv1zjK1O3Ztar9Q) - G Sounds
-1. [99次我爱他beat (甜妹版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocBPCLaDWFQr2tJdQmEDjGfSYIjegYYPBQZykZ) - Eddie Chen
-1. [Take me hand (抓紧我的手)](https://sf27-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os8GB2fDQQmJZTmtomg0gHX5fBACiEgcFgEKYg) - Zy
+1. [五月天_火鸡 (全网已上线)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEtOMSQZstjlJ4nfBEgeqN29IbWjkmDBrFtF2C) - 火鸡
+1. [electronic vibes](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMIpXkYtpBe14gZjOFMCLfhBv1zjK1O3Ztar9Q) - G Sounds
+1. [99次我爱他beat (甜妹版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocBPCLaDWFQr2tJdQmEDjGfSYIjegYYPBQZykZ) - Eddie Chen
+1. [Take me hand (抓紧我的手)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os8GB2fDQQmJZTmtomg0gHX5fBACiEgcFgEKYg) - Zy
 1. [西厢寻他(剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUsAVfAQKlRNxEv5qxvIB8o5qmIWUcXbzJKJhw) - 唐伯虎Annie、伯爵Johnny
-1. [猫与小肚](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osZeoClMECgK8DYl6VebABgbchEtPYQjZEnRtd) - BIGNNYYLEI
+1. [猫与小肚](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osZeoClMECgK8DYl6VebABgbchEtPYQjZEnRtd) - BIGNNYYLEI
 1. [frozen heart.](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIWJfyjIACZA9zQMtnJ6hQQhFC4vhCupoRBsO) - 8Bite
-1. [若月亮没来 (片段3)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okfyEUsGW1B1ovJi5JiN9IjvAT2lMwA054GoEB) - 王宇宙Leto/乔浚丞
-1. [Moshi Moshi (feat. 百足) [Sped up]](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocCPFQcXJLeroaIdQLIGAoeeYM3OAUYGDguHXz) - Nozomi Kitay & GAL D
-1. [i watch the moon（剪辑版1）](https://sf27-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0I9mSChzHZANMJIEBfkCQzzg6N5WAcVtqft9P) - 东 百 下 小 雨
+1. [若月亮没来 (片段3)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okfyEUsGW1B1ovJi5JiN9IjvAT2lMwA054GoEB) - 王宇宙Leto/乔浚丞
+1. [Moshi Moshi (feat. 百足) [Sped up]](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocCPFQcXJLeroaIdQLIGAoeeYM3OAUYGDguHXz) - Nozomi Kitay & GAL D
+1. [i watch the moon（剪辑版1）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0I9mSChzHZANMJIEBfkCQzzg6N5WAcVtqft9P) - 东 百 下 小 雨
 1. [Zhurek（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooQm8FBZQDlf0btEYgVpCcSCQfrdJGBEKZYBGS) - ADAM
-1. [Magnetic](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAQCYdBNZfLACGDmVFAsfAtpy32tqErgQ3XgBN) - ILLIT
+1. [Magnetic](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAQCYdBNZfLACGDmVFAsfAtpy32tqErgQ3XgBN) - ILLIT
 1. [追寻你（万物复苏版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeAZJsbjIDit9APmBg8u6uDUQnHmoCf3gbo74) - 王天戈/川青
 1. [Our Way](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8tPEkQgQNCe0DPeFwZzYrbqLlnzBBrYidWkEZ) - Sincere
 1. [可能（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
 1. [孤独材料（VERSE段）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocX7glDNHYlwFeYrGQfBZoThtvPWy8tCCEBGKQ) - 布鲁昔/诺米么Lodmemo
-1. [沉溺1.2_全网可听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok2QoiBqsWAX9McZmWiI9gAB0EzwD4Xj6yfmtH) - 邹沛沛/Pank
+1. [沉溺1.2_全网可听](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok2QoiBqsWAX9McZmWiI9gAB0EzwD4Xj6yfmtH) - 邹沛沛/Pank
 1. [32度的晚风(心动版）（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owNyabsyWdzUulxhoJfK8IBXgp0UMQAHpvGh2B) - 陆杰
 1. [春风何时来（等待命运安排）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oICBNbD3gelMfB4WgiD1KI2jQtXZE2FgHLwtsl) - 巴扎黑
 1. [小大人（副歌）](https://sf27-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhaDwehWhLFsVIG7QIICLLazDNGJAGg5geeb4) - GooGoo
