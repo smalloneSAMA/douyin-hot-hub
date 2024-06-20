@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-06-20 07:16:08 +0800`
+`更新时间：2024-06-20 09:03:15 +0800`
 
 ## 抖音热榜
 
-1. 中国海警登检菲船只画面
-1. 克罗地亚2:2阿尔巴尼亚
+1. 德国2:0匈牙利提前出线
+1. 中国4月增持美债33亿美元
 1. 首个工业用途核能供汽项目投产
-1. 全国28省份公布高考出分时间
-1. 大使馆取名好有梗
+1. 苏格兰1:1瑞士
+1. 穆夏拉打破僵局
+1. 京多安打进个人欧洲杯首球
+1. 南方强降雨影响有多严重
 1. 导师发了个免责声明
-1. 奔驰在华销量大跳水
-1. 塞尔达新作公布
-1. 以军批准对黎巴嫩发动进攻计划
-1. 腾讯对多个渠道停止更新DNF手游
-1. 玫瑰的故事傅家明上线
-1. “郑州积水冲进地下车库”不实
-1. 赵丽颖抖音评论区
+1. 全球首台“人造太阳”建成运行
+1. 桂林暴雨 火车站被淹
+1. 全国28省份公布高考出分时间
 1. 内娱恋综有自己的海王
+1. 盘点十大食品安全谣言
 1. 曝陈晓陈妍希婚姻破裂
-1. 复旦回应男生毕业典礼打老师
 1. 残疾夫妇砸西瓜摊主倒赔500
-1. 欧洲杯彩票店一天卖10万
-1. 桂林部分河流现20年一遇洪水
-1. 桂林暴雨
-1. 动物怎么叫游戏挑战
+1. 家长举报女儿被老师扇耳光致失聪
+1. 玫瑰的故事傅家明上线
+1. 克罗地亚2:2阿尔巴尼亚
+1. 赵丽颖抖音评论区
+1. 普京抵达越南进行国事访问
+1. 中国海警登检菲船只画面
+1. 林更新：骂方协文别带我名
 1. 中奖500万无人领成弃奖
-1. 逐客令舞蹈挑战
-1. 姐以前也很潇洒
-1. “外交豁免权”是什么
-1. 老伴去世老人发现墓地被家人卖了
 1. 冷藏车载8人窒息身亡背后
-1. 原来我们追求的早就给了我们
-1. 美日联手备战加速
-1. 暑假工版野生315晚会
+1. 动物怎么叫游戏挑战
+1. 姐以前也很潇洒
+1. 普京称赞平壤整洁美丽
+1. 老伴去世老人发现墓地被家人卖了
+1. “外交豁免权”是什么
+1. 吕迪格是德国喜剧人吧
+1. 腾讯对多个渠道停止更新DNF手游
 1. 谁能镇住玫瑰婆婆
-1. 马斯克为何对苹果破口大骂
-1. 健身前vs健身后
-1. 精灵闪电是来自宇宙的烟火
-1. 愿向往幸福的同时也站在幸福里
-1. 袁娅维Bored翻唱
-1. 副本即将崩塌
-1. 来新疆感受美丽大自然
-1. 小猫是我的解药
+1. 以军批准对黎巴嫩发动进攻计划
+1. 原来我们追求的早就给了我们
 1. 韩国宣布进入人口国家紧急状态
-1. 外媒称普京将访越南引美国不满
-1. 和好朋友拍这个转场
-1. 遭胡塞武装袭击货轮在红海沉没
-1. 越不过的从来都不是山
-1. 直击俄军沃尔昌斯克牵制乌军主力
-1. 我的2024上半年回忆录
-1. 俄朝签署全面战略伙伴关系条约
+1. 奔跑吧匈牙利录制路透
+1. 副本即将崩塌
+1. 桂林部分河流现20年一遇洪水
+1. 小猫是我的解药
+1. 暑假工版野生315晚会
+1. 逐客令舞蹈挑战
+1. 健身前vs健身后
+1. 愿向往幸福的同时也站在幸福里
+1. 我一定会肥透半边天
+1. 精灵闪电是来自宇宙的烟火
+1. 小朋友有自己的鞠躬方向
+1. 谁能懂何炅这个飞上去的拥抱
+1. 32岁孙杨无缘巴黎奥运会
+1. 中方支持阿根廷对马岛主权要求
 1. 夏日限定版宠坏手势舞
-1. 冲浪暂停 为你点赞
-1. 第一次见这么神奇的桌子
 
 ## 明星榜
 
@@ -76,9 +76,9 @@
 
 ## 音乐榜
 
-1. [暮色回响（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okfWQcUfA44QeNfzYwkZIKreQNSXmlYZfTz6Vg) - 吉星出租
+1. [暮色回响（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okfWQcUfA44QeNfzYwkZIKreQNSXmlYZfTz6Vg) - 吉星出租
 1. [若月亮没来 (片段2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocQavLLjkCOeDxGyYeIMGgNAIwJ0QXE1Ve3Fzv) - 王宇宙Leto/乔浚丞
-1. [先说谎的人（阿布remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owQtOFmAzBgxBKDOYfeCTQTgE9cDORrOQqmCZy) - DJ阿智
+1. [先说谎的人（阿布remix）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owQtOFmAzBgxBKDOYfeCTQTgE9cDORrOQqmCZy) - DJ阿智
 1. [Take me hand（Zy版全网听）](https://sf27-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owyUoUuVpA1I7BiszAYMSqbGseWQw8P7Ea2BiR) - Zy
 1. [32度的晚风(心动版）（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owNyabsyWdzUulxhoJfK8IBXgp0UMQAHpvGh2B) - 陆杰
 1. [可以不是你（男版副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocs0QWLD9Yg3yeFoDSGFYaq1zzMAdCyavHIsef) - 张远
@@ -86,21 +86,21 @@
 1. [执子之手（和你永不分离）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oU4mUWISThYfqtA61VOl8PAQGeK2LGGQfFCZfY) - 宝石Gem\哩哩
 1. [最好的安排（主歌2）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMMZX1DuHpMwgoDztBmZswgQnbCeeANZxBHkFY) - 旺仔小乔
 1. [Moshi Moshi (feat. 百足) [Sped up]](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocCPFQcXJLeroaIdQLIGAoeeYM3OAUYGDguHXz) - Nozomi Kitay & GAL D
-1. [frozen heart.](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIWJfyjIACZA9zQMtnJ6hQQhFC4vhCupoRBsO) - 8Bite
-1. [如果那通电话有接通（1.3x）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocJeJKhUhAJG8EYZiEFfGFAPkD3beMQ5mwDv1e) - Dior大颖
-1. [i watch the moon（剪辑版1）](https://sf27-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0I9mSChzHZANMJIEBfkCQzzg6N5WAcVtqft9P) - 东 百 下 小 雨
-1. [热烈的少年（是热烈）副歌](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owVNI0CLDAUMtSz6TEYvfFBFL4UDFFhLfgK8fa) - Big Cole
+1. [frozen heart.](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIWJfyjIACZA9zQMtnJ6hQQhFC4vhCupoRBsO) - 8Bite
+1. [如果那通电话有接通（1.3x）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocJeJKhUhAJG8EYZiEFfGFAPkD3beMQ5mwDv1e) - Dior大颖
+1. [i watch the moon（剪辑版1）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0I9mSChzHZANMJIEBfkCQzzg6N5WAcVtqft9P) - 东 百 下 小 雨
+1. [热烈的少年（是热烈）副歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owVNI0CLDAUMtSz6TEYvfFBFL4UDFFhLfgK8fa) - Big Cole
 1. [听雨的声音](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMmQFAthAglylNHDnMBWZ0C4DyIjfrtizNqeyX) - 瑞恩船长
 1. [Spring Snow](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4tt6pFPKQDABpdCoqLgflEBmeYVZ1EBQrhiKB) - 10CM
-1. [草莓物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okynhJ7jEAIIZBfsLgYMEI8QC3WbQNN66RKzhT) - 于行&仁辰
+1. [草莓物语](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okynhJ7jEAIIZBfsLgYMEI8QC3WbQNN66RKzhT) - 于行&仁辰
 1. [雨夜金菲士（那个夏天）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osPmPLDWQBBE2Z6bftCgYwkFaF4pEYEneXaZQs) - Mozza
 1. [根本你不懂得爱我](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogyCExRcg90ZCIG3m1MB0aFLtlBxQVfXBeOtDk) - 韋雄
-1. [那（THAT）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIWGeBZCnlGx9tl0gFlCfwlQbj7QWAD8HYAGg) - ZHAO
+1. [那（THAT）](https://sf27-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIWGeBZCnlGx9tl0gFlCfwlQbj7QWAD8HYAGg) - ZHAO
 1. [太多没说（释怀版）（剪辑版1）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEbKIiDC0BA8CJOQHYA6aeCVYeHgckHdntZSDj) - D.S
 1. [Zhurek（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooQm8FBZQDlf0btEYgVpCcSCQfrdJGBEKZYBGS) - ADAM
-1. [天空之外（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAYn0BTp8jS8iSyZSHMUWAikyvAWI1c7aiJTr) - 弦子
+1. [天空之外（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAYn0BTp8jS8iSyZSHMUWAikyvAWI1c7aiJTr) - 弦子
 1. [希望你被这个世界爱着 (副歌)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUHCmWQfZlE3QQBKBeD8rCFLpJzPgCpImhsxMt) - 许亚童
-1. [甜蜜突围](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQgew7B6ZfyLCdnkL8CmbOCOE0gtVDVgQU3RBV) - LBI利比 & 夏初安
+1. [甜蜜突围](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQgew7B6ZfyLCdnkL8CmbOCOE0gtVDVgQU3RBV) - LBI利比 & 夏初安
 1. [谁是你朋友（可爱版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owKjggBwGZexYCjVAIeEFURf1LJTjMDaK6AzKN) - 白鹿/周翊然
 
 ## 品牌榜
