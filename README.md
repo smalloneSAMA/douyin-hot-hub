@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-07-17 02:20:52 +0800`
+`更新时间：2024-07-17 03:14:04 +0800`
 
 ## 抖音热榜
 
@@ -19,51 +19,51 @@
 1. 宝马涨价
 1. 中国改革开放的世界回响
 1. 姆巴佩皇马亮相仪式
-1. 英格兰主帅索斯盖特辞职
-1. 谢震业田径赛百米摘银
-1. 丁俊晖战胜卡特
 1. 马龙被硬控10秒
+1. 英格兰主帅索斯盖特辞职
+1. 暴雨下的河南力量
+1. 拜登再次口误
 1. 暑期档电影票房破45亿
 1. 泰山暴雨
 1. 农夫山泉要求香港消委会道歉
 1. iPhone16爆料汇总
-1. 崔永熙夏季联赛连续命中三分
+1. 丁俊晖战胜卡特
 1. 科比父亲去世
+1. 谢震业田径赛百米摘银
+1. 崔永熙夏季联赛连续命中三分
 1. 网友实拍南阳暴雨
-1. 暴雨下的河南力量
-1. 和平精英童话镇转场
-1. 拜登再次口误
 1. 妈妈考上博士是什么感受
-1. “新疆5吨重哈密瓜”系模型
-1. 河南暴雨
-1. 奥迪奔驰也将退出价格战
 1. 写着作业就唱起来了
-1. 恋爱是从一束花和告白开始
 1. 俄外长拉夫罗夫抵达美国
-1. 市监局回应“泡面吃出鼠头”
+1. “新疆5吨重哈密瓜”系模型
 1. 整个评论区都认识的上饶警察
-1. 吴勇豪单挑良田
-1. 媒体评宝马退出价格战
+1. 恋爱是从一束花和告白开始
 1. 不管比赛怎样巴黎一定懂时尚
-1. 陈泽杯8强名单出炉
+1. 市监局回应“泡面吃出鼠头”
+1. 和平精英童话镇转场
+1. 河南暴雨
+1. 吴勇豪单挑良田
+1. 奥迪奔驰也将退出价格战
 1. 测评塞纳河水
+1. 爆改乙骨忧太
+1. 媒体评宝马退出价格战
+1. 陈泽杯8强名单出炉
+1. 格里克风太适合奥运穿了
 1. 蔡明默杀全片唯一笑点
 1. FBI调查袭击特朗普嫌疑人手机
-1. 美特勤局将接受独立审查
-1. 爆改乙骨忧太
 1. 卢昱晓正骨矫正走路姿势
 1. 薛之谦演唱会上没摇过伴舞
-1. 被抓娃娃里姥爷假发藏钱笑到了
+1. 美特勤局将接受独立审查
+1. 46岁杨志刚现场劈叉
 1. 美国男篮险胜澳大利亚
 1. 纪星韩廷双向奔赴
-1. 46岁杨志刚现场劈叉
 1. 童话镇清唱
 1. 雷军年度演讲本周五举办
 1. 巴黎奥运会乒乓球赛程公布
 1. 特朗普选择万斯作为竞选搭档
-1. 抓娃娃观后感
+1. 强降雨再袭河南山东
 1. 云顶S12爆料
-1. 错位暗喻细思极恐
+1. 蛋仔童话镇转场
 
 ## 明星榜
 
@@ -76,14 +76,14 @@
 ## 音乐榜
 
 1. [夏日心动（剪辑版5）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogPBJ6qfZmEfzCACBKDtBFFqlvgdgCuQ5iQBYt) - 雪糕超人耶
-1. [Bleeding Love（七元版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEgC9eZFHQ1MfSRnrfkzFp8AayDWqAQMABBgUs) - 七元
-1. [时光晃呀晃 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
-1. [云朵变成棉花糖（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8LC84GQLALFfXeyJmh8KE61byVQYMMeAZLfEI) - 泡芙芙Scarlett
-1. [Moshi Moshi (feat. 百足) [Sped up]](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocCPFQcXJLeroaIdQLIGAoeeYM3OAUYGDguHXz) - Nozomi Kitay & GAL D
+1. [Bleeding Love（七元版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEgC9eZFHQ1MfSRnrfkzFp8AayDWqAQMABBgUs) - 七元
+1. [时光晃呀晃 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
+1. [云朵变成棉花糖（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8LC84GQLALFfXeyJmh8KE61byVQYMMeAZLfEI) - 泡芙芙Scarlett
+1. [Moshi Moshi (feat. 百足) [Sped up]](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocCPFQcXJLeroaIdQLIGAoeeYM3OAUYGDguHXz) - Nozomi Kitay & GAL D
 1. [等你的回答-TF三代合唱](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4DM2iAsoBz2Q5WxmwzGBpJAIfjNH5Ai8iMTcE) - TF家族-朱志鑫/TF家族-张泽禹/TF家族-张极/TF家族-左航/TF家族-苏新皓/TF家族-张峻豪/TF家族-余宇涵/TF家族-穆祉丞/TF家族-陈天润/TF家族-童禹坤/TF家族-邓佳鑫/TF家族-黄朔/时代峰峻-张子墨/TF家族
-1. [暮色回响](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogmtI1ftCDEkkgJG5NlBfFoiaBQtGMF3ZTdrIO) - 吉星出租
+1. [暮色回响](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogmtI1ftCDEkkgJG5NlBfFoiaBQtGMF3ZTdrIO) - 吉星出租
 1. [如果的事（神兔小P Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okHtAffz3g4ZB0BMQn9iC9BC6AciI3xCmgQTqt) - 神兔小P
-1. [LoveU2（1.1倍速版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQMeDffLaEmgMwgCOEMAFCI6INzoFPgWdD0rsa) - 陈伟霆
+1. [LoveU2（1.1倍速版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQMeDffLaEmgMwgCOEMAFCI6INzoFPgWdD0rsa) - 陈伟霆
 1. [en版_我会好好的_全网已上线](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQ9f1fCgmA840TeQFAhF9wrCgKsafZYhQ3TGvF) - en
 1. [若月亮没来 (片段2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocQavLLjkCOeDxGyYeIMGgNAIwJ0QXE1Ve3Fzv) - 王宇宙Leto/乔浚丞
 1. [悠悠夏日长](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUMrdhm6MSeLCU1aI6CXCBFtQzFEGafJYAeDgE) - 詹昊晁 Zhan.H.C
@@ -95,11 +95,11 @@
 1. [草莓物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okynhJ7jEAIIZBfsLgYMEI8QC3WbQNN66RKzhT) - 于行&仁辰
 1. [先说谎的人（阿布remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owQtOFmAzBgxBKDOYfeCTQTgE9cDORrOQqmCZy) - DJ阿智
 1. [宠坏（可不可以你把我宠坏）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocWI8ft2gd0rAfXKzvKGeMQM6fVLTLfA8UJzwl) - 李俊佑 / 小潘潘（潘柚彤）
-1. [Take me hand（Zy版全网听）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owyUoUuVpA1I7BiszAYMSqbGseWQw8P7Ea2BiR) - Zy
-1. [夜空中最亮的星](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IfgGwqqnFeXEMGaS8JBzJAdayAaCeoxqbjCD) - 刘佳兴
+1. [Take me hand（Zy版全网听）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owyUoUuVpA1I7BiszAYMSqbGseWQw8P7Ea2BiR) - Zy
+1. [夜空中最亮的星](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IfgGwqqnFeXEMGaS8JBzJAdayAaCeoxqbjCD) - 刘佳兴
 1. [天空之外（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAYn0BTp8jS8iSyZSHMUWAikyvAWI1c7aiJTr) - 弦子
 1. [富士山下  (纯净女声版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYQtSIiHQIBzfwOChkigfYi2mdMLZJJBQ1IQCB) - 吉拉朵
-1. [Where Did U Go (主歌精华版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oItJIbZYnBxk8AetJuD3tFIkbBQMgevgTxZo5C) - G.E.M. 邓紫棋
+1. [Where Did U Go (主歌精华版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oItJIbZYnBxk8AetJuD3tFIkbBQMgevgTxZo5C) - G.E.M. 邓紫棋
 
 ## 品牌榜
 
