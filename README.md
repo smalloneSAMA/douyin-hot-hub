@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-07-20 18:16:10 +0800`
+`更新时间：2024-07-20 19:13:49 +0800`
 
 ## 抖音热榜
 
-1. 医生科普嵌合体超雄综合征
 1. 黄皮成今夏水果新宠
+1. 大学生的就业焦虑来自哪里
 1. 坚定不移高举改革开放旗帜
 1. 四川雅安暴雨灾害30余人失联
-1. 沈阳的雨有多大
 1. 陕西大桥垮塌已致12死31失联
-1. 大学生的就业焦虑来自哪里
 1. 处闺蜜吗
-1. 法式尤莱特就是绝绝紫
-1. 印度女网红拍摄瀑布掉进峡谷死亡
-1. 宋丹丹问陈妍希老公是哪里人
 1. 王者10V10大混战
+1. 法式尤莱特就是绝绝紫
+1. 大学生暑假工思路打开
+1. 王者10v10保姆级攻略
 1. 斗破苍穹萧炎大战凤清儿
+1. 陕西桥梁垮塌有25辆车坠河
+1. 印度女网红拍摄瀑布掉进峡谷死亡
 1. 本周辟谣榜
 1. 国务院安委会督办自贡火灾事故
 1. 塌桥现场多人占满车道拦后车
+1. 对暴力伤医坚决说不
+1. 医生科普嵌合体超雄综合征
 1. 家属回应胎儿检出超雄综合征
 1. 杨议高情商回应李宽嘲讽
-1. 特朗普警告哈马斯
-1. 纪星韩廷分手倒计时
-1. 王鹤棣红发好烧
-1. 和平精英地铁逃生模式攻略
-1. 大学生暑假工思路打开
 1. 陶勇医生发文悼念李晟医生
+1. 宋丹丹问陈妍希老公是哪里人
+1. 王鹤棣红发好烧
 1. 厦大通报学生辱骂孕妇
-1. 王者10v10保姆级攻略
-1. 黄宣淘汰
-1. 医护同行发声悼念李晟医生
-1. 网友错把女演员李晟认成医生
-1. 原来这就是青春的样子
-1. 每位医生都值得被尊重和保护
+1. 和平精英地铁逃生模式攻略
 1. 你是哥唯一哄不好的女人
-1. 张钰琪回应“比中指”
-1. 测测你长得像哪个省份的人
-1. 谁听我的故事里面都是遗憾
-1. 虞书欣和法国爷爷交流好温暖
-1. 薛之谦雨中演唱会上摇起来了
-1. AI动态表情实在是妙
+1. 原来这就是青春的样子
+1. 特朗普警告哈马斯
+1. 网友错把女演员李晟认成医生
+1. 每位医生都值得被尊重和保护
+1. 医护同行发声悼念李晟医生
 1. 逆光拍照挑战
-1. 心之火夕阳剪影挑战
+1. 测测你长得像哪个省份的人
+1. 薛之谦雨中演唱会上摇起来了
+1. 张钰琪回应“比中指”
+1. 黄宣淘汰
+1. 谁听我的故事里面都是遗憾
 1. 雷军年度演讲
+1. 新说唱2024总决赛
+1. 沈阳的雨有多大
+1. 心之火夕阳剪影挑战
+1. AI动态表情实在是妙
 1. 跟随彗星坠入新海诚世界
-1. 产妇擅入施工场地坠亡家属索赔
-1. 每天都想可以快点见到他
-1. 拜托了奶奶整顿职场好爽
-1. 在玻璃窗上出现你的笑脸
+1. 十个勤天北京演唱会
+1. 重返16岁特效
 1. 斗破苍穹十三周年
 1. 少年白马醉春风特效开大
-1. 菲律宾何以成“亚洲绑架之国”
-1. 四号台风预计25日左右影响浙江
+1. 每天都想可以快点见到他
+1. 丰隆替玱玹挡箭
+1. 在玻璃窗上出现你的笑脸
 
 ## 明星榜
 
@@ -76,16 +76,16 @@
 
 ## 音乐榜
 
-1. [心之火（R&B版）（当思念划过夜空）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o068IQEDZAfBP6pHvmLQtf5MzGFzjZCk13BIpg) - Zxxy
-1. [心之火（R&B版）（谁的爱不疯）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okemkEDaIBBE3OosftCgMxlFkLQZRw37t36ZQv) - Zxxy
-1. [微风与流浪星座](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okQfeAMGaEbRLJILIMJGeKgg1CgIeCNAsmx8IR) - 粉太狼
-1. [便利贴男孩（甜）（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogflQg7wfd2mYIseAcYTVlV5HwvzevErpf4M3y) - REEBX & DreamBeach
-1. [娃娃脸（剪辑版1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIimSCgQoNUePTAZ1Ba7TeADY4KetGYsVFeaaB) - 一口甜
+1. [心之火（R&B版）（当思念划过夜空）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o068IQEDZAfBP6pHvmLQtf5MzGFzjZCk13BIpg) - Zxxy
+1. [心之火（R&B版）（谁的爱不疯）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okemkEDaIBBE3OosftCgMxlFkLQZRw37t36ZQv) - Zxxy
+1. [微风与流浪星座](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okQfeAMGaEbRLJILIMJGeKgg1CgIeCNAsmx8IR) - 粉太狼
+1. [便利贴男孩（甜）（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogflQg7wfd2mYIseAcYTVlV5HwvzevErpf4M3y) - REEBX & DreamBeach
+1. [娃娃脸（剪辑版1）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIimSCgQoNUePTAZ1Ba7TeADY4KetGYsVFeaaB) - 一口甜
 1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰&于行
 1. [Bleeding Love（七元版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEgC9eZFHQ1MfSRnrfkzFp8AayDWqAQMABBgUs) - 七元
 1. [暮色回响](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogmtI1ftCDEkkgJG5NlBfFoiaBQtGMF3ZTdrIO) - 吉星出租
-1. [若月亮没来 (片段2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocQavLLjkCOeDxGyYeIMGgNAIwJ0QXE1Ve3Fzv) - 王宇宙Leto/乔浚丞
-1. [夏日心动（剪辑版5）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogPBJ6qfZmEfzCACBKDtBFFqlvgdgCuQ5iQBYt) - 雪糕超人耶
+1. [若月亮没来 (片段2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocQavLLjkCOeDxGyYeIMGgNAIwJ0QXE1Ve3Fzv) - 王宇宙Leto/乔浚丞
+1. [夏日心动（剪辑版5）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogPBJ6qfZmEfzCACBKDtBFFqlvgdgCuQ5iQBYt) - 雪糕超人耶
 1. [执子之手 (剪辑1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAmUw5wIVs6hALxCGfEjWHhZAzGMtnB0sJAJ2o) - 宝石Gem\哩哩
 1. [en版_我会好好的_全网已上线](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQ9f1fCgmA840TeQFAhF9wrCgKsafZYhQ3TGvF) - en
 1. [LoveU2（1.1倍速版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQMeDffLaEmgMwgCOEMAFCI6INzoFPgWdD0rsa) - 陈伟霆
@@ -95,13 +95,13 @@
 1. [时光晃呀晃 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
 1. [宠坏（可不可以你把我宠坏）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocWI8ft2gd0rAfXKzvKGeMQM6fVLTLfA8UJzwl) - 李俊佑 / 小潘潘（潘柚彤）
 1. [背包很小要装满快乐（剪辑版5）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUqSJIiBjw2pxsBAiQRmkbZGJrlGCMBPpIW90) - 林谦谦
-1. [Moshi Moshi (feat. 百足) [Sped up]](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocCPFQcXJLeroaIdQLIGAoeeYM3OAUYGDguHXz) - Nozomi Kitay & GAL D
+1. [Moshi Moshi (feat. 百足) [Sped up]](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocCPFQcXJLeroaIdQLIGAoeeYM3OAUYGDguHXz) - Nozomi Kitay & GAL D
 1. [快乐恰恰（间奏）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMesum3HvWQXJxuMFeVYzf54o2QzH5aEBPOCAn) - MaksJ
 1. [夜空中最亮的星](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IfgGwqqnFeXEMGaS8JBzJAdayAaCeoxqbjCD) - 刘佳兴
 1. [如果的事（神兔小P Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okHtAffz3g4ZB0BMQn9iC9BC6AciI3xCmgQTqt) - 神兔小P
-1. [万物生](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYmc57nRMikxBnetIc1y6BCoOZFN5QfURgQDTE) - ss.沧川
+1. [万物生](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYmc57nRMikxBnetIc1y6BCoOZFN5QfURgQDTE) - ss.沧川
 1. [可能（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
-1. [身骑白马 (pay姐版) 已全网上线](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQLO5ZgLsFkaDhdIIveF2zUCgfweY0gWaH4AQG) - 黏苞米糊糊/潮音铭帝
+1. [身骑白马 (pay姐版) 已全网上线](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQLO5ZgLsFkaDhdIIveF2zUCgfweY0gWaH4AQG) - 黏苞米糊糊/潮音铭帝
 
 ## 品牌榜
 
