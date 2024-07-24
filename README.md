@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-07-24 13:15:50 +0800`
+`更新时间：2024-07-24 14:22:25 +0800`
 
 ## 抖音热榜
 
 1. 直击台风格美路径
-1. 无畏契约全球冠军赛主题曲
+1. 尼泊尔一架客机坠毁
 1. 中国科学家在月壤中发现分子水
-1. 台风格美将影响台湾和浙闽沿海
+1. 无畏契约全球冠军赛主题曲
 1. 北京发布暴雨橙色预警
-1. 油价或结束两连涨
 1. 乌克兰外长抵达中国
+1. 油价或结束两连涨
 1. 北京启动防洪Ⅱ级应急响应
 1. 全抖音都在为奥运健儿加油
 1. 王者10v10网友整活大赏
 1. 沪指跌破2900点
-1. 贵州六盘水4.6级地震
-1. 故宫辟谣太和殿广场装充电桩
 1. 拜登退出大选后首次公开露面
-1. 北京宣言意味着什么
+1. 故宫辟谣太和殿广场装充电桩
 1. 矿泉水烟花教程
+1. 贵州六盘水4.6级地震
+1. 姜妍互联网小姨感
+1. 散打比赛幼儿组可爱拉满
 1. 暑假快过去一半了
-1. 柳岩范湉湉聊后事
 1. 沉浸式体验巴黎奥运会
+1. 河北邯郸民房爆炸致3死3伤
+1. 台风格美逼近多地紧急撤离游客
+1. 刘畊宏谈定居苏州
 1. 不变的是彼此的友谊
 1. 见到了独孤信的多面体煤精组印
-1. 刘畊宏谈定居苏州
+1. 台风格美将影响台湾和浙闽沿海
 1. 投喂流浪猫被判赔24万案宣判
-1. 郭婷婷任财政部副部长
 1. 基地回应有人朝福宝扔折叠椅
 1. 三伏天晒背警惕热射病
-1. 康辉：巴黎我来了
-1. 韦世豪晒图疑似暗讽足协追罚
+1. 北京宣言意味着什么
 1. 外交部回应北京宣言
+1. 郭婷婷任财政部副部长
 1. 孩子被广告牌砸死母亲发声
-1. 吴谨言仿妆宁静
-1. 当地回应宁夏网红杀妻后自杀
-1. 姜妍互联网小姨感
-1. 雷军谈差点就不做小米SU7 Ultra
-1. 美国国会大厦降半旗真相
+1. 孙燕姿终于更新抖音了
 1. 你比星光美丽番外
-1. 雷军回应网友建议接商单补贴家用
-1. RW零封TCG晋级S组
+1. 当地回应宁夏网红杀妻后自杀
+1. 韦世豪晒图疑似暗讽足协追罚
+1. 雷军谈差点就不做小米SU7 Ultra
 1. 台风格美将迎爆发式加强
-1. 歌手总决赛赛制和分组名单公布
-1. 南苏丹男篮输球后受访
-1. 中央研究开征“地方附加税”
-1. 台风格美或致停工停课
+1. 官方回应郑州一男子积水中倒地
 1. 用AI拥抱相柳
+1. 情侣版矿泉水烟花太甜了
 1. 鸡JioJio鸡JioJio
-1. BLG战胜WBG
+1. 康辉：巴黎我来了
+1. 美国国会大厦降半旗真相
+1. 雷军回应网友建议接商单补贴家用
+1. 中央研究开征“地方附加税”
 1. 当自驾游只有你会开车时
+1. BLG战胜WBG
 1. 我用一生等你 你不来我不老
-1. 第五人格玩家赛后太有脑了
-1. 詹姆斯也出手美式佐助了
+1. 台风格美或致停工停课
 
 ## 明星榜
 
@@ -80,28 +80,28 @@
 1. [心之火（R&B版）（谁的爱不疯）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okemkEDaIBBE3OosftCgMxlFkLQZRw37t36ZQv) - Zxxy
 1. [微风与流浪星座](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okQfeAMGaEbRLJILIMJGeKgg1CgIeCNAsmx8IR) - 粉太狼
 1. [便利贴男孩（甜）（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogflQg7wfd2mYIseAcYTVlV5HwvzevErpf4M3y) - REEBX & DreamBeach
-1. [娃娃脸（剪辑版1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIimSCgQoNUePTAZ1Ba7TeADY4KetGYsVFeaaB) - 一口甜
+1. [娃娃脸（剪辑版1）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIimSCgQoNUePTAZ1Ba7TeADY4KetGYsVFeaaB) - 一口甜
 1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰&于行
-1. [Bleeding Love（七元版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEgC9eZFHQ1MfSRnrfkzFp8AayDWqAQMABBgUs) - 七元
+1. [Bleeding Love（七元版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEgC9eZFHQ1MfSRnrfkzFp8AayDWqAQMABBgUs) - 七元
 1. [暮色回响](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogmtI1ftCDEkkgJG5NlBfFoiaBQtGMF3ZTdrIO) - 吉星出租
-1. [若月亮没来 (片段2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocQavLLjkCOeDxGyYeIMGgNAIwJ0QXE1Ve3Fzv) - 王宇宙Leto/乔浚丞
+1. [若月亮没来 (片段2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocQavLLjkCOeDxGyYeIMGgNAIwJ0QXE1Ve3Fzv) - 王宇宙Leto/乔浚丞
 1. [夏日心动（剪辑版5）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogPBJ6qfZmEfzCACBKDtBFFqlvgdgCuQ5iQBYt) - 雪糕超人耶
-1. [执子之手 (剪辑1)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAmUw5wIVs6hALxCGfEjWHhZAzGMtnB0sJAJ2o) - 宝石Gem\哩哩
-1. [en版_我会好好的_全网已上线](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQ9f1fCgmA840TeQFAhF9wrCgKsafZYhQ3TGvF) - en
+1. [执子之手 (剪辑1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAmUw5wIVs6hALxCGfEjWHhZAzGMtnB0sJAJ2o) - 宝石Gem\哩哩
+1. [en版_我会好好的_全网已上线](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQ9f1fCgmA840TeQFAhF9wrCgKsafZYhQ3TGvF) - en
 1. [LoveU2（1.1倍速版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQMeDffLaEmgMwgCOEMAFCI6INzoFPgWdD0rsa) - 陈伟霆
-1. [夏天的风（纯音乐） （剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUzLjBZZFQAoNRmGokEeD5zfQCObp6UeFAnTa6) - gusing CC
+1. [夏天的风（纯音乐） （剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUzLjBZZFQAoNRmGokEeD5zfQCObp6UeFAnTa6) - gusing CC
 1. [云朵变成棉花糖（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8LC84GQLALFfXeyJmh8KE61byVQYMMeAZLfEI) - 泡芙芙Scarlett
 1. [热烈的少年（是热烈）副歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owVNI0CLDAUMtSz6TEYvfFBFL4UDFFhLfgK8fa) - Big Cole
 1. [时光晃呀晃 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
-1. [宠坏（可不可以你把我宠坏）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocWI8ft2gd0rAfXKzvKGeMQM6fVLTLfA8UJzwl) - 李俊佑 / 小潘潘（潘柚彤）
-1. [背包很小要装满快乐（剪辑版5）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUqSJIiBjw2pxsBAiQRmkbZGJrlGCMBPpIW90) - 林谦谦
-1. [Moshi Moshi (feat. 百足) [Sped up]](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocCPFQcXJLeroaIdQLIGAoeeYM3OAUYGDguHXz) - Nozomi Kitay & GAL D
+1. [宠坏（可不可以你把我宠坏）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocWI8ft2gd0rAfXKzvKGeMQM6fVLTLfA8UJzwl) - 李俊佑 / 小潘潘（潘柚彤）
+1. [背包很小要装满快乐（剪辑版5）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUqSJIiBjw2pxsBAiQRmkbZGJrlGCMBPpIW90) - 林谦谦
+1. [Moshi Moshi (feat. 百足) [Sped up]](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocCPFQcXJLeroaIdQLIGAoeeYM3OAUYGDguHXz) - Nozomi Kitay & GAL D
 1. [快乐恰恰（间奏）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMesum3HvWQXJxuMFeVYzf54o2QzH5aEBPOCAn) - MaksJ
-1. [夜空中最亮的星](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IfgGwqqnFeXEMGaS8JBzJAdayAaCeoxqbjCD) - 刘佳兴
-1. [如果的事（神兔小P Remix）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okHtAffz3g4ZB0BMQn9iC9BC6AciI3xCmgQTqt) - 神兔小P
+1. [夜空中最亮的星](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IfgGwqqnFeXEMGaS8JBzJAdayAaCeoxqbjCD) - 刘佳兴
+1. [如果的事（神兔小P Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okHtAffz3g4ZB0BMQn9iC9BC6AciI3xCmgQTqt) - 神兔小P
 1. [万物生](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYmc57nRMikxBnetIc1y6BCoOZFN5QfURgQDTE) - ss.沧川
-1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
-1. [身骑白马 (pay姐版) 已全网上线](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQLO5ZgLsFkaDhdIIveF2zUCgfweY0gWaH4AQG) - 黏苞米糊糊/潮音铭帝
+1. [可能（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
+1. [身骑白马 (pay姐版) 已全网上线](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQLO5ZgLsFkaDhdIIveF2zUCgfweY0gWaH4AQG) - 黏苞米糊糊/潮音铭帝
 
 ## 品牌榜
 
