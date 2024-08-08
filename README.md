@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-08-08 09:08:05 +0800`
+`更新时间：2024-08-08 10:36:24 +0800`
 
 ## 抖音热榜
 
 1. 中国花游队首夺奥运金牌
-1. 徐卓一小组第7无缘决赛
+1. 瑞典乒乓男团逆转日本晋级决赛
 1. 中央6.49亿元支持14省救灾工作
 1. 李发彬卫冕冠军
-1. 侯志慧举重卫冕夺金
-1. 韩国教练哭诉：每次遇中国都输
 1. 王楚钦被裁判问比分
-1. 瑞典乒乓男团逆转日本晋级决赛
 1. 陈芋汐和我互关了
-1. 又一款金融茶爆雷
-1. 吴艳妮：跑得太慢给自己打0分
-1. Uzi官宣参加奥运马拉松赛
-1. 四川遂宁一隧道口垮塌系谣言
-1. 中国女曲奥运进决赛
-1. 中国花游队是这样展示中国文化的
-1. 国乒男团横扫韩国晋级4强
 1. 张本智和被逆转后崩溃跪地
-1. 夺命书生徐卓一
+1. 徐卓一小组第7无缘决赛
+1. 侯志慧举重卫冕夺金
+1. 中国花游队是这样展示中国文化的
+1. 中国女曲奥运进决赛
 1. 出人意料的七夕礼物
+1. 韩国教练哭诉：每次遇中国都输
+1. 运动健身的五大误区
+1. 用潘展乐三个字画出潘展乐
+1. 旅行最好的纪念品是影像
+1. TFBOYS明天见旅游版
+1. 国乒女团晋级四强
+1. 巴黎奥运会哪个瞬间击中你的心
 1. 深圳拟收购商品房用作保障房
 1. 全红婵哥哥说线下还没和妹妹见面
-1. 国乒女团晋级四强
-1. 用秋天的第一杯奶茶预热七夕
-1. 张博恒来抖音直播了
+1. 入殓师的日常
 1. 印度教练看王楚钦的眼神
+1. 张博恒来抖音直播了
+1. 用秋天的第一杯奶茶预热七夕
+1. 警方打击涉体育领域饭圈违法犯罪
+1. 夺命书生徐卓一
 1. 潘展乐又双叒叕“告状”了
-1. 旅行最好的纪念品是影像
-1. 用潘展乐三个字画出潘展乐
 1. 模仿黄宗泽巴士跳舞
 1. 抖音你是会总结的
-1. 徐卓一陈芋汐将成为同专业同学
+1. 吴艳妮：跑得太慢给自己打0分
+1. 又一款金融茶爆雷
 1. 王楚钦发带造型大赏
-1. TFBOYS明天见旅游版
-1. 英国为何爆发骚乱
-1. 和你爱的人拍这个棒冰转场
-1. 沈腾首部犯罪电影逆鳞定档
-1. 被斩神的少年热血燃到了
-1. 假期带娃问题不大
-1. 庆功宴上的刘亦菲
-1. 王者七夕皮肤设计解析
 1. 夏天就这么结束了
-1. 随后便是我最爱的秋天
-1. 全国省饭哪家强
-1. 当爸妈带着我的手机逛超市
-1. 总有幸福有心疼
-1. 和你在一起的时候像梦一样
-1. 七夕约会这样穿
-1. 我本来就是农民的孩子
-1. 于是夏天在我身后落下
+1. 假期带娃问题不大
+1. Uzi官宣参加奥运马拉松赛
+1. 被斩神的少年热血燃到了
 1. 王楚钦感谢教练
+1. 和你爱的人拍这个棒冰转场
+1. 随后便是我最爱的秋天
+1. 于是夏天在我身后落下
+1. 王者七夕皮肤设计解析
+1. 总有幸福有心疼
+1. 全国省饭哪家强
+1. 七夕约会这样穿
+1. 华晨宇忒修斯的船改编大赛
+1. 国乒男团横扫韩国晋级4强
+1. 小小巴黎拿捏被改成歌了
+1. 和你在一起的时候像梦一样
+1. 当爸妈带着我的手机逛超市
 
 ## 明星榜
 
@@ -76,28 +76,28 @@
 
 ## 音乐榜
 
-1. [Bleeding Love（七元版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEgC9eZFHQ1MfSRnrfkzFp8AayDWqAQMABBgUs) - 七元
+1. [Bleeding Love（七元版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEgC9eZFHQ1MfSRnrfkzFp8AayDWqAQMABBgUs) - 七元
 1. [TOOOOO BUSY-副歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0fmjGZetNDjSM5EimFs2QlzBg30YgByJMRQrC) - 王霏霏
 1. [时光晃呀晃 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
 1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
 1. [娃娃脸（剪辑版1）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIimSCgQoNUePTAZ1Ba7TeADY4KetGYsVFeaaB) - 一口甜
 1. [我想当风（电影《抓娃娃》片尾曲）（别管我版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o80izgSENQgBatDzCCIFJUuEYiDSWLFCfAfxe1) - 鹿先森乐队
-1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
-1. [快乐恰恰（间奏）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMesum3HvWQXJxuMFeVYzf54o2QzH5aEBPOCAn) - MaksJ
+1. [执子之手 (剪辑2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
+1. [快乐恰恰（间奏）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMesum3HvWQXJxuMFeVYzf54o2QzH5aEBPOCAn) - MaksJ
 1. [心之火（R&B版）（谁的爱不疯）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okemkEDaIBBE3OosftCgMxlFkLQZRw37t36ZQv) - Zxxy
 1. [夏天的风（纯音乐） （剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUzLjBZZFQAoNRmGokEeD5zfQCObp6UeFAnTa6) - gusing CC
 1. [Moshi Moshi (feat. 百足) [Sped up]](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocCPFQcXJLeroaIdQLIGAoeeYM3OAUYGDguHXz) - Nozomi Kitay & GAL D
-1. [LoveU2（1.1倍速版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQMeDffLaEmgMwgCOEMAFCI6INzoFPgWdD0rsa) - 陈伟霆
+1. [LoveU2（1.1倍速版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQMeDffLaEmgMwgCOEMAFCI6INzoFPgWdD0rsa) - 陈伟霆
 1. [热烈的少年（是热烈）副歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owVNI0CLDAUMtSz6TEYvfFBFL4UDFFhLfgK8fa) - Big Cole
 1. [便利贴男孩（甜）（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogflQg7wfd2mYIseAcYTVlV5HwvzevErpf4M3y) - REEBX & DreamBeach
 1. [Slippin' (feat. Meghan Trainor)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQIgfNz6GMhQhAeh94WsAfwQmKTK7hd81VFafw) - Paul Russell
-1. [如果的事（神兔小P Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okHtAffz3g4ZB0BMQn9iC9BC6AciI3xCmgQTqt) - 神兔小P
-1. [若月亮没来 (片段2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocQavLLjkCOeDxGyYeIMGgNAIwJ0QXE1Ve3Fzv) - 王宇宙Leto/乔浚丞
+1. [如果的事（神兔小P Remix）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okHtAffz3g4ZB0BMQn9iC9BC6AciI3xCmgQTqt) - 神兔小P
+1. [若月亮没来 (片段2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocQavLLjkCOeDxGyYeIMGgNAIwJ0QXE1Ve3Fzv) - 王宇宙Leto/乔浚丞
 1. [夜空中最亮的星](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IfgGwqqnFeXEMGaS8JBzJAdayAaCeoxqbjCD) - 刘佳兴
 1. [微风与流浪星座](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okQfeAMGaEbRLJILIMJGeKgg1CgIeCNAsmx8IR) - 粉太狼
 1. [悠悠夏日长](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUMrdhm6MSeLCU1aI6CXCBFtQzFEGafJYAeDgE) - 詹昊晁 Zhan.H.C
-1. [云朵变成棉花糖（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8LC84GQLALFfXeyJmh8KE61byVQYMMeAZLfEI) - 泡芙芙Scarlett
-1. [LOCO MEXICANO](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owxVoxJorA4ILBfsMAjU6t7O1xW9w0tS7EYzh6) - ODK Beats
+1. [云朵变成棉花糖（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8LC84GQLALFfXeyJmh8KE61byVQYMMeAZLfEI) - 泡芙芙Scarlett
+1. [LOCO MEXICANO](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owxVoxJorA4ILBfsMAjU6t7O1xW9w0tS7EYzh6) - ODK Beats
 1. [追寻你（万物复苏版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeAZJsbjIDit9APmBg8u6uDUQnHmoCf3gbo74) - 王天戈/川青
 1. [背包很小要装满快乐（剪辑版5）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUqSJIiBjw2pxsBAiQRmkbZGJrlGCMBPpIW90) - 林谦谦
 1. [暮色回响](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogmtI1ftCDEkkgJG5NlBfFoiaBQtGMF3ZTdrIO) - 吉星出租
