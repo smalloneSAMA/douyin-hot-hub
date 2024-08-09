@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-08-09 10:37:21 +0800`
+`更新时间：2024-08-09 11:18:19 +0800`
 
 ## 抖音热榜
 
@@ -19,51 +19,51 @@
 1. 特博格男子200米夺金
 1. 赛场上这些拥抱情绪价值拉满
 1. 中国男子4×100米接力进决赛
-1. 石智勇三次挺举失败无缘奖牌
-1. 常园夺中国女子拳击奥运首金
 1. 痞幼梅尼耶旅行
-1. “最帅少林武僧”车祸去世年仅21岁
+1. 奥运会再现0分跳水
+1. 常园夺中国女子拳击奥运首金
 1. 法国男篮晋级决赛
-1. 石智勇哭了
+1. 石智勇三次挺举失败无缘奖牌
+1. “最帅少林武僧”车祸去世
 1. 吴艳妮无缘半决赛
-1. 全红婵对陈若琳又怕又佩服
+1. 石智勇哭了
 1. 日本7.1级地震
 1. 天蚕土豆回应全红婵催更动画
-1. 王楚钦第一时间收起球拍
-1. 国乒男团进决赛
-1. 武汉失联男生身亡 64岁嫌犯被拘
-1. 罗诗芳59公斤级举重金牌
-1. 石智勇奥运赛场受伤
+1. 全红婵对陈若琳又怕又佩服
 1. 8月9日奥运赛事看点
+1. 武汉失联男生身亡 64岁嫌犯被拘
+1. 国乒男团进决赛
+1. 石智勇奥运赛场受伤
 1. 王者渡月笨蛋语音包上线
-1. 解放军首次亮相科特迪瓦阅兵
+1. 罗诗芳59公斤级举重金牌
 1. 模仿黄宗泽巴士跳舞
-1. 奥运会再现0分跳水
+1. 王昶回应连夜取关700人
 1. 被莫里斯的纯粹打动
-1. 我以为是王楚钦给自己道歉
-1. 第一视角体验10米台跳水
 1. 鸡蛋鸭蛋荷包蛋
+1. 我以为是王楚钦给自己道歉
 1. Chris James武汉巡演
+1. 第一视角体验10米台跳水
 1. 七夕告白舞
 1. 开学穿搭大赏
-1. 七夕浪漫穿搭是懂氛围感的
-1. 动物园的狮子情绪能有多稳定
-1. 苏炳添约郎平聊奥运女排
-1. 我已经准备好去见你了
 1. 七夕大餐就这么抄作业
-1. Lalala赛马娘版
+1. 我已经准备好去见你了
+1. 七夕浪漫穿搭是懂氛围感的
+1. 苏炳添约郎平聊奥运女排
 1. 刘德华成都演唱会
-1. 出人意料的七夕礼物
+1. 动物园的狮子情绪能有多稳定
 1. 祝我们好在这个秋天
+1. 潘展乐现身上海理发店
+1. 王楚钦第一时间收起球拍
 1. 用镜头定格时光
 1. 中国花游队的加油方式好特别
-1. 王昶回应连夜取关700人
-1. 和你在一起的时候像梦一样
-1. 当我秒回了朋友消息
-1. 我当了一天假名媛
-1. 伍鹏速度攀岩摘银
+1. 出人意料的七夕礼物
 1. 110米栏霍洛威12秒99夺金
-1. 电风扇表白挑战
+1. Lalala赛马娘版
+1. 谢思埸跳水3米板金牌
+1. 我当了一天假名媛
+1. 日出等日落 小河望银河
+1. Why Would I Ever又杀回来了
+1. 和你在一起的时候像梦一样
 
 ## 明星榜
 
@@ -75,23 +75,23 @@
 
 ## 音乐榜
 
-1. [Bleeding Love（七元版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEgC9eZFHQ1MfSRnrfkzFp8AayDWqAQMABBgUs) - 七元
-1. [TOOOOO BUSY-副歌](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0fmjGZetNDjSM5EimFs2QlzBg30YgByJMRQrC) - 王霏霏
+1. [Bleeding Love（七元版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEgC9eZFHQ1MfSRnrfkzFp8AayDWqAQMABBgUs) - 七元
+1. [TOOOOO BUSY-副歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0fmjGZetNDjSM5EimFs2QlzBg30YgByJMRQrC) - 王霏霏
 1. [时光晃呀晃 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
 1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
 1. [娃娃脸（剪辑版1）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIimSCgQoNUePTAZ1Ba7TeADY4KetGYsVFeaaB) - 一口甜
 1. [我想当风（电影《抓娃娃》片尾曲）（别管我版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o80izgSENQgBatDzCCIFJUuEYiDSWLFCfAfxe1) - 鹿先森乐队
-1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
-1. [快乐恰恰（间奏）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMesum3HvWQXJxuMFeVYzf54o2QzH5aEBPOCAn) - MaksJ
-1. [心之火（R&B版）（谁的爱不疯）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okemkEDaIBBE3OosftCgMxlFkLQZRw37t36ZQv) - Zxxy
+1. [执子之手 (剪辑2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
+1. [快乐恰恰（间奏）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMesum3HvWQXJxuMFeVYzf54o2QzH5aEBPOCAn) - MaksJ
+1. [心之火（R&B版）（谁的爱不疯）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okemkEDaIBBE3OosftCgMxlFkLQZRw37t36ZQv) - Zxxy
 1. [夏天的风（纯音乐） （剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUzLjBZZFQAoNRmGokEeD5zfQCObp6UeFAnTa6) - gusing CC
-1. [Moshi Moshi (feat. 百足) [Sped up]](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocCPFQcXJLeroaIdQLIGAoeeYM3OAUYGDguHXz) - Nozomi Kitay & GAL D
+1. [Moshi Moshi (feat. 百足) [Sped up]](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocCPFQcXJLeroaIdQLIGAoeeYM3OAUYGDguHXz) - Nozomi Kitay & GAL D
 1. [LoveU2（1.1倍速版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQMeDffLaEmgMwgCOEMAFCI6INzoFPgWdD0rsa) - 陈伟霆
-1. [热烈的少年（是热烈）副歌](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owVNI0CLDAUMtSz6TEYvfFBFL4UDFFhLfgK8fa) - Big Cole
+1. [热烈的少年（是热烈）副歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owVNI0CLDAUMtSz6TEYvfFBFL4UDFFhLfgK8fa) - Big Cole
 1. [便利贴男孩（甜）（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogflQg7wfd2mYIseAcYTVlV5HwvzevErpf4M3y) - REEBX & DreamBeach
-1. [Slippin' (feat. Meghan Trainor)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQIgfNz6GMhQhAeh94WsAfwQmKTK7hd81VFafw) - Paul Russell
-1. [如果的事（神兔小P Remix）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okHtAffz3g4ZB0BMQn9iC9BC6AciI3xCmgQTqt) - 神兔小P
-1. [若月亮没来 (片段2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocQavLLjkCOeDxGyYeIMGgNAIwJ0QXE1Ve3Fzv) - 王宇宙Leto/乔浚丞
+1. [Slippin' (feat. Meghan Trainor)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQIgfNz6GMhQhAeh94WsAfwQmKTK7hd81VFafw) - Paul Russell
+1. [如果的事（神兔小P Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okHtAffz3g4ZB0BMQn9iC9BC6AciI3xCmgQTqt) - 神兔小P
+1. [若月亮没来 (片段2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocQavLLjkCOeDxGyYeIMGgNAIwJ0QXE1Ve3Fzv) - 王宇宙Leto/乔浚丞
 1. [夜空中最亮的星](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IfgGwqqnFeXEMGaS8JBzJAdayAaCeoxqbjCD) - 刘佳兴
 1. [微风与流浪星座](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okQfeAMGaEbRLJILIMJGeKgg1CgIeCNAsmx8IR) - 粉太狼
 1. [悠悠夏日长](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUMrdhm6MSeLCU1aI6CXCBFtQzFEGafJYAeDgE) - 詹昊晁 Zhan.H.C
