@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-08-30 22:16:21 +0800`
+`更新时间：2024-08-30 23:17:48 +0800`
 
 ## 抖音热榜
 
@@ -19,51 +19,52 @@
 1. 大陆将恢复福建居民赴金门旅游
 1. 国产世界级“海上巨无霸”试航
 1. 狙神kennyS开启抖音首播
-1. 航空工业原董事长谭瑞松被查
-1. 王祖蓝提倡观众给马龙脸颊比心
-1. 被逆行女司机打伤男子发声
+1. 阿里巴巴集团完成三年整改
+1. 郭艾伦直播回应转会始末
 1. 环球时报评国防部入驻抖音
-1. 樊振东潘展乐盛李豪同框
-1. 广药集团原董事长李楚源被查
-1. 美菲干扰中方仙宾礁科考
+1. 全红婵山顶看风景吓坏练俊杰
+1. 王楚钦再谈赢下混双感受
+1. 郑钦文冲击美网16强
 1. 全红婵偷吃葡萄
-1. 马龙带全红婵买饮料
-1. 坠河失联驻村书记遗体被找到
+1. 王祖蓝提倡观众给马龙脸颊比心
 1. 全红婵拍大合照谦让C位
 1. 女子驾车逆行还打人被行拘
+1. 我要军事化管理身材了
+1. 堵车偶遇迪丽热巴
+1. 被逆行女司机打伤男子发声
+1. 美菲干扰中方仙宾礁科考
+1. 坠河失联驻村书记遗体被找到
 1. 星穹铁道2.5前瞻
 1. 胖和壮真是一眼辨别
-1. 残奥会首日中国4金1银
-1. 堵车偶遇迪丽热巴
-1. 我要军事化管理身材了
+1. 马龙带全红婵买饮料
 1. 工作才发现父母给生活费有多难
-1. 阿里巴巴集团完成三年整改
-1. 中国人有自己的夏威夷果吃法
 1. 从此故乡再无春秋只剩冬夏
-1. 起猛了看到小孩哥讲物理了
 1. 网剧原罪开播
-1. 官方辟谣逆行打人者是政府人员
 1. 俄乌继续交火 俄在多地推进
+1. 樊振东说粤语好好听
 1. 孙颖莎芭莎封面
+1. 从周杰伦败诉看明星维权
+1. 起猛了看到小孩哥讲物理了
+1. 樊振东潘展乐盛李豪同框
 1. 边水往事丝滑转场
-1. 我恋爱了手势舞
-1. 被小孩子的开学装备震撼到了
-1. 鹿晗空降网友评论区
+1. 中国人有自己的夏威夷果吃法
 1. 库尔斯克一天三次遭导弹威胁
+1. 霍启刚场外努力运镜
+1. 黑神话玩家如何免费进灵岩寺
+1. 感受到了机器人的尴尬
+1. 居民称山西面馆优惠价是给矿工
+1. 被小孩子的开学装备震撼到了
 1. 我想我们应该都没变
-1. 刘德华重庆演唱会
-1. 陈梦手把手教全红婵打乒乓
-1. 曝崔永熙将双向签篮网
-1. 奥运健儿访港欢迎宴菜单
-1. 小火人装扮大赛
-1. 江之岛盾子手势舞
+1. 付航让观众为下一位选手多鼓掌
 1. 高中生开学vs大学生开学
-1. 我发的美食就是最棒的
-1. 只要有棍子人人都是齐天大圣
 1. 当外国人第一次听云宫迅音
-1. 不按套路出牌的失序混搭风
-1. 谁是小演员使相挑战
-1. 能不能蒙上眼睛就可以不上学
+1. 我恋爱了手势舞
+1. 只要有棍子人人都是齐天大圣
+1. 江之岛盾子手势舞
+1. 小火人装扮大赛
+1. 我发的美食就是最棒的
+1. 你憔悴 我替你明媚
+1. 嘉宾拿菜单找孙颖莎签名
 
 ## 明星榜
 
@@ -76,31 +77,31 @@
 ## 音乐榜
 
 1. [转身即心痛（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEIDMEAvZH9wCLDmQFXsfgDcAxetgEagDXxGBy) - 吉星出租
-1. [才二十三（岁月眨眼就过了）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYAvkTrUXEBMWYUbL3nl8i01MJ5skiIZASC2H) - 方大同
+1. [才二十三（岁月眨眼就过了）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYAvkTrUXEBMWYUbL3nl8i01MJ5skiIZASC2H) - 方大同
 1. [如果你是一首歌 主歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oECjBtQmQEDDkZNM057fBFLuWDtYDyIjGOpeVg) - PAN
-1. [Bleeding Love（七元版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEgC9eZFHQ1MfSRnrfkzFp8AayDWqAQMABBgUs) - 七元
-1. [秋风（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocGaU84LfAfzMd2wbXdQFpCGhBiXg82JNMRRie) - 四熹丸子
+1. [Bleeding Love（七元版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEgC9eZFHQ1MfSRnrfkzFp8AayDWqAQMABBgUs) - 七元
+1. [秋风（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocGaU84LfAfzMd2wbXdQFpCGhBiXg82JNMRRie) - 四熹丸子
 1. [时光晃呀晃 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
 1. [Away（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQAtsfEEjgdZDLpMInxECEBQTBxFIh6ymfwOvr) - Jamvana
-1. [赖仔_千年_完整版已上线](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8vzHJsDWjBYRGtiBnieXIlmACqYMwA20CJoiB) - 赖仔Morris
+1. [赖仔_千年_完整版已上线](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8vzHJsDWjBYRGtiBnieXIlmACqYMwA20CJoiB) - 赖仔Morris
 1. [Moonlit Dream (1.1x)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4gcBzLA6DbiW6isn4MQqHBmVbQPnf3J6DZIgB) - DLSS & Xun Jia
-1. [蜜桃物语](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
+1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
 1. [刚好喜欢（0.9X）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og71g0CMBAkxSEzoJQfI8A9FR3KMiXHhPGeeTa) - Liz栗子
-1. [夏天的风（纯音乐） （剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUzLjBZZFQAoNRmGokEeD5zfQCObp6UeFAnTa6) - gusing CC
-1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
-1. [梦臆（暗恋像一颗颗青梅果）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8BrCIf5IPHWzijWCFzABAojiYMA3IUws9LJMr) - 邹沛沛
-1. [黑匣子](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok9CzFAWiwT6270rBIrXZPkiIQurxulWPQMrW) - Jia you嘉佑
-1. [狗儿子](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osvuItF7HhQ8nfz5BHDCMbu5ZOmgxBGtmcEpfn) - 周笔畅
+1. [夏天的风（纯音乐） （剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUzLjBZZFQAoNRmGokEeD5zfQCObp6UeFAnTa6) - gusing CC
+1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
+1. [梦臆（暗恋像一颗颗青梅果）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8BrCIf5IPHWzijWCFzABAojiYMA3IUws9LJMr) - 邹沛沛
+1. [黑匣子](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok9CzFAWiwT6270rBIrXZPkiIQurxulWPQMrW) - Jia you嘉佑
+1. [狗儿子](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osvuItF7HhQ8nfz5BHDCMbu5ZOmgxBGtmcEpfn) - 周笔畅
 1. [TOOOOO BUSY-副歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0fmjGZetNDjSM5EimFs2QlzBg30YgByJMRQrC) - 王霏霏
-1. [云朵变成棉花糖（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8LC84GQLALFfXeyJmh8KE61byVQYMMeAZLfEI) - 泡芙芙Scarlett
+1. [云朵变成棉花糖（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8LC84GQLALFfXeyJmh8KE61byVQYMMeAZLfEI) - 泡芙芙Scarlett
 1. [不遗憾（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAhz2EsWIABN1MJcFykQzDsthAfusdrzjFntaF) - 1coco
 1. [娃娃脸（剪辑版1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIimSCgQoNUePTAZ1Ba7TeADY4KetGYsVFeaaB) - 一口甜
 1. [如果的事（神兔小P Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okHtAffz3g4ZB0BMQn9iC9BC6AciI3xCmgQTqt) - 神兔小P
-1. [那（THAT）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIWGeBZCnlGx9tl0gFlCfwlQbj7QWAD8HYAGg) - ZHAO
+1. [那（THAT）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIWGeBZCnlGx9tl0gFlCfwlQbj7QWAD8HYAGg) - ZHAO
 1. [reaykil（剪辑版1）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osSIWpEdiiBoAWKQMsIBhmw1wUEJn5z20ANfA9) - Qarlic
 1. [执子之手 (剪辑1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAmUw5wIVs6hALxCGfEjWHhZAzGMtnB0sJAJ2o) - 宝石Gem\哩哩
-1. [若月亮没来 (片段2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocQavLLjkCOeDxGyYeIMGgNAIwJ0QXE1Ve3Fzv) - 王宇宙Leto/乔浚丞
-1. [东京日出](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oo2fcgDMNFBiGw1DCpFEA3DAaQFzhUtYQifHaf) - 柏瞳
+1. [若月亮没来 (片段2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocQavLLjkCOeDxGyYeIMGgNAIwJ0QXE1Ve3Fzv) - 王宇宙Leto/乔浚丞
+1. [东京日出](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oo2fcgDMNFBiGw1DCpFEA3DAaQFzhUtYQifHaf) - 柏瞳
 1. [心之火（R&B版）（谁的爱不疯）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okemkEDaIBBE3OosftCgMxlFkLQZRw37t36ZQv) - Zxxy
 
 ## 品牌榜
