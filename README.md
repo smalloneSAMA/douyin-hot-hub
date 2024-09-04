@@ -11,58 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-09-04 14:23:34 +0800`
+`更新时间：2024-09-04 15:16:22 +0800`
 
 ## 抖音热榜
 
+1. 干巴大叔去世
 1. 郑钦文无缘美网4强
-1. 郑钦文：赛程安排影响很大
 1. 中非携手推进绿色发展
 1. 普京结束访问 飞离蒙古国
 1. 英伟达市值一夜少了2万亿
+1. 倪夏莲称服从集体利益从未后悔
 1. 山西让山西人感到陌生
 1. 浙江学校的食堂也是next level了
 1. 我国最大油气田累产突破10亿吨
-1. 当00后成为非遗传承人
+1. 异人之下2阵容官宣
 1. 职场中秋福利大赏
 1. 美国防部将率团参加香山论坛
-1. 异人之下2阵容官宣
-1. 警方证实穿越鳌太线失联男子身亡
-1. 乡村小学只剩2学生3老师系谣言
 1. 博主骑行鳌太线发现失联驴友遗体
-1. 多地开挖运河释放什么信号
-1. 边水往事细节越扒越有
+1. 当00后成为非遗传承人
+1. 乡村小学只剩2学生3老师系谣言
+1. 警方证实穿越鳌太线失联男子身亡
 1. 山东文旅开始发力了
-1. 专家谈重庆人工增雨引八级大风
+1. 多地开挖运河释放什么信号
 1. 各地文旅贴脸开大干饭哥
 1. 女工程师开源AI模型对抗deepfake
 1. 赵丽娜因太高买不到衣服崩溃
-1. 来自11年前的物理8分现场
-1. 丰田警告日本政府
-1. 学长学姐带我弯道超车
-1. 乌克兰指责蒙古国未能逮捕普京
-1. 教体局回应教师称被校长打击报复
-1. 中央气象台发布台风橙色预警
+1. 西宁 暴雨
 1. 黑神话悟空这些boss别错过了
-1. 在黑神话悟空里电子斗蛐蛐
+1. 广东将防风应急响应提升为Ⅲ级
+1. 丰田警告日本政府
+1. LVG 0:2 NAVI
+1. 乌克兰指责蒙古国未能逮捕普京
+1. 中央气象台发布台风橙色预警
+1. 专家谈重庆人工增雨引八级大风
+1. 影院包场玩黑神话悟空是啥体验
+1. 边水往事细节越扒越有
 1. 费德勒观战郑钦文
 1. 偶遇姜珮瑶
-1. 和平精英新版本动物丛林上线
-1. 潘玮柏2分钟剥了11只虾
+1. 在黑神话悟空里电子斗蛐蛐
 1. 李定豪看阮小咪眼神拉丝
-1. 做好事加我一个
+1. 教体局回应教师称被校长打击报复
+1. 和平精英新版本动物丛林上线
 1. 北约提醒成员国不要与俄直接冲突
+1. 做好事加我一个
+1. 小狗都是越夸越可爱的
 1. 什么香香脆脆我们都爱
+1. 各地都吃上电子刀削面了
 1. 中秋三件套已经安排上了
 1. 爱让人像小孩 怕一个人孤单
 1. BGM一响碎玉轩又开工了
-1. 彭高孙乐言be
-1. LVG 0:2 NAVI
-1. 简简单单吃顿大餐
-1. 小狗都是越夸越可爱的
-1. 我的爱情宣言是
-1. 退伍季接站仪式感满满
-1. 山西人谁还不会个刀削面了
+1. 来自11年前的物理8分现场
+1. 郑钦文回应止步美网8强
+1. 上海迪士尼开始卖臭豆腐了
+1. 长沙究竟有多热
 1. 全红婵用筷子炫整块牛排
 
 ## 明星榜
@@ -75,7 +76,7 @@
 
 ## 音乐榜
 
-1. [转身即心痛（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEIDMEAvZH9wCLDmQFXsfgDcAxetgEagDXxGBy) - 吉星出租
+1. [转身即心痛（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEIDMEAvZH9wCLDmQFXsfgDcAxetgEagDXxGBy) - 吉星出租
 1. [才二十三（岁月眨眼就过了）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYAvkTrUXEBMWYUbL3nl8i01MJ5skiIZASC2H) - 方大同
 1. [如果你是一首歌 主歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oECjBtQmQEDDkZNM057fBFLuWDtYDyIjGOpeVg) - PAN
 1. [Bleeding Love（七元版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEgC9eZFHQ1MfSRnrfkzFp8AayDWqAQMABBgUs) - 七元
@@ -83,13 +84,13 @@
 1. [时光晃呀晃 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
 1. [Away（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQAtsfEEjgdZDLpMInxECEBQTBxFIh6ymfwOvr) - Jamvana
 1. [赖仔_千年_完整版已上线](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8vzHJsDWjBYRGtiBnieXIlmACqYMwA20CJoiB) - 赖仔Morris
-1. [Moonlit Dream (1.1x)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4gcBzLA6DbiW6isn4MQqHBmVbQPnf3J6DZIgB) - DLSS & Xun Jia
-1. [蜜桃物语](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
-1. [刚好喜欢（0.9X）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og71g0CMBAkxSEzoJQfI8A9FR3KMiXHhPGeeTa) - Liz栗子
+1. [Moonlit Dream (1.1x)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4gcBzLA6DbiW6isn4MQqHBmVbQPnf3J6DZIgB) - DLSS & Xun Jia
+1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
+1. [刚好喜欢（0.9X）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og71g0CMBAkxSEzoJQfI8A9FR3KMiXHhPGeeTa) - Liz栗子
 1. [夏天的风（纯音乐） （剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUzLjBZZFQAoNRmGokEeD5zfQCObp6UeFAnTa6) - gusing CC
-1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
+1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [梦臆（暗恋像一颗颗青梅果）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8BrCIf5IPHWzijWCFzABAojiYMA3IUws9LJMr) - 邹沛沛
-1. [黑匣子](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok9CzFAWiwT6270rBIrXZPkiIQurxulWPQMrW) - Jia you嘉佑
+1. [黑匣子](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok9CzFAWiwT6270rBIrXZPkiIQurxulWPQMrW) - Jia you嘉佑
 1. [狗儿子](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osvuItF7HhQ8nfz5BHDCMbu5ZOmgxBGtmcEpfn) - 周笔畅
 1. [TOOOOO BUSY-副歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0fmjGZetNDjSM5EimFs2QlzBg30YgByJMRQrC) - 王霏霏
 1. [云朵变成棉花糖（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8LC84GQLALFfXeyJmh8KE61byVQYMMeAZLfEI) - 泡芙芙Scarlett
@@ -97,11 +98,11 @@
 1. [娃娃脸（剪辑版1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIimSCgQoNUePTAZ1Ba7TeADY4KetGYsVFeaaB) - 一口甜
 1. [如果的事（神兔小P Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okHtAffz3g4ZB0BMQn9iC9BC6AciI3xCmgQTqt) - 神兔小P
 1. [那（THAT）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIWGeBZCnlGx9tl0gFlCfwlQbj7QWAD8HYAGg) - ZHAO
-1. [reaykil（剪辑版1）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osSIWpEdiiBoAWKQMsIBhmw1wUEJn5z20ANfA9) - Qarlic
+1. [reaykil（剪辑版1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osSIWpEdiiBoAWKQMsIBhmw1wUEJn5z20ANfA9) - Qarlic
 1. [执子之手 (剪辑1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAmUw5wIVs6hALxCGfEjWHhZAzGMtnB0sJAJ2o) - 宝石Gem\哩哩
 1. [若月亮没来 (片段2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocQavLLjkCOeDxGyYeIMGgNAIwJ0QXE1Ve3Fzv) - 王宇宙Leto/乔浚丞
-1. [东京日出](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oo2fcgDMNFBiGw1DCpFEA3DAaQFzhUtYQifHaf) - 柏瞳
-1. [心之火（R&B版）（谁的爱不疯）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okemkEDaIBBE3OosftCgMxlFkLQZRw37t36ZQv) - Zxxy
+1. [东京日出](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oo2fcgDMNFBiGw1DCpFEA3DAaQFzhUtYQifHaf) - 柏瞳
+1. [心之火（R&B版）（谁的爱不疯）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okemkEDaIBBE3OosftCgMxlFkLQZRw37t36ZQv) - Zxxy
 1. [慢慢走慢慢爱（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0ZjTAahCL8MwIblwoCfhjSfIB8tl2c9mgzEtp) - 陈墨一（吖毛）
 
 ## 品牌榜
