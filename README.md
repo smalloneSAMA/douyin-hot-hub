@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-09-16 16:22:27 +0800`
+`更新时间：2024-09-16 17:20:45 +0800`
 
 ## 抖音热榜
 
@@ -21,50 +21,50 @@
 1. 安徽有较强风雨天气
 1. 爆改黑神话还是太超前了
 1. 抖音2024中秋诗乐会
-1. 高中生抢饭第一视角
-1. 菲海警船撤离仙宾礁现场画面
-1. 台风登陆流浪狗直接被吹跑
-1. 上海中心千吨阻尼器晃动明显
-1. 黑神话小兵
-1. 网红海莉子在港骑行车祸身亡
-1. 男子放下窗外卷帘门应对台风
-1. 出租车司机散布谣言被处罚
-1. 第一视角感受台风呼啸
-1. 70秒看70年
 1. 好利来禁止员工骑乘摩托车
+1. 高中生抢饭第一视角
+1. 上海中心千吨阻尼器晃动明显
 1. 朝着圆月走
-1. 当7岁萌娃拍汽车广告
-1. 英国偶遇那英
-1. 俄军用机场遭乌无人机袭击
+1. 黑神话小兵
+1. 台风登陆流浪狗直接被吹跑
+1. 第一视角感受台风呼啸
+1. 出租车司机散布谣言被处罚
+1. 网红海莉子在港骑行车祸身亡
+1. 浙江姐弟在意大利火灾中遇难
+1. 凡人歌王骁要回80万
 1. 钟意荣获夏决FMVP
+1. 70秒看70年
+1. 孙颖莎一句yeah震惊许昕
+1. 俄军用机场遭乌无人机袭击
+1. 当7岁萌娃拍汽车广告
 1. 谁懂四位转7圈的含金量
 1. 王者荣耀中秋上分推荐
-1. 上海现紫红色天空
+1. 王者S37赛季即将开启
 1. 金店店员3年偷走45.8kg黄金
-1. 宿舍版格莱美慢镜头限时返场
-1. 当你在广东过中秋
-1. 特朗普回应疑再遭暗杀
+1. 电影焚城定档
 1. 新一届香港小姐出炉
 1. 请跑到终点再哭
 1. 呲牙舞
-1. 贝碧嘉登陆上海后中心风力仍14级
-1. 电影焚城定档
-1. 周楷恒求婚椰子
-1. 直击台风登陆上海
+1. 中秋期间我国可能出现极光
 1. 迎风的青春好治愈
+1. 当你在广东过中秋
+1. 周楷恒求婚椰子
 1. 小猫侧脸怎么这个样子
-1. 友情不写诀别诗
-1. 台风普拉桑生成
 1. 评论区给原创喊麦取名
+1. 台风普拉桑生成
 1. 看好了我只变一次
+1. 友情不写诀别诗
+1. 踢腿运镜变装
+1. 吃饭辣饭不吃了嘛
+1. 广东中秋烟火气
 1. 野孩子观后感
 1. 变个月亮给你看看
-1. 孙颖莎林诗栋夺冠后通道自拍
-1. 当全班同学为老师准备生日惊喜
-1. 哈尔滨也太多小飞虫了
-1. 广东中秋烟火气
-1. 苏州境内高速封闭管控
+1. 宿舍版格莱美慢镜头限时返场
+1. 蛋仔超绝倒挂金钩
+1. 国庆前或将一周一个台风
 1. 一键扩出你的圆月祝福
+1. 当全班同学为老师准备生日惊喜
+1. 转圈展示自己挑战
 
 ## 明星榜
 
@@ -78,8 +78,8 @@
 
 1. [90sLuv](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQGQgEIGeNeB08eABNQhaCkxBLL92zFoSVC8GA) - LilyYep
 1. [即兴的誓 烂尾的诗（live）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4YvRBZsUYAhYimDFihjLiNI5WNiPr19YAOBM) - 李好吃
-1. [I Wanted You（神兔小P Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4CAubmDQdZeEkstFnCvKIMDag8D2BSBOjfNuh) - 神兔小P
-1. [Moment(片刻)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owmEcUYgQgktDfyBXRNDfAIZj9CFgVKgEpHmYF) - GTR7
+1. [I Wanted You（神兔小P Remix）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4CAubmDQdZeEkstFnCvKIMDag8D2BSBOjfNuh) - 神兔小P
+1. [Moment(片刻)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owmEcUYgQgktDfyBXRNDfAIZj9CFgVKgEpHmYF) - GTR7
 1. [Lifestyle（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [Hours（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIfDfFDpw9mBHFzUNTU1oWEaAQBnCYTYNZhfEH) - DLSS
@@ -87,11 +87,11 @@
 1. [不负众望（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok9MgbeIkuLlAiliwfUwtJhGyzMOtWCkZHBp3C) - 陈婉菁
 1. [有些爱情放不下（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4EIUawADYOHyzwgCMFHQkZ8BBfAmZBQEegct2) - 唐伯虎Annie
 1. [Party in life(副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocKOGeeGAQQbmLb1LcGQTM9cMF9KSI8eLKmfYA) - 吴彦祖/Casper卡斯柏
-1. [TOOOOO BUSY-副歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0fmjGZetNDjSM5EimFs2QlzBg30YgByJMRQrC) - 王霏霏
+1. [TOOOOO BUSY-副歌](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0fmjGZetNDjSM5EimFs2QlzBg30YgByJMRQrC) - 王霏霏
 1. [Moonlit Dream (1.1x)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4gcBzLA6DbiW6isn4MQqHBmVbQPnf3J6DZIgB) - DLSS & Xun Jia
-1. [salty sweet cookie（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQBq9NyC0RVEaeFzKUYHYKFETJAf2f2jLuoQYD) - shell04
-1. [Ray (Deep House)（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osjf5MggMpXjBKl8aAuLWaNBHfzhlFOKQwSCfT) - KKK & uuml
-1. [蜜桃物语](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
+1. [salty sweet cookie（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQBq9NyC0RVEaeFzKUYHYKFETJAf2f2jLuoQYD) - shell04
+1. [Ray (Deep House)（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osjf5MggMpXjBKl8aAuLWaNBHfzhlFOKQwSCfT) - KKK & uuml
+1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
 1. [才二十三（岁月眨眼就过了）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYAvkTrUXEBMWYUbL3nl8i01MJ5skiIZASC2H) - 方大同
 1. [秋风（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocGaU84LfAfzMd2wbXdQFpCGhBiXg82JNMRRie) - 四熹丸子
 1. [reaykil（剪辑版1）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osSIWpEdiiBoAWKQMsIBhmw1wUEJn5z20ANfA9) - Qarlic
