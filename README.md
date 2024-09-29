@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-09-29 14:22:45 +0800`
+`更新时间：2024-09-29 15:15:35 +0800`
 
 ## 抖音热榜
 
@@ -19,51 +19,52 @@
 1. 上交所今日启动全网测试
 1. 奔赴山与海 征途向未来
 1. 何卓佳3:0横扫张本美和
-1. 终于到了穿毛衣的季节
-1. 泽卡加盟山东泰山后首秀
-1. 伊朗官员称准备派兵赴黎与以作战
-1. 莫伊卡诺TKO圣丹尼斯
-1. 人民至上
-1. A股大涨工行银证转账资金飙升
-1. 威少炮轰湖人快船
-1. G2逆转VIT进决赛
-1. 汪苏泷张碧晨合唱年轮
-1. 何知南韩苏和好
-1. 国庆再现抢公主王子大战
-1. 纳斯鲁拉遇袭身亡后以总理首发声
 1. 迈阿密国际1:1夏洛特FC
-1. 帕尔默半场大四喜
-1. 749局取景地有多震撼
-1. 黎巴嫩多地遭以色列空袭
-1. 郑钦文：好久没打这么舒心的比赛
+1. 黎以冲突下中东各地现状
+1. 一口气看懂金融市场的暴起暴跌
+1. G2逆转VIT进决赛
+1. 人民至上
+1. 终于到了穿毛衣的季节
+1. 国庆再现抢公主王子大战
+1. 中美举行新一轮外交政策磋商
+1. 安徽警方辟谣大货车拖行奥迪
+1. 汪苏泷张碧晨合唱年轮
+1. 伊朗官员称准备派兵赴黎与以作战
+1. 2024柏林马拉松
+1. 莫伊卡诺TKO圣丹尼斯
+1. 威少炮轰湖人快船
+1. A股大涨工行银证转账资金飙升
+1. 何知南韩苏和好
+1. 功勋模范铿锵有力唱歌唱祖国
+1. 俄军在顿巴斯各路大幅推进
+1. 胡塞武装称用弹道导弹袭击以机场
 1. 广东男篮新赛季出征仪式
-1. 平常心100:81击败白晶
-1. 孙颖莎3:0轻取波兰选手巴约
+1. 郑钦文：好久没打这么舒心的比赛
 1. 淘宝卖二手手机竟被私自拆机降价
-1. 奥尼尔：乔丹是真正的Goat
+1. 王源上海演唱会
+1. 凤凰传奇太原演唱会
 1. 赵丽颖肖央互让C位
 1. 成毅无情铁手分糍粑
-1. 巴萨2:4不敌奥萨苏纳
-1. 流水迢迢江慈身世曝光
-1. 凤凰传奇太原演唱会
-1. 半熟男女 复婚签婚姻忠诚协议
-1. 切尔西4:2布莱顿
-1. 阿森纳4:2莱斯特城
-1. 王楚钦备战WTT中国大满贯
-1. 赖岳谦谈洲际导弹试射
-1. oi小猫有点火热啊
-1. 泰山4:1新鹏城
-1. 钓鱼佬已经开始期待国庆假期了
-1. 国庆假期下班前1分钟be like
-1. 俄军在顿巴斯各路大幅推进
-1. 最适合走路的bgm出现了
 1. 漠风吟开播
-1. 双人演绎开灯关灯变装
+1. 纳斯鲁拉遇袭身亡后以总理首发声
+1. 帕尔默半场大四喜
+1. 巴萨2:4不敌奥萨苏纳
+1. Aniparty“柯冉风波”后首秀
+1. 切尔西4:2布莱顿
+1. 孙颖莎3:0轻取波兰选手巴约
+1. oi小猫有点火热啊
+1. 黎巴嫩多地遭以色列空袭
+1. 平常心100:81击败白晶
+1. 最适合走路的bgm出现了
+1. 国庆假期下班前1分钟be like
 1. 溯DJ版闪光灯舞蹈挑战
-1. 王者新赛季上分方法来了
+1. 双人演绎开灯关灯变装
+1. 国庆就是要趴ssion
+1. 湖南话有多上头
+1. 钓鱼佬已经开始期待国庆假期了
+1. 李泽锋被站姐蹭到了车
+1. 赖岳谦谈洲际导弹试射
 1. 国庆节不堵车堵什么
-1. 我要稳稳的幸福
-1. 退役警犬刚到新家的样子
 
 ## 明星榜
 
@@ -75,32 +76,32 @@
 
 ## 音乐榜
 
-1. [最好的我（神兔小P Remix）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIZQKMCshyzBBuwXsHiFAicWsgNB8Q5h6If3D3) - 神兔小P
+1. [最好的我（神兔小P Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIZQKMCshyzBBuwXsHiFAicWsgNB8Q5h6If3D3) - 神兔小P
 1. [秋风（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocGaU84LfAfzMd2wbXdQFpCGhBiXg82JNMRRie) - 四熹丸子
-1. [凡人歌（沧桑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIUKABAwIZGFyg4LvZC2fNeTnRsDzawOgUmuet) - 岩贵
+1. [凡人歌（沧桑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIUKABAwIZGFyg4LvZC2fNeTnRsDzawOgUmuet) - 岩贵
 1. [I Wanted You（神兔小P Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4CAubmDQdZeEkstFnCvKIMDag8D2BSBOjfNuh) - 神兔小P
 1. [即兴的誓 烂尾的诗（live）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4YvRBZsUYAhYimDFihjLiNI5WNiPr19YAOBM) - 李好吃
 1. [all alone（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8VDaMuDYFEdHhKaeBGQqwK7NQfzAGXfNcCOu8) - elzio
 1. [才二十三（岁月眨眼就过了）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYAvkTrUXEBMWYUbL3nl8i01MJ5skiIZASC2H) - 方大同
 1. [时光晃呀晃 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
 1. [My Life ](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMGNCIHFIPqLwfNFnALQkeDBz1UZGBgzae2YuG) - SoBer
-1. [记忆中的你](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCn9LiMIAQzWgMf3DihhRp9Trd8LWBmBAIsQx) - Takuau
+1. [记忆中的你](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCn9LiMIAQzWgMf3DihhRp9Trd8LWBmBAIsQx) - Takuau
 1. [Bleeding Love（七元版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEgC9eZFHQ1MfSRnrfkzFp8AayDWqAQMABBgUs) - 七元
 1. [蜜桃物语](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
 1. [温柔的歌(Gentle song)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAjzAcFCimtiTPZBJQYIbPLmsNWYBgQyWfQMSm) - 马尔科夫
 1. [TOOOOO BUSY-副歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0fmjGZetNDjSM5EimFs2QlzBg30YgByJMRQrC) - 王霏霏
-1. [如果你是一首歌 主歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oECjBtQmQEDDkZNM057fBFLuWDtYDyIjGOpeVg) - PAN
+1. [如果你是一首歌 主歌](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oECjBtQmQEDDkZNM057fBFLuWDtYDyIjGOpeVg) - PAN
 1. [烟火 (你就像烟火的美丽那么美丽)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o89BSAi2CoBCsOwDwKSxiauAfzoQbyMW2vIQiM) - Zy
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
-1. [孤单心事（DJ阿智正版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okJMQAcpBMVY8CsSMeWeMM2TWroAfKmeYs8ReQ) - DJ阿智
+1. [孤单心事（DJ阿智正版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okJMQAcpBMVY8CsSMeWeMM2TWroAfKmeYs8ReQ) - DJ阿智
 1. [Away（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQAtsfEEjgdZDLpMInxECEBQTBxFIh6ymfwOvr) - Jamvana
 1. [Hours（时光）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oES9g0DgeYmDFDVCLNfBZZsnLvGF4utxCEAm1Q) - DLSS
-1. [芦苇飞（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok3IaChjEFFoK3FAMzXDEgfpeE6Al3Nv2BnfCW) - 泡芙芙Scarlett
-1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
+1. [芦苇飞（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok3IaChjEFFoK3FAMzXDEgfpeE6Al3Nv2BnfCW) - 泡芙芙Scarlett
+1. [执子之手 (剪辑2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [不负众望（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok9MgbeIkuLlAiliwfUwtJhGyzMOtWCkZHBp3C) - 陈婉菁
 1. [Dancin' on My Own - 剪辑版](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQIbOm6tiBtkVgZliRMCTFEBg2D9AzIZ1ffDAQ) - 艾志恒Asen
-1. [90sLuv](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQGQgEIGeNeB08eABNQhaCkxBLL92zFoSVC8GA) - LilyYep&Aisin Gioro_康熙
-1. [心之火（R&B版）（当思念划过夜空）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o068IQEDZAfBP6pHvmLQtf5MzGFzjZCk13BIpg) - Zxxy
+1. [90sLuv](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQGQgEIGeNeB08eABNQhaCkxBLL92zFoSVC8GA) - LilyYep&Aisin Gioro_康熙
+1. [心之火（R&B版）（当思念划过夜空）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o068IQEDZAfBP6pHvmLQtf5MzGFzjZCk13BIpg) - Zxxy
 
 ## 品牌榜
 
