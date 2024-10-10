@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-10-10 15:17:24 +0800`
+`更新时间：2024-10-10 16:22:22 +0800`
 
 ## 抖音热榜
 
+1. 沪指冲高回落涨1.32%
+1. Wei爆料BLG训练赛一人一半
+1. 传承非遗关键在于找到新受众
 1. 国足加油
-1. A股
-1. 从太空看酒泉卫星发射中心
 1. 到底谁还有闪电麦昆啊
-1. 央行支持股市新工具落地
+1. 中西面点专业老师教学vlog
 1. 美联储会议纪要：9月降息有分歧
-1. 郑钦文vs费尔南德斯
-1. 国乒男团对战韩国队
-1. 金秋北京的视听精品盛宴
 1. 国足vs澳大利亚赛前分析
-1. 匈牙利总理斥欧盟太虚伪
-1. 米莱狄变异正式上线
-1. 爱奇艺回应影视飓风科普视频变糊
-1. 海南省纪委副书记陈笑波被查
+1. 义乌通报辅警被摩托车撞倒
+1. 国足战澳大利亚23人名单公布
+1. 央行支持股市新工具落地
+1. 特斯拉发布会
 1. 黑色月光名媛背假包
+1. 海南省纪委副书记陈笑波被查
 1. 国足vs澳大利亚
+1. 爱奇艺回应影视飓风科普视频变糊
 1. 国乒女团亚锦赛不敌日本女团
-1. 朝鲜任命新国防相
+1. 匈牙利总理斥欧盟太虚伪
+1. 杭州全面取消新房限价
 1. 2024王者之战总决赛
-1. 江歌妈妈被质疑还有一个儿子
 1. 奔驰客服回应215万迈巴赫漏水
 1. 多品牌与东北雨姐停止合作
 1. 向佐全民模仿大赛
 1. 一块肉演了五个菜
-1. 杨紫法国偶遇求婚
-1. 泽连斯基向美国频频施压
 1. 萌节开启萌主登场
+1. 杨紫法国偶遇求婚
 1. 我夯大力差点就信了
-1. 口算PK怎么不算竞技游戏呢
+1. 新老股民如何看清后续行情
 1. 多家银行重申规范信贷资金用途
-1. 口算PK受害者出现了
-1. 秋天第一束花的仪式感
-1. 装修转场素材存档
 1. 当闪电麦昆被激活
-1. 兰州人都是这么卖狗娃的吗
-1. 他们都说忘记就不会痛苦
+1. 秋天第一束花的仪式感
+1. 口算PK受害者出现了
+1. 装修转场素材存档
+1. 米莱狄变异正式上线
 1. 我们是恋人也是好朋友
-1. 信贷资金严禁入市释放什么信号
+1. 李静从160斤瘦到了105斤
+1. 他们都说忘记就不会痛苦
+1. 向佐模仿大赛各行各业版
+1. 了解一下东北大炕
+1. 腿毛有一天也能为植发事业做贡献
 1. 孙楠瘦成一道闪电
 1. 宋佳谈女性妊娠纹羞耻
-1. 李静从160斤瘦到了105斤
 1. 大胆秀出你的素颜
-1. 了解一下东北大炕
-1. 抖音网友在旅一种很新的游
+1. 张嘉益董洁花开如梦看点
 1. 挑战给爷爷奶奶剪王嘉尔同款
-1. 腿毛有一天也能为植发事业做贡献
-1. 乔丹7000万美元买飞机
-1. Henry唱全是爱
-1. 要不是无人在意我差点就信了
+1. 朝鲜任命新国防相
+1. 范志毅直播陪看国足世预赛
+1. 新华社谈国足对阵澳大利亚
+1. 西蒙斯5中1得2分
 
 ## 明星榜
 
@@ -77,34 +77,34 @@
 
 1. [九月底](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMfewG4PDTFhF8iz3OGQ7ABH5i6fCgnMaoCbzZ) - 余佳运
 1. [城北的花（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o02tkfaN6giZDwkYLUyEClBQqBzFQlCTmgt2Lf) - 王宇宙Leto/乔浚丞
-1. [明明（神兔小P Remix）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oszCOLBrAmjePn2l6NRmFEaZefgaxJtdGd0MIA) - 神兔小P
-1. [Moonlight Flowing](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oopZsCtRnQgOhEYmv9FfBBgwmeaQmWQQZED9tN) - VZEUS
-1. [芦苇飞（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok3IaChjEFFoK3FAMzXDEgfpeE6Al3Nv2BnfCW) - 泡芙芙Scarlett
+1. [明明（神兔小P Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oszCOLBrAmjePn2l6NRmFEaZefgaxJtdGd0MIA) - 神兔小P
+1. [Moonlight Flowing](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oopZsCtRnQgOhEYmv9FfBBgwmeaQmWQQZED9tN) - VZEUS
+1. [芦苇飞（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok3IaChjEFFoK3FAMzXDEgfpeE6Al3Nv2BnfCW) - 泡芙芙Scarlett
 1. [Pain（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0ifeBf2misiiQefVTf9A9Zv0WhBy30WzDBvAZf) - DLSS
 1. [鎏嘉码头](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAAQszBoWulfDBpI0PoXh8ciQlwiIWztAMQBbr) - 柏瞳
-1. [时代进行曲 (Original Mix剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYrssziLdrtiW6cKABM8n5Vfc2xwXiIBInoAkn) - VZEUS
+1. [时代进行曲 (Original Mix剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYrssziLdrtiW6cKABM8n5Vfc2xwXiIBInoAkn) - VZEUS
 1. [恋人未满（神兔小P Remix）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oc2gDeHlBGX3pGRfcMLuAwxIzFw6A15eaGCNF1) - 神兔小P
-1. [秋风（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocGaU84LfAfzMd2wbXdQFpCGhBiXg82JNMRRie) - 四熹丸子
-1. [不负众望（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok9MgbeIkuLlAiliwfUwtJhGyzMOtWCkZHBp3C) - 陈婉菁
+1. [秋风（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocGaU84LfAfzMd2wbXdQFpCGhBiXg82JNMRRie) - 四熹丸子
+1. [不负众望（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok9MgbeIkuLlAiliwfUwtJhGyzMOtWCkZHBp3C) - 陈婉菁
 1. [最好的我（神兔小P Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIZQKMCshyzBBuwXsHiFAicWsgNB8Q5h6If3D3) - 神兔小P
 1. [坚强笨女人（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ospNInQiZvGWyBVg5zkNsAMct5uJIg1CrZiPL) - 那艺娜
-1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
+1. [执子之手 (剪辑2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [风经过，唱离合（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okllg5DG2MmUF3aiiDfBZx6ZLvfwOTtbCEAHyI) - 婉枫 & 张朕
 1. [rover kil （剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEB6AW4zhigOVsnMfckvAiXc3BoUSiI3kAa6OQ) - FLYSBR
-1. [BABYDOLL (Speed Up)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oktzW0IgCvCF4ERGPnZD45fextDCABBMNQ3mpl) - 阿贵的盒子。
-1. [时光晃呀晃 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
+1. [BABYDOLL (Speed Up)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oktzW0IgCvCF4ERGPnZD45fextDCABBMNQ3mpl) - 阿贵的盒子。
+1. [时光晃呀晃 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
 1. [苹果香Dj（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEeIEQbYGAOspCTRAIeYF4Ok8LgZ8NBaRe4ztR) - 黑大婶回乡带娃
-1. [Moonlit Dream (1.1x)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4gcBzLA6DbiW6isn4MQqHBmVbQPnf3J6DZIgB) - DLSS & Xun Jia
+1. [Moonlit Dream (1.1x)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4gcBzLA6DbiW6isn4MQqHBmVbQPnf3J6DZIgB) - DLSS & Xun Jia
 1. [Hours（间奏）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0aLt3QAaYFFmEfe2nzpkpfoNoD8BC0YcIjNHn) - DLSS
 1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
-1. [Lifestyle（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
+1. [Lifestyle（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
 1. [如果你是一首歌 主歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oECjBtQmQEDDkZNM057fBFLuWDtYDyIjGOpeVg) - PAN
 1. [I Wanted You（神兔小P Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4CAubmDQdZeEkstFnCvKIMDag8D2BSBOjfNuh) - 神兔小P
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [TOOOOO BUSY-副歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0fmjGZetNDjSM5EimFs2QlzBg30YgByJMRQrC) - 王霏霏
-1. [不遗憾（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAhz2EsWIABN1MJcFykQzDsthAfusdrzjFntaF) - 1coco
+1. [不遗憾（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAhz2EsWIABN1MJcFykQzDsthAfusdrzjFntaF) - 1coco
 1. [爱在每个瞬间（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE8ttbF6uIDQ9gKC3RpgffEQmqMEZSpADJgmbB) - 王小涛
-1. [记忆中的你](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCn9LiMIAQzWgMf3DihhRp9Trd8LWBmBAIsQx) - Takuau
+1. [记忆中的你](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCn9LiMIAQzWgMf3DihhRp9Trd8LWBmBAIsQx) - Takuau
 1. [NUNA2.0 (单人版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c11ee573182b4a3594f671adac939332) - 队长/叶琼琳
 
 ## 品牌榜
