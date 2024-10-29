@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-10-30 02:24:11 +0800`
+`更新时间：2024-10-30 03:15:37 +0800`
 
 ## 抖音热榜
 
 1. 小米SU7 Ultra预售价81.49万
-1. 缺失的生死教育在此刻补上了
+1. 神十九瞄准30日4时27分发射
 1. 全国秋收接近尾声
+1. 缺失的生死教育在此刻补上了
 1. “种完麦子我就往南走”
 1. 用APT打开秋冬穿搭
 1. 皮衣的cleanfit去油穿搭法
+1. 哪个小孩哥小孩姐能拒绝这些玩具
 1. 中国女足2:0越南
 1. 直击神十九发射
 1. 央行征信中心辟谣征信恢复新规
-1. 神十九瞄准30日4时27分发射
-1. 哪个小孩哥小孩姐能拒绝这些玩具
+1. 如何评价滕哈赫在曼联功过
+1. 每个镜头都有它的故事
+1. A股再现10倍股
+1. 陈乔恩自曝双重人格
 1. 一字诀也是火起来了
 1. 当你选择穷游
 1. 大梦归离丞磊娜扎初代妖神cp
-1. A股再现10倍股
-1. 陈乔恩自曝双重人格
-1. 每个镜头都有它的故事
 1. 娄艺潇野生汉服宣传大使
-1. 以色列为何不停宣布胜利
 1. 小米新品发布会
 1. 李小龙模仿者回应被向佐扇巴掌
 1. 前央视主持人顾国宁病逝
 1. 77岁校长为学生“一生不婚”
+1. 不要渲染股市中狂赚个案
 1. 哈里斯让台下喊出自己名字却冷场
 1. 长沙出现世纪晚霞
-1. 赵露思的唐装美如壁画
-1. 不要渲染股市中狂赚个案
-1. 如何评价滕哈赫在曼联功过
-1. 当地回应干部为躲避群众跳窗逃跑
-1. 赵牧辰通宵给阮小咪做告白礼物
-1. 小巷人家母女默契怼恶婆婆
-1. 官方通报机械师被列车碰撞身亡
-1. iOS 18.1正式版推送
+1. 以色列为何不停宣布胜利
 1. 戴手套是多少医学生的噩梦
 1. 俄称击毙4名外国雇佣兵
-1. 官方回应保安砍杀一家三口
+1. 赵牧辰通宵给阮小咪做告白礼物
+1. 当地回应干部为躲避群众跳窗逃跑
+1. 赵露思的唐装美如壁画
+1. 神舟十九号飞行乘组亮相
+1. 小巷人家母女默契怼恶婆婆
 1. 神舟十九发射有哪些关注点
-1. 特朗普给选民发的短信说了什么
+1. 官方回应保安砍杀一家三口
+1. SU7 Ultra量产版能上路
+1. iOS 18.1正式版推送
 1. 像玫瑰错过花期 而我错过你
-1. 郭艾伦单防造成佩里走步
-1. 头发一边倒 励志当女皇
 1. BLG全队换上伦敦臂章
-1. 我试着把孤独藏进耳机
-1. 罗德里夺得金球奖
+1. 特朗普给选民发的短信说了什么
 1. 詹姆斯打出湖人生涯最差一战
+1. 头发一边倒 励志当女皇
+1. 我试着把孤独藏进耳机
 1. 再唱一曲我的楼兰
+1. 罗德里夺得金球奖
+1. 郭艾伦单防造成佩里走步
 1. 蛋仔派对龙与剑之诗
-1. G7谈妥动用俄资产收益援乌细节
-1. 普通朋友翻唱
+1. 我是幸福的旁观者
 
 ## 明星榜
 
@@ -75,24 +75,24 @@
 
 ## 音乐榜
 
-1. [青丝（创业进行曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooYARJB5iBRNhCOkDsS3BAKW91CIMoQfwzwKLi) - 时光胶囊乐队
+1. [青丝（创业进行曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooYARJB5iBRNhCOkDsS3BAKW91CIMoQfwzwKLi) - 时光胶囊乐队
 1. [冬眠（BONGX星星 Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMCfFFoE3LwQ7agAgOIG4ieExqkeAsxNBEkLdz) - BONGX星星
-1. [春不晚（DJHZ剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osEZa7YZ6wNo9QDABgfGFaCQKRQTNafsBJDnKt) - 冰洁
+1. [春不晚（DJHZ剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osEZa7YZ6wNo9QDABgfGFaCQKRQTNafsBJDnKt) - 冰洁
 1. [trust me（Ly Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUo1M8fz5AfmMSExABQQKFE0eCMWgsiccfqrMA) - Ly
-1. [小行星 (副歌)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oArWEvgkJwVsB0KMIw6iBsAoHAciIjJqzWeTQr) - 黄誉博
+1. [小行星 (副歌)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oArWEvgkJwVsB0KMIw6iBsAoHAciIjJqzWeTQr) - 黄誉博
 1. [Lifestyle（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
-1. [雨的心跳](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0vI5NZuiJgxWIQQFhXO0RTrsiIAsBSiMIECz) - Youzee Music
-1. [风经过，唱离合（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okllg5DG2MmUF3aiiDfBZx6ZLvfwOTtbCEAHyI) - 婉枫 & 张朕
-1. [苹果香Dj（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEeIEQbYGAOspCTRAIeYF4Ok8LgZ8NBaRe4ztR) - 黑大婶回乡带娃
-1. [Go off（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYLJZTCGnIQBt2BsMBCFksOEMnDQesCr2gfZ7N) - NIKS
+1. [雨的心跳](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0vI5NZuiJgxWIQQFhXO0RTrsiIAsBSiMIECz) - Youzee Music
+1. [风经过，唱离合（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okllg5DG2MmUF3aiiDfBZx6ZLvfwOTtbCEAHyI) - 婉枫 & 张朕
+1. [苹果香Dj（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEeIEQbYGAOspCTRAIeYF4Ok8LgZ8NBaRe4ztR) - 黑大婶回乡带娃
+1. [Go off（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYLJZTCGnIQBt2BsMBCFksOEMnDQesCr2gfZ7N) - NIKS
 1. [白鸽乌鸦相爱的戏码](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMVVEf6eDAOmFtNtCsEqKpIorBDM8Nkg6TZRqC) - 皮卡潘
-1. [秋风（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocGaU84LfAfzMd2wbXdQFpCGhBiXg82JNMRRie) - 四熹丸子
-1. [You R（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oc0MZn9aEfLkCFLIxKQQcgBjS9mBBuDttYPfZ1) - 赵露思
+1. [秋风（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocGaU84LfAfzMd2wbXdQFpCGhBiXg82JNMRRie) - 四熹丸子
+1. [You R（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oc0MZn9aEfLkCFLIxKQQcgBjS9mBBuDttYPfZ1) - 赵露思
 1. [Shakera](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocKtEBgQ8FiQCBDf3nj9Z9gEGEQ4fAZDYEocLY) - HMHK
 1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
 1. [无声无息（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osmzBBdYMBoz2NHW7AYiZEErnITswCiYzuA3Nf) - 李玖哲
-1. [才二十三（岁月眨眼就过了）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYAvkTrUXEBMWYUbL3nl8i01MJ5skiIZASC2H) - 方大同
-1. [I Wanted You（神兔小P Remix）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4CAubmDQdZeEkstFnCvKIMDag8D2BSBOjfNuh) - 神兔小P
+1. [才二十三（岁月眨眼就过了）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYAvkTrUXEBMWYUbL3nl8i01MJ5skiIZASC2H) - 方大同
+1. [I Wanted You（神兔小P Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4CAubmDQdZeEkstFnCvKIMDag8D2BSBOjfNuh) - 神兔小P
 1. [棉花糖（神兔小P Remix）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0pEDf1GaEfEYJ1FbgOAFCITQ1zeFD3kgBWGcG) - 神兔小P
 1. [坚强笨女人（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ospNInQiZvGWyBVg5zkNsAMct5uJIg1CrZiPL) - 那艺娜
 
