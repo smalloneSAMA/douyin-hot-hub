@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-11-02 20:31:21 +0800`
+`更新时间：2024-11-02 21:21:32 +0800`
 
 ## 抖音热榜
 
 1. BLG对战T1
-1. 上海海港卫冕中超冠军
-1. 中国航天员乘组完成在轨交接
-1. Bin说要零封T1
-1. 买车真正的意义
-1. 卢昱晓好卡点的手势舞
-1. 谢谢这位初中妹妹带来的勇气
 1. 全网老公都在回答吃几个瑞士卷
+1. 中国航天员乘组完成在轨交接
+1. 上海海港卫冕中超冠军
+1. Bin说要零封T1
+1. 谢谢这位初中妹妹带来的勇气
+1. 卢昱晓好卡点的手势舞
+1. 刘德华台北演唱会唱中国人
 1. 单车到开封
 1. 公安网安：揭开帮信罪真面目
-1. 永夜星河真“露骨”
+1. 买车真正的意义
 1. 雷军辟谣“偷喝员工酸奶”
 1. 发型师晓华直播间涌入多位理发师
+1. Uzi说今晚偷奖杯
 1. 郑钦文vs萨巴伦卡
+1. 永夜星河真“露骨”
 1. 永夜星河首播口碑
-1. 陈都灵大梦归离永夜星河有效美
-1. 刘德华台北演唱会唱中国人
-1. 世界就是一个圆
+1. 付航忘加何老师好友
+1. 官方通报黑龙江一列车脱轨
 1. 林俊杰重庆演唱会
-1. 新疆婚礼有多热闹
+1. 世界就是一个圆
 1. 奶龙也燃起来了
+1. 新疆婚礼有多热闹
 1. 不同城市保暖好物
 1. 老詹击地背传助攻浓眉
-1. 拍一张秋天的落叶
-1. 几句话把老公CPU干烧了
 1. 珠帘玉幕观后感
 1. 幸福在此刻具象化
 1. 当猫咪捡了一部手机
 1. 张九南婚礼
+1. 拍一张秋天的落叶
 1. 郭艾伦抵达沈阳调侃球迷
 1. 谢谢你成为我的屏保
+1. 如何看王健林出售海外资产
 1. 权志龙新歌我先用
 1. 我还是觉得我是个特别好的人
+1. 几句话把老公CPU干烧了
 1. 现在的我你高攀不起
 1. 终于理解小孩这首歌的意义了
-1. 如何看王健林出售海外资产
 1. 又到了听罗生门的季节了
-1. S14决赛预测
-1. 一颗糖骗出一个你
+1. 林诗栋蒯曼马斯喀特站夺冠
+1. 提前总结今年热梗了
 1. 万物皆可cos
+1. S14决赛预测
 1. 中微子是什么
+1. 一颗糖骗出一个你
 1. 包破防公式是什么梗
 1. 带全班仅有的三名学生去北京
-1. 滕哈赫告别信
-1. 提前总结今年热梗了
-1. 恐怖奶龙系列更新了
-1. 美国大选临近民调结果如何
-1. 泡沫是彩色的 就像被骗的我
 1. 塔图姆34分11板
+1. 美国大选临近民调结果如何
 
 ## 明星榜
 
@@ -77,15 +77,15 @@
 
 1. [青丝（创业进行曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooYARJB5iBRNhCOkDsS3BAKW91CIMoQfwzwKLi) - 时光胶囊乐队
 1. [想你（我和你的关系）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8QxhcOBDYYX0zqKCjFVQXZ3RBffnRBQEogitG) - 董唧唧/何村猪
-1. [APT.](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUIcRnUtZBV1JgZtxIMCAiiBSVBSEEOCFfkeMQ) - ROSÉ & Bruno Mars
+1. [APT.](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUIcRnUtZBV1JgZtxIMCAiiBSVBSEEOCFfkeMQ) - ROSÉ & Bruno Mars
 1. [Lose You（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og9yxQxAWI86iBNr9ojBFMoWTIvDZZb8HwiGY) - elzio
 1. [time nev](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oc6aICzpzBCWrhCvDVi2AZmQLt0gIBxfMEfd6i) - HMHK & T34
-1. [秋风（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocGaU84LfAfzMd2wbXdQFpCGhBiXg82JNMRRie) - 四熹丸子
-1. [冬眠（BONGX星星 Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMCfFFoE3LwQ7agAgOIG4ieExqkeAsxNBEkLdz) - BONGX星星
+1. [秋风（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocGaU84LfAfzMd2wbXdQFpCGhBiXg82JNMRRie) - 四熹丸子
+1. [冬眠（BONGX星星 Remix）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMCfFFoE3LwQ7agAgOIG4ieExqkeAsxNBEkLdz) - BONGX星星
 1. [苹果香Dj（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEeIEQbYGAOspCTRAIeYF4Ok8LgZ8NBaRe4ztR) - 黑大婶回乡带娃
-1. [时代进行曲 (Original Mix剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYrssziLdrtiW6cKABM8n5Vfc2xwXiIBInoAkn) - VZEUS
-1. [trust me（Ly Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUo1M8fz5AfmMSExABQQKFE0eCMWgsiccfqrMA) - Ly
-1. [白鸽乌鸦相爱的戏码](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMVVEf6eDAOmFtNtCsEqKpIorBDM8Nkg6TZRqC) - 皮卡潘
+1. [时代进行曲 (Original Mix剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYrssziLdrtiW6cKABM8n5Vfc2xwXiIBInoAkn) - VZEUS
+1. [trust me（Ly Remix）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUo1M8fz5AfmMSExABQQKFE0eCMWgsiccfqrMA) - Ly
+1. [白鸽乌鸦相爱的戏码](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMVVEf6eDAOmFtNtCsEqKpIorBDM8Nkg6TZRqC) - 皮卡潘
 1. [故乡的风，远方的云 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooPEdiZMrAAWisczq1WXoZYGU6GxII2UUBvYI) - 何雨溪/十八子
 1. [芦苇飞（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok3IaChjEFFoK3FAMzXDEgfpeE6Al3Nv2BnfCW) - 泡芙芙Scarlett
 1. [春不晚（DJHZ剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osEZa7YZ6wNo9QDABgfGFaCQKRQTNafsBJDnKt) - 冰洁
