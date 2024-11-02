@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-11-03 01:14:54 +0800`
+`更新时间：2024-11-03 02:21:35 +0800`
 
 ## 抖音热榜
 
 1. BLG对战T1
-1. 郑钦文不敌萨巴伦卡
-1. 100秒看“两新”工作新在哪
 1. 覃海洋因犯规被取消成绩
+1. 100秒看“两新”工作新在哪
 1. 奶龙也燃起来了
-1. BLG拿到决赛赛点
 1. 单车到开封
+1. 买车真正的意义
+1. BLG与T1战至决胜局
 1. 全网老公都在回答吃几个瑞士卷
 1. T1扳回一城
-1. 世界就是一个圆
 1. 明星版面具之下
+1. 世界就是一个圆
 1. 珠帘玉幕观后感
-1. 买车真正的意义
-1. 山西一网民网上寻娃系谣言
-1. 权志龙新歌我先用
 1. 惊喜跟礼物都是来自爱你的人
-1. 谢谢这位初中妹妹带来的勇气
+1. 山西一网民网上寻娃系谣言
+1. Faker没出装
 1. 我还是觉得我是个特别好的人
-1. 提前总结今年热梗了
-1. 如何看王健林出售海外资产
-1. 幸福在此刻具象化
-1. 拍一张秋天的落叶
-1. 新疆婚礼有多热闹
+1. 谢谢这位初中妹妹带来的勇气
 1. 若没有你那才叫可悲
+1. 权志龙新歌我先用
+1. 提前总结今年热梗了
+1. 幸福在此刻具象化
+1. 如何看王健林出售海外资产
+1. 新疆婚礼有多热闹
+1. 又到了听罗生门的季节了
 1. Elk神箭
-1. 媒体：宝马为何跌入至暗时刻
+1. 拍一张秋天的落叶
 1. 老詹击地背传助攻浓眉
-1. 中微子是什么
+1. 春庭雪古风摇
 1. 塔图姆34分11板
-1. 黄霄雲北京演唱会
-1. 郭艾伦抵达沈阳调侃球迷
-1. 不同城市保暖好物
+1. BLG三抓Zeus
+1. 中微子是什么
 1. 现在的我你高攀不起
 1. 看完焚城的后遗症
-1. 春庭雪古风摇
-1. 包破防公式是什么梗
-1. 谢谢你成为我的屏保
+1. 媒体：宝马为何跌入至暗时刻
+1. 黄霄雲北京演唱会
+1. 郑钦文不敌萨巴伦卡
 1. 几句话把老公CPU干烧了
-1. 武磊夺中超金靴
+1. 谢谢你成为我的屏保
+1. Faker 即使夺冠也会继续努力
 1. 美国大选临近民调结果如何
-1. 万物皆可cos
-1. 当猫咪捡了一部手机
-1. 黑白诀正片才刚刚开始
-1. 周林枫阿嬷
-1. 带全班仅有的三名学生去北京
-1. 又到了听罗生门的季节了
+1. 包破防公式是什么梗
+1. 郭艾伦抵达沈阳调侃球迷
 1. 卢昱晓好卡点的手势舞
+1. 不同城市保暖好物
+1. 带全班仅有的三名学生去北京
+1. 滕哈赫告别信
+1. 万物皆可cos
+1. 周林枫阿嬷
 1. 詹姆斯布朗尼再度同台
 1. 珠帘玉幕销冠挑战
-1. 国乒提前包揽马斯喀特男双冠亚军
 
 ## 明星榜
 
@@ -82,19 +82,19 @@
 1. [Lose You（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og9yxQxAWI86iBNr9ojBFMoWTIvDZZb8HwiGY) - elzio
 1. [time nev](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oc6aICzpzBCWrhCvDVi2AZmQLt0gIBxfMEfd6i) - HMHK & T34
 1. [秋风（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocGaU84LfAfzMd2wbXdQFpCGhBiXg82JNMRRie) - 四熹丸子
-1. [冬眠（BONGX星星 Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMCfFFoE3LwQ7agAgOIG4ieExqkeAsxNBEkLdz) - BONGX星星
+1. [冬眠（BONGX星星 Remix）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMCfFFoE3LwQ7agAgOIG4ieExqkeAsxNBEkLdz) - BONGX星星
 1. [苹果香Dj（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEeIEQbYGAOspCTRAIeYF4Ok8LgZ8NBaRe4ztR) - 黑大婶回乡带娃
-1. [时代进行曲 (Original Mix剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYrssziLdrtiW6cKABM8n5Vfc2xwXiIBInoAkn) - VZEUS
-1. [trust me（Ly Remix）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUo1M8fz5AfmMSExABQQKFE0eCMWgsiccfqrMA) - Ly
-1. [白鸽乌鸦相爱的戏码](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMVVEf6eDAOmFtNtCsEqKpIorBDM8Nkg6TZRqC) - 皮卡潘
+1. [时代进行曲 (Original Mix剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYrssziLdrtiW6cKABM8n5Vfc2xwXiIBInoAkn) - VZEUS
+1. [trust me（Ly Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUo1M8fz5AfmMSExABQQKFE0eCMWgsiccfqrMA) - Ly
+1. [白鸽乌鸦相爱的戏码](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMVVEf6eDAOmFtNtCsEqKpIorBDM8Nkg6TZRqC) - 皮卡潘
 1. [故乡的风，远方的云 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooPEdiZMrAAWisczq1WXoZYGU6GxII2UUBvYI) - 何雨溪/十八子
 1. [芦苇飞（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok3IaChjEFFoK3FAMzXDEgfpeE6Al3Nv2BnfCW) - 泡芙芙Scarlett
 1. [春不晚（DJHZ剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osEZa7YZ6wNo9QDABgfGFaCQKRQTNafsBJDnKt) - 冰洁
-1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
+1. [蜜桃物语](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
 1. [壁上观（雪浸染万千华光）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocIizBMxWi8vA8UdAMIYdYCjgBB5Z3WZWxrvY) - 鞠婧祎
 1. [时光晃呀晃 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
-1. [Lifestyle（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
+1. [Lifestyle（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
 1. [Moonlight Flowing](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oopZsCtRnQgOhEYmv9FfBBgwmeaQmWQQZED9tN) - VZEUS
 1. [坚强笨女人（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ospNInQiZvGWyBVg5zkNsAMct5uJIg1CrZiPL) - 那艺娜
 
