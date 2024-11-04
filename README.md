@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-11-04 10:55:24 +0800`
+`更新时间：2024-11-04 11:27:22 +0800`
 
 ## 抖音热榜
 
-1. 郑州夜骑到开封的女生回应
 1. 神十八返回舱成功着陆
-1. 神十八与空间站组合体成功分离
 1. 曼联1:1切尔西
-1. 今年会是冷冬吗
-1. 神十八航天员平安抵京
-1. 美国大选临近民调结果如何
-1. 航天员回地球的第一顿饭
+1. 神十八与空间站组合体成功分离
 1. 轰6K抵达珠海参加中国航展
+1. 郑州夜骑到开封的女生回应
+1. 神十八航天员平安抵京
+1. 今年会是冷冬吗
+1. 航天员回地球的第一顿饭
+1. 她说家务要一起分担
 1. 公安网安：成都连环奸杀案不实
 1. 重庆政法委书记陆克华被查
 1. 所以我还能吃瑞士卷吗
-1. 抽到虞书欣永夜星河电子签了
 1. 张本智和淘汰
+1. 抽到虞书欣永夜星河电子签了
 1. 姿态谈BLG输T1
-1. 她说家务要一起分担
-1. G2夺BLAST世界总决赛冠军
-1. 大梦归离乐景衬哀情
 1. 金晨反复撤回嘴里羊排
+1. 跟着无人机去旅行
+1. 百大红人变装上新啦
+1. Passion在开封夜骑里具像化了
 1. 景区辟谣男子跳伞开伞失败
 1. 山城小栗旬直播间被抓包
-1. 跟着无人机去旅行
-1. 7:59和8:00的男生
 1. 刘德华唱的中国人作者来自台湾
-1. 百大红人变装上新啦
+1. 7:59和8:00的男生
+1. 如何看待明星摇人式剧宣
+1. 美国大选临近民调结果如何
 1. 梅西将出席巴萨125周年庆
 1. 淘宝买茅台不支持7天无理由退货
-1. 黄磊回应被指“好为人师”
-1. 开封大学生开始反击了
-1. 巴萨3:1西班牙人
-1. 主办方否认王心凌演出提前离场
-1. 郑钦文4日晚对战莱巴金娜
-1. 叶光富妈妈落泪
-1. 大连英博冲超成功
-1. 如何看待明星摇人式剧宣
-1. 孙滢皓好有种
-1. 贾冰自曝是卧底但没人信
-1. 半个抖音都在应援珠帘玉幕
-1. 曝周冠宇F1生涯或将终结
 1. 容祖儿演唱会失声向粉丝道歉
-1. 全网老公都在回答吃几个瑞士卷
+1. 巴萨3:1西班牙人
+1. 大连英博冲超成功
+1. 贾冰自曝是卧底但没人信
+1. 郑钦文4日晚对战莱巴金娜
+1. G2夺BLAST世界总决赛冠军
+1. 大梦归离乐景衬哀情
+1. 黄磊回应被指“好为人师”
 1. 只管出发 家乡永远在你身后
-1. 时髦又实穿的秋冬鞋子分享
+1. 开封大学生开始反击了
+1. 主办方否认王心凌演出提前离场
 1. 巴菲特卖掉1亿股苹果股票
-1. 周一精神状态
-1. 爱你老妈明天见
+1. 孙滢皓好有种
+1. 半个抖音都在应援珠帘玉幕
+1. 全网老公都在回答吃几个瑞士卷
+1. 时髦又实穿的秋冬鞋子分享
 1. 神十八航天员出舱 状态良好
+1. 端午燕子京船舱密室暧昧感
+1. 周一精神状态
 1. 慕声下意识的细节最戳人
-1. 大梦归离山神爷爷下线大虐
+1. 爱你老妈明天见
+1. 李大霄：中国股市新特征
 1. 奶龙也燃起来了
 
 ## 明星榜
@@ -76,21 +76,21 @@
 
 ## 音乐榜
 
-1. [想你（我和你的关系）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8QxhcOBDYYX0zqKCjFVQXZ3RBffnRBQEogitG) - 董唧唧/何村猪
+1. [想你（我和你的关系）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8QxhcOBDYYX0zqKCjFVQXZ3RBffnRBQEogitG) - 董唧唧/何村猪
 1. [APT.](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUIcRnUtZBV1JgZtxIMCAiiBSVBSEEOCFfkeMQ) - ROSÉ & Bruno Mars
-1. [Lose You（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og9yxQxAWI86iBNr9ojBFMoWTIvDZZb8HwiGY) - elzio
+1. [Lose You（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og9yxQxAWI86iBNr9ojBFMoWTIvDZZb8HwiGY) - elzio
 1. [time nev](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oc6aICzpzBCWrhCvDVi2AZmQLt0gIBxfMEfd6i) - HMHK & T34
-1. [秋风（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocGaU84LfAfzMd2wbXdQFpCGhBiXg82JNMRRie) - 四熹丸子
+1. [秋风（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocGaU84LfAfzMd2wbXdQFpCGhBiXg82JNMRRie) - 四熹丸子
 1. [冬眠（BONGX星星 Remix）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMCfFFoE3LwQ7agAgOIG4ieExqkeAsxNBEkLdz) - BONGX星星
 1. [苹果香Dj（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEeIEQbYGAOspCTRAIeYF4Ok8LgZ8NBaRe4ztR) - 黑大婶回乡带娃
 1. [时代进行曲 (Original Mix剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYrssziLdrtiW6cKABM8n5Vfc2xwXiIBInoAkn) - VZEUS
-1. [trust me（Ly Remix）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUo1M8fz5AfmMSExABQQKFE0eCMWgsiccfqrMA) - Ly
-1. [白鸽乌鸦相爱的戏码](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMVVEf6eDAOmFtNtCsEqKpIorBDM8Nkg6TZRqC) - 皮卡潘
+1. [trust me（Ly Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUo1M8fz5AfmMSExABQQKFE0eCMWgsiccfqrMA) - Ly
+1. [白鸽乌鸦相爱的戏码](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMVVEf6eDAOmFtNtCsEqKpIorBDM8Nkg6TZRqC) - 皮卡潘
 1. [故乡的风，远方的云 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooPEdiZMrAAWisczq1WXoZYGU6GxII2UUBvYI) - 何雨溪/十八子
 1. [芦苇飞（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok3IaChjEFFoK3FAMzXDEgfpeE6Al3Nv2BnfCW) - 泡芙芙Scarlett
 1. [春不晚（DJHZ剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osEZa7YZ6wNo9QDABgfGFaCQKRQTNafsBJDnKt) - 冰洁
-1. [蜜桃物语](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
-1. [壁上观（雪浸染万千华光）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocIizBMxWi8vA8UdAMIYdYCjgBB5Z3WZWxrvY) - 鞠婧祎
+1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
+1. [壁上观（雪浸染万千华光）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocIizBMxWi8vA8UdAMIYdYCjgBB5Z3WZWxrvY) - 鞠婧祎
 1. [时光晃呀晃 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [Lifestyle（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
