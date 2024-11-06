@@ -11,60 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-11-06 17:20:18 +0800`
+`更新时间：2024-11-06 18:19:20 +0800`
 
 ## 抖音热榜
 
 1. 特朗普宣布胜选
 1. 发型师晓华给我剪了头发
-1. 我国沙化土地面积净减少6500万亩
+1. 一年一度的进博会又有新纪录
 1. 这学期已经过去10周了
 1. 二龙湖浩哥被天津消防“重伤了”
 1. 特朗普发表胜选演讲
 1. 外交部回应美国大选结果
-1. 权志龙模仿大赛
-1. 明日立冬
+1. 曝上海男篮与沃特斯解约
+1. 斯洛伐克总理向反华派喊话
 1. 央视对话自杀“粉发女孩”网暴者
 1. 共和党赢得美国参议院控制权
-1. 赵丽颖超短发路透
-1. 虞书欣拍出了男明星最帅的样子
-1. 像素越高照片越清晰吗
-1. 怪奇物语第五季
-1. 我的crush降临了
-1. 永夜星河炸火花模仿大赛
-1. 权志龙说不要再少人了
-1. 麦琳父母认为麦琳不工作是错事
-1. 杨紫破茧成蝶生日大片
+1. 马斯克刷大火箭祝贺特朗普
+1. 权志龙模仿大赛
+1. 特朗普当选总统意味着什么
 1. 是你的话 也未尝不可
-1. Uzi回应G2邀请
-1. 曝上海男篮与沃特斯解约
-1. 许玮甯新剧尺度好大
+1. 永夜星河炸火花模仿大赛
+1. 我的crush降临了
+1. 明日立冬
 1. 回家 回家有爱就不怕
-1. 雷军送俞敏洪小米15钻石版
-1. 斯洛伐克总理向反华派喊话
-1. 诸葛亮新皮肤
-1. 周雨彤连夜整理行程
-1. 普京接受28国新任大使递交国书
+1. 麦琳父母认为麦琳不工作是错事
+1. Uzi回应G2邀请
+1. 赵丽颖超短发路透
+1. 怪奇物语第五季
 1. 当外国室友知道侯明昊是演员
-1. 美国大选为何宾州这么重要
-1. 爱情的故事分分合合
-1. 普通话挑战逐渐暴躁
-1. 沈腾版因为爱情我先用了
-1. 川影月评
+1. 权志龙说不要再少人了
+1. 虞书欣拍出了男明星最帅的样子
 1. 萨克斯魔性律动舞
+1. 诸葛亮新皮肤
+1. 实现了全自动化妆
+1. 杨紫破茧成蝶生日大片
+1. 许玮甯新剧尺度好大
+1. 周雨彤连夜整理行程
+1. 普通话挑战逐渐暴躁
+1. 美国大选乱象
 1. 山城小栗旬来晓华这偷师了
+1. 川影月评
 1. 29分钟解读李行亮麦琳夫妻
-1. 斗笑社全员炸街
-1. 黑神话悟空随机BOSS争霸赛
 1. 田姥姥回应最近状态
 1. 给爱说话的学生戴上小蜜蜂
-1. 谁家没点土特产
-1. 文潇的八年也是陈都灵的八年
-1. 童年的快乐真的藏不住
-1. 万古最强宗动画开播
-1. 挑战用订书钉组一辆迷你小车
+1. 美国大选为何宾州这么重要
+1. 爱情的故事分分合合
 1. 这些旧歌都杀回来了
+1. 谁家没点土特产
+1. 雷军送俞敏洪小米15钻石版
+1. 斗笑社全员炸街
+1. 沈腾版因为爱情我先用了
+1. 挑战用订书钉组一辆迷你小车
 1. 警方辟谣网传柳州女子喝醉被强暴
+1. 黑神话悟空随机BOSS争霸赛
 
 ## 明星榜
 
@@ -76,26 +75,7 @@
 
 ## 音乐榜
 
-1. [想你（我和你的关系）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8QxhcOBDYYX0zqKCjFVQXZ3RBffnRBQEogitG) - 董唧唧/何村猪
-1. [APT.](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUIcRnUtZBV1JgZtxIMCAiiBSVBSEEOCFfkeMQ) - ROSÉ & Bruno Mars
-1. [Lose You（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og9yxQxAWI86iBNr9ojBFMoWTIvDZZb8HwiGY) - elzio
-1. [time nev](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oc6aICzpzBCWrhCvDVi2AZmQLt0gIBxfMEfd6i) - HMHK & T34
-1. [秋风（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocGaU84LfAfzMd2wbXdQFpCGhBiXg82JNMRRie) - 四熹丸子
-1. [冬眠（BONGX星星 Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMCfFFoE3LwQ7agAgOIG4ieExqkeAsxNBEkLdz) - BONGX星星
-1. [苹果香Dj（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEeIEQbYGAOspCTRAIeYF4Ok8LgZ8NBaRe4ztR) - 黑大婶回乡带娃
-1. [时代进行曲 (Original Mix剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYrssziLdrtiW6cKABM8n5Vfc2xwXiIBInoAkn) - VZEUS
-1. [trust me（Ly Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUo1M8fz5AfmMSExABQQKFE0eCMWgsiccfqrMA) - Ly
-1. [白鸽乌鸦相爱的戏码](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMVVEf6eDAOmFtNtCsEqKpIorBDM8Nkg6TZRqC) - 皮卡潘
-1. [故乡的风，远方的云 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooPEdiZMrAAWisczq1WXoZYGU6GxII2UUBvYI) - 何雨溪/十八子
-1. [芦苇飞（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok3IaChjEFFoK3FAMzXDEgfpeE6Al3Nv2BnfCW) - 泡芙芙Scarlett
-1. [春不晚（DJHZ剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osEZa7YZ6wNo9QDABgfGFaCQKRQTNafsBJDnKt) - 冰洁
-1. [蜜桃物语](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
-1. [壁上观（雪浸染万千华光）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocIizBMxWi8vA8UdAMIYdYCjgBB5Z3WZWxrvY) - 鞠婧祎
-1. [时光晃呀晃 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
-1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
-1. [Lifestyle（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
-1. [Moonlight Flowing](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oopZsCtRnQgOhEYmv9FfBBgwmeaQmWQQZED9tN) - VZEUS
-1. [坚强笨女人（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ospNInQiZvGWyBVg5zkNsAMct5uJIg1CrZiPL) - 那艺娜
+暂无数据
 
 ## 品牌榜
 
