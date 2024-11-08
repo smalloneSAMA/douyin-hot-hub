@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-11-09 03:14:08 +0800`
+`更新时间：2024-11-09 04:18:44 +0800`
 
 ## 抖音热榜
 
@@ -20,50 +20,50 @@
 1. 2.8万吨矮塔斜拉桥成功 “转身”
 1. 刀郎澳门演唱会
 1. 郑钦文挺进决赛
-1. 谢娜首聊双胞胎
 1. 一个视频看懂化债
-1. 普京称北约早已落后于时代
-1. 能源法2025年1月1日起施行
 1. 她实在可爱有点脾气怎么了
-1. 是想想帮赵丽颖发的抖音吗
-1. 司空震变异调整上线体验服
 1. 绿豆直播一周年AG全明星内战
 1. APT的风吹到了和平精英
+1. 普京称北约早已落后于时代
+1. 是想想帮赵丽颖发的抖音吗
+1. 能源法2025年1月1日起施行
 1. 俄军在顿巴斯前线积极备战
 1. 永夜星河子期npc自我意识觉醒
-1. 深度解读战斗机中隐身与反隐身
+1. 谢娜首聊双胞胎
 1. 古早甜妹发型
-1. 涵艺说WBG中路准备签Chovy
-1. 理发师晓华回应同行质疑
+1. 司空震变异调整上线体验服
+1. 深度解读战斗机中隐身与反隐身
 1. 永夜星河什么时候出实体卡
-1. 军迷看运20释放加油管有多激动
+1. 理发师晓华回应同行质疑
+1. 58岁泰森即将再登拳击台
 1. 涵艺爆料TheShy将复出
+1. 涵艺说WBG中路准备签Chovy
+1. 军迷看运20释放加油管有多激动
+1. 浙江省委原书记易炼红履新职
+1. 丁俊晖晋级国锦赛四强
 1. 歼20苏57珠海合照来了
+1. 海浪无缝转场
 1. 美联储宣布降息25个基点
 1. 中方工作人员围观苏57
 1. 庄超英被向鹏飞当面教育
-1. 丁俊晖晋级国锦赛四强
-1. 属于彭高的30秒图书馆文学
-1. 麦琳说回去要把钱交给李行亮管
 1. 权志龙晒龙年茅台酒
-1. 歼35A飞行训练画面
-1. 海浪无缝转场
-1. 普京祝贺特朗普当选美国总统
 1. 入冬钓鱼指南
+1. 普京祝贺特朗普当选美国总统
 1. 葛夕：我为什么离婚就一定要再找
 1. 风吹雨成花
-1. 浙江省委原书记易炼红履新职
-1. 台积电回应芯片停供传闻
-1. 58岁泰森即将再登拳击台
 1. 星空物语又杀回来了
+1. 麦琳说回去要把钱交给李行亮管
 1. 黄晓明新片浴室被打戏好窒息
 1. 永夜星河唱跳闯关模式
 1. 专家建议18到25岁年轻人多谈恋爱
-1. 虞书欣最新语录我先用了
-1. 北方冬天旅游反向攻略已出
 1. 猫：请看无实物表演
-1. 刘伟任交通运输部部长
+1. 台积电回应芯片停供传闻
+1. 北方冬天旅游反向攻略已出
+1. 13名假球赌球涉案人员申诉被驳回
+1. 虞书欣最新语录我先用了
 1. 曹云金回应近期相声界风波
+1. 增加地方政府债务限额6万亿
+1. 刘伟任交通运输部部长
 
 ## 明星榜
 
@@ -78,27 +78,27 @@
 1. [APT.](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMitvOeWIsKUFLkAPLgQcADSIToLCQGEaYeezw) - ROSÉ & Bruno Mars
 1. [如果月亮会说话（片段）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4K7iABicIJxMsEwFKWgbcMz0FbnBfDAolBz4G) - 王心凌
 1. [想你（我和你的关系）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8QxhcOBDYYX0zqKCjFVQXZ3RBffnRBQEogitG) - 董唧唧/何村猪
-1. [第一次爱的人 (DJ版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUC2F4BUCFIYeaeKIOEDimfLM3l9AJzTDgpmlz) - DJ铁柱
+1. [第一次爱的人 (DJ版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUC2F4BUCFIYeaeKIOEDimfLM3l9AJzTDgpmlz) - DJ铁柱
 1. [Panic](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAmDmzQbIEdf8xCAjOntKDYBCMvBN5RfgCWF4Z) - elzio
-1. [莫怕莫怕（落叶说秋天真好看）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIBbZeDHJYxfyzvLn128QMhEQG8FQtnIBYgCKG) - 任素汐
+1. [莫怕莫怕（落叶说秋天真好看）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIBbZeDHJYxfyzvLn128QMhEQG8FQtnIBYgCKG) - 任素汐
 1. [Just a Picture（主歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oc0usFBZCDnAGbtQig7oCaDsQfCYjcAEfWYQkF) - Beijing Dream Land
 1. [Horse Memphis Type Beat（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUfzYBssWABidQViwtitEIYogX38MQAwFaMhzB) - Vito Cory
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQgIWEsjiiBuIkQQMsqBhfc0GD3B4zzgoAgvAI) - Ly
 1. [Yasashi](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEIqAlutRBGQZgZf2VMCuFEBmaD2bgJG6fCQaQ) - CXSPER
-1. [时代进行曲 (Original Mix剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYrssziLdrtiW6cKABM8n5Vfc2xwXiIBInoAkn) - VZEUS
-1. [白鸽乌鸦相爱的戏码](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMVVEf6eDAOmFtNtCsEqKpIorBDM8Nkg6TZRqC) - 皮卡潘
+1. [时代进行曲 (Original Mix剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYrssziLdrtiW6cKABM8n5Vfc2xwXiIBInoAkn) - VZEUS
+1. [白鸽乌鸦相爱的戏码](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMVVEf6eDAOmFtNtCsEqKpIorBDM8Nkg6TZRqC) - 皮卡潘
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [孤独患者(国)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAGbVQdeQIbpeaqGWZY15GVFeY7cAg8eAKFLJm) - 陈奕迅
 1. [秋风（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocGaU84LfAfzMd2wbXdQFpCGhBiXg82JNMRRie) - 四熹丸子
 1. [Lose You（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og9yxQxAWI86iBNr9ojBFMoWTIvDZZb8HwiGY) - elzio
-1. [时光晃呀晃 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
+1. [时光晃呀晃 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
 1. [Do You Like Me](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0DOU6BbDYoZqvzjCxFgNMZDWBfanFAQEegqtF) - Beijing Dream Land
-1. [Moonlight Flowing](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oopZsCtRnQgOhEYmv9FfBBgwmeaQmWQQZED9tN) - VZEUS
-1. [Hours（时光）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oES9g0DgeYmDFDVCLNfBZZsnLvGF4utxCEAm1Q) - DLSS
+1. [Moonlight Flowing](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oopZsCtRnQgOhEYmv9FfBBgwmeaQmWQQZED9tN) - VZEUS
+1. [Hours（时光）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oES9g0DgeYmDFDVCLNfBZZsnLvGF4utxCEAm1Q) - DLSS
 1. [坚强笨女人（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ospNInQiZvGWyBVg5zkNsAMct5uJIg1CrZiPL) - 那艺娜
-1. [芦苇飞（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok3IaChjEFFoK3FAMzXDEgfpeE6Al3Nv2BnfCW) - 泡芙芙Scarlett
-1. [time nev](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oc6aICzpzBCWrhCvDVi2AZmQLt0gIBxfMEfd6i) - HMHK & T34
-1. [蜜桃物语](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
+1. [芦苇飞（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ok3IaChjEFFoK3FAMzXDEgfpeE6Al3Nv2BnfCW) - 泡芙芙Scarlett
+1. [time nev](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oc6aICzpzBCWrhCvDVi2AZmQLt0gIBxfMEfd6i) - HMHK & T34
+1. [蜜桃物语](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [Lifestyle（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
 
