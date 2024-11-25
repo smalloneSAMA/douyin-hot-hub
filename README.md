@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-11-26 04:20:34 +0800`
+`更新时间：2024-11-26 05:17:34 +0800`
 
 ## 抖音热榜
 
 1. IG新赛季阵容曝光
-1. 马斯克批评F35战斗机过时
-1. 首艘新型大型LNG运输船交付
 1. 泽连斯基：正检查“榛树”导弹残骸
+1. 首艘新型大型LNG运输船交付
 1. 全国多地迎降雪天气
-1. 周鸿祎出演短剧
-1. 律师支招被家暴了先别找熟人
-1. Niko安慰失落的Donk
+1. 马斯克批评F35战斗机过时
 1. 中国人有自己的碳水
-1. 无状态老头杯复盘
-1. 把华为Mate发展史浓缩成24小时
+1. Niko安慰失落的Donk
 1. 同事称石铭温柔低调
-1. 战争对俄罗斯经济的影响
+1. 律师支招被家暴了先别找熟人
+1. 把华为Mate发展史浓缩成24小时
+1. 无状态老头杯复盘
+1. 冬日下班爱去的夜宵胜地
+1. 周鸿祎出演短剧
 1. 贺州辟谣无故砸毁大量电动车
 1. 网易云音乐喊话QQ音乐
-1. 冬日下班爱去的夜宵胜地
 1. 阿黛尔暂停个人事业
 1. 俄乌库尔斯克战线渐变堑壕战
+1. 战争对俄罗斯经济的影响
+1. 一口气了解通胀
 1. 不露腿冬季实用主义穿搭
 1. 叶嘉莹经典文学作品解读
-1. 菲律宾副总统称已安排杀手
-1. 一口气了解通胀
-1. 林一沈月一直扭头看刘亦菲
+1. 在抖音读懂红楼梦
 1. 入冬了抖来吃点知识细糠
+1. 菲律宾副总统称已安排杀手
+1. 林一沈月一直扭头看刘亦菲
 1. 把麦琳金句编成舞
-1. 何小鹏感谢雷军
-1. 韩剧现在拨打的电话好看吗
-1. Kanavi被曝加入TES
-1. 继承者们OST响起回忆拉满
-1. 老白与航天公益事业
-1. 日媒称王楚钦是无法逾越的高墙
-1. 用尽全力给你唱首歌
-1. 黄子韬：已老实求放过
-1. 秋去冬来慢摇我先跳
-1. 周冠宇绝杀
-1. 永夜星河喊你用星宝特效
-1. 陈志朋：那是我来时的路
-1. 2年遭16次家暴女子盼男方死刑
-1. 电影好东西出现了人传人现象
 1. 被格斗女中医击倒的选手发声
+1. 各省文旅携火锅申请出战
+1. 秋去冬来慢摇我先跳
+1. 陈志朋：那是我来时的路
+1. 老白与航天公益事业
+1. 继承者们OST响起回忆拉满
+1. 韩剧现在拨打的电话好看吗
+1. 用尽全力给你唱首歌
+1. 何小鹏感谢雷军
 1. 鹿晗也来gap一下
-1. 环球时报社评中日关系
+1. Kanavi被曝加入TES
+1. 日媒称王楚钦是无法逾越的高墙
 1. 乌方展示俄榛树导弹残骸
-1. 见面时我们可以是任何样子
+1. 2年遭16次家暴女子盼男方死刑
 1. 王楚钦赛后发文：我回来了
-1. 周鸿祎谈华为鸿蒙独立自研意义
-1. 各地初雪申请出战
-1. 我国再次成功发射一箭双星
+1. 黄子韬：已老实求放过
+1. 环球时报社评中日关系
 1. 德云社纲丝节
+1. 见面时我们可以是任何样子
+1. 各地初雪申请出战
 1. 崔永熙6分1板1助
+1. 周鸿祎谈华为鸿蒙独立自研意义
+1. 我国再次成功发射一箭双星
+1. 李在明“教唆伪证”案一审无罪
 
 ## 明星榜
 
@@ -78,18 +78,18 @@
 
 1. [才二十三](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okABdOmMEBYDDBvkgYQ5JfEqFtCZvQxf4aRjDI) - 方大同
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQgIWEsjiiBuIkQQMsqBhfc0GD3B4zzgoAgvAI) - Ly
-1. [Lifestyle（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
+1. [Lifestyle（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
 1. [Blame You](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAceIDVL0BC2DJC0Qwi8AZnQAtBgZBbMMpfdzi) - E27XG_
-1. [得不到爱是我活该（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os0cIhiBc3fAa9kPjzM5WTrMggiK3sBnZDAwpQ) - 阿發/吴百萬
+1. [得不到爱是我活该（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os0cIhiBc3fAa9kPjzM5WTrMggiK3sBnZDAwpQ) - 阿發/吴百萬
 1. [苹果香Dj（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEeIEQbYGAOspCTRAIeYF4Ok8LgZ8NBaRe4ztR) - 黑大婶回乡带娃
-1. [时代进行曲 (Original Mix剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYrssziLdrtiW6cKABM8n5Vfc2xwXiIBInoAkn) - VZEUS
-1. [Brain Cut（剪辑版1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUaoIwFZZKDkwJRJAIDCMGCfZQngABMtLQEkfZ) - Maz Paliwan
+1. [时代进行曲 (Original Mix剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYrssziLdrtiW6cKABM8n5Vfc2xwXiIBInoAkn) - VZEUS
+1. [Brain Cut（剪辑版1）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUaoIwFZZKDkwJRJAIDCMGCfZQngABMtLQEkfZ) - Maz Paliwan
 1. [Diary（剪辑版1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEWBiATqVW7JXkayIJDTifrZormZzMB1lARswb) - VZEUS
 1. [白鸽乌鸦相爱的戏码](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMVVEf6eDAOmFtNtCsEqKpIorBDM8Nkg6TZRqC) - 皮卡潘
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [我可以（陪你去看星星）副歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAnEppHRQOkagsfC68bDfDCzUUFFLfKAaJuNYt) - 蔡旻佑
-1. [蜜桃物语](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
-1. [APT.](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUIcRnUtZBV1JgZtxIMCAiiBSVBSEEOCFfkeMQ) - ROSÉ & Bruno Mars
+1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
+1. [APT.](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUIcRnUtZBV1JgZtxIMCAiiBSVBSEEOCFfkeMQ) - ROSÉ & Bruno Mars
 1. [第一次爱的人（DJ铁柱版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUC2F4BUCFIYeaeKIOEDimfLM3l9AJzTDgpmlz) - 颜恬初
 1. [莫怕莫怕（落叶说秋天真好看）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIBbZeDHJYxfyzvLn128QMhEQG8FQtnIBYgCKG) - 任素汐
 1. [时光晃呀晃 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
@@ -97,10 +97,10 @@
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [Moonlight Flowing](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oopZsCtRnQgOhEYmv9FfBBgwmeaQmWQQZED9tN) - VZEUS
 1. [风经过，唱离合（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okllg5DG2MmUF3aiiDfBZx6ZLvfwOTtbCEAHyI) - 婉枫 & 张朕
-1. [孤独患者(国)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAGbVQdeQIbpeaqGWZY15GVFeY7cAg8eAKFLJm) - 陈奕迅
-1. [重生之你好某某某（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoUwFBZDDnQKvt0zgswCqQ7QfsN68AEkIYfMI) - 格雷西西西 & 耳朵便利店 & 潘成（皮卡潘） & 程今 & 一只白羊 & 窝窝 & 音乐制作人卢润泽 & 袁小葳 & 向思思 & 黄文文
+1. [孤独患者(国)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAGbVQdeQIbpeaqGWZY15GVFeY7cAg8eAKFLJm) - 陈奕迅
+1. [重生之你好某某某（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoUwFBZDDnQKvt0zgswCqQ7QfsN68AEkIYfMI) - 格雷西西西 & 耳朵便利店 & 潘成（皮卡潘） & 程今 & 一只白羊 & 窝窝 & 音乐制作人卢润泽 & 袁小葳 & 向思思 & 黄文文
 1. [Yasashi](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEIqAlutRBGQZgZf2VMCuFEBmaD2bgJG6fCQaQ) - CXSPER
-1. [雨的心跳](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0vI5NZuiJgxWIQQFhXO0RTrsiIAsBSiMIECz) - Youzee Music
+1. [雨的心跳](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0vI5NZuiJgxWIQQFhXO0RTrsiIAsBSiMIECz) - Youzee Music
 1. [（en版）开始懂了](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ow9G4MKH32zBIDHGvNiTAimWsAJB5QxhCIfIME) - en
 
 ## 品牌榜
