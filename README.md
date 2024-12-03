@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-03 22:16:36 +0800`
+`更新时间：2024-12-03 23:20:33 +0800`
 
 ## 抖音热榜
 
 1. 韩国总统尹锡悦宣布“紧急戒严”
-1. 诺如病毒感染进入高发期
-1. 冰雪产业市场规模将超万亿
 1. 泽连斯基：乌军阵亡人数少于8万
-1. 上海海港1:1光州FC
+1. 冰雪产业市场规模将超万亿
+1. 韩国在野党与警方对峙
+1. 韩国国会出入口被封锁
 1. 香奈儿杭州大秀
-1. 三角洲白泽百万粉首秀
+1. 韩国禁止集会示威等政治活动
 1. 韩国防部召开全军指挥官会议
 1. 多家行业协会呼吁慎购美芯片
-1. 运费险未来何去何从
-1. 斯拉夫穿搭的极致美学
-1. 孙颖莎回应签名只有莎
+1. 尹锡悦：将肃清“反国家势力”
 1. 黄子佼一审被判八个月
+1. 韩国戒严司令部发布一号戒严令
+1. 人走了手还在摸猫
 1. 天津辟谣小升初取消摇号
 1. 著名音乐人刘家昌去世
-1. 人走了手还在摸猫
+1. 上海海港1:1光州FC
+1. 三角洲白泽百万粉首秀
+1. 诺如病毒感染进入高发期
+1. 斯拉夫穿搭的极致美学
+1. 孙颖莎回应签名只有莎
+1. 蓝战非智利vlog
 1. 和我一起出去走走吧
-1. 刘雯香奈儿大秀开场
+1. 孙俪女儿拍甄嬛写真
 1. 朱芳雨：大家的批评已收到
 1. NBA公布官方球队实力榜
-1. 蓝战非智利vlog
-1. ABO血型发现的意义
-1. 孙俪女儿拍甄嬛写真
-1. 张教官回应网友疑问
 1. 特朗普警告哈马斯
-1. 谌龙入选世界羽联名人堂
-1. 如何看待利用婚姻问题博流量
-1. 2024年的目标基本完成
-1. 乔欣被曝结婚后现身机场
-1. 自己吓自己方言版
 1. 有照片就能随地大小唱
-1. 在刀郎演唱会合唱有多投入
-1. NBA30队潜在交易名单
-1. 华为Mate 70系列评测
-1. 孙颖莎回应是否出战混双
-1. csgo茄子解说上海Major
-1. 当代年轻人的反向催婚
-1. 小狗没有毛病
 1. 香奈儿大秀上的明星
+1. 乔欣被曝结婚后现身机场
+1. 在刀郎演唱会合唱有多投入
+1. 当代年轻人的反向催婚
+1. 华为Mate 70系列评测
+1. 自己吓自己方言版
+1. ABO血型发现的意义
+1. 让照片吃菌子挑战
+1. 刘雯香奈儿大秀开场
+1. 张教官回应网友疑问
+1. 小狗没有毛病
 1. 欢迎来到我的城市
 1. 豪士面包董事长鞠躬致歉
-1. 韩国演员朴敏宰去世
-1. 让照片吃菌子挑战
-1. 一玩雪就变成幸福的糖霜小人
+1. 福宝检查后在洞口张望
 1. 在丽江偶遇刘晓庆倪萍蔡明
-1. 在南方也能泼水成冰
+1. 韩国演员朴敏宰去世
 1. 我的三个缺点
 1. 听一万遍无感你真的会无感吗
-1. 12月的鱼应该怎么钓
-1. 国乒8:1美国
+1. 一玩雪就变成幸福的糖霜小人
+1. 兰哈顿火出圈
+1. 遮天叶凡金翅小鹏王杀疯了
+1. 先听首歌倒回2019
+1. 谌龙入选世界羽联名人堂
 
 ## 明星榜
 
@@ -92,12 +92,12 @@
 1. [Blame You](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAceIDVL0BC2DJC0Qwi8AZnQAtBgZBbMMpfdzi) - E27XG_
 1. [APT.](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUIcRnUtZBV1JgZtxIMCAiiBSVBSEEOCFfkeMQ) - ROSÉ & Bruno Mars
 1. [Hours（时光）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oES9g0DgeYmDFDVCLNfBZZsnLvGF4utxCEAm1Q) - DLSS
-1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
+1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [Lifestyle（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
 1. [伤心剖半（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE3a4kLafIGYPYIFXlEAefIrO0MvzyEDgbuTmC) - 邓典
 1. [你不明白（副歌1.1X）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LBQK7fIoonFBCeIzPNZvHDgEDtQ2ErnrKvM1) - 陈麒名
-1. [时光晃呀晃 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
-1. [Moonlight Flowing](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oopZsCtRnQgOhEYmv9FfBBgwmeaQmWQQZED9tN) - VZEUS
+1. [时光晃呀晃 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
+1. [Moonlight Flowing](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oopZsCtRnQgOhEYmv9FfBBgwmeaQmWQQZED9tN) - VZEUS
 1. [想你（我和你的关系）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8QxhcOBDYYX0zqKCjFVQXZ3RBffnRBQEogitG) - 董唧唧/何村猪
 1. [Yasashi](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEIqAlutRBGQZgZf2VMCuFEBmaD2bgJG6fCQaQ) - CXSPER
 1. [得不到爱是我活该（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os0cIhiBc3fAa9kPjzM5WTrMggiK3sBnZDAwpQ) - 阿發/吴百萬
