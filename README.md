@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-04 05:18:06 +0800`
+`更新时间：2024-12-04 06:18:18 +0800`
 
 ## 抖音热榜
 
 1. 韩国总统宣布紧急戒严
-1. 韩国会会议通过解除戒严决议
-1. 冰雪产业市场规模将超万亿
 1. 泽连斯基：乌军阵亡人数少于8万
+1. 冰雪产业市场规模将超万亿
 1. 诺如病毒感染进入高发期
 1. 斯拉夫穿搭的极致美学
+1. 和我一起出去走走吧
 1. 进入韩国国会主楼的军人撤出
 1. 刘雯香奈儿大秀开场
-1. 和我一起出去走走吧
 1. NBA公布官方球队实力榜
-1. 韩国前总统文在寅发声
-1. 为什么C口数据线越来越乱
-1. 中国驻韩国大使馆深夜发布提醒
-1. 天津辟谣小升初取消摇号
-1. 李在明：尹锡悦不再是韩国总统了
-1. 黄子佼一审被判八个月
-1. 人走了手还在摸猫
-1. 我的宝藏达人兼职讲脱口秀了
 1. 如何看待利用婚姻问题博流量
-1. 韩国在野党与警方对峙
 1. 孙颖莎回应签名只有莎
-1. 李在明翻墙进入韩国国会
-1. 孙俪女儿拍甄嬛写真
+1. 我的宝藏达人兼职讲脱口秀了
+1. 李在明：尹锡悦不再是韩国总统了
+1. 天津辟谣小升初取消摇号
 1. 什么是数觉
-1. 特朗普警告哈马斯
-1. 三角洲白泽百万粉首秀
+1. 人走了手还在摸猫
+1. 黄子佼一审被判八个月
+1. 为什么C口数据线越来越乱
+1. 韩国前总统文在寅发声
+1. 韩国在野党与警方对峙
 1. 张教官回应网友疑问
-1. 福宝检查后在洞口张望
-1. 乔欣被曝结婚后现身机场
-1. 香奈儿大秀上的明星
-1. 蓝战非智利vlog
-1. 在刀郎演唱会合唱有多投入
+1. 孙俪女儿拍甄嬛写真
+1. 李在明翻墙进入韩国国会
+1. 三角洲白泽百万粉首秀
+1. 特朗普警告哈马斯
+1. 韩国会会议通过解除戒严决议
+1. 2024年的目标基本完成
 1. 谌龙入选世界羽联名人堂
-1. 一玩雪就变成幸福的糖霜小人
-1. 为什么叙利亚被称为中东心脏
-1. 冯绍峰被观众贴脸开大喊渣男
-1. ABO血型发现的意义
-1. 遮天叶凡金翅小鹏王杀疯了
+1. 乔欣被曝结婚后现身机场
 1. 烟花转场挑战我先拍了
+1. 华为Mate 70系列评测
+1. 在刀郎演唱会合唱有多投入
+1. 上海海港1:1光州FC
+1. 遮天叶凡金翅小鹏王杀疯了
+1. 香奈儿大秀上的明星
+1. 福宝检查后在洞口张望
+1. 一玩雪就变成幸福的糖霜小人
 1. 豪士面包董事长鞠躬致歉
+1. 冯绍峰被观众贴脸开大喊渣男
+1. 富贵女人谁不爱啊
 1. 小狗没有毛病
 1. 有照片就能随地大小唱
-1. 华为Mate 70系列评测
+1. 蓝战非智利vlog
 1. 韩国演员朴敏宰去世
-1. 九重紫导演的水印是滑跪抱吧
-1. 富贵女人谁不爱啊
+1. 在丽江偶遇刘晓庆倪萍蔡明
 1. csgo茄子解说上海Major
-1. 先听首歌倒回2019
-1. 香奈儿杭州大秀
+1. 孙颖莎赛后采访端详吉祥物
 1. 欢迎来到我的城市
+1. 时间的参照物是养大的小孩
+1. 先听首歌倒回2019
 
 ## 明星榜
 
@@ -76,7 +76,7 @@
 
 ## 音乐榜
 
-1. [只你(直到幸福能触手可及)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
+1. [只你(直到幸福能触手可及)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
 1. [（en版）开始懂了](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ow9G4MKH32zBIDHGvNiTAimWsAJB5QxhCIfIME) - en
 1. [我的美丽 (feat.PO8) (片段1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d70ed8fdb3494045aed9f1998dcbf5f1) - 小霞/PO8
 1. [我最喜欢冷天气（主歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogd10efzCApmGsmwZRmIKrEMfCZLg7MycZu3ew) - DeeZoo
@@ -91,7 +91,7 @@
 1. [Just a Picture（主歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oc0usFBZCDnAGbtQig7oCaDsQfCYjcAEfWYQkF) - Beijing Dream Land
 1. [Blame You](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAceIDVL0BC2DJC0Qwi8AZnQAtBgZBbMMpfdzi) - E27XG_
 1. [APT.](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUIcRnUtZBV1JgZtxIMCAiiBSVBSEEOCFfkeMQ) - ROSÉ & Bruno Mars
-1. [Hours（时光）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oES9g0DgeYmDFDVCLNfBZZsnLvGF4utxCEAm1Q) - DLSS
+1. [Hours（时光）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oES9g0DgeYmDFDVCLNfBZZsnLvGF4utxCEAm1Q) - DLSS
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [Lifestyle（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
 1. [伤心剖半（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE3a4kLafIGYPYIFXlEAefIrO0MvzyEDgbuTmC) - 邓典
