@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-03 15:19:28 +0800`
+`更新时间：2024-12-03 16:24:22 +0800`
 
 ## 抖音热榜
 
 1. 国乒8:1美国
-1. 和我一起出去走走吧
+1. 崔永熙NBA首个运动战进球
 1. 今天是国际残疾人日
-1. NBA30队潜在交易名单
-1. 这个家因为她遍地生花
+1. 和我一起出去走走吧
 1. 朱芳雨：大家的批评已收到
-1. 张教官回应网友疑问
+1. NBA30队潜在交易名单
 1. 黄子佼一审被判八个月
 1. 人走了手还在摸猫
-1. 黄子韬徐艺洋官宣领证
-1. NBA公布官方球队实力榜
 1. TheShy山西文化旅游推广大使
-1. 人人网客服回应停止服务
+1. 禁止两用物项对美军事用户出口
 1. 官方回应福宝状况异常
+1. 黄子韬徐艺洋官宣领证
+1. 这个家因为她遍地生花
+1. 男子田间挖出战国青铜剑
 1. 韩国演员朴敏宰去世
 1. 组委会回应6岁女孩蹭跑全马
 1. 杨子荣扮演者童祥苓去世
-1. 在丽江偶遇刘晓庆倪萍蔡明
-1. 独腿聋哑小伙晒出浙江广厦聘书
+1. 人人网客服回应停止服务
 1. 我的三个缺点
-1. 2024年的目标基本完成
-1. 自己吓自己方言版
-1. 冬天被静电攻击
-1. 为何多地逆向调升房贷利率
-1. 未来五年没有大年三十
+1. NBA公布官方球队实力榜
 1. 在刀郎演唱会合唱有多投入
-1. 谁懂谢霆锋弹吉他的含金量
-1. 蓝战非智利vlog
-1. 12月的鱼应该怎么钓
+1. 自己吓自己方言版
 1. 当代年轻人的反向催婚
-1. 马龙到底带了多少礼物
+1. 在丽江偶遇刘晓庆倪萍蔡明
+1. 冬天被静电攻击
 1. 各省美食整活天花板
-1. 听一万遍无感你真的会无感吗
+1. 张若昀张晚意周深配音狮子王
+1. 12月的鱼应该怎么钓
+1. 张教官回应网友疑问
 1. 让照片吃菌子挑战
 1. 华为Mate 70系列评测
-1. 张若昀张晚意周深配音狮子王
-1. 猫咪唱歌好上头
-1. 如何看待李行亮商演遭网友抵制
-1. 恋与深空 龙彻降临
+1. 蓝战非智利vlog
+1. 2024年的目标基本完成
 1. 兰哈顿火出圈
+1. 马龙到底带了多少礼物
+1. 听一万遍无感你真的会无感吗
+1. 猫咪唱歌好上头
+1. 谁懂谢霆锋弹吉他的含金量
 1. 先听首歌倒回2019
+1. 在南方也能泼水成冰
 1. 美人鱼的夏天憋笑挑战
-1. 怎么感觉2024过得这么快
+1. 为何多地逆向调升房贷利率
 1. 如何看待取消节假日高速免费
-1. 为什么C口数据线越来越乱
-1. 为什么叙利亚被称为中东心脏
-1. 媒体评台湾刮起“马龙旋风”
-1. 湖人惨败森林狼
+1. 独腿聋哑小伙晒出浙江广厦聘书
+1. 恋与深空 龙彻降临
+1. 怎么感觉2024过得这么快
 1. 张河清谈年轻人压力大
+1. 为什么叙利亚被称为中东心脏
+1. 为什么C口数据线越来越乱
 
 ## 明星榜
 
@@ -97,7 +97,7 @@
 1. [你不明白（副歌1.1X）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LBQK7fIoonFBCeIzPNZvHDgEDtQ2ErnrKvM1) - 陈麒名
 1. [时光晃呀晃 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
 1. [Moonlight Flowing](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oopZsCtRnQgOhEYmv9FfBBgwmeaQmWQQZED9tN) - VZEUS
-1. [想你（我和你的关系）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8QxhcOBDYYX0zqKCjFVQXZ3RBffnRBQEogitG) - 董唧唧/何村猪
+1. [想你（我和你的关系）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8QxhcOBDYYX0zqKCjFVQXZ3RBffnRBQEogitG) - 董唧唧/何村猪
 1. [Yasashi](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEIqAlutRBGQZgZf2VMCuFEBmaD2bgJG6fCQaQ) - CXSPER
 1. [得不到爱是我活该（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os0cIhiBc3fAa9kPjzM5WTrMggiK3sBnZDAwpQ) - 阿發/吴百萬
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
