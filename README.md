@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-06 12:22:43 +0800`
+`更新时间：2024-12-06 13:18:55 +0800`
 
 ## 抖音热榜
 
@@ -25,9 +25,9 @@
 1. 公安网安：祁天道低俗摆拍被拘
 1. 哈尔滨你太想进步了
 1. 李在明呼吁逮捕尹锡悦
-1. 孙颖莎王楚钦混双首战开门红
+1. 金铲铲修仙玩法
 1. OpenAI o1正式版发布
-1. 浓眉：我们不能分裂必须团结一致
+1. 曹岩称愿资助独腿打篮球男孩
 1. 江寻千向网友征集冰雕投稿
 1. 哈马斯官员：加沙停火谈判重启
 1. 鹿晗黄子韬直播连麦
@@ -38,32 +38,32 @@
 1. 周杰伦瘦了
 1. Gemini当爸爸了
 1. 白鹿看了都要打个问号
+1. 美国加州近海7.0级地震
 1. 杨子首次选择离婚
-1. 花少导演回应网络批评
+1. B太帮癌症大哥建流浪动物救助站
+1. 琼瑶式哭戏
 1. 哈尔滨冷得把水晶球都冻碎了
-1. 心情不好换个发型
+1. 春节为什么如此重要
+1. 孙颖莎王楚钦混双首战开门红
+1. 言承旭带很高兴全员跳初雪
 1. 谭松韵郑业成搂腰抱红盖头杀
 1. 王睿卓茶花开了给网友唱破防
-1. 琼瑶式哭戏
-1. 言承旭带很高兴全员跳初雪
 1. 在抖音学完十七小时的犯罪心理学
 1. 大雪文案
+1. 又到了洗澡需要勇气的季节
+1. 人类对秀发开发不足百分之一
+1. 花少导演回应网络批评
+1. 歌迷看邓紫棋演唱会一半去生娃
 1. 会开花的圣诞树你玩过吗
-1. 麦琳骑马了
 1. 帮我配一个BGM
 1. 猎罪图鉴2定档1210
-1. 又到了洗澡需要勇气的季节
-1. 万物皆可AI羊毛卷
-1. 歌迷看邓紫棋演唱会一半去生娃
-1. 金铲铲修仙玩法
+1. 心情不好换个发型
+1. 麦琳骑马了
+1. 自己剪头发易如反掌
 1. 分享一首你最喜欢的粤语歌
-1. 陈志朋携音乐人合唱当
-1. 美国加州近海7.0级地震
-1. 人类对秀发开发不足百分之一
 1. 立刻回到你的世界
-1. 曹岩称愿资助独腿打篮球男孩
 1. 9986带不求人上巅峰榜一
-1. 唐日辉求婚
+1. 美俄高级将领罕见通话
 
 ## 明星榜
 
@@ -80,12 +80,12 @@
 1. [我的美丽 (feat.PO8) (片段1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d70ed8fdb3494045aed9f1998dcbf5f1) - 小霞/PO8
 1. [我最喜欢冷天气（主歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogd10efzCApmGsmwZRmIKrEMfCZLg7MycZu3ew) - DeeZoo
 1. [触摸不到的你](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUBR0G6KDYpIwoshClFdQfZDNBfTnrBQE7gXtN) - 念先生
-1. [可可爱爱](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0deb1e75aea643b9927ba26aaafa29dd) - 西瓜milk
+1. [可可爱爱](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0deb1e75aea643b9927ba26aaafa29dd) - 西瓜milk
 1. [Dream Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUn3DKyIgBFIsCFZmAMM8qSJyMtlgLfoPqyDEe) - DLSS
 1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
 1. [才二十三](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okABdOmMEBYDDBvkgYQ5JfEqFtCZvQxf4aRjDI) - 方大同
 1. [We Never](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYLBiAAjcW4piyuLIQDxifdGmlRbzMBd2gbsQy) - SugarPro
-1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
+1. [执子之手 (剪辑2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [白鸽乌鸦相爱的戏码](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMVVEf6eDAOmFtNtCsEqKpIorBDM8Nkg6TZRqC) - 皮卡潘
 1. [Just a Picture（主歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oc0usFBZCDnAGbtQig7oCaDsQfCYjcAEfWYQkF) - Beijing Dream Land
 1. [Blame You](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAceIDVL0BC2DJC0Qwi8AZnQAtBgZBbMMpfdzi) - E27XG_
@@ -94,12 +94,12 @@
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [Lifestyle（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
 1. [伤心剖半（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE3a4kLafIGYPYIFXlEAefIrO0MvzyEDgbuTmC) - 邓典
-1. [你不明白（副歌1.1X）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LBQK7fIoonFBCeIzPNZvHDgEDtQ2ErnrKvM1) - 陈麒名
-1. [时光晃呀晃 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
-1. [Moonlight Flowing](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oopZsCtRnQgOhEYmv9FfBBgwmeaQmWQQZED9tN) - VZEUS
+1. [你不明白（副歌1.1X）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LBQK7fIoonFBCeIzPNZvHDgEDtQ2ErnrKvM1) - 陈麒名
+1. [时光晃呀晃 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
+1. [Moonlight Flowing](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oopZsCtRnQgOhEYmv9FfBBgwmeaQmWQQZED9tN) - VZEUS
 1. [想你（我和你的关系）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8QxhcOBDYYX0zqKCjFVQXZ3RBffnRBQEogitG) - 董唧唧/何村猪
 1. [Yasashi](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEIqAlutRBGQZgZf2VMCuFEBmaD2bgJG6fCQaQ) - CXSPER
-1. [得不到爱是我活该（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os0cIhiBc3fAa9kPjzM5WTrMggiK3sBnZDAwpQ) - 阿發/吴百萬
+1. [得不到爱是我活该（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os0cIhiBc3fAa9kPjzM5WTrMggiK3sBnZDAwpQ) - 阿發/吴百萬
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 
 ## 品牌榜
