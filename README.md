@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-09 21:30:03 +0800`
+`更新时间：2024-12-09 22:19:45 +0800`
 
 ## 抖音热榜
 
 1. 政治局会议研究明年经济工作
 1. 中共中央政治局：稳住楼市股市
-1. 青知讲说人
+1. 11月CPI同比上涨0.2%
 1. 中央再提“适度宽松”的货币政策
-1. 外交部回应韩局势对中韩关系影响
-1. 外交部：叙命运应由叙人民决定
 1. 小米首款SUV外观曝光
+1. 韩国出土4块千年木简
 1. 英伟达被市场监管总局立案调查
 1. 崔永熙砍14分创个人G联赛新高
-1. 韩国出土4块千年木简
+1. 政治局会议释放哪些重磅信号
+1. 黑色才是冬天主打色
 1. 为什么巴沙尔政权不堪一击
-1. 俄媒：普京决定为阿萨德提供庇护
+1. 叙反对派授权巴希尔组建过渡政府
 1. 中国公民记录撤离叙利亚过程
-1. 周润发1.95亿港元出售香港别墅
-1. 电影小小的我定档
-1. 马云谈AI变革
-1. 俄高官：俄乌将在库尔斯克决战
+1. 俄媒：普京决定为阿萨德提供庇护
 1. 张萌孟子义李昀锐版紫啧
+1. 周润发1.95亿港元出售香港别墅
+1. 俄高官：俄乌将在库尔斯克决战
 1. 司机距你20米 预计20分钟到达
+1. 电影小小的我定档
 1. 这个BGM下的作品都好幸福
 1. 浏阳烟花召唤光能使者
 1. 徐艺洋官宣结婚后首现身
 1. 宋浩然回应韩安冉对网友发火
 1. 北郊唱哭了多少人
-1. 鹿晗黄子韬合体直播
 1. 自己吓自己全民模仿挑战
-1. 阿萨德及家人抵达莫斯科
-1. 相机辅助线变装
+1. 太好了丁禹兮也来闪粉烟花了
+1. 国风大典又美出了新高度
+1. 鹿晗黄子韬合体直播
 1. 圣诞节甜甜手势舞我先跳了
 1. 狗狗：还是吃了没文化的亏
-1. 方头明时隔十个月更新抖音
 1. 一步一步走过我的孩子气
-1. 猎罪图鉴2参考了六万幅画
-1. 我是刑警第十个要案上线
 1. 浏阳烟花放大招
-1. 蔡国强烟花秀无人机掉落
-1. 黑色才是冬天主打色
-1. 周深第一视角下的收官演唱会
-1. 太好了丁禹兮也来闪粉烟花了
-1. AI五官跳舞
+1. 阿萨德及家人抵达莫斯科
+1. 相机辅助线变装
+1. 我是刑警第十个要案上线
 1. 萌娃必备的过冬装备
-1. 檀健次猎罪图鉴ost纯享版来了
-1. 好多明星去看了蔡国强烟花秀
-1. 崔健入驻抖音
-1. 幸福开始有预兆
+1. 方头明时隔十个月更新抖音
+1. AI五官跳舞
+1. 猎罪图鉴2参考了六万幅画
 1. 新年红包又出新花样
-1. 政治局会议释放哪些重磅信号
+1. 央行再次购金意味着什么
+1. 周深第一视角下的收官演唱会
+1. 檀健次猎罪图鉴ost纯享版来了
+1. 崔健入驻抖音
+1. 和蔡国强一起追光吧
 1. 孙颖莎踮脚和小学生合影
+1. 也是看到机器人踢球了
 1. TES官宣Ben加入
+1. 提前腌制点碧绿腊八蒜吧
 
 ## 明星榜
 
@@ -75,7 +75,7 @@
 
 ## 音乐榜
 
-1. [只你(直到幸福能触手可及)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
+1. [只你(直到幸福能触手可及)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
 1. [伤心剖半（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE3a4kLafIGYPYIFXlEAefIrO0MvzyEDgbuTmC) - 邓典
 1. [（en版）开始懂了](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ow9G4MKH32zBIDHGvNiTAimWsAJB5QxhCIfIME) - en
 1. [我最喜欢冷天气（主歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogd10efzCApmGsmwZRmIKrEMfCZLg7MycZu3ew) - DeeZoo
@@ -84,14 +84,14 @@
 1. [Dream Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUn3DKyIgBFIsCFZmAMM8qSJyMtlgLfoPqyDEe) - DLSS
 1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
 1. [才二十三](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okABdOmMEBYDDBvkgYQ5JfEqFtCZvQxf4aRjDI) - 方大同
-1. [执子之手 (剪辑2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
+1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [白鸽乌鸦相爱的戏码](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMVVEf6eDAOmFtNtCsEqKpIorBDM8Nkg6TZRqC) - 皮卡潘
 1. [Just a Picture（主歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oc0usFBZCDnAGbtQig7oCaDsQfCYjcAEfWYQkF) - Beijing Dream Land
 1. [Blame You](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAceIDVL0BC2DJC0Qwi8AZnQAtBgZBbMMpfdzi) - E27XG_
 1. [APT.](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooHxBnfDQIxBZontIlGfpTy5PBxCgEccFO1OMg) - ROSÉ & Bruno Mars
-1. [Hours（时光）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oES9g0DgeYmDFDVCLNfBZZsnLvGF4utxCEAm1Q) - DLSS
-1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
-1. [Lifestyle（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
+1. [Hours（时光）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oES9g0DgeYmDFDVCLNfBZZsnLvGF4utxCEAm1Q) - DLSS
+1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
+1. [Lifestyle（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
 1. [你不明白（副歌1.1X）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LBQK7fIoonFBCeIzPNZvHDgEDtQ2ErnrKvM1) - 陈麒名
 1. [时光晃呀晃 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
 1. [Moonlight Flowing](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oopZsCtRnQgOhEYmv9FfBBgwmeaQmWQQZED9tN) - VZEUS
