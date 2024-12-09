@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-09 11:06:27 +0800`
+`更新时间：2024-12-09 12:22:45 +0800`
 
 ## 抖音热榜
 
@@ -20,51 +20,51 @@
 1. 中国交通物流行业质效双升
 1. 阿萨德及家人抵达莫斯科
 1. 热刺3:4切尔西
-1. Daeny回应加入iG
-1. 孙颖莎王楚钦战胜韩国队
-1. 韩警方考虑禁止尹锡悦出境
 1. 记录村厨的一天
-1. 中山美穗死因公布
-1. 以色列地面部队公开进入叙利亚
+1. Daeny回应加入iG
+1. 韩警方考虑禁止尹锡悦出境
 1. 我是刑警第十个要案上线
+1. 九部门明确家暴证据标准
+1. 以色列地面部队公开进入叙利亚
+1. 孙颖莎王楚钦战胜韩国队
 1. 叙利亚大变局幕后人物现真容
 1. 深圳警方辟谣地铁3号线爆炸
 1. 叙总理与反对派武装权力交接
+1. 蔡国强：无人机不要带回家
 1. 蔡国强烟花秀无人机掉落
 1. 国乒混团世界杯全胜夺冠
-1. 大冰回应济南站取消免费发羽绒服
-1. 蔡国强：无人机不要带回家
+1. 中山美穗死因公布
 1. 周冠宇F1谢幕站第13名完赛
 1. 鹿晗黄子韬合体直播
+1. 汉密尔顿缺席季后测试的影响
 1. 张小斐愿付费看李雪琴短剧
+1. 异人之下首测
 1. 林高远：为国乒团队感到骄傲
 1. 冬天试一下高智感气质盘发
 1. 珠海市市长调整
-1. iG新赛季阵容官宣
-1. 汉密尔顿缺席季后测试的影响
-1. 异人之下首测
 1. 百分大战军哥100:44亚翰
-1. 狗狗：还是吃了没文化的亏
-1. 赵丽颖去看烟花秀了
-1. 浏阳烟花放大招
-1. 蔡国强：让我们与自然共同创作
-1. 许昕：大头太场面了
-1. 二月红前来求偶
-1. 好多明星去看了蔡国强烟花秀
-1. Bin阻止队友虐泉
-1. 双手旋转转场越来越抽象了
-1. TheShy回应iG全神班称呼
-1. Rain最新现场
 1. 王曼昱说孙颖莎发言太全面了
+1. 好多明星去看了蔡国强烟花秀
+1. TheShy回应iG全神班称呼
+1. 狗狗：还是吃了没文化的亏
+1. 蔡国强：让我们与自然共同创作
+1. 赵丽颖去看烟花秀了
+1. 二月红前来求偶
+1. 浏阳烟花放大招
 1. 小米第三款车型曝光
-1. 永夜星河的售后真的长
-1. 幸福开始有预兆
+1. 许昕：大头太场面了
+1. Rain最新现场
 1. 一步一步走过我的孩子气
-1. 潘托加降服朝仓海卫冕
-1. 韩国检察厅对尹锡悦立案调查
-1. 特朗普：俄乌停火谈判时机已成熟
+1. 双手旋转转场越来越抽象了
+1. 幸福开始有预兆
 1. 一时分不清谁才是主人
+1. 永夜星河的售后真的长
+1. iG新赛季阵容官宣
 1. 雪花飘飘北风萧萧舞蹈挑战
+1. 特朗普：俄乌停火谈判时机已成熟
+1. 国产科幻还得看吞噬剧场版
+1. 潘托加降服朝仓海卫冕
+1. OBD检测不限定修理单位
 
 ## 明星榜
 
@@ -76,7 +76,7 @@
 
 ## 音乐榜
 
-1. [只你(直到幸福能触手可及)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
+1. [只你(直到幸福能触手可及)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
 1. [伤心剖半（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE3a4kLafIGYPYIFXlEAefIrO0MvzyEDgbuTmC) - 邓典
 1. [（en版）开始懂了](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ow9G4MKH32zBIDHGvNiTAimWsAJB5QxhCIfIME) - en
 1. [我最喜欢冷天气（主歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogd10efzCApmGsmwZRmIKrEMfCZLg7MycZu3ew) - DeeZoo
@@ -85,7 +85,6 @@
 1. [Dream Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUn3DKyIgBFIsCFZmAMM8qSJyMtlgLfoPqyDEe) - DLSS
 1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
 1. [才二十三](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okABdOmMEBYDDBvkgYQ5JfEqFtCZvQxf4aRjDI) - 方大同
-1. [We Never](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYLBiAAjcW4piyuLIQDxifdGmlRbzMBd2gbsQy) - SugarPro
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [白鸽乌鸦相爱的戏码](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMVVEf6eDAOmFtNtCsEqKpIorBDM8Nkg6TZRqC) - 皮卡潘
 1. [Just a Picture（主歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oc0usFBZCDnAGbtQig7oCaDsQfCYjcAEfWYQkF) - Beijing Dream Land
@@ -96,10 +95,10 @@
 1. [Lifestyle（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
 1. [你不明白（副歌1.1X）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LBQK7fIoonFBCeIzPNZvHDgEDtQ2ErnrKvM1) - 陈麒名
 1. [时光晃呀晃 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
-1. [Moonlight Flowing](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oopZsCtRnQgOhEYmv9FfBBgwmeaQmWQQZED9tN) - VZEUS
+1. [Moonlight Flowing](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oopZsCtRnQgOhEYmv9FfBBgwmeaQmWQQZED9tN) - VZEUS
 1. [想你（我和你的关系）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8QxhcOBDYYX0zqKCjFVQXZ3RBffnRBQEogitG) - 董唧唧/何村猪
 1. [Yasashi](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEIqAlutRBGQZgZf2VMCuFEBmaD2bgJG6fCQaQ) - CXSPER
-1. [得不到爱是我活该（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os0cIhiBc3fAa9kPjzM5WTrMggiK3sBnZDAwpQ) - 阿發/吴百萬
+1. [得不到爱是我活该（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os0cIhiBc3fAa9kPjzM5WTrMggiK3sBnZDAwpQ) - 阿發/吴百萬
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 
 ## 品牌榜
