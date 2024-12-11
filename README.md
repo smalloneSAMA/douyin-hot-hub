@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-11 09:22:38 +0800`
+`更新时间：2024-12-11 11:02:14 +0800`
 
 ## 抖音热榜
 
 1. 皇马3:2亚特兰大
-1. 猎罪图鉴开局讽刺半个娱乐圈
-1. 货物贸易连续8个月保持增长
-1. 琼瑶今日花葬
-1. 英伟达为何被查
-1. 黑神话更新了多少boss新招式
-1. 大吉大利杯正式开赛
 1. 独行侠vs雷霆
-1. 王者荣耀弈星动画CG预告
-1. 重读儒学是和古人的一次相认
+1. 货物贸易连续8个月保持增长
+1. 马英九将率团访陆
+1. 猎罪图鉴开局讽刺半个娱乐圈
+1. 韩国警方搜查总统府
+1. 乒超联赛赛程
 1. 学习搭子真和诺奖得主聊上了
-1. 陈晓成都活动状态
-1. 余华确诊INFP小蝴蝶
-1. 叙利亚过渡政府正式接管权力
-1. 九重紫窦昭人设
-1. 抖音最值得收藏的AI知识
 1. 干枝雪柳给的一夜惊喜
-1. 小米YU7全面解析
-1. 乌无人艇朝俄战机连续开火
-1. 郑钦文无缘WTA年度最佳球员
-1. 腾讯视频会员权益调整
-1. 国乒领跑四项世界第一
-1. 叙政局突变对以色列意味着什么
-1. 花少6是最难看的一季吗
-1. 俄接近实现对乌特别军事行动目标
-1. 解读北京国安新帅加盟
-1. 甄嬛传晚会定档1月11日
-1. 雷军喜获来自“雷军班”同学的礼物
-1. 张克寒原型与长沙警方渊源
-1. 黑神话悟空新玩法公布
-1. 饕餮记开播
-1. Ruler谈2年LPL经历
-1. 4部影片定档春节档
-1. 黄子韬结婚后一周涨粉超223万
-1. 向佐找晓华理发前后对比
 1. 猎罪图鉴2爱豆舞台原型
-1. 九重紫台词好有古韵
-1. 丁俊晖斯佳辉苏格兰公开赛首战
-1. 虞书欣丁禹兮十指相扣合唱澎湃
-1. 我是刑警警魂传承看哭了
+1. 英伟达为何被查
+1. 九重紫窦昭人设
+1. 重读儒学是和古人的一次相认
+1. 小米YU7全面解析
+1. 王者荣耀弈星动画CG预告
+1. 抖音最值得收藏的AI知识
+1. 小米YU7定价预测
+1. 谷歌推出量子芯片Willow
+1. 乌无人艇朝俄战机连续开火
+1. 利拉德连线字母哥
+1. 王者冰雪峡谷前瞻更新
+1. 甄嬛传晚会定档1月11日
 1. 当地回应网友疑拍到普氏野马
+1. 雷军喜获来自“雷军班”同学的礼物
+1. 俄接近实现对乌特别军事行动目标
 1. 2024斯诺克苏格兰公开赛
-1. 哪吒2定档春节
-1. 当女性在职场遭遇侵犯
-1. 丁禹兮黑莲花限时回归
 1. 尼克斯胜猛龙
-1. 冬日氛围感穿搭一图封神
-1. 周楷恒椰子官宣领证
+1. 张克寒原型与长沙警方渊源
+1. 陈晓成都活动状态
+1. “雪龙2”号靠实力硬刚冰层
+1. 黑神话更新了多少boss新招式
+1. 虞书欣冬季升温手势舞
+1. Ruler谈2年LPL经历
+1. 九重紫台词好有古韵
+1. 丁禹兮黑莲花限时回归
+1. 余华确诊INFP小蝴蝶
+1. 向佐找晓华理发前后对比
+1. 一幅素描画定格我的青春
+1. 花少6是最难看的一季吗
+1. 当女性在职场遭遇侵犯
 1. 冬天总要出门钓一次鱼吧
+1. 建议冬天都去表白
+1. 周楷恒椰子官宣领证
+1. 我是刑警警魂传承看哭了
+1. 冬日氛围感穿搭一图封神
+1. 猎罪图鉴2首播观后感
+1. 传下去猎罪图鉴真有吻戏
+1. 国际乒联已将混团入奥列入议程
+1. F1阿布扎比季后测试
 
 ## 明星榜
 
@@ -87,18 +87,18 @@
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [白鸽乌鸦相爱的戏码](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMVVEf6eDAOmFtNtCsEqKpIorBDM8Nkg6TZRqC) - 皮卡潘
 1. [Just a Picture（主歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oc0usFBZCDnAGbtQig7oCaDsQfCYjcAEfWYQkF) - Beijing Dream Land
-1. [Blame You](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAceIDVL0BC2DJC0Qwi8AZnQAtBgZBbMMpfdzi) - E27XG_
+1. [Blame You](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAceIDVL0BC2DJC0Qwi8AZnQAtBgZBbMMpfdzi) - E27XG_
 1. [APT.](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooHxBnfDQIxBZontIlGfpTy5PBxCgEccFO1OMg) - ROSÉ & Bruno Mars
 1. [Hours（时光）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oES9g0DgeYmDFDVCLNfBZZsnLvGF4utxCEAm1Q) - DLSS
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
-1. [Lifestyle（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
+1. [Lifestyle（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
 1. [你不明白（副歌1.1X）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LBQK7fIoonFBCeIzPNZvHDgEDtQ2ErnrKvM1) - 陈麒名
 1. [时光晃呀晃 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
 1. [Moonlight Flowing](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oopZsCtRnQgOhEYmv9FfBBgwmeaQmWQQZED9tN) - VZEUS
 1. [想你（我和你的关系）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8QxhcOBDYYX0zqKCjFVQXZ3RBffnRBQEogitG) - 董唧唧/何村猪
 1. [Yasashi](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEIqAlutRBGQZgZf2VMCuFEBmaD2bgJG6fCQaQ) - CXSPER
 1. [得不到爱是我活该（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os0cIhiBc3fAa9kPjzM5WTrMggiK3sBnZDAwpQ) - 阿發/吴百萬
-1. [Cute](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
+1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 
 ## 品牌榜
 
