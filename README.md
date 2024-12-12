@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-13 04:21:28 +0800`
+`更新时间：2024-12-13 05:18:09 +0800`
 
 ## 抖音热榜
 
 1. 余承东入驻抖音
 1. 知情人回应英伟达下架天猫店商品
 1. 家电以旧换新销售破2000亿元
-1. TGA年度大奖前瞻
 1. 2025黄金怎么走
-1. 年底就要看名校压箱底的课
+1. TGA年度大奖前瞻
 1. 黑神话 影神牌
-1. 绿龙战胜液体晋级四强
-1. 仅退款“凉凉”了吗
+1. 年底就要看名校压箱底的课
 1. 个人养老金制度推开至全国
+1. 仅退款“凉凉”了吗
+1. 王曼昱因病退赛
 1. 麦琳主动干活把自己干辞职了
 1. 中方回应尹锡悦涉华负面言论
 1. 刘爽因为葛夕怀孕才结的婚
 1. 三只羊文化传媒法定代表人变更
 1. 俄罗斯宣布报复措施
-1. 杨政体测未通过
+1. 苹果发布iOS 18.2正式版
 1. 朴彩英点赞潮汕如姨
 1. 金铲铲六费卡上线
+1. 杨政体测未通过
 1. 我是刑警白银案上线
 1. 赛琳娜官宣订婚
-1. 苹果发布iOS 18.2正式版
-1. 猎罪图鉴2比第一季好看吗
 1. Yagao说不打了
+1. 绿龙战胜液体晋级四强
 1. 胖东来回应大妈收费转让果汁
 1. 对话车臣政治新星阿劳季诺夫
-1. 王曼昱因病退赛
-1. 剪一条没有废话的视频
 1. 马斯克身家破4000亿美元
-1. 周琦与广东男篮队员拥抱
+1. 剪一条没有废话的视频
 1. 这个BGM里面才是真的爱情
 1. APT转场
-1. 2024有在好好生活
-1. 赣州公安翻拍假面骑士救场
-1. 火箭罚球绝杀勇士
-1. 跟着猎罪图鉴做房树人心理测试
 1. 中方代表回应也门局势
-1. 倪萍蔡明精准扎心
-1. 领取你的2024打工年终报告
-1. 唤俊 有金夫妇首席推荐官
-1. 朴灿烈第一条抖音来了
-1. DJ版APT慢动作氛围感好强
-1. 校园版我们的明天有多甜
-1. 尤文图斯2:0曼城
-1. 搞笑版动作配音挑战
-1. 货币政策适度宽松有何影响
-1. 赵四新歌踹翻唱挑战
-1. 入冬了想给你买一条围巾
 1. NBA杯四强出炉
+1. 跟着猎罪图鉴做房树人心理测试
+1. 2024有在好好生活
+1. 周琦与广东男篮队员拥抱
 1. 樊振东3:0侯英超
+1. 倪萍蔡明精准扎心
+1. 朴灿烈第一条抖音来了
+1. 唤俊 有金夫妇首席推荐官
+1. 货币政策适度宽松有何影响
+1. 赣州公安翻拍假面骑士救场
+1. 赵四新歌踹翻唱挑战
+1. 火箭罚球绝杀勇士
+1. DJ版APT慢动作氛围感好强
+1. 尤文图斯2:0曼城
+1. 入冬了想给你买一条围巾
+1. 搞笑版动作配音挑战
+1. 二月红前来向秦海璐求书
+1. 领取你的2024打工年终报告
+1. 猎罪图鉴2比第一季好看吗
 
 ## 明星榜
 
@@ -76,11 +76,11 @@
 ## 音乐榜
 
 1. [只你(直到幸福能触手可及)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
-1. [伤心剖半 (把你的心剖开来)（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE3a4kLafIGYPYIFXlEAefIrO0MvzyEDgbuTmC) - 邓典
+1. [伤心剖半 (把你的心剖开来)（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE3a4kLafIGYPYIFXlEAefIrO0MvzyEDgbuTmC) - 邓典
 1. [（en版）开始懂了](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ow9G4MKH32zBIDHGvNiTAimWsAJB5QxhCIfIME) - en
 1. [我最喜欢冷天气（主歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogd10efzCApmGsmwZRmIKrEMfCZLg7MycZu3ew) - DeeZoo
 1. [触摸不到的你](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUBR0G6KDYpIwoshClFdQfZDNBfTnrBQE7gXtN) - 念先生
-1. [可可爱爱](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0deb1e75aea643b9927ba26aaafa29dd) - 西瓜milk
+1. [可可爱爱](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0deb1e75aea643b9927ba26aaafa29dd) - 西瓜milk
 1. [Dream Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUn3DKyIgBFIsCFZmAMM8qSJyMtlgLfoPqyDEe) - DLSS
 1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
 1. [才二十三](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okABdOmMEBYDDBvkgYQ5JfEqFtCZvQxf4aRjDI) - 方大同
