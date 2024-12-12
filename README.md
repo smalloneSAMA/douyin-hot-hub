@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-12 16:24:30 +0800`
+`更新时间：2024-12-12 17:20:42 +0800`
 
 ## 抖音热榜
 
-1. 个人养老金制度推开至全国
 1. 极越汽车回应被供应商喊话要账
+1. 火箭罚球绝杀勇士
 1. 粤港澳大湾区再添“关键一横”
 1. 苟仲文被双开
-1. 倪萍蔡明精准扎心
+1. 赛琳娜官宣订婚
 1. 毛奇被公诉 受贿数额特别巨大
 1. 调查尹锡悦的内乱特检法获通过
-1. 赛琳娜官宣定婚
-1. 湖北荆州航空器坠落起火
-1. 崔永熙受伤
-1. 黄子韬回应徐艺洋卖水晶被吐槽
+1. 个人养老金制度推开至全国
+1. 高合前高管直播劝退极越员工
+1. 落马正部韩勇贪2.61亿受审
 1. 极越员工聚集总部与CEO谈判
 1. 猎罪图鉴一代人有一代人的破烂
+1. 崔永熙受伤
 1. 合肥初次登记结婚可领钱系谣言
-1. 苹果发布iOS 18.2正式版
-1. 宋墨醉酒变小狼狗
 1. 极越汽车店销售称公司黄了
-1. Yagao说不打了
-1. 火箭罚球绝杀勇士
+1. 倪萍蔡明精准扎心
+1. 苹果发布iOS 18.2正式版
+1. 昭昭墨墨破镜重生幕后实拍
+1. 中方代表回应也门局势
+1. 湖北荆州航空器坠落起火
+1. 黄圣依愿意和杨子承担共同债务
+1. 极越汽车主播直播中得知将失业
+1. 双十二必买美食清单
 1. 2024乒超首日对阵表
-1. TGA年度大奖前瞻
-1. 王楚钦3:0松岛辉空
-1. 高合前高管直播劝退极越员工
-1. LOL手游新英雄维克托上线
-1. 2025黄金怎么走
+1. 黄子韬回应徐艺洋卖水晶被吐槽
+1. 2024有在好好生活
 1. 朴灿烈第一条抖音来了
 1. DJ版APT慢动作氛围感好强
 1. 萌宠没烦恼口语教学视频
-1. 梅德韦杰夫感叹中国发展
-1. 马斯克身家破4000亿美元
+1. ChatGPT已集成到苹果操作系统
+1. 一口气看懂2025年就业新趋势
 1. 尝试跟上女友的吃饭速度
-1. 张馨予新剧买下整条街
-1. 媒体：极越留下员工将自费上班
-1. 花样玩雪的101种方式
+1. 2025黄金怎么走
+1. Yagao说不打了
+1. TGA年度大奖前瞻
 1. 未来的我都会拥有什么
-1. 东北大爷现敲去糖去冰糖葫芦
 1. 万物皆可松绒风
-1. 檀健次跳秋去冬来月如风
-1. 尤文图斯2:0曼城
 1. 这首BGM配九重紫太有宿命感了
-1. 入冬了想给你买一条围巾
-1. 山外的山 我望不穿
-1. 自己吓自己期末版
-1. 一口气看懂财富分配新趋势
-1. 如果爱忘了氛围卡点
-1. 当干巴希腊酸奶遇上青梅精
-1. 马上就能和好朋友一起跨年啦
+1. 王楚钦3:0松岛辉空
 1. 12月12日王者版本更新公告
-1. 这又是何苦呢破碎感拉满
+1. 檀健次跳秋去冬来月如风
+1. 东北大爷现敲去糖去冰糖葫芦
+1. 说散就散DJ摇
+1. 自己吓自己期末版
+1. 山外的山 我望不穿
+1. LOL手游新英雄维克托上线
+1. 当干巴希腊酸奶遇上青梅精
+1. 入冬了想给你买一条围巾
+1. 尤文图斯2:0曼城
 
 ## 明星榜
 
@@ -78,10 +78,10 @@
 1. [只你(直到幸福能触手可及)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
 1. [伤心剖半 (把你的心剖开来)（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE3a4kLafIGYPYIFXlEAefIrO0MvzyEDgbuTmC) - 邓典
 1. [（en版）开始懂了](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ow9G4MKH32zBIDHGvNiTAimWsAJB5QxhCIfIME) - en
-1. [我最喜欢冷天气（主歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogd10efzCApmGsmwZRmIKrEMfCZLg7MycZu3ew) - DeeZoo
+1. [我最喜欢冷天气（主歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogd10efzCApmGsmwZRmIKrEMfCZLg7MycZu3ew) - DeeZoo
 1. [触摸不到的你](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUBR0G6KDYpIwoshClFdQfZDNBfTnrBQE7gXtN) - 念先生
 1. [可可爱爱](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0deb1e75aea643b9927ba26aaafa29dd) - 西瓜milk
-1. [Dream Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUn3DKyIgBFIsCFZmAMM8qSJyMtlgLfoPqyDEe) - DLSS
+1. [Dream Love（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUn3DKyIgBFIsCFZmAMM8qSJyMtlgLfoPqyDEe) - DLSS
 1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
 1. [才二十三](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okABdOmMEBYDDBvkgYQ5JfEqFtCZvQxf4aRjDI) - 方大同
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
