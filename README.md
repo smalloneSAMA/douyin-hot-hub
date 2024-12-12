@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-13 03:15:59 +0800`
+`更新时间：2024-12-13 04:21:28 +0800`
 
 ## 抖音热榜
 
@@ -23,47 +23,47 @@
 1. 年底就要看名校压箱底的课
 1. 黑神话 影神牌
 1. 绿龙战胜液体晋级四强
+1. 仅退款“凉凉”了吗
 1. 个人养老金制度推开至全国
-1. 马斯克身家破4000亿美元
 1. 麦琳主动干活把自己干辞职了
 1. 中方回应尹锡悦涉华负面言论
 1. 刘爽因为葛夕怀孕才结的婚
 1. 三只羊文化传媒法定代表人变更
-1. 杨政体测未通过
-1. 金铲铲六费卡上线
-1. 窦明打晕窦昭替嫁
-1. 我是刑警白银案上线
 1. 俄罗斯宣布报复措施
-1. 赛琳娜官宣订婚
-1. 猎罪图鉴2比第一季好看吗
-1. 苹果发布iOS 18.2正式版
+1. 杨政体测未通过
 1. 朴彩英点赞潮汕如姨
-1. 仅退款“凉凉”了吗
+1. 金铲铲六费卡上线
+1. 我是刑警白银案上线
+1. 赛琳娜官宣订婚
+1. 苹果发布iOS 18.2正式版
+1. 猎罪图鉴2比第一季好看吗
+1. Yagao说不打了
+1. 胖东来回应大妈收费转让果汁
+1. 对话车臣政治新星阿劳季诺夫
 1. 王曼昱因病退赛
 1. 剪一条没有废话的视频
+1. 马斯克身家破4000亿美元
+1. 周琦与广东男篮队员拥抱
 1. 这个BGM里面才是真的爱情
-1. 2024有在好好生活
 1. APT转场
-1. 胖东来回应大妈收费转让果汁
-1. 火箭罚球绝杀勇士
-1. 朴灿烈第一条抖音来了
-1. 中方代表回应也门局势
+1. 2024有在好好生活
 1. 赣州公安翻拍假面骑士救场
+1. 火箭罚球绝杀勇士
 1. 跟着猎罪图鉴做房树人心理测试
+1. 中方代表回应也门局势
+1. 倪萍蔡明精准扎心
 1. 领取你的2024打工年终报告
 1. 唤俊 有金夫妇首席推荐官
-1. 倪萍蔡明精准扎心
+1. 朴灿烈第一条抖音来了
 1. DJ版APT慢动作氛围感好强
-1. 尤文图斯2:0曼城
-1. 二月红前来向秦海璐求书
-1. 搞笑版动作配音挑战
-1. 入冬了想给你买一条围巾
-1. 中央：提高财政赤字率
-1. 赵四新歌踹翻唱挑战
-1. 被crush拒绝就这样
-1. 货币政策适度宽松有何影响
 1. 校园版我们的明天有多甜
-1. 萌宠没烦恼口语教学视频
+1. 尤文图斯2:0曼城
+1. 搞笑版动作配音挑战
+1. 货币政策适度宽松有何影响
+1. 赵四新歌踹翻唱挑战
+1. 入冬了想给你买一条围巾
+1. NBA杯四强出炉
+1. 樊振东3:0侯英超
 
 ## 明星榜
 
@@ -76,13 +76,13 @@
 ## 音乐榜
 
 1. [只你(直到幸福能触手可及)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
-1. [伤心剖半 (把你的心剖开来)（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE3a4kLafIGYPYIFXlEAefIrO0MvzyEDgbuTmC) - 邓典
+1. [伤心剖半 (把你的心剖开来)（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE3a4kLafIGYPYIFXlEAefIrO0MvzyEDgbuTmC) - 邓典
 1. [（en版）开始懂了](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ow9G4MKH32zBIDHGvNiTAimWsAJB5QxhCIfIME) - en
 1. [我最喜欢冷天气（主歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogd10efzCApmGsmwZRmIKrEMfCZLg7MycZu3ew) - DeeZoo
 1. [触摸不到的你](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUBR0G6KDYpIwoshClFdQfZDNBfTnrBQE7gXtN) - 念先生
-1. [可可爱爱](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0deb1e75aea643b9927ba26aaafa29dd) - 西瓜milk
-1. [Dream Love（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUn3DKyIgBFIsCFZmAMM8qSJyMtlgLfoPqyDEe) - DLSS
-1. [蜜桃物语](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
+1. [可可爱爱](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0deb1e75aea643b9927ba26aaafa29dd) - 西瓜milk
+1. [Dream Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUn3DKyIgBFIsCFZmAMM8qSJyMtlgLfoPqyDEe) - DLSS
+1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
 1. [才二十三](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okABdOmMEBYDDBvkgYQ5JfEqFtCZvQxf4aRjDI) - 方大同
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [白鸽乌鸦相爱的戏码](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMVVEf6eDAOmFtNtCsEqKpIorBDM8Nkg6TZRqC) - 皮卡潘
@@ -92,7 +92,7 @@
 1. [Hours（时光）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oES9g0DgeYmDFDVCLNfBZZsnLvGF4utxCEAm1Q) - DLSS
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [Lifestyle（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
-1. [你不明白（副歌1.1X）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LBQK7fIoonFBCeIzPNZvHDgEDtQ2ErnrKvM1) - 陈麒名
+1. [你不明白（副歌1.1X）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LBQK7fIoonFBCeIzPNZvHDgEDtQ2ErnrKvM1) - 陈麒名
 1. [时光晃呀晃 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
 1. [Moonlight Flowing](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oopZsCtRnQgOhEYmv9FfBBgwmeaQmWQQZED9tN) - VZEUS
 1. [想你（我和你的关系）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8QxhcOBDYYX0zqKCjFVQXZ3RBffnRBQEogitG) - 董唧唧/何村猪
