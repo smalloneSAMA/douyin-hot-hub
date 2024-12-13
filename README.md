@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-13 16:24:15 +0800`
+`更新时间：2024-12-13 17:20:13 +0800`
 
 ## 抖音热榜
 
-1. 布朗尼30分
 1. 黑神话悟空 TGA最佳动作游戏
-1. 一口气了解中央经济工作会议重点
-1. TGA 2024颁奖典礼
 1. 今天是国家公祭日
+1. CPI连续回升 未来物价怎么走
+1. 越南前国家主席阮春福被纪律处分
+1. 杜兆才获刑十四年
 1. 刘捷已任浙江省政府党组书记
 1. 宇宙机器人获TGA年度游戏
+1. 布朗尼30分
+1. TGA 2024颁奖典礼
 1. 国防部正告菲方
-1. 特朗普遭“暗杀未遂”案细节
-1. 拜登赦免39人减刑近1500人
-1. A股
-1. 电视台回应主持人李昕鑫去世
 1. 玩家评黑神话无缘TGA年度最佳
+1. 电视台回应主持人李昕鑫去世
+1. 甜是一种感觉不是长相
 1. 厦门辟谣结婚登记补贴1500元
-1. 00后自制滑雪喷气背包
+1. 蔡明看杨子的眼神
 1. 猎罪图鉴2第四案互联网精神控制
 1. 李行亮撕掉婚姻承诺书
-1. 朴彩英点赞潮汕如姨
-1. 湖人：詹姆斯确定不打森林狼
+1. 保罗TGA现场蹲到冯骥
+1. 拜登赦免39人减刑近1500人
 1. 黑神话悟空获TGA玩家之声
 1. OpenAI全量上线视频通话
-1. 国防部：日方没必要风声鹤唳
-1. 丁俊晖炮轰苏格兰公开赛主办方
+1. 湖人：詹姆斯确定不打森林狼
+1. 涉虚假指认拜登父子 FBI线人认罪
+1. 00后自制滑雪喷气背包
 1. MOUZ战胜Mongolz进四强
-1. 特朗普强烈反对乌用美制导弹袭俄
 1. 李昀锐孟子义高频甜蜜售后
-1. 我的要求不算高全民演绎
+1. 丁俊晖炮轰苏格兰公开赛主办方
 1. 领取你的2024打工年终报告
-1. 海绵宝宝版江南style
 1. 看我的蝴蝶结围巾
+1. 我的要求不算高全民演绎
+1. Spirit战胜Liquid
+1. 也是让我闯进康晓北赛道了
 1. 与你相交是我命好
+1. 海绵宝宝版江南style
 1. 这个BGM里面才是真的爱情
 1. 麦琳主动干活把自己干辞职了
-1. Faker获TGA最佳电竞选手
-1. TGA到底有啥好看的
-1. 猎罪图鉴2比第一季好看吗
-1. 四六级一次通过
-1. 金价再次大涨
-1. 把一年四季定格在视频里
-1. 赣州公安翻拍假面骑士救场
 1. AI跳舞逐渐离谱
-1. 也是让我闯进康晓北赛道了
+1. 把一年四季定格在视频里
+1. 金价再次大涨
+1. 赣州公安翻拍假面骑士救场
+1. 四六级一次通过
 1. 剪一条没有废话的视频
+1. 朴彩英点赞潮汕如姨
 1. 我是刑警是刑侦剧也是历史剧
+1. 仅退款“凉凉”了吗
+1. 猎罪图鉴2比第一季好看吗
 1. 前奏一响 回忆登场
-1. 二月红前来向秦海璐求书
-1. 2024有在好好生活
-1. 德爷被长白山重新打回“挨饿德”
-1. 唤俊 有金夫妇首席推荐官
 1. DJ版APT慢动作氛围感好强
+1. 九重紫弹幕里的天赋型选手
+1. 2024有在好好生活
 
 ## 明星榜
 
@@ -83,10 +83,10 @@
 1. [触摸不到的你](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUBR0G6KDYpIwoshClFdQfZDNBfTnrBQE7gXtN) - 念先生
 1. [可可爱爱](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0deb1e75aea643b9927ba26aaafa29dd) - 西瓜milk
 1. [Dream Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUn3DKyIgBFIsCFZmAMM8qSJyMtlgLfoPqyDEe) - DLSS
-1. [蜜桃物语](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
+1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
 1. [才二十三](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okABdOmMEBYDDBvkgYQ5JfEqFtCZvQxf4aRjDI) - 方大同
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
-1. [白鸽乌鸦相爱的戏码](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMVVEf6eDAOmFtNtCsEqKpIorBDM8Nkg6TZRqC) - 皮卡潘
+1. [白鸽乌鸦相爱的戏码](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMVVEf6eDAOmFtNtCsEqKpIorBDM8Nkg6TZRqC) - 皮卡潘
 1. [Just a Picture（主歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oc0usFBZCDnAGbtQig7oCaDsQfCYjcAEfWYQkF) - Beijing Dream Land
 1. [Blame You](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAceIDVL0BC2DJC0Qwi8AZnQAtBgZBbMMpfdzi) - E27XG_
 1. [APT.](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooHxBnfDQIxBZontIlGfpTy5PBxCgEccFO1OMg) - ROSÉ & Bruno Mars
