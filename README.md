@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-14 00:25:10 +0800`
+`更新时间：2024-12-14 01:17:22 +0800`
 
 ## 抖音热榜
 
-1. 中方回应美政客“大蒜威胁论”
+1. 国防部正告菲方
 1. 宇宙机器人获TGA年度游戏
 1. 跨境电商成拉动外贸增长新动能
 1. 马克龙任命新任法国总理
 1. 黑神话悟空 TGA最佳动作游戏
-1. 国防部正告菲方
+1. 2024最后一场双子座流星雨
+1. 中方回应美政客“大蒜威胁论”
 1. 个人养老金到底该不该买
 1. 玩家评黑神话无缘TGA年度最佳
-1. 甜是一种感觉不是长相
 1. 中美续签政府科学技术合作协定
-1. 2024最后一场双子座流星雨
-1. 回顾历届TGA年度最佳游戏
+1. 甜是一种感觉不是长相
+1. 丁俊晖炮轰苏格兰公开赛主办方
 1. 我是刑警大结局
 1. 猎罪图鉴2第四案互联网精神控制
-1. 丁俊晖炮轰苏格兰公开赛主办方
-1. OpenAI全量上线视频通话
+1. 回顾历届TGA年度最佳游戏
+1. Donk赛后发言
 1. 朴彩英点赞潮汕如姨
+1. OpenAI全量上线视频通话
 1. 拜登赦免39人减刑近1500人
-1. 刘捷已任浙江省政府党组书记
 1. 杨子黄圣依再现董永七仙女
 1. 布朗尼30分
 1. 国防部：日方没必要风声鹤唳
+1. 周黑鸭创始人回应“泼天流量”
 1. TGA 2024颁奖典礼
+1. 刘捷已任浙江省政府党组书记
 1. 李梓嘉因伤退赛
-1. 湖人：詹姆斯确定不打森林狼
-1. 四六级一次通过
-1. 李昀锐孟子义高频甜蜜售后
-1. 海绵宝宝版江南style
+1. 保罗TGA现场蹲到冯骥
+1. 樊振东3:0松岛辉空
 1. Uzi找RNG还钱
-1. 九重紫弹幕里的天赋型选手
-1. 这个BGM里面才是真的爱情
-1. Donk赛后发言
-1. 与你相交是我命好
-1. 看我的蝴蝶结围巾
-1. 李行亮撕掉婚姻承诺书
-1. 我的要求不算高全民演绎
+1. 四六级一次通过
+1. 李昀锐小狼装小狗
+1. 海绵宝宝版江南style
 1. 我的2024歌曲串烧
+1. 九重紫弹幕里的天赋型选手
+1. 与你相交是我命好
+1. 李行亮撕掉婚姻承诺书
+1. 看我的蝴蝶结围巾
 1. 金价再次大涨
+1. 我的要求不算高全民演绎
 1. 领取你的2024打工年终报告
-1. AI跳舞逐渐离谱
 1. 剪一条没有废话的视频
+1. 这个BGM里面才是真的爱情
 1. 我是刑警是刑侦剧也是历史剧
+1. 有金夫妇 云南版湘琴植树
 1. 把一年四季定格在视频里
 1. 猎罪图鉴2比第一季好看吗
+1. AI跳舞逐渐离谱
 1. 前奏一响 回忆登场
-1. 有金夫妇 云南版湘琴植树
-1. 被crush拒绝就这样
 1. 用一路往南走敬2024的自己
-1. 有金夫妇 平淡的幸福
 
 ## 明星榜
 
@@ -77,7 +77,7 @@
 
 1. [只你(直到幸福能触手可及)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
 1. [你不明白（副歌1.1X）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LBQK7fIoonFBCeIzPNZvHDgEDtQ2ErnrKvM1) - 陈麒名
-1. [（en版）开始懂了](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ow9G4MKH32zBIDHGvNiTAimWsAJB5QxhCIfIME) - en
+1. [（en版）开始懂了](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ow9G4MKH32zBIDHGvNiTAimWsAJB5QxhCIfIME) - en
 1. [我最喜欢冷天气（主歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogd10efzCApmGsmwZRmIKrEMfCZLg7MycZu3ew) - DeeZoo
 1. [触摸不到的你](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUBR0G6KDYpIwoshClFdQfZDNBfTnrBQE7gXtN) - 念先生
 1. [可可爱爱](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0deb1e75aea643b9927ba26aaafa29dd) - 西瓜milk
@@ -96,7 +96,7 @@
 1. [时光晃呀晃 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
 1. [Moonlight Flowing](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oopZsCtRnQgOhEYmv9FfBBgwmeaQmWQQZED9tN) - VZEUS
 1. [想你（我和你的关系）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8QxhcOBDYYX0zqKCjFVQXZ3RBffnRBQEogitG) - 董唧唧/何村猪
-1. [Yasashi](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEIqAlutRBGQZgZf2VMCuFEBmaD2bgJG6fCQaQ) - CXSPER
+1. [Yasashi](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEIqAlutRBGQZgZf2VMCuFEBmaD2bgJG6fCQaQ) - CXSPER
 1. [得不到爱是我活该（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os0cIhiBc3fAa9kPjzM5WTrMggiK3sBnZDAwpQ) - 阿發/吴百萬
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 
