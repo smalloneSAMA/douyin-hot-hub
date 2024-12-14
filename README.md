@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-15 03:14:17 +0800`
+`更新时间：2024-12-15 04:19:14 +0800`
 
 ## 抖音热榜
 
 1. 上海Major半决赛
 1. 樊振东3:1林诗栋
 1. “天宫画展”上新
-1. 极越突然倒闭对新势力有何影响
-1. 余承东首条抖音视频
-1. 贾跃亭：再还七八亿就回国
 1. 虞书欣说自己是个淡人
-1. 一起去有雪的地方
+1. 余承东首条抖音视频
 1. 初代网红张全蛋现状
-1. 铠甲勇士6开播吐槽
-1. NiKo抱头痛哭
-1. 尹锡悦弹劾案通过
-1. 香港再次被评为全球最自由经济体
-1. 洛阳辟谣牡丹广场发生血案
-1. 斗破苍穹萧炎丹会夺冠
-1. 孟子义这是包扎还是包甜
-1. 有金夫妇回应被称为恋综
-1. B太到菏泽喝羊汤一波三折
-1. 四级阅读
-1. 朴灿烈欧阳娜娜合作曲
-1. 刀郎合肥演唱会
-1. 白司彦洪熙珠亲了
-1. 尹锡悦回应被弹劾：绝不放弃
-1. 有金要把大学生夸成翘嘴了
-1. 博主在挪威捡垃圾
-1. 宋墨窦昭新婚之夜
-1. 丁禹兮说他们想听我就唱了
-1. 齐静春一己之力对抗天道
-1. 埃文凯尔有个人账号了
 1. 好久没吃到妈妈牌水饺了
-1. 法海你根本不懂爱
-1. TGA笑梗盘点
+1. 铠甲勇士6开播吐槽
+1. 尹锡悦弹劾案通过
+1. 一起去有雪的地方
+1. 极越突然倒闭对新势力有何影响
+1. NiKo抱头痛哭
+1. 孟子义这是包扎还是包甜
+1. 洛阳辟谣牡丹广场发生血案
+1. 埃文凯尔有个人账号了
+1. B太到菏泽喝羊汤一波三折
+1. 朴灿烈欧阳娜娜合作曲
+1. 有金夫妇回应被称为恋综
+1. 刀郎合肥演唱会
+1. 博主在挪威捡垃圾
+1. 四级阅读
+1. 斗破苍穹萧炎丹会夺冠
+1. 香港再次被评为全球最自由经济体
+1. 回顾历届TGA年度最佳游戏
+1. 尹锡悦回应被弹劾：绝不放弃
+1. 宋墨窦昭新婚之夜
+1. 齐静春一己之力对抗天道
 1. 布朗尼已为湖人赚5000万
-1. 六级听力
+1. TGA笑梗盘点
+1. 一个视频带你了解海有多深
+1. 丁禹兮说他们想听我就唱了
+1. 法海你根本不懂爱
+1. 白司彦洪熙珠亲了
+1. 有金要把大学生夸成翘嘴了
 1. 网红婚纱男模阿冼去世
-1. 老瓦杯马龙指导上线
+1. 鸡公煲鸡公煲经过我的胃
 1. 2024年终梗王大考
 1. 虽然不认识我但见过我的表情包
+1. 孩子：不敢睁开眼希望是我的幻觉
 1. 中央批准：谈绪祥任北京市委常委
-1. 张韶涵曲靖演唱会
 1. 乐言自曝月薪5万
+1. 张韶涵曲靖演唱会
 1. 迷雾过后就是破晓
 1. 朱丹吃了40多年鸡蛋才发现过敏
-1. 孩子：不敢睁开眼希望是我的幻觉
-1. 我的2024歌曲串烧
-1. AI跳舞逐渐离谱
-1. 黄子韬在线请网友给新歌起名
 1. 余承东抖音粉丝数破100万
-1. 没想到学生票预约也这么多人看
-1. 鸡公煲鸡公煲经过我的胃
+1. 六级听力
+1. 我的2024歌曲串烧
+1. 老瓦杯马龙指导上线
+1. 重要的是我会爱你的
+1. 家里老人电话打不通的原因
 
 ## 明星榜
 
@@ -91,9 +91,9 @@
 1. [Blame You](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAceIDVL0BC2DJC0Qwi8AZnQAtBgZBbMMpfdzi) - E27XG_
 1. [APT.](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooHxBnfDQIxBZontIlGfpTy5PBxCgEccFO1OMg) - ROSÉ & Bruno Mars
 1. [Hours（时光）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oES9g0DgeYmDFDVCLNfBZZsnLvGF4utxCEAm1Q) - DLSS
-1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
-1. [Lifestyle（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
-1. [伤心剖半 (把你的心剖开来)（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE3a4kLafIGYPYIFXlEAefIrO0MvzyEDgbuTmC) - 邓典
+1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
+1. [Lifestyle（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
+1. [伤心剖半 (把你的心剖开来)（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE3a4kLafIGYPYIFXlEAefIrO0MvzyEDgbuTmC) - 邓典
 1. [时光晃呀晃 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
 1. [Moonlight Flowing](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oopZsCtRnQgOhEYmv9FfBBgwmeaQmWQQZED9tN) - VZEUS
 1. [想你（我和你的关系）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8QxhcOBDYYX0zqKCjFVQXZ3RBffnRBQEogitG) - 董唧唧/何村猪
