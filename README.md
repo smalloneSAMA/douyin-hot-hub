@@ -11,15 +11,15 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-22 12:20:36 +0800`
+`更新时间：2024-12-22 13:16:34 +0800`
 
 ## 抖音热榜
 
 1. 考研数学
 1. 巴菲特出手了
 1. 走过2024
-1. MH370失联10年为何重启搜寻
 1. 湖人103:99国王迎3连胜
+1. MH370失联10年为何重启搜寻
 1. 曼城1:2维拉遭三连败
 1. 您的骑手正在为您“抢”饺子
 1. 外交部回应美对台军援军售
@@ -28,43 +28,43 @@
 1. 猎罪图鉴2龙凤呈祥案
 1. 考研第二天
 1. 巴萨1:2马竞
-1. 于洋喝错孟子义的咖啡
+1. “重庆体育馆坍塌”系谣言
 1. 李宜雪被诊断强迫性障碍人格障碍
+1. 上海地铁致歉
 1. 韩国首尔爆发大规模示威
+1. 于洋喝错孟子义的咖啡
+1. 冬至插队追妻文学
 1. 蛋仔惊魂夜新职业猎人
 1. 牧神记动画年番官宣
-1. 上海地铁11号线遭塔吊侵入
 1. 可是成为妈妈 又岂止108分钟
 1. 广州南站通报高铁拖行乘客事件
-1. 希望你能成为理想中的自己
-1. 未经你的同意没人能让你觉得自卑
-1. 假如和平精英在古代
 1. 抖音热点人物纪录片
+1. 迪丽热巴鬼王路透
 1. 苗安素恋爱脑
-1. 我也当一回刀乐哥
-1. 阿森纳5:1大胜水晶宫
 1. 把2024年热门歌曲串在一起
-1. 挑战给表情包配音
+1. 希望你能成为理想中的自己
+1. 假如和平精英在古代
+1. 未经你的同意没人能让你觉得自卑
 1. 王鹤棣不小心摔倒剪进正片
-1. 你是我的依靠 无论天涯海角
-1. 分别时给朋友跳土味舞
-1. 黄景瑜专治打嗝
 1. 原来对联是这样做出来的
+1. 蓝战非打卡马丘比丘
+1. 告别2024用力去拥抱
+1. 阿森纳5:1大胜水晶宫
 1. 拜登向台湾提供5.71亿美元军援
 1. 王者新版本信念12月25日上线
-1. 2024热梗串烧来了
+1. 挑战给表情包配音
+1. 我也当一回刀乐哥
+1. 2024我的抖音足迹报告
+1. OPPO申请注册ophone商标
+1. 谁能拒绝东北炕头杀猪菜呢
+1. 黄景瑜专治打嗝
+1. 樊振东王楚钦再迎对决
+1. 宝宝：装得我差点睡着
+1. 分别时给朋友跳土味舞
+1. 章若楠冬日韩系女主感
 1. 虞书欣吸血鬼女孩
 1. 当萌娃唱APT
-1. 章若楠冬日韩系女主感
-1. 告别2024用力去拥抱
-1. 2024我的抖音足迹报告
-1. 宝宝：装得我差点睡着
-1. 谁能拒绝东北炕头杀猪菜呢
-1. 蓝战非打卡马丘比丘
 1. 朱俊麟：九重紫的男人绝不认输
-1. 新年聚会大女主战袍
-1. 我的冬天动起来了
-1. 冬至插队追妻文学
 
 ## 明星榜
 
@@ -82,7 +82,7 @@
 1. [冬日愿望清单](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
 1. [消散对白(圆梦版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
 1. [If December Never Ends](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY1IQMoTgCFIBg8RZifyqlBBt1UFgitTYmxeOS) - Anson Seabra
-1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
+1. [Falling In Love（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
 1. [Lifestyle（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
 1. [爆炸](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/305dc842daa44f0a8641a1005d02d6a7) - BCD Studio
 1. [消散对白(安静版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oov6iOeNQzfkFX2amVgQ6ADStVuuC6MfaYJ8z3) - 丁禹兮
