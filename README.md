@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-25 15:16:48 +0800`
+`更新时间：2024-12-25 16:22:18 +0800`
 
 ## 抖音热榜
 
-1. 冬天打到臭车
-1. iG赛后发文致歉
-1. 数据看长三角区域一体化发展
+1. 一架客机在哈萨克斯坦坠毁
 1. 小米官宣与蔚来合作
-1. 抖音年度哈哈大会开幕了
+1. 数据看长三角区域一体化发展
 1. 库里谈论退役
-1. 易烊千玺瘦了好多
+1. 抖音年度哈哈大会开幕了
+1. iG赛后发文致歉
+1. 冬天打到臭车
 1. 三井胡同的夏天
-1. 黄子韬立送车flag
 1. 王者新赛季对局环境优化
-1. 山西男篮战胜深圳男篮
+1. 黄子韬立送车flag
+1. 易烊千玺瘦了好多
+1. 哈萨克斯坦坠毁客机曾发求救信号
 1. 谢谢你2024
-1. C罗在芬兰冰浴
 1. 美团就“擦边骑手服”发声明
 1. 被家暴16次女子称前夫像安嘉和
-1. 银川市发生3.6级地震
-1. 王者上新9款皮肤
 1. 大冰已注销名下所有公司
-1. 车主回应遭追尾后车起火
-1. 抖音反诈骗验证助手上线了
+1. 王者上新9款皮肤
+1. 银川市发生3.6级地震
 1. 九重紫制片人谈选角
+1. 抖音反诈骗验证助手上线了
+1. 车主回应遭追尾后车起火
+1. 山西男篮战胜深圳男篮
 1. 把鸡蛋做成吃不起的样子
-1. 当詹杜库集体输球
 1. 日本外相凌晨飞抵北京
-1. 全国各地的花灯卷起来了
-1. 用玉米皮复刻九龙九凤冠
 1. 世界各地的圣诞节
-1. 只字不提的故事感
-1. 丁禹兮抖音粉丝破1000w
-1. 大声喊出你的家乡美食
 1. 二次元独攀模仿挑战
+1. C罗在芬兰冰浴
+1. 丁禹兮抖音粉丝破1000万
+1. 只字不提的故事感
+1. 大声喊出你的家乡美食
 1. 展示下你的大师手法
-1. 增值税法通过
+1. 全国各地的花灯卷起来了
+1. 当詹杜库集体输球
+1. 用玉米皮复刻九龙九凤冠
+1. 小摄影师笙笙拍的张柏芝
 1. 与辉同行西安跨年乐享会
-1. 嫌疑人挑战
-1. 圣诞节手势舞跳起来了
-1. 2024圣诞这样拍
 1. 抖音美好跨年季
+1. 2024圣诞这样拍
+1. 圣诞节手势舞跳起来了
+1. 小米辟谣年底前裁员6000人
 1. 冰雪大世界的滑梯终于坐上了
 1. 当我娃睡着以后的样子
-1. 小摄影师笙笙拍的张柏芝
-1. 如何看待肯德基逆势涨价
-1. 小米辟谣年底前裁员6000人
-1. 南翔见证长白山云顶天宫建造
-1. 扎根在乡村的高跟鞋男生
+1. 增值税法通过
 1. 边伯贤唱我姓石
+1. 提前探访长白山云顶天宫
+1. 嫌疑人挑战
 1. 被我家软乎乎的小乖萌化啦
+1. 受害者讲述受家暴的影响
+1. 扎根在乡村的高跟鞋男生
 1. 火车新说唱freestyle
-1. 回顾2024年全球经济发展
-1. 快乐向前冲冰雪季赛道我来了
 
 ## 明星榜
 
@@ -78,8 +78,8 @@
 
 1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
 1. [只字不提（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oksAG6j7NrZche9tfaCOLIUzFggDhgaBMCtGsG) - 于和伟
-1. [妈妈陪我长大了（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o43tOf3TB6QsKzHIMZ2gPOCrMdhWGzRmQGAxIx) - 陈小满 & 庄淇文29
-1. [冬日愿望清单](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
+1. [妈妈陪我长大了（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o43tOf3TB6QsKzHIMZ2gPOCrMdhWGzRmQGAxIx) - 陈小满 & 庄淇文29
+1. [冬日愿望清单](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
 1. [消散对白(圆梦版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
 1. [If December Never Ends](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY1IQMoTgCFIBg8RZifyqlBBt1UFgitTYmxeOS) - Anson Seabra
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
@@ -98,8 +98,8 @@
 1. [野百合也有春天（万向乐队完整版已上线）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMnUxhRAMiAGBqDtIPBQ7ACYQZFlJCftcgeDJE) - 万向乐队
 1. [Blame You](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAceIDVL0BC2DJC0Qwi8AZnQAtBgZBbMMpfdzi) - E27XG_
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
-1. [伤心剖半 (把你的心剖开来)（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE3a4kLafIGYPYIFXlEAefIrO0MvzyEDgbuTmC) - 邓典
-1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
+1. [伤心剖半 (把你的心剖开来)（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE3a4kLafIGYPYIFXlEAefIrO0MvzyEDgbuTmC) - 邓典
+1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [这么冷的天（主歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogYMBrzd5JLelzOwfvIehfmvACyNEpVLclfQtc) - 白宁
 1. [第一次爱的人（DJ铁柱版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUC2F4BUCFIYeaeKIOEDimfLM3l9AJzTDgpmlz) - 颜恬初
 1. [野人（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEMEdMzeVrzYSP90sfALIeYZQKYeWlsZpAGfr9) - 孟维来
