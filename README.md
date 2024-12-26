@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-26 07:16:41 +0800`
+`更新时间：2024-12-26 09:15:44 +0800`
 
 ## 抖音热榜
 
 1. 专家回应出现致晕“新毒株”
-1. 和平精英大唐西安
+1. 东契奇伤退
 1. 一带一路金枢纽
-1. 增值税法通过
-1. 抖音年度哈哈大会开幕了
-1. 王者新赛季对局环境优化
-1. iG赛后发文致歉
+1. 全国各地的花灯卷起来了
+1. 克莱历史三分榜第五
+1. 和平精英大唐西安
+1. 回顾2024年全球经济发展
+1. 提前探访长白山云顶天宫
+1. 徐艺洋遗憾没记录领证瞬间
+1. “轨道上的长三角”再添新动脉
+1. 黄子韬回应送车flag
 1. 高迪为吉林上分
-1. 孟子义李昀锐吻戏花絮
-1. 猎罪图鉴2大结局
-1. 向佐穿的马面裙被曝抄袭
-1. 年末冲量20家车企官宣降价
-1. 谢谢你2024
+1. 吴昕出门在外人设自己编
 1. 当心“电子医保卡”村推骗局
-1. 柳智敏安宥真SBS舞台
-1. 爆眼龙捏捏乐厂家订单爆满
-1. 李尚洙退出韩国乒乓球队
-1. 路易吉枪杀医保巨头案背后
-1. 一口气剪6件羽绒服看懂造假真相
-1. 林高远谈欧冠之旅
-1. 日本放宽对中国签证
-1. 一架客机在哈萨克斯坦坠毁
-1. 网友偶遇吴奇隆戴着婚戒坐高铁
-1. 日本外相凌晨飞抵北京
-1. 李大霄：股市开始有希望了
+1. 孟子义李昀锐吻戏花絮
 1. 多地明确春节可燃放烟花爆竹
 1. 周鸿祎被夹伤的手成顽固性旧伤
-1. 晒出你的生活闪亮时
+1. 向佐穿的马面裙被曝抄袭
+1. 烧伤妈妈丈夫称家里确实没钱
+1. 李大霄：股市开始有希望了
+1. 一架客机在哈萨克斯坦坠毁
 1. 渐冻人蔡磊还在冲刺
-1. 圣诞小鹿妆
+1. 胡塞武装威胁美国撤走航母
+1. 路易吉枪杀医保巨头案背后
+1. 年末冲量20家车企官宣降价
 1. 丁彦雨航首次体测未达标
-1. 范丞丞安检式拍摄
-1. 抖瓦杯小伟Code强强对决
-1. 小米官宣与蔚来合作
-1. 李大霄建议散户不要乱买股票
-1. 两军官被罢免人大代表职务
-1. 库里谈论退役
+1. 把鸡蛋做成吃不起的样子
+1. TA说无聊我就出来了
+1. 用归途的光照亮回家的路
+1. 12356将成全国统一心理援助热线
+1. SBS歌谣大战红毯
+1. 日本放宽对中国签证
+1. 抖音年度哈哈大会开幕了
+1. 一口气剪6件羽绒服看懂造假真相
+1. 谢谢你2024
+1. 医生不建议将奥司他韦作为预防药
 1. 当詹杜库集体输球
-1. C罗在芬兰冰浴
-1. 银川地震最新研判
-1. 陆嫣揭露丁婧恶行
-1. 俄称解决与乌冲突谈判将在明年
-1. 全国各地的花灯卷起来了
-1. 用玉米皮复刻九龙九凤冠
-1. 马斯克“炮轰”美联储
-1. 原神茜特菈莉角色PV
-1. 5分钟分析阿塞拜疆客机坠机
+1. 晒出你的生活闪亮时
+1. 人类幼崽这样拍包可爱的
+1. 猎罪图鉴2大结局
+1. 抖音美好跨年季
+1. 大声喊出你的家乡美食
+1. 冬天会周而复始
+1. 二次元独攀模仿挑战
+1. 圣诞小鹿妆
+1. 扎根在乡村的高跟鞋男生
+1. 小摄影师笙笙拍的张柏芝
 1. 想接各地文旅的特产大礼包
-1. 张国荣梅艳芳30多年前圣诞合照
-1. 黄圣依觉得十年是婚姻的分水岭
+1. 林高远谈欧冠之旅
+1. 带字水饺可以安排起来了
 
 ## 明星榜
 
@@ -76,14 +76,14 @@
 
 ## 音乐榜
 
-1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
+1. [无感 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
 1. [只字不提（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oksAG6j7NrZche9tfaCOLIUzFggDhgaBMCtGsG) - 于和伟
 1. [妈妈陪我长大了（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o43tOf3TB6QsKzHIMZ2gPOCrMdhWGzRmQGAxIx) - 陈小满 & 庄淇文29
 1. [冬日愿望清单](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
 1. [消散对白(圆梦版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
-1. [If December Never Ends](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY1IQMoTgCFIBg8RZifyqlBBt1UFgitTYmxeOS) - Anson Seabra
+1. [If December Never Ends](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY1IQMoTgCFIBg8RZifyqlBBt1UFgitTYmxeOS) - Anson Seabra
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
-1. [Lifestyle（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
+1. [Lifestyle（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
 1. [爆炸](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/305dc842daa44f0a8641a1005d02d6a7) - BCD Studio
 1. [消散对白(安静版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oov6iOeNQzfkFX2amVgQ6ADStVuuC6MfaYJ8z3) - 丁禹兮
 1. [（en版）稳稳的幸福 - 主歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8iWyyKzqBLzARVHi7IABsCAo4QfMIu6WbRwIB) - en
@@ -99,11 +99,11 @@
 1. [Blame You](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAceIDVL0BC2DJC0Qwi8AZnQAtBgZBbMMpfdzi) - E27XG_
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [伤心剖半 (把你的心剖开来)（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE3a4kLafIGYPYIFXlEAefIrO0MvzyEDgbuTmC) - 邓典
-1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
+1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [这么冷的天（主歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogYMBrzd5JLelzOwfvIehfmvACyNEpVLclfQtc) - 白宁
 1. [第一次爱的人（DJ铁柱版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUC2F4BUCFIYeaeKIOEDimfLM3l9AJzTDgpmlz) - 颜恬初
 1. [野人（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEMEdMzeVrzYSP90sfALIeYZQKYeWlsZpAGfr9) - 孟维来
-1. [才二十三（岁月眨眼就过了）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYAvkTrUXEBMWYUbL3nl8i01MJ5skiIZASC2H) - 方大同
+1. [才二十三（岁月眨眼就过了）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYAvkTrUXEBMWYUbL3nl8i01MJ5skiIZASC2H) - 方大同
 
 ## 品牌榜
 
