@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-26 12:21:22 +0800`
+`更新时间：2024-12-26 13:17:40 +0800`
 
 ## 抖音热榜
 
+1. 里弗斯绝杀
 1. 詹姆斯库里拥抱
-1. 东契奇伤退
 1. 回顾2024年的惊艳瞬间
-1. 全国各地的花灯卷起来了
 1. 抖音年度哈哈大会开幕了
+1. 东契奇伤退
+1. 全国各地的花灯卷起来了
 1. 克莱历史三分榜第五
-1. 回顾2024年全球经济发展
 1. 柯文哲遭起诉求刑28年半
 1. 黄景瑜孙千真拍了逆光变装
 1. 韩国考虑对中国团体游客试行免签
+1. 阿塞拜疆航空坠毁客机舱内画面
 1. 黄子韬回应送车flag
-1. 周鸿祎谈2025年赚钱7大风口
+1. 浓眉受伤
+1. 太原辟谣地铁1号线26日通车
 1. 76人击败凯尔特人
-1. 当心“电子医保卡”村推骗局
-1. 想接各地文旅的特产大礼包
 1. 毛泽东诞辰131周年
-1. 高迪为吉林上分
-1. SBS歌谣大战红毯
-1. 六成台湾民众担忧要打仗
+1. 回顾2024年全球经济发展
+1. 周鸿祎谈2025年赚钱7大风口
+1. 想接各地文旅的特产大礼包
 1. 徐艺洋遗憾没记录领证瞬间
+1. 六成台湾民众担忧要打仗
+1. 专家回应出现致晕“新毒株”
+1. SBS歌谣大战红毯
 1. TA说无聊我就出来了
 1. 用归途的光照亮回家的路
-1. 展示下你的大师手法
-1. 专家回应出现致晕“新毒株”
 1. 5分钟分析阿塞拜疆客机坠机
-1. 医生不建议将奥司他韦作为预防药
+1. 李尚洙退出韩国乒乓球队
 1. 丁彦雨航首次体测未达标
-1. 带字水饺可以安排起来了
-1. 冬天该有的样子
-1. 晒出你的生活闪亮时
-1. 孟子义李昀锐吻戏花絮
+1. 原神茜特菈莉角色PV
 1. 12356将成全国统一心理援助热线
-1. 人类幼崽这样拍包可爱的
+1. 带字水饺可以安排起来了
+1. 孟子义李昀锐吻戏花絮
+1. 晒出你的生活闪亮时
+1. 医生不建议将奥司他韦作为预防药
 1. 谢谢你2024
-1. 把鸡蛋做成吃不起的样子
-1. 抖音美好跨年季
+1. 冬天该有的样子
 1. 张馨予把老公名字写进公司
-1. 汪苏泷真把游乐园搬进演唱会了
+1. 人类幼崽这样拍包可爱的
 1. 猎罪图鉴2大结局
+1. 汪苏泷真把游乐园搬进演唱会了
 1. 路易吉枪杀医保巨头案背后
-1. 冯绍峰知否六周年限定返场
-1. 和平精英大唐西安
-1. 林一找不到主持人
-1. 周鸿祎被夹伤的手成顽固性旧伤
 1. 当我娃睡着以后的样子
+1. 2024SBS歌谣大赏
+1. 林一找不到主持人
+1. 冯绍峰知否六周年限定返场
 1. 阴天之后总有续命的晴空
 1. 冬天会周而复始
-1. 李尚洙退出韩国乒乓球队
-1. 李大霄：股市开始有希望了
+1. 哈萨克斯坦坠机事故幸存者发声
+1. 抖音美好跨年季
 
 ## 明星榜
 
@@ -78,16 +78,16 @@
 1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
 1. [只字不提（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oksAG6j7NrZche9tfaCOLIUzFggDhgaBMCtGsG) - 于和伟
 1. [妈妈陪我长大了（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o43tOf3TB6QsKzHIMZ2gPOCrMdhWGzRmQGAxIx) - 陈小满 & 庄淇文29
-1. [冬日愿望清单](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
-1. [消散对白(圆梦版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
-1. [If December Never Ends](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY1IQMoTgCFIBg8RZifyqlBBt1UFgitTYmxeOS) - Anson Seabra
+1. [冬日愿望清单](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
+1. [消散对白(圆梦版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
+1. [If December Never Ends](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY1IQMoTgCFIBg8RZifyqlBBt1UFgitTYmxeOS) - Anson Seabra
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
 1. [Lifestyle（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
 1. [爆炸](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/305dc842daa44f0a8641a1005d02d6a7) - BCD Studio
 1. [消散对白(安静版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oov6iOeNQzfkFX2amVgQ6ADStVuuC6MfaYJ8z3) - 丁禹兮
-1. [（en版）稳稳的幸福 - 主歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8iWyyKzqBLzARVHi7IABsCAo4QfMIu6WbRwIB) - en
+1. [（en版）稳稳的幸福 - 主歌](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8iWyyKzqBLzARVHi7IABsCAo4QfMIu6WbRwIB) - en
 1. [只你(直到幸福能触手可及)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
-1. [你不明白（副歌1.1X）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LBQK7fIoonFBCeIzPNZvHDgEDtQ2ErnrKvM1) - 陈麒名
+1. [你不明白（副歌1.1X）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LBQK7fIoonFBCeIzPNZvHDgEDtQ2ErnrKvM1) - 陈麒名
 1. [天冷了你要记得穿秋裤（米三岁版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQlIwVIDWiZ6BQilAorS7MA0AgCkQDvcZAdm1) - 米三岁
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 1. [苹果香Dj（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEeIEQbYGAOspCTRAIeYF4Ok8LgZ8NBaRe4ztR) - 黑大婶回乡带娃
