@@ -11,60 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-27 22:16:16 +0800`
+`更新时间：2024-12-27 23:17:44 +0800`
 
 ## 抖音热榜
 
 1. 花海退役
-1. 冠军杯S6决战之夜
-1. 谢谢你 2024
 1. 抖瓦杯关键局Gus小伟对决
-1. 珠海驾车撞人致35死案嫌犯获死刑
+1. 谢谢你 2024
+1. 印度前总理辛格去世
+1. 抖音年度哈哈大会
 1. 赵露思将暂停工作
-1. 金铲铲派对时光机正式上线
+1. 丁禹兮化身燕云boss郑鄂
 1. 德国总统宣布解散联邦议院
 1. 电影小小的我上映
-1. 燕云十六声公测
-1. 韩国经济副总理代行总统职务
+1. 2024我的追光时刻
 1. 地铁逃生烽火荣都地图
-1. 商黎光受贿1.04亿被判无期
+1. 超有梗的跨年礼物大赏
 1. 医院辟谣病人砸1.2亿设备
+1. 金铲铲派对时光机正式上线
 1. 四川舰在上海下水
-1. 抖音年度哈哈大会
-1. 小小的我易烊千玺真把我演服了
-1. 丁禹兮化身燕云boss郑鄂
+1. 076为何命名为四川舰
+1. 恋与深空热吻卡
 1. 黄轩一把子醒狮到抖音了
 1. 这些精选博主就是我的过年搭子
-1. 2024我的追光时刻
-1. 超有梗的跨年礼物大赏
+1. 年度最爱穿搭少不了黑色
+1. 晒出你的年度书单
 1. 最接受不了对象什么
-1. 蒋欣路边吃生蚝
-1. 像你这样的职业一定很厉害
-1. 076为何命名为四川舰
-1. 雪地里撒欢
 1. 张馨予是会用妈妈bgm的
+1. 像你这样的职业一定很厉害
+1. 蒋欣路边吃生蚝
+1. 雪地里撒欢
+1. 带你看一场南半球的日落
 1. 手牵手跨向2025
-1. 看看你的2024年度回忆
-1. Tick Tack手势舞
 1. 4分钟看懂076四川舰独到设计
 1. 世界排名对运动员影响有多大
+1. Tick Tack手势舞
 1. 王俊凯新歌《大概》
+1. 燕云十六声公测
+1. 赖益烨郭雨妍甜蜜领证
 1. 张杰的天下又杀回抖音了
-1. 年度最爱穿搭少不了黑色
 1. 2024最后整个大活
-1. 社交的手腕模仿大赛
 1. 宝石老舅：已接受行政处罚
-1. 一口气回顾鱿鱼游戏第一季
 1. 动物上班都犯困
 1. 人偏肺病毒感染高发 专家提醒
-1. 去评论区叠新年buff
-1. B太二刷单县羊肉汤
-1. 用蜡笔画打开2024亲子回忆
+1. 一口气回顾鱿鱼游戏第一季
+1. 社交的手腕模仿大赛
 1. 祝我们2025还能遇见
 1. 赵今麦和她的180男团
-1. 晒出我的新年穿搭
-1. 2024向光许愿吧
+1. 看看你的2024年度回忆
 1. 猎罪图鉴3的第一个镜头想好了
+1. 2024向光许愿吧
+1. 100部经典港片完成4K修复
+1. 去评论区叠新年buff
+1. AAA颁奖礼
 
 ## 明星榜
 
@@ -89,7 +88,7 @@
 1. [你不明白（副歌1.1X）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LBQK7fIoonFBCeIzPNZvHDgEDtQ2ErnrKvM1) - 陈麒名
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [（en版）稳稳的幸福 - 主歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8iWyyKzqBLzARVHi7IABsCAo4QfMIu6WbRwIB) - en
-1. [苹果香Dj（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEeIEQbYGAOspCTRAIeYF4Ok8LgZ8NBaRe4ztR) - 黑大婶回乡带娃
+1. [苹果香Dj（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEeIEQbYGAOspCTRAIeYF4Ok8LgZ8NBaRe4ztR) - 黑大婶回乡带娃
 1. [Exile](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYj4gAQTknKE3WW0Je8KGmQ7z1cA4FefwtbufD) - Alyssa Caroline
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [只你(直到幸福能触手可及)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
@@ -98,9 +97,9 @@
 1. [Blame You](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAceIDVL0BC2DJC0Qwi8AZnQAtBgZBbMMpfdzi) - E27XG_
 1. [只字不提（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oksAG6j7NrZche9tfaCOLIUzFggDhgaBMCtGsG) - 于和伟
 1. [春娇与志明](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e530d8fceb7044b39707d7f9ff54add1) - 街道办,欧阳耀莹
-1. [野人（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEMEdMzeVrzYSP90sfALIeYZQKYeWlsZpAGfr9) - 孟维来
+1. [野人（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEMEdMzeVrzYSP90sfALIeYZQKYeWlsZpAGfr9) - 孟维来
 1. [开心往前飞（开心超人联盟主题曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
-1. [晚婚(世上唯一契合灵魂)_叁女生版](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os2TDfuHtEXCYYXJwVngFBuNQOZVCQDy9Aqexu) - 叁
+1. [晚婚(世上唯一契合灵魂)_叁女生版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os2TDfuHtEXCYYXJwVngFBuNQOZVCQDy9Aqexu) - 叁
 
 ## 品牌榜
 
