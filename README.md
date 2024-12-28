@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-29 06:16:06 +0800`
+`更新时间：2024-12-29 07:17:31 +0800`
 
 ## 抖音热榜
 
-1. 076四川舰到底有多强悍
-1. 接下来愿望都会实现
-1. 心怀热爱 共赴2025
-1. 雪饼猴吃干噎酸奶
-1. 抖音跨年许愿夜落地重庆
-1. 白敬亭变“红”敬亭
-1. 阿航坠机事故幸存空姐痛哭
 1. 辽宁男篮115:89新疆
+1. 076四川舰到底有多强悍
+1. 心怀热爱 共赴2025
+1. 阿航坠机事故幸存空姐痛哭
+1. 白敬亭变“红”敬亭
+1. 雪饼猴吃干噎酸奶
+1. 接下来愿望都会实现
 1. 在传统味道里感受年味
 1. 中方调查进口牛肉 巴西回应
 1. 俄罗斯商品馆是不是割韭菜
 1. 牛肉价格下跌背后原因
-1. 张国伟的冬日梅花
+1. 抖音跨年许愿夜落地重庆
+1. 广东男篮106:65吉林
 1. 本周辟谣
 1. 大奉打更人是懂幽默的
 1. 黄子韬再次回应送车
-1. 回访听劝理发师晓华
-1. 燕云十六声好玩吗
-1. 再渺小的我也都是完整的我
-1. 九重紫终映礼
-1. 李川 获得了一位开心公主的芳心
 1. 外媒关注中国“六代机”试飞
+1. 燕云十六声好玩吗
+1. 2024年度回忆冠军版
 1. 拜托了2025
-1. 广东男篮106:65吉林
+1. 李川 获得了一位开心公主的芳心
+1. 再渺小的我也都是完整的我
+1. 日产本田合并能起作用吗
+1. 九重紫终映礼
 1. 影子不会说谎非法牟利被抓
+1. 2024我的追光时刻
 1. 李昀锐用孟子义的粉饼
 1. 误杀3真敢拍
-1. 感谢云南边防警察的坚守
-1. 乌啦啦重庆麻将馆里吃毛血旺
+1. 张国伟的冬日梅花
 1. 王鹤棣泰国演唱会
-1. 日产本田合并能起作用吗
+1. WTT回应樊振东陈梦退出世界排名
+1. 催路边摊老板上班
+1. 感谢云南边防警察的坚守
+1. 晒出你的年度书单
 1. 可你不知道我以前的样子
 1. 你负责伴奏我负责跳
-1. 晒出你的年度书单
-1. 2024我的追光时刻
 1. 像你这样的职业一定很厉害
-1. 小米总裁一年开了2352次会
-1. 最接受不了对象什么
-1. 抢零食大赛太欢乐了
-1. 2024年度回忆冠军版
-1. 蒋奇明杨采钰初恋变仇人
-1. 手牵手跨向2025
-1. 4分钟看懂076四川舰独到设计
-1. 谁用谁好看的滤镜
-1. 肖央回应误杀“杀上瘾了”
-1. 2025新头像安排好了
+1. 乌啦啦重庆麻将馆里吃毛血旺
 1. 独行侠98:89力克太阳
+1. 荣耀终端公司名称变更
 1. 白梅贵友谊的小船说翻就翻
-1. 林俊杰新加坡演唱会
+1. 2025新头像安排好了
+1. 谁用谁好看的滤镜
+1. 蒋奇明杨采钰初恋变仇人
+1. 小米总裁一年开了2352次会
+1. 肖央回应误杀“杀上瘾了”
+1. 手牵手跨向2025
+1. 翻开我崭新的2025
+1. 4分钟看懂076四川舰独到设计
 1. 邓紫棋惠州演唱会
 
 ## 明星榜
@@ -76,7 +76,7 @@
 
 ## 音乐榜
 
-1. [消散对白(圆梦版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
+1. [消散对白(圆梦版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 1. [你的](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
 1. [冬日愿望清单](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
@@ -87,7 +87,7 @@
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
 1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
 1. [你不明白（副歌1.1X）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LBQK7fIoonFBCeIzPNZvHDgEDtQ2ErnrKvM1) - 陈麒名
-1. [执子之手 (剪辑2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
+1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [（en版）稳稳的幸福 - 主歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8iWyyKzqBLzARVHi7IABsCAo4QfMIu6WbRwIB) - en
 1. [苹果香Dj（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEeIEQbYGAOspCTRAIeYF4Ok8LgZ8NBaRe4ztR) - 黑大婶回乡带娃
 1. [Exile](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYj4gAQTknKE3WW0Je8KGmQ7z1cA4FefwtbufD) - Alyssa Caroline
