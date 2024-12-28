@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-28 13:16:44 +0800`
+`更新时间：2024-12-28 14:22:40 +0800`
 
 ## 抖音热榜
 
@@ -20,49 +20,49 @@
 1. 我国对外资产规模破10万亿美元
 1. 吃完这顿就2025了
 1. “亿元水官”马超群被判死缓
-1. 这根糖葫芦就算是代言费吧
+1. 新赛季元歌重新回归
 1. 00后入殓师汤木檀泽辞职
 1. 桂林市委书记周家斌被查
-1. 据传国王解雇主教练布朗
-1. 新赛季元歌重新回归
+1. 这根糖葫芦就算是代言费吧
+1. 2024热门旅游目的地
 1. 电影小小的我首波影评
-1. 美团将逐步取消骑手超时扣款
-1. 特朗普要求暂停TikTok强制出售令
+1. 花海退役
 1. 回访听劝理发师晓华
 1. 外媒关注中国“六代机”试飞
-1. 花海退役
+1. 黄子韬再次回应送车
+1. 美团将逐步取消骑手超时扣款
+1. 燕云十六声好玩吗
 1. 地铁逃生烽火荣都地图
-1. 锤娜丽莎吃了几个柯老师
-1. 带你看一场南半球的日落
 1. 像你这样的职业一定很厉害
 1. 权志龙朴彩英cha了APT
 1. 最接受不了对象什么
-1. 葛夕嫌弃留几手丑
-1. 影子不会说谎非法牟利被抓
 1. 黄景瑜试图举起整个娱乐圈
+1. 李现蒋长扬簪花郎君
+1. 影子不会说谎非法牟利被抓
+1. 葛夕嫌弃留几手丑
 1. Tick Tack手势舞
+1. 2025新头像安排好了
+1. 丁禹兮化身燕云boss郑鄂
 1. 赵露思将暂停工作
 1. 去评论区叠新年buff
 1. 4分钟看懂076四川舰独到设计
 1. 张杰的天下又杀回抖音了
 1. 蒋欣路边吃生蚝
 1. 手牵手跨向2025
-1. 李现蒋长扬簪花郎君
-1. 2025新头像安排好了
-1. 丁禹兮化身燕云boss郑鄂
-1. 年度最爱穿搭少不了黑色
-1. 小米总裁一年开了2352次会
-1. 我在抖音集齐了全明星小卡
-1. 用ahua语录迎接2025
-1. 2024最后整个大活
+1. 王一博新歌我在
 1. 076为何命名为四川舰
-1. 动物上班都犯困
+1. 2024最后整个大活
+1. 我在抖音集齐了全明星小卡
+1. 年度最爱穿搭少不了黑色
 1. 看看你的2024年度回忆
-1. 世界排名对运动员影响有多大
 1. 雪地里撒欢
-1. 陈奕迅合肥演唱会
+1. 用ahua语录迎接2025
 1. 一口气回顾鱿鱼游戏第一季
-1. 白梅贵友谊的小船说翻就翻
+1. 小米总裁一年开了2352次会
+1. 动物上班都犯困
+1. 翻开我崭新的2025
+1. AAA颁奖礼
+1. 社交的手腕模仿大赛
 
 ## 明星榜
 
@@ -77,7 +77,7 @@
 1. [消散对白(圆梦版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 1. [你的](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
-1. [冬日愿望清单](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
+1. [冬日愿望清单](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
 1. [爱的就是你_崔十八 (主歌1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
 1. [天冷了你要记得穿秋裤（米三岁版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQlIwVIDWiZ6BQilAorS7MA0AgCkQDvcZAdm1) - 米三岁
 1. [If December Never Ends](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY1IQMoTgCFIBg8RZifyqlBBt1UFgitTYmxeOS) - Anson Seabra
