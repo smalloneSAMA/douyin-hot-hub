@@ -11,59 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-29 03:13:35 +0800`
+`更新时间：2024-12-29 04:17:48 +0800`
 
 ## 抖音热榜
 
-1. 接下来愿望都会实现
 1. 076四川舰到底有多强悍
+1. 接下来愿望都会实现
 1. 心怀热爱 共赴2025
-1. 普京对阿航坠机事件致以歉意
-1. WTT回应樊振东陈梦退出世界排名
-1. 误杀3萝莉岛
+1. 抖音跨年许愿夜落地重庆
 1. 辽宁男篮115:89新疆
-1. 牛肉价格下跌背后原因
 1. 雪饼猴吃干噎酸奶
-1. 白敬亭变“红”敬亭
-1. 在传统味道里感受年味
+1. 牛肉价格下跌背后原因
 1. 广东男篮106:65吉林
-1. 莫桑比克大量囚犯越狱
+1. 误杀3萝莉岛
+1. 白敬亭变“红”敬亭
+1. 俄罗斯商品馆是不是割韭菜
+1. 在传统味道里感受年味
+1. 拜托了2025
 1. 本周辟谣
 1. 大奉打更人是懂幽默的
 1. 九重紫终映礼
 1. 小小的我刘春和主打绝不内耗
-1. 再渺小的我也都是完整的我
 1. 黄子韬再次回应送车
+1. 再渺小的我也都是完整的我
 1. 燕云十六声好玩吗
 1. 邓紫棋惠州演唱会
 1. 王鹤棣泰国演唱会
-1. 肖央回应误杀“杀上瘾了”
-1. 林俊杰新加坡演唱会
-1. 感谢云南边防警察的坚守
-1. 影子不会说谎非法牟利被抓
-1. 你负责伴奏我负责跳
-1. 误杀3真敢拍
 1. 外媒关注中国“六代机”试飞
+1. 林俊杰新加坡演唱会
+1. 影子不会说谎非法牟利被抓
+1. 感谢云南边防警察的坚守
+1. 你负责伴奏我负责跳
+1. 肖央回应误杀“杀上瘾了”
 1. 可你不知道我以前的样子
-1. 暖冬来电love119抽卡上线
-1. 2025新头像安排好了
+1. 误杀3真敢拍
 1. 小米总裁一年开了2352次会
-1. 我在抖音集齐了全明星小卡
 1. 像你这样的职业一定很厉害
+1. 2025新头像安排好了
 1. 最接受不了对象什么
-1. 白梅贵友谊的小船说翻就翻
 1. 手牵手跨向2025
 1. 谁用谁好看的滤镜
-1. 抖音跨年许愿夜落地重庆
+1. 白梅贵友谊的小船说翻就翻
 1. 日产本田合并能起作用吗
-1. 拜托了2025
 1. 晒出你的年度书单
+1. 暖冬来电love119抽卡上线
 1. 抢零食大赛太欢乐了
 1. 张国伟的冬日梅花
-1. 大奉打更人上线抖音抽卡
-1. 年度最爱穿搭少不了黑色
-1. 独行侠98:89力克太阳
 1. 荣耀终端公司名称变更
+1. 我在抖音集齐了全明星小卡
+1. 西北秦腔王安万不被病痛定义
+1. 独行侠98:89力克太阳
+1. 蒋奇明杨采钰初恋变仇人
+1. 王一博新歌我在
+1. 雪地里撒欢
+1. 2024年度回忆冠军版
 
 ## 明星榜
 
@@ -80,11 +81,11 @@
 1. [你的](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
 1. [冬日愿望清单](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
 1. [爱的就是你_崔十八 (主歌1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
-1. [天冷了你要记得穿秋裤（米三岁版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQlIwVIDWiZ6BQilAorS7MA0AgCkQDvcZAdm1) - 米三岁
+1. [天冷了你要记得穿秋裤（米三岁版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQlIwVIDWiZ6BQilAorS7MA0AgCkQDvcZAdm1) - 米三岁
 1. [If December Never Ends](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY1IQMoTgCFIBg8RZifyqlBBt1UFgitTYmxeOS) - Anson Seabra
 1. [爱的就是你 (可爱版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUqhQCEDLSfAvtzJyn8ftTCYGmF5jZCXNqB3Pg) - 崔十八/听潮阁
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
-1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
+1. [无感 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
 1. [你不明白（副歌1.1X）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LBQK7fIoonFBCeIzPNZvHDgEDtQ2ErnrKvM1) - 陈麒名
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [（en版）稳稳的幸福 - 主歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8iWyyKzqBLzARVHi7IABsCAo4QfMIu6WbRwIB) - en
