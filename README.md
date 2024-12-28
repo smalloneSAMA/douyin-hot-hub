@@ -11,58 +11,58 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-28 14:22:40 +0800`
+`更新时间：2024-12-28 15:15:52 +0800`
 
 ## 抖音热榜
 
 1. 拜托了2025
-1. 2024我的追光时刻
+1. 赵薇宣布已离婚多年
 1. 我国对外资产规模破10万亿美元
-1. 吃完这顿就2025了
+1. 感谢云南边防警察的坚守
 1. “亿元水官”马超群被判死缓
 1. 新赛季元歌重新回归
-1. 00后入殓师汤木檀泽辞职
+1. 2024我的追光时刻
+1. 公安网安揭露“熊猫谣言”营销号
 1. 桂林市委书记周家斌被查
-1. 这根糖葫芦就算是代言费吧
-1. 2024热门旅游目的地
-1. 电影小小的我首波影评
+1. 吃完这顿就2025了
 1. 花海退役
+1. 00后入殓师汤木檀泽辞职
+1. 电影小小的我首波影评
 1. 回访听劝理发师晓华
-1. 外媒关注中国“六代机”试飞
 1. 黄子韬再次回应送车
-1. 美团将逐步取消骑手超时扣款
+1. 外媒关注中国“六代机”试飞
 1. 燕云十六声好玩吗
-1. 地铁逃生烽火荣都地图
+1. 美团将逐步取消骑手超时扣款
 1. 像你这样的职业一定很厉害
 1. 权志龙朴彩英cha了APT
-1. 最接受不了对象什么
+1. 暖冬来电love119抽卡上线
 1. 黄景瑜试图举起整个娱乐圈
 1. 李现蒋长扬簪花郎君
 1. 影子不会说谎非法牟利被抓
 1. 葛夕嫌弃留几手丑
-1. Tick Tack手势舞
-1. 2025新头像安排好了
-1. 丁禹兮化身燕云boss郑鄂
 1. 赵露思将暂停工作
 1. 去评论区叠新年buff
-1. 4分钟看懂076四川舰独到设计
-1. 张杰的天下又杀回抖音了
-1. 蒋欣路边吃生蚝
+1. 2025新头像安排好了
+1. 丁禹兮化身燕云boss郑鄂
+1. 最接受不了对象什么
 1. 手牵手跨向2025
-1. 王一博新歌我在
+1. 4分钟看懂076四川舰独到设计
 1. 076为何命名为四川舰
+1. 地铁逃生烽火荣都地图
+1. 张杰的天下又杀回抖音了
+1. 王一博新歌我在
 1. 2024最后整个大活
 1. 我在抖音集齐了全明星小卡
-1. 年度最爱穿搭少不了黑色
+1. Tick Tack手势舞
 1. 看看你的2024年度回忆
+1. 陈奕迅合肥演唱会
 1. 雪地里撒欢
-1. 用ahua语录迎接2025
-1. 一口气回顾鱿鱼游戏第一季
 1. 小米总裁一年开了2352次会
-1. 动物上班都犯困
-1. 翻开我崭新的2025
+1. 一口气回顾鱿鱼游戏第一季
+1. 用ahua语录迎接2025
 1. AAA颁奖礼
-1. 社交的手腕模仿大赛
+1. 超有梗的跨年礼物大赏
+1. 年度最爱穿搭少不了黑色
 
 ## 明星榜
 
@@ -84,7 +84,7 @@
 1. [爱的就是你 (可爱版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUqhQCEDLSfAvtzJyn8ftTCYGmF5jZCXNqB3Pg) - 崔十八/听潮阁
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
 1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
-1. [你不明白（副歌1.1X）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LBQK7fIoonFBCeIzPNZvHDgEDtQ2ErnrKvM1) - 陈麒名
+1. [你不明白（副歌1.1X）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LBQK7fIoonFBCeIzPNZvHDgEDtQ2ErnrKvM1) - 陈麒名
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [（en版）稳稳的幸福 - 主歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8iWyyKzqBLzARVHi7IABsCAo4QfMIu6WbRwIB) - en
 1. [苹果香Dj（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEeIEQbYGAOspCTRAIeYF4Ok8LgZ8NBaRe4ztR) - 黑大婶回乡带娃
