@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-29 00:19:51 +0800`
+`更新时间：2024-12-29 01:14:33 +0800`
 
 ## 抖音热榜
 
@@ -20,51 +20,50 @@
 1. 心怀热爱 共赴2025
 1. 普京对阿航坠机事件致以歉意
 1. WTT回应樊振东陈梦退出世界排名
-1. 在传统味道里感受年味
+1. 误杀3萝莉岛
 1. 辽宁男篮115:89新疆
-1. 白敬亭变“红”敬亭
+1. 在传统味道里感受年味
 1. 牛肉价格下跌背后原因
 1. 五星耀中华展登峰凌云志
 1. 大奉打更人是懂幽默的
-1. 抖音美好惊喜夜直播
-1. 九重紫终映礼
+1. 白敬亭变“红”敬亭
+1. 雪饼猴吃干噎酸奶
 1. 本周辟谣
+1. 九重紫终映礼
 1. 小小的我刘春和主打绝不内耗
 1. 黄子韬再次回应送车
 1. 见到了活的窦昭宋墨
-1. 误杀3萝莉岛
 1. 燕云十六声好玩吗
+1. 阿航坠机事故幸存空姐痛哭
+1. 冬至配角有多疯
 1. 外媒关注中国“六代机”试飞
-1. 广东男篮106:65吉林
-1. 马立奥给大家录起床铃声
+1. 拜托了2025
 1. 再渺小的我也都是完整的我
-1. 李川 获得了一位开心公主的芳心
 1. 影子不会说谎非法牟利被抓
-1. 雪饼猴吃干噎酸奶
+1. 李川 获得了一位开心公主的芳心
 1. 误杀3真敢拍
+1. 王鹤棣泰国演唱会
+1. 晒出你的年度书单
+1. 肖央回应误杀“杀上瘾了”
+1. 感谢云南边防警察的坚守
+1. 暖冬来电love119抽卡上线
 1. 邓紫棋惠州演唱会
 1. 林俊杰新加坡演唱会
-1. 王鹤棣泰国演唱会
-1. 可你不知道我以前的样子
 1. 像你这样的职业一定很厉害
-1. 感谢云南边防警察的坚守
-1. 大奉打更人上线抖音抽卡
-1. 冬至配角有多疯
-1. 肖央回应误杀“杀上瘾了”
-1. 你负责伴奏我负责跳
+1. 可你不知道我以前的样子
 1. 小米总裁一年开了2352次会
+1. 你负责伴奏我负责跳
 1. 最接受不了对象什么
-1. 陈奕迅合肥演唱会
 1. 2025新头像安排好了
-1. 晒出你的年度书单
-1. 抢零食大赛太欢乐了
+1. 广东男篮106:65吉林
+1. 抖音跨年许愿夜落地重庆
+1. 张国伟的冬日梅花
 1. 手牵手跨向2025
-1. 拜托了2025
+1. 我在抖音集齐了全明星小卡
+1. 抢零食大赛太欢乐了
 1. 王一博新歌我在
+1. 2024我的追光时刻
 1. 催路边摊老板上班
-1. 李昀锐用孟子义的粉饼
-1. 暖冬来电love119抽卡上线
-1. 4分钟看懂076四川舰独到设计
 
 ## 明星榜
 
@@ -88,14 +87,14 @@
 1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
 1. [你不明白（副歌1.1X）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LBQK7fIoonFBCeIzPNZvHDgEDtQ2ErnrKvM1) - 陈麒名
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
-1. [（en版）稳稳的幸福 - 主歌](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8iWyyKzqBLzARVHi7IABsCAo4QfMIu6WbRwIB) - en
-1. [苹果香Dj（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEeIEQbYGAOspCTRAIeYF4Ok8LgZ8NBaRe4ztR) - 黑大婶回乡带娃
+1. [（en版）稳稳的幸福 - 主歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8iWyyKzqBLzARVHi7IABsCAo4QfMIu6WbRwIB) - en
+1. [苹果香Dj（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEeIEQbYGAOspCTRAIeYF4Ok8LgZ8NBaRe4ztR) - 黑大婶回乡带娃
 1. [Exile](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYj4gAQTknKE3WW0Je8KGmQ7z1cA4FefwtbufD) - Alyssa Caroline
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [只你(直到幸福能触手可及)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
 1. [A Love Song For You（《半是蜜糖半是伤》插曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYxyhTA1TAQIDBfsKgMUuSiIdwW8QuNqrabzhC) - 汪睿
-1. [野百合也有春天（万向乐队完整版已上线）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMnUxhRAMiAGBqDtIPBQ7ACYQZFlJCftcgeDJE) - 万向乐队
-1. [Blame You](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAceIDVL0BC2DJC0Qwi8AZnQAtBgZBbMMpfdzi) - E27XG_
+1. [野百合也有春天（万向乐队完整版已上线）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMnUxhRAMiAGBqDtIPBQ7ACYQZFlJCftcgeDJE) - 万向乐队
+1. [Blame You](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAceIDVL0BC2DJC0Qwi8AZnQAtBgZBbMMpfdzi) - E27XG_
 1. [只字不提（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oksAG6j7NrZche9tfaCOLIUzFggDhgaBMCtGsG) - 于和伟
 1. [春娇与志明](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e530d8fceb7044b39707d7f9ff54add1) - 街道办,欧阳耀莹
 1. [野人（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEMEdMzeVrzYSP90sfALIeYZQKYeWlsZpAGfr9) - 孟维来
