@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-29 21:19:48 +0800`
+`更新时间：2024-12-29 22:14:57 +0800`
 
 ## 抖音热榜
 
 1. 韩国起火客机179人遇难
 1. 阿航坠机原因披露
-1. 沪苏湖高铁宛如穿越天空之镜
-1. 抖音发布2024年热点数据报告
-1. 韩国客机遇难乘客最后的短信
+1. 中国载人深潜新坐标
 1. 烟花的花语是许愿
+1. 韩国客机遇难乘客最后的短信
 1. 来浏阳赴一场蓝色流星雨
 1. 樊振东乒超适应场地训练
 1. AL德杯夺冠
-1. 韩国宣布哀悼7天
-1. 全球多地接连发生客机事故
-1. 失语症是什么病
 1. 俄罗斯商品馆是不是割韭菜
-1. 三部门约谈辽宁本溪政府负责人
-1. Gus桃子冲击抖瓦杯总冠军
+1. 韩国宣布哀悼7天
+1. 失语症是什么病
+1. 全球多地接连发生客机事故
 1. 2025年总台春晚主创团队官宣
-1. 刀郎周煜琦合唱映山红
+1. 三部门约谈辽宁本溪政府负责人
+1. 误杀3十六倍镜看细思极恐
+1. 刀郎演唱会万人合唱我的祖国
+1. Gus桃子冲击抖瓦杯总冠军
 1. 韩空难幸存者恢复意识后发声
+1. 抖音发布2024年热点数据报告
 1. 张国伟的冬日梅花
-1. 地铁逃生超级物资箱
-1. 湖人主场战胜国王
+1. 韩失事客机乘客名单公布
 1. 两分钟推测韩国客机事故原因
-1. 对家庭暴力勇敢说不
+1. 地铁逃生超级物资箱
 1. 孟子义李昀锐版法海你不懂爱
-1. WTT回应樊振东陈梦退出世界排名
+1. 对家庭暴力勇敢说不
 1. 内塔尼亚胡将接受手术
-1. 接下来愿望都会实现
-1. 2024我的美好记忆
-1. 人类幼崽原地转圈舞挑战
+1. 湖人主场战胜国王
 1. 陈赫录节目又崴脚了
+1. 白鹿敖瑞鹏合拍法海你不懂爱
+1. 人类幼崽原地转圈舞挑战
+1. 接下来愿望都会实现
+1. 光头强1229生日快乐
+1. 2024我的美好记忆
 1. 呼贝贝贝唱跳挑战
 1. 元旦晚会来上分
-1. 白鹿敖瑞鹏合拍法海你不懂爱
-1. 和张杰一起来海南跨年
-1. 可你不知道我以前的样子
 1. 过年进入倒计时
+1. 可你不知道我以前的样子
 1. 再渺小的我也都是完整的我
-1. 登陆少年新歌比耶手势舞
-1. CR450动车组样车发布
-1. 光头强1229生日快乐
-1. 旺仔小乔舞台首秀
-1. 2025新头像安排好了
 1. 蜡笔小新的家被搬进了现实
-1. 大奉打更人上线抖音抽卡
+1. 旺仔小乔舞台首秀
+1. CR450动车组样车发布
+1. 和张杰一起来海南跨年
+1. 2025新头像安排好了
+1. 登陆少年新歌比耶手势舞
+1. 你今年过得怎么样
+1. 金晨跳舞vs大喜跳舞
 1. 你负责伴奏我负责跳
 1. 当你是班里的六边形战士
 1. 手机相册里的2024
-1. 吴勇豪超级草根首秀砍48分
-1. 张国伟展示超大“烤地瓜”
 
 ## 明星榜
 
@@ -79,13 +79,13 @@
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 1. [你的](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
 1. [冬日愿望清单](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
-1. [爱的就是你_崔十八 (主歌1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
+1. [爱的就是你_崔十八 (主歌1)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
 1. [天冷了你要记得穿秋裤（米三岁版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQlIwVIDWiZ6BQilAorS7MA0AgCkQDvcZAdm1) - 米三岁
 1. [If December Never Ends](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY1IQMoTgCFIBg8RZifyqlBBt1UFgitTYmxeOS) - Anson Seabra
 1. [爱的就是你 (可爱版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUqhQCEDLSfAvtzJyn8ftTCYGmF5jZCXNqB3Pg) - 崔十八/听潮阁
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
 1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
-1. [你不明白（副歌1.1X）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LBQK7fIoonFBCeIzPNZvHDgEDtQ2ErnrKvM1) - 陈麒名
+1. [你不明白（副歌1.1X）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LBQK7fIoonFBCeIzPNZvHDgEDtQ2ErnrKvM1) - 陈麒名
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [（en版）稳稳的幸福 - 主歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8iWyyKzqBLzARVHi7IABsCAo4QfMIu6WbRwIB) - en
 1. [苹果香Dj（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEeIEQbYGAOspCTRAIeYF4Ok8LgZ8NBaRe4ztR) - 黑大婶回乡带娃
