@@ -11,60 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-29 17:16:35 +0800`
+`更新时间：2024-12-29 18:17:11 +0800`
 
 ## 抖音热榜
 
-1. 四川舰正式出坞
+1. 失语症是什么病
 1. 波音公司回应韩客机碰撞起火
 1. 沪苏湖高铁宛如穿越天空之镜
 1. 韩国起火客机黑匣子已找到
 1. 韩空难幸存者恢复意识后发声
-1. 过年进入倒计时
-1. 2025年总台春晚主创团队官宣
+1. 四川舰正式出坞
+1. 旺仔小乔舞台首秀
 1. 韩失事客机乘客名单公布
-1. 2024我的美好记忆
+1. 艾福杰尼领衔抖瓦杯表演赛
 1. 韩国起火客机179人遇难
 1. 韩客机尝试二次着陆时坠毁
-1. 地铁逃生超级物资箱
-1. 旺仔小乔舞台首秀
-1. 武汉爆炸沈阳车祸等均系谣言
+1. 全球多地接连发生客机事故
+1. Gus桃子冲击抖瓦杯总冠军
+1. 2025年总台春晚主创团队官宣
 1. 韩国载181人客机着陆时起火
 1. 普京对阿航坠机事件致以歉意
-1. 对家庭暴力勇敢说不
-1. 金晨认证录完综艺腾化了
+1. 过年进入倒计时
 1. 蜡笔小新的家被搬进了现实
 1. 周深献唱人民日报跨年单曲
-1. 登陆少年新歌比耶手势舞
+1. 地铁逃生超级物资箱
 1. 孟子义合照时偷瞄李昀锐
-1. 再渺小的我也都是完整的我
-1. 来浏阳赴一场蓝色流星雨
-1. 张国伟展示超大“烤地瓜”
-1. 白鹿敖瑞鹏合拍法海你不懂爱
+1. 江成屹陆嫣十年之约
+1. 对家庭暴力勇敢说不
 1. 接下来愿望都会实现
-1. 人类幼崽原地转圈舞挑战
-1. 2024全球最帅一百张面孔
+1. 陈赫录节目又崴脚了
+1. 再渺小的我也都是完整的我
+1. 登陆少年新歌比耶手势舞
 1. 刀郎周煜琦合唱映山红
-1. 可你不知道我以前的样子
+1. 2024全球最帅一百张面孔
+1. 2024我的美好记忆
+1. 张国伟展示超大“烤地瓜”
+1. 人类幼崽原地转圈舞挑战
+1. 来浏阳赴一场蓝色流星雨
+1. 白鹿敖瑞鹏合拍法海你不懂爱
 1. 大奉打更人上线抖音抽卡
+1. 可你不知道我以前的样子
+1. 元旦晚会来上分
+1. 呼贝贝贝唱跳挑战
 1. 刘晓艳 百万级转场
 1. 明星版2024镜头签
-1. 元旦晚会来上分
 1. 冯潇霆泪洒退役仪式
 1. 俄罗斯商品馆是不是割韭菜
-1. 催路边摊老板上班
 1. 像你这样的职业一定很厉害
-1. Gus桃子冲击抖瓦杯总冠军
-1. 你负责伴奏我负责跳
-1. 手机相册里的2024
-1. 2025新头像安排好了
-1. 2024年度回忆冠军版
-1. 广东男篮106:65吉林
+1. 催路边摊老板上班
+1. 金晨认证录完综艺腾化了
 1. 2024王者玩家年终总结
-1. 用这首stray回忆2024
+1. 你负责伴奏我负责跳
 1. 在传统味道里感受年味
-1. 翻开我崭新的2025
-1. 雪地里撒欢
+1. 手机相册里的2024
 
 ## 明星榜
 
@@ -79,11 +78,11 @@
 1. [消散对白(圆梦版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 1. [你的](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
-1. [冬日愿望清单](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
+1. [冬日愿望清单](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
 1. [爱的就是你_崔十八 (主歌1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
 1. [天冷了你要记得穿秋裤（米三岁版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQlIwVIDWiZ6BQilAorS7MA0AgCkQDvcZAdm1) - 米三岁
 1. [If December Never Ends](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY1IQMoTgCFIBg8RZifyqlBBt1UFgitTYmxeOS) - Anson Seabra
-1. [爱的就是你 (可爱版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUqhQCEDLSfAvtzJyn8ftTCYGmF5jZCXNqB3Pg) - 崔十八/听潮阁
+1. [爱的就是你 (可爱版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUqhQCEDLSfAvtzJyn8ftTCYGmF5jZCXNqB3Pg) - 崔十八/听潮阁
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
 1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
 1. [你不明白（副歌1.1X）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LBQK7fIoonFBCeIzPNZvHDgEDtQ2ErnrKvM1) - 陈麒名
@@ -94,7 +93,7 @@
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [只你(直到幸福能触手可及)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
 1. [A Love Song For You（《半是蜜糖半是伤》插曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYxyhTA1TAQIDBfsKgMUuSiIdwW8QuNqrabzhC) - 汪睿
-1. [野百合也有春天（万向乐队完整版已上线）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMnUxhRAMiAGBqDtIPBQ7ACYQZFlJCftcgeDJE) - 万向乐队
+1. [野百合也有春天（万向乐队完整版已上线）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMnUxhRAMiAGBqDtIPBQ7ACYQZFlJCftcgeDJE) - 万向乐队
 1. [Blame You](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAceIDVL0BC2DJC0Qwi8AZnQAtBgZBbMMpfdzi) - E27XG_
 1. [只字不提（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oksAG6j7NrZche9tfaCOLIUzFggDhgaBMCtGsG) - 于和伟
 1. [春娇与志明](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e530d8fceb7044b39707d7f9ff54add1) - 街道办,欧阳耀莹
