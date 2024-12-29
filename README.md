@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-29 10:55:53 +0800`
+`更新时间：2024-12-29 11:27:00 +0800`
 
 ## 抖音热榜
 
 1. 韩国载181人客机着陆时起火
-1. 韩国一客机坠落已致47死
+1. 韩国一客机坠落已致62死
 1. 心怀热爱 共赴2025
 1. 阿总统与普京讨论绳之以法肇事者
 1. WTT称规则非新出台 樊振东回应
 1. 朴泰成任朝鲜内阁总理
+1. 四川舰正式出坞
 1. 旺仔小乔舞台首秀
 1. 2024年度回忆冠军版
 1. 来浏阳赴一场蓝色流星雨
 1. 抖音里的2024流行热词
-1. 金晨认证录完综艺腾化了
-1. 白敬亭变“红”敬亭
 1. 黄景瑜孙千冬至名场面来了
+1. 金晨认证录完综艺腾化了
 1. 本周辟谣
 1. 辽宁男篮115:89新疆
+1. 白敬亭变“红”敬亭
 1. 再渺小的我也都是完整的我
+1. 接下来愿望都会实现
 1. 076四川舰到底有多强悍
 1. 刘晓艳 百万级转场
-1. 接下来愿望都会实现
-1. 冯潇霆泪洒退役仪式
 1. 大奉打更人上线抖音抽卡
 1. 赵露思好友透露其状况：患失语症
-1. 牛肉价格下跌背后原因
-1. 黄雅琼回应不和王昶打混双
-1. 抖音跨年许愿夜落地重庆
+1. 冯潇霆泪洒退役仪式
+1. 王鹤棣泰国演唱会
+1. 2024全球最帅一百张面孔
 1. 李昀锐用孟子义的粉饼
 1. 抢零食大赛太欢乐了
-1. 2024全球最帅一百张面孔
 1. 九重紫终映礼
+1. 感谢云南边防警察的坚守
 1. 催路边摊老板上班
 1. 你负责伴奏我负责跳
-1. 感谢云南边防警察的坚守
-1. 王鹤棣泰国演唱会
 1. 像你这样的职业一定很厉害
-1. 在传统味道里感受年味
 1. 可你不知道我以前的样子
-1. 黄子韬再次回应送车
+1. 在传统味道里感受年味
 1. 暖冬来电love119抽卡上线
+1. 黄子韬再次回应送车
 1. 手机相册里的2024
 1. 邓紫棋惠州演唱会
-1. 俄罗斯商品馆是不是割韭菜
-1. 拜托了2025
+1. 对家庭暴力勇敢说不
+1. 牛肉价格下跌背后原因
 1. 冬至配角有多疯
+1. 黄雅琼回应不和王昶打混双
+1. 抖音跨年许愿夜落地重庆
+1. 拜托了2025
 1. 2025新头像安排好了
-1. 雪饼猴吃干噎酸奶
 1. 谁用谁好看的滤镜
+1. 雪饼猴吃干噎酸奶
+1. 王一博新歌我在
 1. 翻开我崭新的2025
-1. 出溜滑比赛的快乐谁懂呀
-1. 手牵手跨向2025
-1. 林俊杰新加坡演唱会
+1. 雪地里撒欢
 
 ## 明星榜
 
@@ -79,11 +79,11 @@
 1. [消散对白(圆梦版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 1. [你的](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
-1. [冬日愿望清单](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
-1. [爱的就是你_崔十八 (主歌1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
+1. [冬日愿望清单](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
+1. [爱的就是你_崔十八 (主歌1)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
 1. [天冷了你要记得穿秋裤（米三岁版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQlIwVIDWiZ6BQilAorS7MA0AgCkQDvcZAdm1) - 米三岁
 1. [If December Never Ends](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY1IQMoTgCFIBg8RZifyqlBBt1UFgitTYmxeOS) - Anson Seabra
-1. [爱的就是你 (可爱版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUqhQCEDLSfAvtzJyn8ftTCYGmF5jZCXNqB3Pg) - 崔十八/听潮阁
+1. [爱的就是你 (可爱版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUqhQCEDLSfAvtzJyn8ftTCYGmF5jZCXNqB3Pg) - 崔十八/听潮阁
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
 1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
 1. [你不明白（副歌1.1X）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LBQK7fIoonFBCeIzPNZvHDgEDtQ2ErnrKvM1) - 陈麒名
