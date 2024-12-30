@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-31 06:16:53 +0800`
+`更新时间：2024-12-31 07:16:50 +0800`
 
 ## 抖音热榜
 
-1. 韩国新任代总统被立案调查
 1. 曝勇士湖人达成交易共识
+1. 韩国新任代总统被立案调查
 1. 和2024好好告个别
-1. 西汉姆联0:5利物浦
 1. 2025跨年你打算怎么过
-1. 用运动迎接2025
 1. 雷军在梗王大考获卡梗巴拉称号
-1. 尔滨这赛季依然强得可怕
-1. 2024非遗好燃
+1. 用运动迎接2025
 1. 用一束花迎接2025年
-1. 回顾2024年中国航天大事件
+1. 尔滨这赛季依然强得可怕
 1. 警方讲述缅北1020案侦办始末
+1. 许昕回应郭跃华
+1. 回顾2024年中国航天大事件
+1. 2024非遗好燃
 1. 韩国调查机构对尹锡悦申请逮捕令
 1. 中国机长原型就韩客机失事发声
-1. 缅北明家犯罪集团案39人被公诉
+1. 辽宁男篮95:89广东男篮
 1. 张杰官宣新身份
 1. 外交部回应韩国空难
 1. 王鹤棣演技
-1. 许昕回应郭跃华
+1. 3分钟分析六代机哪家强
 1. 曾黎提大白菜现身机场
 1. 娄艺潇否认整容
-1. 外媒：拜登后悔退出总统选举
 1. 分析解读机场平时如何防鸟撞
-1. 10首BGM带你回顾2024
+1. 外媒：拜登后悔退出总统选举
 1. 电影误杀3观后感
+1. 缅北明家犯罪集团案39人被公诉
 1. 今年我们会一起跨年吗
-1. 3分钟分析六代机哪家强
-1. 辽宁男篮95:89广东男篮
 1. 又开始期待跨年烟火
-1. 刘烨说想去探班李昀锐孟子义
-1. 阿方称俄承诺法办误击航班责任人
-1. 雷军被曝千万年薪挖角AI人才
-1. 我知道 爱本质无异
 1. 2025同样值得期待
+1. 10首BGM带你回顾2024
 1. 易烊千玺三部电影侧倒的眼神
-1. 金晨青花瓷舞蹈挑战
-1. 柯文哲保释金提至7000万新台币
-1. 花式召唤小火人
-1. 叙过渡政府搜捕前政权人员
+1. 刘烨说想去探班李昀锐孟子义
+1. 我知道 爱本质无异
+1. 雷军被曝千万年薪挖角AI人才
 1. 我怎么还eat不到许七安
-1. 蓝战非许愿2025每天都能醒来
+1. 西汉姆联0:5利物浦
+1. 柯文哲保释金提至7000万新台币
+1. 金晨青花瓷舞蹈挑战
+1. 叙过渡政府搜捕前政权人员
 1. 烟花的花语是许愿
+1. 刘国梁出席乒超总决赛开幕式
 1. 2024全球大事回顾
-1. 俄不满意特朗普团队涉乌问题提议
-1. 狗子的沉默震耳欲聋
+1. 蓝战非许愿2025每天都能醒来
+1. 阿方称俄承诺法办误击航班责任人
+1. 花式召唤小火人
 1. 蔡徐坤进行曲
 1. 谢谢毛孩子又治愈了我一年
-1. 刘国梁出席乒超总决赛开幕式
-1. 各地文旅又来给丁禹兮打歌了
+1. 俄不满意特朗普团队涉乌问题提议
+1. 跨年夜和张朝阳一起向世界发问
+1. 詹姆斯40岁生日快乐
 
 ## 明星榜
 
@@ -77,7 +77,7 @@
 
 1. [消散对白(圆梦版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
-1. [你的](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
+1. [你的](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
 1. [冬日愿望清单](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
 1. [爱的就是你_崔十八 (主歌1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
 1. [天冷了你要记得穿秋裤（米三岁版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQlIwVIDWiZ6BQilAorS7MA0AgCkQDvcZAdm1) - 米三岁
@@ -97,9 +97,9 @@
 1. [Blame You](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAceIDVL0BC2DJC0Qwi8AZnQAtBgZBbMMpfdzi) - E27XG_
 1. [只字不提（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oksAG6j7NrZche9tfaCOLIUzFggDhgaBMCtGsG) - 于和伟
 1. [春娇与志明](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e530d8fceb7044b39707d7f9ff54add1) - 街道办,欧阳耀莹
-1. [野人（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEMEdMzeVrzYSP90sfALIeYZQKYeWlsZpAGfr9) - 孟维来
-1. [开心往前飞（开心超人联盟主题曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
-1. [晚婚(世上唯一契合灵魂)_叁女生版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os2TDfuHtEXCYYXJwVngFBuNQOZVCQDy9Aqexu) - 叁
+1. [野人（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEMEdMzeVrzYSP90sfALIeYZQKYeWlsZpAGfr9) - 孟维来
+1. [开心往前飞（开心超人联盟主题曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
+1. [晚婚(世上唯一契合灵魂)_叁女生版](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os2TDfuHtEXCYYXJwVngFBuNQOZVCQDy9Aqexu) - 叁
 
 ## 品牌榜
 
