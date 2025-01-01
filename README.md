@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-01-01 20:32:47 +0800`
+`更新时间：2025-01-01 21:22:13 +0800`
 
 ## 抖音热榜
 
 1. 山东鲁能乒超女团夺冠
 1. 孙颖莎称赞覃予萱表现
 1. 让人民过上幸福生活是头等大事
+1. 黄雅琼宣布退出国家队
+1. 于是 又过了一年
 1. 赫哲族鱼皮衣制作过程
-1. CFer这次真的过年了
-1. 实施弹性退休制度暂行办法发布
 1. 樊振东回应是否将更注重国内赛事
-1. 第一次见这么大的火锅
-1. 1月这些新规将影响你我生活
-1. 中国六代机会有哪些核心特征
-1. 官方解读弹性退休办法
-1. 2025年第一天
-1. 如何识别网络虚假信息
-1. 美国一地汽车冲撞行人已致10死
-1. 汪苏泷新年演唱会抖音直播
-1. 汪苏泷唱的小甜歌才够对味
+1. 丁真 烟花炸响旧岁退场
+1. 2025就这么水灵灵地来了
 1. 2025年蛇年有384天
-1. 最尴尬的一次跨年
-1. 王一博 安全扣没扣好
-1. 2025年的第一条抖音
+1. 2025年第一天
+1. 第一次见这么大的火锅
+1. 如何识别网络虚假信息
+1. 汪苏泷新年演唱会抖音直播
 1. 赵露思更新抖音发了57张照片
 1. 黄子韬徐艺洋来敬酒2025了
-1. 孙策时之奇旅皮肤
-1. 贾玲去了刘德华演唱会
-1. 跨年晚会最抽象的节目出现了
-1. 董宇辉郎朗方锦龙跨年音乐会
+1. 汪苏泷唱的小甜歌才够对味
+1. 王一博 安全扣没扣好
 1. 2025第一句先说新年快乐
-1. 单依纯超绝转音挑战
-1. 于是 又过了一年
-1. 丁真 烟花炸响旧岁退场
-1. 希望2025越来越好
-1. 蛋仔派对超燃角色雷霆太奶
-1. 迪拜哈利法塔跨年烟花秀
-1. 与辉同行主播的2024关键词
-1. 别人的跨年vs你的跨年
-1. 雷军首次跨年直播
-1. 来自村子里的新年祝福
-1. 2025继续有趣继续爱
-1. 黄雅琼宣布退出国家队
-1. 2025的第一声新年祝福
-1. 戚薇李承铉撒狗粮现场
-1. 陶喆张艺兴时隔24年合唱找自己
+1. CFer这次真的过年了
+1. 中国六代机会有哪些核心特征
+1. 2025年的第一条抖音
+1. 孙策时之奇旅皮肤
+1. 董宇辉郎朗方锦龙跨年音乐会
+1. 贾玲去了刘德华演唱会
 1. 全美已有66人确诊感染禽流感
-1. 香港跨年烟花汇演
+1. 跨年晚会最抽象的节目出现了
 1. 东部战区发布MV中国人
-1. 请查收明星们2025第一条抖音
-1. 李炮儿又挑战吉尼斯世界纪录了
-1. 燕云十六声红线剧情
+1. 迪拜哈利法塔跨年烟花秀
+1. 2025继续有趣继续爱
+1. 单依纯超绝转音挑战
+1. 香港跨年烟花汇演
+1. 与辉同行主播的2024关键词
+1. 希望2025越来越好
 1. 詹姆斯比LA手势
-1. 虞书欣左手丁禹兮右手林一
+1. 雷军首次跨年直播
+1. 雷军收到员工送的200元红包
+1. 孙颖莎让二追三胜王曼昱
+1. 请查收明星们2025第一条抖音
+1. 来自村子里的新年祝福
+1. 2025的第一声新年祝福
+1. 别人的跨年vs你的跨年
+1. 王曼昱回应决胜场双跳球争议
+1. Epic动作游戏《师父》
+1. 李炮儿又挑战吉尼斯世界纪录了
+1. 程潇的ending pose
+1. 詹姆斯40岁第一扣
+1. 王楚钦vs林诗栋
+1. 2024回忆加载完毕
+1. 金晨青花瓷仿妆挑战
 
 ## 明星榜
 
@@ -77,14 +77,14 @@
 ## 音乐榜
 
 1. [消散对白(圆梦版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
-1. [Cute](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
-1. [你的](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
+1. [Cute](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
+1. [你的](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
 1. [冬日愿望清单](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
-1. [爱的就是你_崔十八 (主歌1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
+1. [爱的就是你_崔十八 (主歌1)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
 1. [天冷了你要记得穿秋裤（米三岁版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQlIwVIDWiZ6BQilAorS7MA0AgCkQDvcZAdm1) - 米三岁
 1. [If December Never Ends](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY1IQMoTgCFIBg8RZifyqlBBt1UFgitTYmxeOS) - Anson Seabra
 1. [爱的就是你 (可爱版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUqhQCEDLSfAvtzJyn8ftTCYGmF5jZCXNqB3Pg) - 崔十八/听潮阁
-1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
+1. [Falling In Love（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
 1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
 1. [你不明白（副歌1.1X）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LBQK7fIoonFBCeIzPNZvHDgEDtQ2ErnrKvM1) - 陈麒名
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
