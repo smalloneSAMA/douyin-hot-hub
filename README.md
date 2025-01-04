@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-01-04 19:14:08 +0800`
+`更新时间：2025-01-04 20:31:28 +0800`
 
 ## 抖音热榜
 
-1. 当我顶着鸡窝头去给周涛讲解
 1. 路人王2024年度总决赛
-1. 2025年请继续Passion
-1. 八省联考 绳结
-1. 三角洲S3新赛季爆料
 1. 预制过年技术流运镜
-1. 近期流感感染99%以上是甲流
+1. 2025年请继续Passion
+1. 男朋友的“三级包”里都有啥
+1. 三角洲S3新赛季爆料
+1. 这鼓手一点架子都没有
+1. 爸爸牌米糊
 1. 罗东川任青海省代省长
 1. 全国铁路调图
-1. 这鼓手一点架子都没有
 1. 星光大赏红毯
-1. 被倪妮硬控的10秒
-1. 李昀锐孟子义对视好甜
+1. 穿越火线怀旧服
+1. 斗破苍穹萧炎收服三千焱炎火
+1. 近期流感感染99%以上是甲流
 1. 本周辟谣速报
-1. 男朋友的“三级包”里都有啥
-1. 寻找冬天的颜色
-1. 当乐器版十三电音响起
-1. 燕云语音捏脸反差挑战
-1. 金靖产后状态
-1. 涵笑九泉了选手回应走红
-1. 星光大赏节目单
-1. 爸爸牌米糊
-1. 误杀3怀孕女警被害好残忍
-1. 吴昕杜海涛牵手走红毯
 1. 巴特勒遭热火禁赛7场
-1. 乌称俄使用超300架无人机攻击乌
-1. G2官宣NiKo离队
-1. 董宇辉回顾跨年音乐会筹办
-1. 丁俊晖5:4特鲁姆普
-1. 孙志刚唐一军出镜反腐大片忏悔
-1. 17岁网红抗癌6年后离世
+1. 火影忍者须佐卡卡西全技能爆料
+1. 祝绪丹刮答案之书翻车
+1. 李昀锐孟子义对视好甜
+1. 鹅嗑CP还是太全面了
+1. 张凌赫金靖回应把出喜脉
+1. 金靖产后状态
+1. 被倪妮硬控的10秒
 1. 临安悬着的马甲终于掉了
+1. 赵丽颖红毯压轴
+1. 吴昕杜海涛牵手走红毯
+1. 星光大赏节目单
+1. 孙志刚唐一军出镜反腐大片忏悔
+1. 乌称俄使用超300架无人机攻击乌
+1. 董宇辉回顾跨年音乐会筹办
+1. 张萌红毯造型好辣
 1. 蒋欣黑旗袍好优雅
+1. 涵笑九泉了选手回应走红
+1. 17岁网红抗癌6年后离世
+1. 永夜星河竹林四侠合体
+1. 误杀3怀孕女警被害好残忍
 1. 第一次发单曲怪紧张的
-1. 雷军晒抖音3000万粉奖杯
+1. 八省联考 绳结
 1. 星光大赏明星神速出片
 1. 一千零一夜bgm慢动作甜晕了
-1. 皇马2:1瓦伦西亚
-1. 菲总统将副总统“逐出”国安会
 1. 孙颖莎说巴黎奥运后没有哭
-1. WTT总结樊振东生涯成就
-1. 倍速看肥娟小吃店人流量
-1. 杨超越 冷脸老公姐
-1. 竹林四侠一起走红毯
-1. 我将加入永劫无间这个圈子
-1. 千朵桃花一世开好看吗
+1. 火箭少女R1SE给我干哪年来了
+1. 菲总统将副总统“逐出”国安会
 1. Toxic舞蹈翻跳
-1. 詹姆斯：我始终认为突破更重要
-1. 伦纳德再次推迟复出
+1. 檀健次金世佳hi6双人合拍
+1. 雷军晒抖音3000万粉奖杯
+1. WTT总结樊振东生涯成就
+1. G2官宣NiKo离队
+1. 许七安出狱变大哥
+1. 杨超越 冷脸老公姐
 1. 被小火人新形象刷屏了
 
 ## 明星榜
@@ -80,18 +80,18 @@
 1. [爱的就是你_崔十八（手势舞版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oApB2AigNyB4sTw7JhBOikMAf0oDJzMWBuIrgm) - 崔十八/听潮阁
 1. [你的](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
 1. [天冷了你要记得穿秋裤（米三岁版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQlIwVIDWiZ6BQilAorS7MA0AgCkQDvcZAdm1) - 米三岁
-1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
+1. [Cute](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
-1. [ At Dusk  Love ](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 小学同学
+1. [ At Dusk  Love ](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 小学同学
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
-1. [冬日愿望清单](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
+1. [冬日愿望清单](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [Exile](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYj4gAQTknKE3WW0Je8KGmQ7z1cA4FefwtbufD) - Alyssa Caroline
 1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
 1. [丁达尔的梦](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMU3WirUZBVQkAC9ccG5P2IQirziZM2RTInUY) - Youzee Music
 1. [爱的就是你_崔十八 (主歌1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
 1. [开心往前飞（开心超人联盟主题曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
-1. [If December Never Ends](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY1IQMoTgCFIBg8RZifyqlBBt1UFgitTYmxeOS) - Anson Seabra
+1. [If December Never Ends](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY1IQMoTgCFIBg8RZifyqlBBt1UFgitTYmxeOS) - Anson Seabra
 1. [春娇与志明](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e530d8fceb7044b39707d7f9ff54add1) - 街道办,欧阳耀莹
 1. [只你(直到幸福能触手可及)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
 
