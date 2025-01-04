@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-01-04 22:15:19 +0800`
+`更新时间：2025-01-04 23:16:50 +0800`
 
 ## 抖音热榜
 
 1. 穿越火线怀旧服
 1. 路人王2024年度总决赛
 1. 当传统武术遇上非遗打铁花
-1. 这鼓手一点架子都没有
 1. 爸爸牌米糊
-1. 孙志刚唐一军出镜反腐大片忏悔
+1. 生活闪亮时
 1. 乌称俄使用超300架无人机攻击乌
+1. 孙志刚唐一军出镜反腐大片忏悔
 1. 罗东川任青海省代省长
 1. 港珠澳大桥去年客流车流创新高
 1. 五星擂主华丽丽登场
 1. 李明德爆料引热议
-1. 张萌红毯造型好辣
+1. 女生回应顶着鸡窝头给周涛讲解
 1. 赵丽颖红毯压轴
 1. 清华辟谣80%毕业生出国不归
-1. 女生回应顶着鸡窝头给周涛讲解
-1. 火影忍者须佐卡卡西全技能爆料
 1. 李昀锐孟子义对视好甜
+1. 火影忍者须佐卡卡西全技能爆料
 1. 鹅嗑CP还是太全面了
 1. 苹果再次降价
+1. 星光大赏内场座位
 1. 星光大赏红毯
 1. 金靖产后状态
 1. 星光大赏节目单
-1. 误杀3怀孕女警被害好残忍
-1. 孙颖莎说巴黎奥运后没有哭
-1. WTT总结樊振东生涯成就
 1. 永夜星河竹林四侠合体
-1. 崔永熙：为NBA赔上一条韧带值得
-1. 童瑶穿了1985年的古董高定
-1. 蒋欣黑旗袍好优雅
-1. G2官宣NiKo离队
-1. 吴昕杜海涛牵手走红毯
-1. 三角洲S3新赛季爆料
-1. 张凌赫金靖回应把出喜脉
+1. 涵笑九泉了选手回应走红
+1. 误杀3怀孕女警被害好残忍
 1. 17岁网红抗癌6年后离世
-1. 临安悬着的马甲终于掉了
-1. 星光大赏内场座位
-1. 湖北下雪了
-1. 星光大赏明星神速出片
-1. 一千零一夜bgm慢动作甜晕了
-1. 第一次发单曲怪紧张的
-1. 白月梵星角色风味好新
+1. 伦纳德再次推迟复出
 1. 火箭少女R1SE给我干哪年来了
+1. 吴昕杜海涛牵手走红毯
+1. 第一次发单曲怪紧张的
 1. 许七安出狱变大哥
-1. 雷军晒抖音3000万粉奖杯
-1. 董宇辉回顾跨年音乐会筹办
-1. 开启2025年passion奇妙之旅
-1. Toxic舞蹈翻跳
+1. WTT总结樊振东生涯成就
 1. 八省联考 绳结
-1. 预制过年技术流运镜
+1. 张凌赫金靖回应把出喜脉
+1. 童瑶穿了1985年的古董高定
+1. 星光大赏明星神速出片
+1. 白月梵星角色风味好新
+1. 无法共情小时候的自己
+1. 张萌红毯造型好辣
+1. 烫了个头发年龄直接“超级加辈”
+1. 这鼓手一点架子都没有
+1. 一千零一夜bgm慢动作甜晕了
+1. Toxic舞蹈翻跳
 1. 忘了你忘了我这个前奏太爱了
+1. 雷军晒抖音3000万粉奖杯
+1. 模仿第五人格前锋起舞
+1. 预制过年技术流运镜
+1. 董宇辉回顾跨年音乐会筹办
+1. 被小火人新形象刷屏了
+1. 用大山bgm打开旅行大片
 
 ## 明星榜
 
@@ -85,7 +85,7 @@
 1. [ At Dusk  Love ](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 小学同学
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [冬日愿望清单](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
-1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
+1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [Exile](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYj4gAQTknKE3WW0Je8KGmQ7z1cA4FefwtbufD) - Alyssa Caroline
 1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
 1. [丁达尔的梦](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMU3WirUZBVQkAC9ccG5P2IQirziZM2RTInUY) - Youzee Music
