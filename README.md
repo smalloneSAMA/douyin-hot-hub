@@ -11,59 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-01-05 09:22:01 +0800`
+`更新时间：2025-01-05 10:54:32 +0800`
 
 ## 抖音热榜
 
-1. 陈震称已收到领克律师函
 1. 崔永熙：为NBA赔上一条韧带值得
+1. 小寒吃什么
 1. 当传统武术遇上非遗打铁花
 1. 生活闪亮时
 1. 今日小寒
-1. 田曦薇星光大赏红毯美得很安心
 1. 跑场马拉松需要花多少钱
+1. 陈震称已收到领克律师函
+1. 梅西将被授予美国总统自由勋章
 1. 港珠澳大桥去年客流车流创新高
 1. 丁禹兮接虞书欣下台
-1. 女生回应顶着鸡窝头给周涛讲解
 1. 林高远父亲去世
-1. 苹果再次降价
-1. 清华辟谣80%毕业生出国不归
-1. 赵丽颖红毯压轴
-1. 火影忍者须佐卡卡西全技能爆料
-1. 林更新被贴脸开大北京有谁在
-1. 曼城4:1西汉姆联
-1. 跟赛博女史官看懂历史故事
-1. 侯永永谈入选国足
-1. 梅西将被授予美国总统自由勋章
-1. 广东男篮险胜山东男篮
 1. 孟子义李昀锐同框领奖
-1. 李明德爆料引热议
-1. 吴昕杜海涛牵手走红毯
-1. 孙志刚唐一军出镜反腐大片忏悔
-1. 马天宇回应被指控耍大牌
+1. 王子奇王星越台下演小品
+1. 清华辟谣80%毕业生出国不归
+1. 火影忍者须佐卡卡西全技能爆料
+1. 女生回应顶着鸡窝头给周涛讲解
+1. 林更新被贴脸开大北京有谁在
+1. 苹果再次降价
+1. 曼城4:1西汉姆联
+1. 侯永永谈入选国足
+1. 中国驻韩国大使馆发布提醒
+1. 广东男篮险胜山东男篮
+1. 模仿杨紫一秒变脸
 1. 星光大赏导播切镜头太会了
+1. 李明德爆料引热议
+1. 这次真把黄子韬call出来了
+1. 马天宇回应被指控耍大牌
 1. 星光大赏红毯
 1. 模仿第五人格前锋起舞
+1. 成毅跟唱冬天里的一把火
+1. 张萌红毯造型好辣
+1. 徐杰半场三分6中5
 1. 路人王2024年度总决赛
 1. 许七安出狱变大哥
-1. 张萌红毯造型好辣
-1. 火箭少女R1SE给我干哪年来了
 1. 金晨王安宇用粤语领奖
-1. 第一次发单曲怪紧张的
-1. 无法共情小时候的自己
-1. 模仿杨紫一秒变脸
-1. 星光大赏明星神速出片
-1. 白菜大爷回河南了
-1. 忘了你忘了我这个前奏太爱了
-1. 一千零一夜bgm慢动作甜晕了
-1. 德要俄从叙撤军 俄方回应
-1. 白月梵星角色风味好新
-1. 徐杰半场三分6中5
-1. WTT总结樊振东生涯成就
 1. 俄称击落8枚美提供的ATACMS导弹
-1. 湖北下雪了
-1. 不可思议的蒲丰投针
-1. 拉塞尔受伤离场
+1. 无法共情小时候的自己
+1. 白月梵星角色风味好新
+1. 火箭少女R1SE给我干哪年来了
+1. 星光大赏明星神速出片
+1. 忘了你忘了我这个前奏太爱了
+1. 德要俄从叙撤军 俄方回应
+1. WTT总结樊振东生涯成就
+1. 孙颖莎说巴黎奥运后没有哭
+1. 开年刊封面
+1. 白菜大爷回河南了
+1. 跟赛博女史官看懂历史故事
+1. 又是被女儿治愈的一天
+1. 罗东川任青海省代省长
+1. 糖糖葫芦葫芦AI表情秀
 
 ## 明星榜
 
@@ -75,20 +76,20 @@
 
 ## 音乐榜
 
-1. [消散对白(圆梦版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
+1. [消散对白(圆梦版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
 1. [爱的就是你_崔十八（手势舞版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oApB2AigNyB4sTw7JhBOikMAf0oDJzMWBuIrgm) - 崔十八/听潮阁
 1. [你的](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
-1. [天冷了你要记得穿秋裤（米三岁版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQlIwVIDWiZ6BQilAorS7MA0AgCkQDvcZAdm1) - 米三岁
+1. [天冷了你要记得穿秋裤（米三岁版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQlIwVIDWiZ6BQilAorS7MA0AgCkQDvcZAdm1) - 米三岁
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
-1. [ At Dusk  Love ](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 小学同学
+1. [ At Dusk  Love ](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 小学同学
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
-1. [冬日愿望清单](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
+1. [冬日愿望清单](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [Exile](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYj4gAQTknKE3WW0Je8KGmQ7z1cA4FefwtbufD) - Alyssa Caroline
 1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
 1. [丁达尔的梦](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMU3WirUZBVQkAC9ccG5P2IQirziZM2RTInUY) - Youzee Music
-1. [爱的就是你_崔十八 (主歌1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
+1. [爱的就是你_崔十八 (主歌1)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
 1. [开心往前飞（开心超人联盟主题曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
 1. [If December Never Ends](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY1IQMoTgCFIBg8RZifyqlBBt1UFgitTYmxeOS) - Anson Seabra
 1. [春娇与志明](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e530d8fceb7044b39707d7f9ff54add1) - 街道办,欧阳耀莹
