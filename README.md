@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-01-09 22:16:46 +0800`
+`更新时间：2025-01-09 23:19:00 +0800`
 
 ## 抖音热榜
 
 1. 为什么感染甲流这么疼
 1. 10分钟直击加州山火现场
-1. 春运上分新的一年排面拉满
+1. 2024年民航旅客运输量创新高
 1. 让非遗剪纸重现辉煌
 1. 消费补贴会带来多少市场新机会
 1. 在新生活里过传统手艺的春节
 1. 艺术感过年穿搭
+1. 直击美国前总统卡特国葬仪式
+1. 金扫帚提名名单
 1. 当我用超长视频的方式打开历史
-1. 李鹏新受贿8.22亿受审
-1. 这条路叫书山有路
 1. 黎巴嫩军队总司令奥恩当选总统
-1. 加州山火完全失控
-1. 王者荣耀冰雪奇缘联动
 1. 上海遇到了懂它的韩国人
-1. 国色芳华刘畅迟来的爱比草贱
-1. 与辉同行开播一周年
 1. NIP官宣Doinb加入
+1. 国色芳华刘畅迟来的爱比草贱
+1. 王者荣耀冰雪奇缘联动
+1. 韩红更新西藏震区救助情况
+1. 加州山火完全失控
 1. 麦琳自曝是被父母捡来的
 1. 伊朗将向作战部队部署千架无人机
-1. 燕云十六声移动端上线
-1. 白月梵星鸢尾花名场面来了
 1. 深度分析英伟达RTX50系显卡
+1. 金饰克价一年涨了200元
+1. 燕云十六声移动端上线
+1. 李现也进入夺人妻赛道了
+1. 白月梵星鸢尾花名场面来了
 1. 国色芳华女性互助
 1. 杨子有自己的本命BGM
-1. 葛夕没下车
-1. 丹麦：格陵兰岛不会归入美国
-1. 叙利亚给恐怖分子授职 中方回应
-1. 郭京飞新剧救助辍学儿童
-1. 白月梵星处处修罗场
-1. 金饰克价一年涨了200元
-1. 过年回家骗家里人在做吃播
+1. 与辉同行开播一周年
 1. 林高远退出WTT新加坡大满贯
+1. 向佐新造型
+1. 葛夕没下车
+1. 过年回家骗家里人在做吃播
+1. 美联储预计今年降息75个基点
 1. 刘亦菲夸孟子义好美
-1. 许七安魏渊非父子胜似父子
+1. 白月梵星处处修罗场
+1. 叙利亚给恐怖分子授职 中方回应
+1. 永劫无间拳皇联动正式上线
 1. 再见爱人收官
 1. 全抖音都在晒家乡美食
 1. 你的国色芳华来了
 1. 春节非遗玩法大全
+1. 郭京飞新剧救助辍学儿童
+1. 起不来的还是同一批人
+1. 半个韩娱都在跳的上海之恋
 1. 哈尔滨到底有多冷
-1. 王者冰雪地图正式上线
+1. 派伟俊周杰伦新歌MV
+1. 语文音朗诵挑战
 1. 转伞变装挑战
 1. 我妈问我一个人怎么做自媒体
-1. 哪吒汽车创始人方运舟被限消
-1. 马斯克嘲讽特鲁多
-1. 韩警方否认“尹锡悦逃离官邸”
-1. 起不来的还是同一批人
-1. 笑容可能会转移但不会消失
-1. 西湖水和海景包配的
-1. 冬日万能穿搭公式
+1. 用心的花匠眼里没有难养的花
 
 ## 明星榜
 
@@ -78,16 +78,16 @@
 1. [消散对白(圆梦版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
 1. [爱的就是你_崔十八（手势舞版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oApB2AigNyB4sTw7JhBOikMAf0oDJzMWBuIrgm) - 崔十八/听潮阁
 1. [你的](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
-1. [天冷了你要记得穿秋裤（米三岁版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQlIwVIDWiZ6BQilAorS7MA0AgCkQDvcZAdm1) - 米三岁
-1. [Cute](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
+1. [天冷了你要记得穿秋裤（米三岁版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQlIwVIDWiZ6BQilAorS7MA0AgCkQDvcZAdm1) - 米三岁
+1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
 1. [ At Dusk  Love ](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 刘嗨雨
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [冬日愿望清单](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
-1. [Exile](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYj4gAQTknKE3WW0Je8KGmQ7z1cA4FefwtbufD) - Alyssa Caroline
+1. [Exile](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYj4gAQTknKE3WW0Je8KGmQ7z1cA4FefwtbufD) - Alyssa Caroline
 1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
-1. [丁达尔的梦](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMU3WirUZBVQkAC9ccG5P2IQirziZM2RTInUY) - Youzee Music
+1. [丁达尔的梦](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMU3WirUZBVQkAC9ccG5P2IQirziZM2RTInUY) - Youzee Music
 1. [爱的就是你_崔十八 (主歌1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
 1. [开心往前飞（开心超人联盟主题曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
 1. [If December Never Ends](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY1IQMoTgCFIBg8RZifyqlBBt1UFgitTYmxeOS) - Anson Seabra
