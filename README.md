@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-01-10 14:25:03 +0800`
+`更新时间：2025-01-10 15:17:27 +0800`
 
 ## 抖音热榜
 
-1. 雷军两字回应特斯拉发文
 1. 特斯拉焕新Model Y发布
+1. 雷军两字回应特斯拉发文
 1. 那些你不知道的北京地儿
-1. 得了甲流可以自愈吗
 1. 火箭119:115险胜灰熊
+1. 得了甲流可以自愈吗
 1. 马龙说被伤病困扰多年
 1. 海外ETF有多疯狂
-1. 29名运动员获全国五一劳动奖章
 1. 春运会带来流感新高峰吗
-1. 梅毅走天下贵州行：遇见王阳明
-1. 为什么美国的山火这么厉害
+1. 特朗普“封口费”案今晚宣判
+1. 29名运动员获全国五一劳动奖章
 1. 金扫帚提名名单
 1. 卡特葬礼上特朗普与奥巴马互动
-1. 这些日喀则地震画面不实
 1. 郑钦文调侃德约科维奇
+1. 这些日喀则地震画面不实
 1. 俄专家：美欲控制北极压制俄罗斯
 1. 国足主帅伊万谈新人侯永永
-1. 拜登呼吁特朗普“别搞清算”
 1. 网友用ChatGPT造出AI炮塔
 1. 李子柒现身西安推广非遗春节
-1. 国足新年目标：世预赛小组前四
 1. 特朗普就职典礼筹集资金创纪录
+1. 拜登呼吁特朗普“别搞清算”
+1. 国足新年目标：世预赛小组前四
+1. 燕云十六声移动端上线
+1. 联合国预测今年经济将增长2.8%
+1. 加拿大帮美国灭山火
 1. 黎巴嫩军队总司令奥恩当选总统
-1. 白月梵星第二个副本是局中局
-1. 国色芳华落日余晖的寓意
+1. 梅毅走天下贵州行：遇见王阳明
 1. 沧元图2孟川对战驸马爷楚雍
-1. 洛杉矶山火大本带着前妻逃难
+1. 为什么美国的山火这么厉害
 1. 向佐新造型
 1. 麦琳回门宴瘦了好多
-1. Jennie2025首封
-1. 过年回家骗家里人在做吃播
+1. 白月梵星第二个副本是局中局
+1. 国色芳华女子的情谊和道义
+1. 国色芳华落日余晖的寓意
+1. 杨子有自己的本命BGM
 1. 刘亦菲夸孟子义好美
-1. 再见爱人收官
-1. 被国色芳华路人妆造惊艳到
-1. 10分钟直击加州山火现场
+1. 洛杉矶山火大本带着前妻逃难
 1. 全抖音都在晒家乡美食
+1. 被国色芳华路人妆造惊艳到
 1. 开始预制春节假期结束那天
-1. 燕云十六声移动端上线
+1. 10分钟直击加州山火现场
+1. 摘不完的砂糖橘
 1. 春节非遗玩法大全
-1. 卡特国葬仪式举行
-1. 在KTV里一定会有的几种人
+1. Jennie2025首封
+1. 再见爱人收官
+1. 名侦探柯南入驻抖音
 1. 用心的花匠眼里没有难养的花
-1. 半个韩娱都在跳的上海之恋
+1. 过年回家骗家里人在做吃播
 1. 当老婆生气时我放音乐
-1. 蔷薇风暴越看越上头
-1. 快要见到想见到的人了
-1. 派伟俊周杰伦新歌MV
-1. 镜中戏韵特效谁用谁好看
-1. 这是你梦寐以求的长大吗
-1. 语文音朗诵挑战
+1. 过年就这么炸肉串
+1. 半个韩娱都在跳的上海之恋
 
 ## 明星榜
 
@@ -88,10 +88,10 @@
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [Exile](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYj4gAQTknKE3WW0Je8KGmQ7z1cA4FefwtbufD) - Alyssa Caroline
 1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
-1. [丁达尔的梦](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMU3WirUZBVQkAC9ccG5P2IQirziZM2RTInUY) - Youzee Music
+1. [丁达尔的梦](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMU3WirUZBVQkAC9ccG5P2IQirziZM2RTInUY) - Youzee Music
 1. [爱的就是你_崔十八 (主歌1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
 1. [开心往前飞（开心超人联盟主题曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
-1. [If December Never Ends](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY1IQMoTgCFIBg8RZifyqlBBt1UFgitTYmxeOS) - Anson Seabra
+1. [If December Never Ends](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY1IQMoTgCFIBg8RZifyqlBBt1UFgitTYmxeOS) - Anson Seabra
 1. [春娇与志明](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e530d8fceb7044b39707d7f9ff54add1) - 街道办,欧阳耀莹
 1. [只你(直到幸福能触手可及)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
 
