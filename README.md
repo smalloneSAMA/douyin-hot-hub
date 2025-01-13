@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-01-14 05:16:02 +0800`
+`更新时间：2025-01-14 06:16:25 +0800`
 
 ## 抖音热榜
 
 1. 日本九州岛近海发生6.7级地震
-1. 克莱称詹姆斯4万分太疯狂
-1. 我国外贸进出口规模再创新高
-1. 丁俊晖斯诺克大师赛首战
 1. 朝鲜曝光最大规模新造军舰
+1. 我国外贸进出口规模再创新高
 1. 甲流的治疗方法有哪些
-1. 姿态朱开谈iG训练赛
-1. 4只警犬“上班没精神”被通报
+1. 丁俊晖斯诺克大师赛首战
+1. 克莱称詹姆斯4万分太疯狂
 1. 白鹿敖瑞鹏真拍了单手公主抱
+1. 4只警犬“上班没精神”被通报
 1. 西藏日喀则2分钟2次地震
-1. 新年蛇系妆
-1. 用超长视频点亮唐宋文学
-1. 国色芳华向原妆造作者致谢
-1. 英伟达近8成员工成百万美元富翁
-1. Doinb遭遇网络攻击
+1. 姿态朱开谈iG训练赛
 1. 向太对一路繁花嘉宾的初印象
-1. 吴宣仪跳舞引热议
 1. 一口气看懂车厘子为啥价格暴跌
+1. 新年蛇系妆
+1. 英伟达近8成员工成百万美元富翁
+1. 国色芳华向原妆造作者致谢
+1. 吴宣仪跳舞引热议
 1. 国色芳华回应妆造被指抄袭
+1. 用超长视频点亮唐宋文学
+1. 教育部拟同意设置福耀科技大学
 1. 解读乌军俘获2名朝鲜士兵
+1. 东部战区代表团将访问日本
+1. 感染甲流后一定要好好休息
+1. 石破茂喊话拜登
+1. 胖东来不允许员工夫妻间家暴
 1. 西藏定日县4.9级地震
 1. 英媒曝大量照片揭日军罪行
-1. 感染甲流后一定要好好休息
-1. 东部战区代表团将访问日本
-1. 胖东来不允许员工夫妻间家暴
 1. 解读六代机应该具备哪些能力
 1. 券商：A股春节前有望企稳
-1. 教育部拟同意设置福耀科技大学
-1. 甄嬛传未解之谜
-1. 白月梵星天火美强惨人设
-1. 精神状态专属BGM来了
-1. 刘晓庆被迫当领队精气神看呆众人
-1. 日本警方回应中国游客遭列车撞亡
-1. 离岸人民币对美元短线走高
-1. 他的细心只对我
-1. 白月梵星加更了
-1. 我妈已经三天没有打我了
 1. 李现爆料杨紫很爱发朋友圈
-1. 特辣的海藻
-1. 雷军体验泼水成冰
-1. 幸福的人都是默不作声的
-1. 懂车帝冬测成绩揭晓
+1. 日本警方回应中国游客遭列车撞亡
+1. 刘晓庆被迫当领队精气神看呆众人
+1. 精神状态专属BGM来了
+1. Doinb遭遇网络攻击
+1. 甄嬛传未解之谜
+1. 离岸人民币对美元短线走高
+1. 王暖暖回应为什么难离婚
+1. 他的细心只对我
+1. 白月梵星天火美强惨人设
+1. 我妈已经三天没有打我了
 1. 国色芳华何惟芳被家暴观后感
-1. 江叔是谁
+1. 特辣的海藻
 1. 猫：强者的味道
+1. 雷军体验泼水成冰
+1. 懂车帝冬测成绩揭晓
+1. 幸福的人都是默不作声的
+1. 白月梵星地府vlog好超前
+1. 江叔是谁
 1. 遇到了汪汪侠
 1. 当年陪你一起看封神1的人
-1. 白月梵星地府vlog好超前
-1. 10款热门车暴雪智驾测试
 
 ## 明星榜
 
@@ -78,7 +78,7 @@
 1. [消散对白(圆梦版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
 1. [野百合也有春天（万向乐队完整版已上线）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMnUxhRAMiAGBqDtIPBQ7ACYQZFlJCftcgeDJE) - 万向乐队
 1. [你的](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
-1. [Cute](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
+1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
 1. [ At Dusk  Love ](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 刘嗨雨
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
