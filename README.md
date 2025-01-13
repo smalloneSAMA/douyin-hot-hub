@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-01-13 10:55:30 +0800`
+`更新时间：2025-01-13 11:27:21 +0800`
 
 ## 抖音热榜
 
 1. 一诺拿了三个奖
 1. 巴萨5:2皇马夺西超杯冠军
-1. 全球最大充电宝正式动工建设
+1. 90秒见证震后中国速度
 1. 打工人的打卡意识有多强
 1. 过年就是要把新中式穿身上
 1. 雷军去黑河冬测
 1. 加拿大外长回应美国关税威胁
 1. 伊朗公布“导弹城”
-1. WBG第一赛段开门红
-1. 青岛男篮103:100辽宁男篮
-1. 如何诊断病毒性心肌炎
 1. 加州山火对当地人的影响
+1. 郑钦文回应拿下澳网开门红
+1. WBG第一赛段开门红
 1. 何惟芳 女字香
+1. 敖瑞鹏死手快比心
 1. 宁夏打击地震谣言 处罚4人
 1. 茯苓逼重昭杀仙友
-1. 敖瑞鹏死手快比心
-1. 徐昕绝杀
 1. 住所遭大火烧毁 前童星窒息而死
+1. 埃文凯尔收到春晚邀请函
 1. 蔡明帮李连杰辟谣身体不好
+1. 青岛男篮103:100辽宁男篮
 1. 韩国一核电站泄漏29吨核废液
-1. 何猷君也用上糖葫芦特效了
 1. 李宇春 讨厌吃饭时看手机
-1. 郑钦文回应拿下澳网开门红
+1. 如何诊断病毒性心肌炎
+1. 郑钦文给自己澳网首秀打70分
+1. 何猷君也用上糖葫芦特效了
+1. 杨紫李现两个幼稚鬼
 1. 新年就跳步步高升舞
-1. 向太 最能干的就是最倒霉的
-1. 儿童呼吸道感染用药注意事项
 1. 白月梵星抖音追剧团
-1. 与辉同行广东行
-1. 国色芳华 一个看见光一个看见鬼
+1. 集采药如何确保降价不降质
+1. 向太 最能干的就是最倒霉的
 1. 日本警方回应中国游客遭列车撞亡
 1. 赵芸一：你懂什么是天津消防嘛
 1. AG走秀全员插兜
-1. 杨紫李现两个幼稚鬼
+1. 国色芳华 一个看见光一个看见鬼
 1. 靠海的洛杉矶为何缺水灭火
-1. 懂车帝冬测成绩揭晓
-1. 国色芳华何惟芳大福相识
-1. 白月梵星群像好燃
 1. 出门在外的身份全靠自己给
-1. 26岁女孩患渐冻症后容貌巨变
+1. 徐昕绝杀
+1. 国色芳华何惟芳大福相识
+1. 懂车帝冬测成绩揭晓
+1. 与辉同行广东行
+1. 苏新皓在地铁上跳90sLove
+1. 周鸿祎准备给粉丝送车
+1. 白月梵星群像好燃
 1. 唤俊：这衣服也太显身材了
+1. 仿佛在看黄子韬徐艺洋朋友圈日常
+1. 舅舅带娃也有辛苦费了
+1. 报告财神爷我想发个财
 1. 起猛了就爱看猫猫说话
+1. 26岁女孩患渐冻症后容貌巨变
 1. 一路繁花主打有话直说
 1. 甄嬛传全员回眸
-1. 报告财神爷我想发个财
-1. 周鸿祎准备给粉丝送车
-1. 仿佛在看黄子韬徐艺洋朋友圈日常
-1. 误杀3里的女性力量
-1. 总是在脆弱的时候怀念你
-1. 过年穿什么
-1. 舅舅带娃也有辛苦费了
 
 ## 明星榜
 
@@ -82,7 +82,7 @@
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
 1. [ At Dusk  Love ](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 刘嗨雨
-1. [执子之手 (剪辑2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
+1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [冬日愿望清单](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [Exile](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYj4gAQTknKE3WW0Je8KGmQ7z1cA4FefwtbufD) - Alyssa Caroline
