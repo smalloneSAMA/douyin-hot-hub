@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-01-18 00:21:12 +0800`
+`更新时间：2025-01-18 01:15:34 +0800`
 
 ## 抖音热榜
 
@@ -23,48 +23,48 @@
 1. 金铲铲福星阵容推荐
 1. 以安全内阁通过加沙停火协议
 1. 国防部：台湾当归 归来天地宽
-1. 黄仁勋何以闯入世界首富决赛圈
-1. 俄伊签署全面战略伙伴关系条约
 1. 确实该给我apologize了
+1. 俄伊签署全面战略伙伴关系条约
+1. 黄仁勋何以闯入世界首富决赛圈
 1. 一口气看懂民法典婚姻家庭新解
-1. 荣耀官宣：赵明因身体原因辞职
-1. 青岛等地辟谣“全城大检查”
-1. 马斯克回应星舰第七次试飞
-1. 王者蛇年限定皮肤主题公布
-1. 弈星新皮肤万物之道
 1. 在家弄锡纸烫翻车了
-1. 星舰第七次试飞 二级飞船失联
-1. 台北下了雪你说那是保丽龙
+1. 青岛等地辟谣“全城大检查”
+1. 弈星新皮肤万物之道
+1. 王者蛇年限定皮肤主题公布
+1. 马斯克回应星舰第七次试飞
+1. 刘捷当选浙江省省长
+1. 荣耀官宣：赵明因身体原因辞职
+1. 詹姆斯全明星投票反超杜兰特
 1. 李维刚道歉
-1. 南京北站发现古墓
-1. 白鹿敖瑞鹏丝滑单肩抱
-1. 漂白开播就是离奇命案
-1. 重昭怀疑茯苓身世
-1. 陈伯耀虎团队决赛
 1. 国色芳华女子情谊
-1. 何惟芳：胜意你糊涂啊
+1. 漂白开播就是离奇命案
+1. 台北下了雪你说那是保丽龙
+1. 南京北站发现古墓
+1. 陈伯耀虎团队决赛
+1. 重昭怀疑茯苓身世
+1. 我哪吒回来了
 1. 女生长相酷似张曼玉
 1. 秦胜意被家人至亲嫌弃
-1. 我哪吒回来了
-1. 卫兰时隔二十年再唱《大哥》
-1. 一键变身全黑肯豆风
-1. 赏中式浪漫迎蛇年
-1. 国产犯罪剧漂白尺度真大
-1. 就等你回家了
 1. 再见爱人题集全是送分题
-1. 海内外二次元对上暗号了
-1. 姜子牙钻石夺宝皮肤
-1. 春运路上的毛孩子
-1. 王者未尽之器系列皮肤
-1. 眼前一亮又一亮
-1. 好运显化法则
-1. 雷军在吃一种很新的冻梨
-1. D社曝金敏喜怀孕
-1. 我们都不坏 凭什么不幸福
-1. 全世界都在过中国年
+1. 国产犯罪剧漂白尺度真大
+1. 何惟芳：胜意你糊涂啊
+1. 一键变身全黑肯豆风
+1. 卫兰时隔二十年再唱《大哥》
+1. 星舰第七次试飞 二级飞船失联
 1. 白月梵星一念一刀
-1. 看见了被双方家长祝福的爱情
-1. 三分半看完SM家族入驻视频
+1. 全世界都在过中国年
+1. 姜子牙钻石夺宝皮肤
+1. 就等你回家了
+1. 王者未尽之器系列皮肤
+1. 雷军在吃一种很新的冻梨
+1. 春运路上的毛孩子
+1. 眼前一亮又一亮
+1. D社曝金敏喜怀孕
+1. 海内外二次元对上暗号了
+1. 好运显化法则
+1. 我们都不坏 凭什么不幸福
+1. 白月梵星处处伏笔
+1. 赏中式浪漫迎蛇年
 
 ## 明星榜
 
@@ -76,19 +76,19 @@
 
 ## 音乐榜
 
-1. [消散对白(圆梦版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
+1. [消散对白(圆梦版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
 1. [你的](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
 1. [沈园外2024(一生一世守候)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAIYMHGCmKaYKFDd6FZBf9AfMfx1eErAAEJAFH) - 刘兆宇/张德伊玲
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
-1. [ At Dusk  Love ](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 刘嗨雨
+1. [ At Dusk  Love ](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 刘嗨雨
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [Winter Wishlist](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [Exile](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYj4gAQTknKE3WW0Je8KGmQ7z1cA4FefwtbufD) - Alyssa Caroline
 1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
 1. [丁达尔的梦](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMU3WirUZBVQkAC9ccG5P2IQirziZM2RTInUY) - Youzee Music
-1. [爱的就是你_崔十八 (主歌1)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
+1. [爱的就是你_崔十八 (主歌1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
 1. [天冷了你要记得穿秋裤（米三岁版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQlIwVIDWiZ6BQilAorS7MA0AgCkQDvcZAdm1) - 米三岁
 1. [开心往前飞（开心超人联盟主题曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
 1. [If December Never Ends](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY1IQMoTgCFIBg8RZifyqlBBt1UFgitTYmxeOS) - Anson Seabra
