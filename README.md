@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-01-20 16:22:58 +0800`
+`更新时间：2025-01-20 17:19:12 +0800`
 
 ## 抖音热榜
 
 1. 外交部回应特朗普将就职
 1. 金饰价格逼近830元
-1. 液氧煤油火箭发动机“一日三试”
+1. 回家的路就是最美的风景
 1. 中方促成缅政府与果敢同盟军停火
 1. 柯洁冲击LG杯第九冠
-1. 快船轻取湖人
-1. 俄罗斯将关闭“日俄友好象征”
 1. 王小蒙谢永强离婚
-1. 开年带您种草一部剧
+1. 快船轻取湖人
+1. 2025网络视听盛典阵容官宣
 1. 王者荣耀蛇年限定仿妆
+1. 泼天好运一拍就来
 1. 外交部回应TikTok恢复在美服务
 1. 珠海撞人致35死凶手被执行死刑
-1. 王者蛇限皮肤CG
-1. 第1批学中国菜的外国人交作业了
+1. 漂白甄珍陷入自救循环
+1. 漂白恶人组伪装偷生
 1. 上海辟谣环球金融中心着火
 1. 无锡8死校园伤人案凶手被执行死刑
-1. 漂白甄珍陷入自救循环
 1. 国色芳华引用诗经氓和余华金句
-1. 刘亦菲深夜与友人聚餐
-1. 漂白恶人组伪装偷生
-1. 尹锡悦狱中发表声明
 1. TikTok恢复在美服务
-1. 白鹿年度照片是白月梵星三人行
+1. 白烁茯苓姐妹对峙口是心非
+1. 王者蛇限皮肤CG
 1. 电视剧漂白饭缩力
-1. 泼天好运一拍就来
-1. 大寒过了就是年
+1. 白月梵星嘻嘻返场跳舞
+1. 白鹿年度照片是白月梵星三人行
+1. 各省携年夜饭申请出战
+1. 电影黑白潜行2定档
 1. 大奉第二季如果按照这个拍
 1. 漂白赵今麦被虐待有多惨
-1. 一路繁花大型修罗场
+1. 模仿漂白站位拍照
 1. 国色芳华女子本刚
-1. 刚来抖音冲浪就听这首歌
 1. 肖战庄达菲射雕剧照
 1. 王佳佳名字变得越加清晰
 1. 拜登发布声明赦免5人
+1. 一路繁花大型修罗场
 1. 你家小猫会开棘背龙模式吗
-1. 模仿漂白站位拍照
+1. 刚来抖音冲浪就听这首歌
 1. 中外网友才艺大赏
-1. 孙俪蔡依林回应破次元壁同框
 1. 这就是记录真实美好的意义
-1. 各省携年夜饭申请出战
-1. 大奉电影换杨千幻当主角
-1. 第三视角看颜安跳舞
-1. 国色芳华暴打王擎计划
 1. 世界顶级挑战作者入驻抖音
-1. oiiai猫的风吹到了城市广场
+1. 大奉电影换杨千幻当主角
+1. 国色芳华暴打王擎计划
+1. AI机甲变身让我相信光了
+1. 第三视角看颜安跳舞
+1. 第1批学中国菜的外国人交作业了
+1. 华流才是春节顶流
+1. 孙俪蔡依林回应破次元壁同框
+1. 大寒过了就是年
+1. 漂白2025重新定义我爱你
 1. 今日大寒
+1. 刘亦菲深夜与友人聚餐
 1. 开始刷上中英双语视频了
-1. 硬生生把年过成了劳动节
-1. 被李圣经的音乐剧造型美到了
-1. 牛魔王小姐姐e人具象化
 
 ## 明星榜
 
@@ -77,8 +77,8 @@
 ## 音乐榜
 
 1. [消散对白(圆梦版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
-1. [你的](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
-1. [沈园外2024(一生一世守候)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAIYMHGCmKaYKFDd6FZBf9AfMfx1eErAAEJAFH) - 刘兆宇/张德伊玲
+1. [你的](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
+1. [沈园外2024(一生一世守候)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAIYMHGCmKaYKFDd6FZBf9AfMfx1eErAAEJAFH) - 刘兆宇/张德伊玲
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
 1. [ At Dusk  Love ](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 刘嗨雨
