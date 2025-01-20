@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-01-21 05:16:09 +0800`
+`更新时间：2025-01-21 06:16:18 +0800`
 
 ## 抖音热榜
 
 1. 特朗普宣誓就职
-1. 俄罗斯将关闭“日俄友好象征”
+1. 公立医疗机构将取消门诊预交金
 1. 我国今年将发射两艘载人飞船
 1. 陈震赔付领克500万违约金
 1. 台湾台南市发生6.2级地震
-1. 公立医疗机构将取消门诊预交金
+1. 俄罗斯将关闭“日俄友好象征”
 1. 安东尼入驻抖音
-1. 全世界都在晒运动搭子
 1. 给世界一点中国美食震撼
-1. 电视剧漂白被质疑抄袭
-1. 特朗普就职演讲
+1. 全世界都在晒运动搭子
 1. 各省携年夜饭申请出战
+1. 特朗普就职演讲
+1. 电视剧漂白被质疑抄袭
 1. 泼天好运一拍就来
+1. 韩正会见特斯拉CEO马斯克
 1. 开始刷上中英双语视频了
 1. 王千源还原漂白我爱你
-1. 白烁茯苓姐妹对峙口是心非
 1. TikTok恢复在美服务
 1. NBA球星布伦森入驻抖音
-1. 韩正会见特斯拉CEO马斯克
+1. 剪头发的妈妈化身斯内普教授
 1. 尹锡悦狱中发表声明
 1. 第1批学中国菜的外国人交作业了
 1. 漂白甄珍陷入自救循环
 1. 王小蒙谢永强离婚
-1. 剪头发的妈妈化身斯内普教授
-1. 四川内江4.4级地震
-1. 金饰价格逼近830元
 1. 曝内马尔将重返桑托斯
+1. 四川内江4.4级地震
 1. 徐梦桃获世界杯冠军
-1. 尹锡悦“拘留生活”开启
-1. 徐艺洋在半熟恋人学恋爱技巧
+1. 白烁茯苓姐妹对峙口是心非
+1. 俄军袭击乌克兰工厂画面曝光
 1. 以前同情樱桃 现在共鸣红红
 1. 漂白恶人组伪装偷生
-1. 杨子黄圣依宣布分开后首同框
-1. 电影黑白潜行2定档
-1. 国色芳华女子本刚
-1. 肖战为角色苦练蒙语
-1. 看许七安郑兴怀诀别被虐哭
-1. 乐言说Doinb赛后发言不礼貌
 1. 当年轻人开始爱上中国功夫
-1. 如果忧郁是种天赋
+1. 肖战为角色苦练蒙语
+1. 杨子黄圣依宣布分开后首同框
+1. 国色芳华女子本刚
 1. 抖音小年夜晚会全阵容官宣
-1. 中外网友才艺大赏
-1. 李殿勋当选湖北省省长
-1. 刘亦菲深夜与友人聚餐
-1. 俄军袭击乌克兰工厂画面曝光
-1. 梵樾眼里都是白烁
+1. 乐言说Doinb赛后发言不礼貌
 1. 华流才是春节顶流
+1. 孙俪蔡依林回应破次元壁同框
+1. 中外网友才艺大赏
+1. 尹锡悦“拘留生活”开启
+1. 大奉电影换杨千幻当主角
+1. 如果忧郁是种天赋
+1. 李殿勋当选湖北省省长
+1. 2025年A股休市安排
+1. 一键解锁奥特曼小火人
 1. 叮咚鸡全民爆改挑战
-1. Jump翻唱挑战
+1. 我的新年人设
+1. 看许七安郑兴怀诀别被虐哭
+1. 徐艺洋在半熟恋人学恋爱技巧
 
 ## 明星榜
 
@@ -81,15 +81,15 @@
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
 1. [ At Dusk  Love ](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 刘嗨雨
-1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
-1. [Winter Wishlist](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
+1. [执子之手 (剪辑2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
+1. [Winter Wishlist](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
 1. [丁达尔的梦](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMU3WirUZBVQkAC9ccG5P2IQirziZM2RTInUY) - Youzee Music
-1. [爱的就是你_崔十八 (主歌1)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
-1. [天冷了你要记得穿秋裤（米三岁版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQlIwVIDWiZ6BQilAorS7MA0AgCkQDvcZAdm1) - 米三岁
+1. [爱的就是你_崔十八 (主歌1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
+1. [天冷了你要记得穿秋裤（米三岁版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQlIwVIDWiZ6BQilAorS7MA0AgCkQDvcZAdm1) - 米三岁
 1. [开心往前飞（开心超人联盟主题曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
-1. [春娇与志明](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e530d8fceb7044b39707d7f9ff54add1) - 街道办,欧阳耀莹
+1. [春娇与志明](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e530d8fceb7044b39707d7f9ff54add1) - 街道办,欧阳耀莹
 1. [只你(直到幸福能触手可及)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
 
 ## 品牌榜
