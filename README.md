@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-01-20 19:15:04 +0800`
+`更新时间：2025-01-20 20:33:38 +0800`
 
 ## 抖音热榜
 
@@ -19,52 +19,51 @@
 1. 柯洁冲击LG杯第九冠
 1. 回家的路就是最美的风景
 1. 中方促成缅政府与果敢同盟军停火
-1. 王者荣耀蛇年限定仿妆
-1. 各省携年夜饭申请出战
 1. 安东尼入驻抖音
+1. 王者荣耀蛇年限定仿妆
+1. 第1批学中国菜的外国人交作业了
+1. 各省携年夜饭申请出战
 1. 金饰价格逼近830元
 1. 大寒过了就是年
-1. 漂白恶人组伪装偷生
 1. 外交部回应TikTok恢复在美服务
 1. 珠海撞人致35死凶手被执行死刑
 1. 漂白甄珍陷入自救循环
-1. 白烁茯苓姐妹对峙口是心非
-1. 上海辟谣环球金融中心着火
+1. 漂白恶人组伪装偷生
 1. 无锡8死校园伤人案凶手被执行死刑
-1. 第1批学中国菜的外国人交作业了
-1. TikTok恢复在美服务
+1. 电视剧漂白被质疑抄袭
+1. 白烁茯苓姐妹对峙口是心非
 1. 国色芳华引用诗经氓和余华金句
-1. 快船轻取湖人
-1. NBA球星布伦森入驻抖音
+1. TikTok恢复在美服务
 1. 徐艺洋在半熟恋人学恋爱技巧
+1. 今日大寒
 1. 电影黑白潜行2定档
 1. 王小蒙谢永强离婚
-1. 白月梵星嘻嘻返场跳舞
-1. 一键解锁奥特曼小火人
-1. 大奉第二季如果按照这个拍
-1. 国色芳华女子本刚
-1. 中外网友才艺大赏
-1. 今日大寒
-1. 狗子：真后悔回家过年了
-1. 拜登发布声明赦免5人
-1. 一路繁花大型修罗场
-1. 华流才是春节顶流
-1. 如果忧郁是种天赋
-1. 刚来抖音冲浪就听这首歌
-1. 孙俪蔡依林回应破次元壁同框
 1. 剪头发的妈妈化身斯内普教授
+1. 开始刷上中英双语视频了
+1. 一键解锁奥特曼小火人
+1. NBA球星布伦森入驻抖音
 1. 当年轻人开始爱上中国功夫
+1. 中外网友才艺大赏
+1. 国色芳华女子本刚
 1. 肖战为角色苦练蒙语
-1. 大奉电影换杨千幻当主角
-1. 王佳佳名字变得越加清晰
-1. 世界顶级挑战作者入驻抖音
-1. AI机甲变身让我相信光了
-1. 你家小猫会开棘背龙模式吗
-1. 第三视角看颜安跳舞
+1. 拜登发布声明赦免5人
+1. 杨子黄圣依宣布分开后首同框
 1. 泼天好运一拍就来
+1. 孙俪蔡依林回应破次元壁同框
 1. 堆个雪人吧
+1. 如果忧郁是种天赋
+1. 以前同情樱桃 现在共鸣红红
+1. 记录男朋友第一次上门
+1. 狗子：真后悔回家过年了
+1. 华流才是春节顶流
+1. 王佳佳名字变得越加清晰
+1. 大奉第二季如果按照这个拍
+1. 我的新年人设
+1. 一路繁花大型修罗场
+1. AI机甲变身让我相信光了
 1. 如果我说 爱我没有如果
-1. 云雾中的大佛好震撼
+1. 看许七安郑兴怀诀别被虐哭
+1. 第三视角看颜安跳舞
 
 ## 明星榜
 
@@ -82,7 +81,7 @@
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
 1. [ At Dusk  Love ](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 刘嗨雨
-1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
+1. [执子之手 (剪辑2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [Winter Wishlist](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
