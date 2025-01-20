@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-01-20 10:46:39 +0800`
+`更新时间：2025-01-20 11:20:50 +0800`
 
 ## 抖音热榜
 
+1. 湖人vs快船
 1. 世界顶级挑战作者入驻抖音
-1. 第1批学中国菜的外国人交作业了
 1. 春运哪些东西不能带上火车
+1. 冰雪延庆过大年
+1. 第1批学中国菜的外国人交作业了
 1. 大寒过了就是年
+1. 王佳佳名字变得越加清晰
+1. 特朗普：将撤销拜登所有行政命令
+1. 漂白赵今麦被虐待有多惨
+1. 官方调查集采药品质量风险问题
+1. TikTok恢复在美服务
+1. 徐艺洋在跳黄子韬的callme
+1. 王者蛇限皮肤CG
+1. 重庆辟谣缙云山起火
+1. 何惟芳拿回花满筑
+1. 拜登收拾行李与工作人员告别
+1. 战损版白烁杀进我心里了
+1. 电视剧漂白饭缩力
+1. NIP3:1战胜IG
+1. 安徽人回老家急坏全国人民
 1. 云雾中的大佛好震撼
 1. 当年轻人爱上中国非遗
 1. 地球村民一起交流变美
-1. 特朗普：将撤销拜登所有行政命令
-1. 徐艺洋在跳黄子韬的callme
-1. 官方调查集采药品质量风险问题
-1. TikTok恢复在美服务
-1. 王佳佳名字变得越加清晰
-1. 王者蛇限皮肤CG
-1. 重庆辟谣缙云山起火
-1. 漂白赵今麦被虐待有多惨
-1. 电视剧漂白饭缩力
-1. 盘点特朗普就职典礼4大看点
 1. 今日大寒
-1. NIP3:1战胜IG
-1. 曼联1:3布莱顿
-1. 战损版白烁杀进我心里了
-1. 何惟芳拿回花满筑
-1. 多家手机厂商降价抢占国补市场
-1. 马斯克或将收购英特尔
-1. 哑女为救何惟芳被害
-1. 格林再次向普尔道歉
-1. 墨西哥球迷开场骂梅西
-1. Doinb赛后采访
+1. 大寒节气吃什么
+1. 硬生生把年过成了劳动节
 1. 国色芳华女子本刚
-1. 2025春晚主持人阵容公布
-1. 茯苓恢复记忆
-1. 中外网友才艺大赏
-1. oiiai猫的风吹到了城市广场
-1. 刚来抖音冲浪就听这首歌
 1. 模仿漂白站位拍照
-1. 这是谁给的和好券
-1. 南部战区黄岩岛战备警巡画面
-1. 你的第一部童年动画是什么
-1. 许七安背后有整个大奉支持
+1. 中外网友才艺大赏
+1. 刚来抖音冲浪就听这首歌
+1. 茯苓恢复记忆
+1. oiiai猫的风吹到了城市广场
+1. 金饰价格逼近830元
+1. 多家手机厂商降价抢占国补市场
 1. 我有节目献给春节
-1. 漂白第七集封神
-1. 这就是记录真实美好的意义
 1. 一路繁花大型修罗场
-1. 一个视频让外国朋友看懂中国春节
+1. 这是谁给的和好券
+1. 格林再次向普尔道歉
+1. 许七安背后有整个大奉支持
+1. 这就是记录真实美好的意义
+1. 漂白第七集封神
+1. 和平地铁全明星齐聚哈尔滨开年会
+1. 第三视角看颜安跳舞
 1. 代露娃说常华森不是小哭包
-1. 牛魔王小姐姐e人具象化
-1. 普罗哈兹卡想和佩雷拉三番战
-1. 给外国友人展示中式钓鱼的震撼
-1. 交出你的foodtax
+1. 你的第一部童年动画是什么
+1. 马斯克或将收购英特尔
+1. 大奉第二季如果按照这个拍
 1. SEVENTEEN全员跳CBZ
+1. 牛魔王小姐姐e人具象化
+1. 如果我说 爱我没有如果
 
 ## 明星榜
 
@@ -78,8 +78,8 @@
 
 1. [消散对白(圆梦版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
 1. [你的](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
-1. [沈园外2024(一生一世守候)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAIYMHGCmKaYKFDd6FZBf9AfMfx1eErAAEJAFH) - 刘兆宇/张德伊玲
-1. [Cute](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
+1. [沈园外2024(一生一世守候)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAIYMHGCmKaYKFDd6FZBf9AfMfx1eErAAEJAFH) - 刘兆宇/张德伊玲
+1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
 1. [ At Dusk  Love ](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 刘嗨雨
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
