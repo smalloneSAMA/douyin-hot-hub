@@ -11,59 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-01-27 21:23:17 +0800`
+`更新时间：2025-01-27 22:17:09 +0800`
 
 ## 抖音热榜
 
-1. 柯洁接受战鹰道歉
-1. DeepSeek创始人回应爆火
-1. 窗花一贴年味更足了
 1. 起底DeepSeek
-1. 光遇贺岁晚会上线
-1. DeepSeek美区下载榜超ChatGPT
-1. 柯洁可能退出最强棋士战
+1. 柯洁接受战鹰道歉
+1. 窗花一贴年味更足了
 1. 明天就是除夕了
+1. 光遇贺岁晚会上线
+1. 柯洁可能退出最强棋士战
+1. 晒秋大妈的新年祝福
+1. DeepSeek创始人回应爆火
 1. 中国春节何以成为“世界时刻”
 1. 哪吒2塑料师徒情
-1. 抖音春节人物短片
+1. 一秒入戏春节影视名场面
 1. 孙铱发文称已经入院
-1. 张纯如父亲张绍进先生去世
 1. 虞书欣变小福欣
-1. 五福临门三娘护长姐
+1. 天津医院辟谣职工感染传染病
+1. 张纯如父亲张绍进先生去世
 1. “走出”的苏敏正式宣布离婚
 1. 杨紫李现待锦绣再见
-1. 柯洁金铲铲启动
-1. 战鹰发文向柯洁道歉
-1. 董宇辉家的二狗在线拜年
-1. 我们的春节
-1. 颜安直播陪看抖音新春特别会
-1. 2025广东卫视湾区春晚
-1. 张咪自曝患舌癌后已切除半个舌头
-1. 忙活半天就剩个不锈钢盆
-1. 独属于大学生的春晚
-1. 抖音新春特别会上线了
-1. 青花瓷踢腿慢动作
-1. 00后厨艺整活大赛
-1. OneRepublic将登春晚
-1. 全国统一父母belike
-1. 你的城市下雪了吗
-1. 卢昱晓新剧反击恶婆婆
-1. 找到拍奇异博士烟花照的秘诀了
-1. 杨丽萍一年一个生肖舞
-1. 63岁费翔谈及母亲去世哽咽
-1. 真的要被武汉人的文创笑死了
 1. 春节氛围已拉满
-1. 2025安徽春晚
-1. 一种很新的发红包方式
+1. 柯洁金铲铲启动
+1. 赵露思：大病一场才懂“自渡”
+1. 董宇辉家的二狗在线拜年
+1. 五福临门三娘护长姐
+1. 战鹰发文向柯洁道歉
+1. 张咪自曝患舌癌后已切除半个舌头
+1. 2025广东卫视湾区春晚
+1. 我们的春节
+1. 抖音春节人物短片
+1. 独属于大学生的春晚
+1. 青花瓷踢腿慢动作
+1. 卢昱晓新剧反击恶婆婆
+1. OneRepublic将登春晚
+1. 63岁费翔谈及母亲去世哽咽
+1. 忙活半天就剩个不锈钢盆
+1. 00后厨艺整活大赛
+1. 全国统一父母belike
+1. 杨丽萍一年一个生肖舞
+1. 真的要被武汉人的文创笑死了
 1. 国际奥委会专访孙颖莎
+1. 容祖儿再唱没关系
 1. 杨迪妈妈给追星人一点震撼
 1. 这首多喜欢你2025杀回来了
-1. 小狗也是家人呀
-1. 12分钟看完春节的千年演变史
-1. 中国的春节是世界的春节
-1. 带奶奶体验年轻人的生活
-1. 2025新年换个新皮肤
+1. 你的城市下雪了吗
+1. 一种很新的发红包方式
 1. 年味在大家的镜头里
+1. 12分钟看完春节的千年演变史
+1. 小狗也是家人呀
+1. 周杰伦真的要来广西开演唱会了
+1. 盲人的春运返乡路
+1. 带奶奶体验年轻人的生活
+1. 抖音新春特别会上线了
 
 ## 明星榜
 
@@ -75,7 +76,7 @@
 
 ## 音乐榜
 
-1. [消散对白(圆梦版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
+1. [消散对白(圆梦版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
 1. [你的](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
@@ -83,8 +84,8 @@
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [Winter Wishlist](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
-1. [无感 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
-1. [丁达尔的梦](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMU3WirUZBVQkAC9ccG5P2IQirziZM2RTInUY) - Youzee Music
+1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
+1. [丁达尔的梦](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMU3WirUZBVQkAC9ccG5P2IQirziZM2RTInUY) - Youzee Music
 1. [爱的就是你_崔十八 (主歌1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
 1. [天冷了你要记得穿秋裤（米三岁版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQlIwVIDWiZ6BQilAorS7MA0AgCkQDvcZAdm1) - 米三岁
 1. [开心往前飞（开心超人联盟主题曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
