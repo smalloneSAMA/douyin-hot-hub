@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-01-29 20:33:10 +0800`
+`更新时间：2025-01-29 21:23:11 +0800`
 
 ## 抖音热榜
 
 1. 网友揭秘刘谦春晚魔术
-1. 美军一架F35战斗机坠毁
-1. 英歌舞跳起来太飒了
-1. 总导演回应邓超缺席春晚
 1. 一只小狮子的成长
-1. 金晨回应把手里的吉祥物扔了
-1. 导演组回应沈腾马丽小品戛然而止
+1. 英歌舞跳起来太飒了
 1. 哪吒2全方位超过第一部
-1. 多国驻华大使向中国人民拜年
+1. 总导演回应邓超缺席春晚
+1. 金晨回应把手里的吉祥物扔了
 1. 唐探1900首波口碑好看
 1. 央视蛇年春晚收视率创新高
+1. 多国驻华大使向中国人民拜年
+1. 导演组回应沈腾马丽小品戛然而止
 1. 这么转红包包帅的
-1. 看完封神第二部期待第三部
+1. 感觉今年都是这个红包
+1. 蛇年第一条抖音我先发
 1. 官方辟谣河里钓出整箱现金
-1. 浙江第一波蛇年宝宝来了
+1. 机器人春晚小失误是彩蛋
 1. 李子柒分享第一次上春晚的感受
-1. 乐子人陪你看春晚
-1. 白鹿鸿运娃娃版新年快乐舞
+1. 东方卫视春晚
+1. 江苏卫视蛇年春晚节目单
+1. 浙江第一波蛇年宝宝来了
+1. 虞书欣在干嘛呀舞台首秀
 1. 被任敏的美甲美到了
 1. 当云南DJ打歌遇上广西团圆饭
-1. 感觉今年都是这个红包
 1. 显卡：连的什么玩意这是
-1. 蛇年第一条抖音我先发
 1. 大年初一 拜年啦
 1. 是新年是新的开始
-1. 春晚第一个考点来了
 1. DeepSeek解析春晚刘谦魔术
-1. 春晚非遗祝福手链火出圈
+1. 春晚第一个考点来了
+1. 和平精英熊出没实战效果
 1. 李子柒春晚战袍染了2天
-1. 大学生把DeepSeek玩出花
-1. 射雕英雄传侠之大者上映
+1. 白鹿鸿运娃娃版新年快乐舞
+1. 看完封神第二部期待第三部
 1. 春节谁来都得拜年
-1. 为了这首歌拍了条抖音
-1. 3分钟看懂DeepSeek
-1. 在抖音过好年
-1. 祝你新年无忧无虑
-1. 王菲的发际线腮红好美
+1. 康宁柴安洞房吻
 1. 哪吒2今日上映
-1. 过年上点儿小节目
-1. 我的春晚reaction
+1. 为了这首歌拍了条抖音
+1. 王者春节限时语音包
+1. 王菲的发际线腮红好美
+1. 射雕英雄传侠之大者上映
 1. 射雕英雄传首波影评
-1. 美正对DeepSeek开展国家安全调查
-1. 国乒队员拜年了
-1. 拜年文案
-1. 拜年就说阿玛特拉斯
+1. 过年上点儿小节目
+1. 祝你新年无忧无虑
+1. 我的春晚reaction
 1. 董宇辉的过年仪式感
+1. 在抖音过好年
+1. 蛇年变身白素贞挑战
+1. 拜年就说阿玛特拉斯
+1. 美军一架F35战斗机坠毁
+1. 3分钟看懂DeepSeek
 1. 盘点历届春晚机器人的进阶之路
-1. 蛇年就要来财
-1. 春晚女明星国风造型大赏
-1. 2025春节档总票房突破15亿
+1. 当网友看到机器人上春晚
 
 ## 明星榜
 
@@ -83,7 +83,7 @@
 1. [ At Dusk  Love ](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 刘嗨雨
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [Winter Wishlist](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
-1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
+1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
 1. [丁达尔的梦](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMU3WirUZBVQkAC9ccG5P2IQirziZM2RTInUY) - Youzee Music
 1. [爱的就是你_崔十八 (主歌1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
