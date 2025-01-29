@@ -11,60 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-01-29 12:20:33 +0800`
+`更新时间：2025-01-29 13:17:18 +0800`
 
 ## 抖音热榜
 
-1. 拜年文案
 1. 春晚为什么是晚上8点开始
-1. 新年好 日日好
-1. 薛之谦把赵英俊的歌唱上了春晚
 1. 在抖音过好年
+1. 新年好 日日好
+1. 这么转红包包帅的
+1. 薛之谦把赵英俊的歌唱上了春晚
+1. 总导演回应邓超缺席春晚
 1. 蛇年第一条抖音我先发
 1. 显卡：连的什么玩意这是
-1. 马丽演沈腾丈母娘
 1. 戍边战士向大家拜年
+1. DeepSeek解析春晚刘谦魔术
 1. 埃文凯尔春晚用中文报幕
-1. 春晚女明星各有各的美
-1. 这么转红包包帅的
+1. 导演组回应沈腾马丽小品戛然而止
 1. 在春晚听到了Counting Stars
 1. 南宁之夜火灾有人伤亡系谣言
-1. 总导演回应邓超缺席春晚
-1. 小明一家笑点好密
-1. 王菲 天后归来
-1. 陈奕迅和奥运健儿唱孤勇者
 1. 小尼 我终于成功了
-1. DeepSeek解析春晚刘谦魔术
-1. 女孩穿校服跳拉丁舞登上央视
-1. 是新年是新的开始
-1. 晒出我家年夜饭
-1. 大年初一 拜年啦
-1. DeepSeek的逆袭之路
-1. 机器人退场好搞笑
-1. 谁给撒贝宁画的眉毛
-1. 巴特勒再遭无限期禁赛
-1. 当网友看到机器人上春晚
-1. 李子柒蝴蝶翅膀暗藏玄机
-1. 360：无偿为DeepSeek提供安全服务
-1. 王者春节限时语音包
-1. 3分钟看懂DeepSeek
+1. 春晚女明星各有各的美
+1. 王菲 天后归来
+1. 大学生把deepseek玩出花
+1. 陈奕迅和奥运健儿唱孤勇者
 1. 姬发邓婵玉孟津渡首次交手
+1. 是新年是新的开始
+1. 谁给撒贝宁画的眉毛
+1. 女孩穿校服跳拉丁舞登上央视
+1. 大年初一 拜年啦
+1. 李子柒春晚战袍染了2天
+1. 不妥协的人就是哪吒
+1. 机器人退场好搞笑
+1. 巴特勒再遭无限期禁赛
+1. 小明一家笑点好密
+1. DeepSeek的逆袭之路
+1. 360：无偿为DeepSeek提供安全服务
+1. 你好 邓润根
 1. 为了这首歌拍了条抖音
 1. 撒贝宁在春晚又现挂了
 1. 过年上点儿小节目
 1. 祝你新年无忧无虑
-1. 这段蛇年春晚说唱太洗脑了
-1. 撒贝宁制止马凡舒开伞原因
 1. 在春晚上只出现1秒的他
-1. 主线任务去见老辈子
+1. 射雕英雄传侠之大者上映
+1. 这段蛇年春晚说唱太洗脑了
+1. 晒出我家年夜饭
 1. 蛇年就要来财
+1. 主线任务去见老辈子
 1. 上一届蛇年春晚金句你还记得吗
-1. 春节祝福语用英语怎么说
+1. 王者春节限时语音包
+1. 拜年文案
 1. 春晚现场的那些显眼包
-1. DeepSeek创始人梁文锋回应爆火
-1. 美媒称DeepSeek新突破如同“地震”
 1. 海外留学生为了看春晚有多拼
-1. 略带剧情的发红包方式
+1. 拜年就说阿玛特拉斯
+1. 团扇一转就是中国年
 
 ## 明星榜
 
@@ -78,7 +77,7 @@
 
 1. [消散对白(圆梦版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
 1. [你的](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
-1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
+1. [Cute](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
 1. [ At Dusk  Love ](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 刘嗨雨
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
@@ -86,7 +85,7 @@
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
 1. [丁达尔的梦](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMU3WirUZBVQkAC9ccG5P2IQirziZM2RTInUY) - Youzee Music
-1. [爱的就是你_崔十八 (主歌1)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
+1. [爱的就是你_崔十八 (主歌1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
 1. [天冷了你要记得穿秋裤（米三岁版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQlIwVIDWiZ6BQilAorS7MA0AgCkQDvcZAdm1) - 米三岁
 1. [开心往前飞（开心超人联盟主题曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
 1. [春娇与志明](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e530d8fceb7044b39707d7f9ff54add1) - 街道办,欧阳耀莹
