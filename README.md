@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-02-02 21:18:11 +0800`
+`更新时间：2025-02-02 22:15:01 +0800`
 
 ## 抖音热榜
 
 1. 东契奇浓眉互换东家
-1. 明日立春
-1. 活跃的春节 生机盎然
-1. WTT新加坡大满贯中国队赛程
+1. 王楚钦3:0宇田幸矢
+1. 春运出行人数预计达48亿人次
 1. 赵本山美国巡演纽约站
 1. 充电器一拔又是一年
-1. 如何看待东契奇浓眉互换东家
-1. 又到返程的时候了
-1. 晒晒我们的年味儿
-1. 哪吒2敖闰为自己而活
-1. 哪吒2票房突破30亿
-1. 哪吒2角色深度
-1. 唐探岳云鹏对峙高光时刻
-1. 引爆沼气小孩付天价赔偿系谣言
 1. 哪吒2鹿童配音演员回应被骂疯
+1. 明日立春
+1. 如何看待东契奇浓眉互换东家
+1. 新年新衣新妆展现中式美
+1. 哪吒2敖闰为自己而活
+1. 2025要像石矶娘娘一样心态倍棒
+1. 唐探岳云鹏对峙高光时刻
+1. 又到返程的时候了
+1. 引爆沼气小孩付天价赔偿系谣言
+1. 哪吒2票房突破30亿
 1. 网友：陈瑶新春喜剧之夜MVP
+1. 哪吒2角色深度
 1. 快船官宣4换2交易
 1. 小蛇糕玩法
-1. 2025要像石矶娘娘一样心态倍棒
+1. 于冬恳请观众亲自看看蛟龙行动
 1. 只有两广人才懂这碗粉的含金量
-1. 这厚厚一叠福字意义非凡
 1. 初五迎财神的正确姿势
-1. 村里的台球厅
-1. 过年啊真是匆匆
-1. 您的五块正在骂您的三千块
-1. 家里的机关密室派上用场了
-1. 妲己对大王的爱拿得出手
-1. 空难暴露美国飞行安全痼疾
-1. 为什么哪吒2能成为爆款
-1. 世界赠予我的改编
+1. 这厚厚一叠福字意义非凡
 1. 当外国人听李云霄戏腔版白蛇传
-1. 温州人烫血蛤读秒出锅
+1. 您的五块正在骂您的三千块
+1. 妲己对大王的爱拿得出手
+1. 过年啊真是匆匆
+1. 空难暴露美国飞行安全痼疾
+1. 世界赠予我的改编
+1. 家里的机关密室派上用场了
+1. 村里的台球厅
 1. 哪吒3抖音网友自己画
+1. 为什么哪吒2能成为爆款
+1. 龙爹抱敖丙模仿
+1. 温州人烫血蛤读秒出锅
 1. 榆林佳县秧歌队女指挥火出圈
 1. 迎财神就跳发财舞
-1. 2025年度电影票房破80亿
-1. 龙爹抱敖丙模仿
 1. 前奏一响 青春登场
-1. 蓝战非带着妈妈自驾游西藏
-1. 普陀山的万能消防员
 1. 这首歌的古早味太浓了
-1. 美国关税战遭南北夹击
-1. 杜兰特惊呼东契奇交易太疯狂
+1. 蓝战非带着妈妈自驾游西藏
+1. 2025年度电影票房破80亿
+1. 普陀山的万能消防员
+1. WTT新加坡大满贯中国队赛程
 1. 黄晓明也被福建游神震撼到
-1. 王楚钦3:0宇田幸矢
-1. 樊振东陈梦确定无缘世界杯
 1. 不同专业看封神第二部
-1. 五路财神哪位来你家
-1. 英歌小女孩相约一起舞蛇步
+1. 用混剪打开哪吒2
+1. 美国关税战遭南北夹击
+1. 徐静雨评NBA地震级别交易
 1. 全抖音都在用小哪吒拍抖音
+1. 五路财神哪位来你家
 
 ## 明星榜
 
@@ -76,11 +76,11 @@
 
 ## 音乐榜
 
-1. [消散对白(圆梦版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
+1. [消散对白(圆梦版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
 1. [总有美好在路上(花在开云在飘笑容在脸上)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oU5u7NwtfBIvaNhoQBszOvAlRiAoiWAVVyBMq4) - 周深
 1. [你的](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
 1. [房间•2025（在这温暖的房间）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMzJcnT8BgIetASeBfwfEeBQVNfACiCifhfZP7g) - 刘兆宇/覆予
-1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
+1. [Cute](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
 1. [ At Dusk  Love ](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 刘嗨雨
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
