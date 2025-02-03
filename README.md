@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-02-03 19:15:00 +0800`
+`更新时间：2025-02-03 20:33:20 +0800`
 
 ## 抖音热榜
 
 1. 古人立春都要做什么
-1. 是时候吃点这东西调理一下了
+1. 立春别忘咬春
 1. 蛇年第1个节气来了
 1. 大S去世
 1. 韩国棋院决定变更争议规则
-1. 东契奇抵达洛杉矶
 1. 游神咚咚咚好热闹
-1. 立春别忘咬春
+1. 东契奇抵达洛杉矶
+1. 逃出大英博物馆番外篇
 1. 各地开出务工专列增加运力
 1. 尹锡悦涉内乱罪公审2月20日开庭
-1. 央媒解析流感为何如此严重
-1. 律师解读大S遗产分配
 1. 哪吒2看见每个普通人
-1. 逃出大英博物馆番外篇
+1. 哪吒2破春节档票房纪录
+1. 立春文案
+1. 律师解读大S遗产分配
 1. 微信视频美颜仅自己可见系谣言
 1. 大S过往病史曝光
-1. 格莱美红毯
-1. 具俊晔回应大S去世
-1. 慕胥辞官宣杀青
+1. 大年初六万事顺遂
 1. 大年初六要送穷
+1. 具俊晔回应大S去世
 1. 日本流感
+1. 汪小菲抵达台湾
 1. 台媒：大S遗体将于日本火化
-1. 大鱼海棠2预告
+1. 慕胥辞官宣杀青
+1. 格莱美红毯
 1. 导演饺子谈哪吒的容貌焦虑
 1. 哪吒2转场天花板来了
 1. 找到哪吒2配音演员全员抖音
 1. 用混剪打开哪吒2
-1. 立春文案
-1. 大年初六万事顺遂
+1. IVE新歌编舞用了张元英转圈
+1. 大鱼海棠2预告
+1. DeepSeek为何没诞生在大厂
 1. 考古转角遇到爱
-1. 当一群大狮子遇上“尿布狮”
 1. 大S最后一次公开露面
-1. 哪吒2票房已超热辣滚烫
 1. 锐评封神2
-1. 哪吒2因为时长砍掉镜头
-1. 小S悼念姐姐大S
 1. 永远的杉菜
+1. 当一群大狮子遇上“尿布狮”
+1. 小S悼念姐姐大S
 1. 今日立春
 1. 杨天真发布最新照片
 1. 世界赠予我的改编
 1. 充电器一拔又是一年
-1. 立春吃什么
-1. 瑶一瑶完全放飞了天性
-1. 哪吒2中的反派
-1. 火锅食材开盲盒挑战
 1. 浓眉已抵达达拉斯
-1. 马刺国王公牛交易谁亏谁赚
-1. 只有两广人才懂这碗粉的含金量
-1. 一年两头春 春暖一整年
 1. 安东尼西甲首秀
+1. 是时候吃点这东西调理一下了
+1. 马刺国王公牛交易谁亏谁赚
+1. 瑶一瑶完全放飞了天性
+1. 立春吃什么
+1. 只有两广人才懂这碗粉的含金量
+1. 天庭三大反骨仔
+1. 林诗栋回应与王楚钦搭档男双
 
 ## 明星榜
 
@@ -76,14 +76,14 @@
 
 ## 音乐榜
 
-1. [消散对白(圆梦版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
+1. [消散对白(圆梦版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
 1. [总有美好在路上(花在开云在飘笑容在脸上)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oU5u7NwtfBIvaNhoQBszOvAlRiAoiWAVVyBMq4) - 周深
 1. [你的](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
-1. [房间•2025（在这温暖的房间）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMzJcnT8BgIetASeBfwfEeBQVNfACiCifhfZP7g) - 刘兆宇/覆予
+1. [房间•2025（在这温暖的房间）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMzJcnT8BgIetASeBfwfEeBQVNfACiCifhfZP7g) - 刘兆宇/覆予
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
-1. [ At Dusk  Love ](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 刘嗨雨
-1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
+1. [ At Dusk  Love ](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 刘嗨雨
+1. [执子之手 (剪辑2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [Winter Wishlist](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
