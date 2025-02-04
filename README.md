@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-02-04 07:16:52 +0800`
+`更新时间：2025-02-04 09:14:52 +0800`
 
 ## 抖音热榜
 
-1. 东契奇抵达洛杉矶
 1. 逃出大英博物馆番外篇
-1. 中国年里的“花开春来”
-1. 浓眉已抵达达拉斯
 1. 喜欢石矶和喜欢馒头的都沉默了
-1. 第一批返程的人已经堵路上了
-1. 一口气看完封神中的神仙体系
+1. 中国年里的“花开春来”
+1. 正月初七是人日
+1. 已经有大学生悄悄提前返校了
+1. 林诗栋回应与王楚钦搭档男双
+1. 开封杂技老人背后的故事
 1. 游神咚咚咚好热闹
 1. 返程的后备箱里是满满的爱
-1. 央视00后主播上新
-1. 潮汕女子英歌舞登场了
+1. 哪吒2破春节档票房纪录
+1. 小S两个女儿回台
 1. 律师解读大S遗产分配
-1. 开封杂技老人背后的故事
-1. 安东尼西甲首秀
-1. 微信视频美颜仅自己可见系谣言
-1. 哪吒2看见每个普通人
-1. 大S过往病史曝光
-1. 具俊晔回应大S去世
-1. 格莱美红毯
-1. 日本流感
-1. 汪小菲抵达台湾
-1. 经纪公司称刘德华无ins账号
-1. 哪吒2为什么成黑马
-1. 哪吒2中的反派
-1. 徐熙媛 总觉得你要再幸福一点
-1. 台媒：大S遗体将于日本火化
 1. 马刺国王公牛交易谁亏谁赚
-1. 哪吒2进入影史票房前十五
-1. 锐评封神2
-1. 哪吒2转场天花板来了
-1. 林诗栋回应与王楚钦搭档男双
-1. 家里的机关密室派上用场了
-1. 找到哪吒2配音演员全员抖音
+1. 特朗普为何关停美国国际开发署
+1. 微信视频美颜仅自己可见系谣言
+1. 潮汕女子英歌舞登场了
 1. 职场学的阴招全用媒人身上了
-1. 榆林佳县秧歌队女指挥火出圈
-1. 小S悼念姐姐大S
-1. 考古转角遇到爱
-1. 当一群大狮子遇上“尿布狮”
-1. 徐明浩创亚2舞台
-1. 永远的杉菜
+1. 东契奇回应被交易
+1. 奥司他韦不能乱吃
+1. 日本流感
+1. 台媒：大S遗体将于日本火化
 1. 巴特勒不愿续约勇士
-1. 大鱼海棠2预告
-1. 张伟丽vs闫晓楠
+1. 经纪公司称刘德华无ins账号
+1. 格莱美红毯
 1. 詹姆斯晒与浓眉拥抱合照
 1. 张本智和3:0阿萨尔
+1. 徐熙媛 总觉得你要再幸福一点
+1. 哪吒2中的反派
+1. 普京：欧洲将对特朗普摇尾巴
+1. 黄仁勋给年轻人的建议
 1. 警惕流感引起的并发症
-1. 独行侠交易后首战狂输43分
-1. 东契奇发文感谢独行侠
+1. 哪吒2转场天花板来了
+1. 永远的杉菜
+1. 锐评封神2
+1. 充电器一拔又是一年
+1. 疑似申公豹全家福
+1. 哪吒破亿海报都是导演手绘的
+1. 找到哪吒2配音演员全员抖音
+1. 特朗普同意关闭美国国际开发署
+1. 中方舰艇编队正常过航巴西兰海峡
+1. 哪吒2为什么成黑马
+1. 徐明浩创亚2舞台
+1. 当一群大狮子遇上“尿布狮”
+1. 第一批返程的人已经堵路上了
+1. 春风若有怜花意 可否许我再少年
+1. 向鹏0:3不敌奥恰洛夫
+1. 苏亚雷斯期待跟张伟丽过招
 1. 孙颖莎新年开门红
-1. 华为与DeepSeek官宣合作
+1. 考古转角遇到爱
+1. 东契奇发文感谢独行侠
 
 ## 明星榜
 
@@ -78,21 +78,21 @@
 
 1. [消散对白(圆梦版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
 1. [总有美好在路上(花在开云在飘笑容在脸上)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oU5u7NwtfBIvaNhoQBszOvAlRiAoiWAVVyBMq4) - 周深
-1. [你的](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
+1. [你的](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
 1. [房间•2025（在这温暖的房间）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMzJcnT8BgIetASeBfwfEeBQVNfACiCifhfZP7g) - 刘兆宇/覆予
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
-1. [ At Dusk  Love ](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 刘嗨雨
-1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
-1. [Winter Wishlist](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
-1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
+1. [ At Dusk  Love ](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 刘嗨雨
+1. [执子之手 (剪辑2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
+1. [Winter Wishlist](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
+1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
 1. [丁达尔的梦](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMU3WirUZBVQkAC9ccG5P2IQirziZM2RTInUY) - Youzee Music
 1. [爱的就是你_崔十八 (主歌1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
 1. [天冷了你要记得穿秋裤（米三岁版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQlIwVIDWiZ6BQilAorS7MA0AgCkQDvcZAdm1) - 米三岁
 1. [开心往前飞（开心超人联盟主题曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
 1. [春娇与志明](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e530d8fceb7044b39707d7f9ff54add1) - 街道办,欧阳耀莹
-1. [只你(直到幸福能触手可及)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
+1. [只你(直到幸福能触手可及)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
 
 ## 品牌榜
 
