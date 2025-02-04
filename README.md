@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-02-04 15:17:15 +0800`
+`更新时间：2025-02-04 16:22:28 +0800`
 
 ## 抖音热榜
 
@@ -20,51 +20,51 @@
 1. 今天是正月初七
 1. 年后复工的我belike
 1. 带着家的味道返程了
-1. 谷爱凌因伤退出亚冬会
 1. 谷歌被立案调查
+1. 中国掌握荡蟹手艺的不足5人
 1. 2家美企被列入不可靠实体清单
 1. 中国魅力激活服务贸易潜力
 1. 我国对钨等物项实施出口管制
-1. 中国掌握荡蟹手艺的不足5人
+1. 谷爱凌因伤退出亚冬会
 1. 中方在WTO起诉美加征关税
 1. 东契奇回应被交易
 1. 张兰发文悼念大S
 1. 三亚保安扔游客物品系谣言
-1. 太阳认真考虑交易杜兰特
-1. 已经到不爱吃零食的地步了
 1. 好想拥有石矶娘娘周边
-1. 哪吒2的女性角色都是大女主
-1. 射雕豆瓣开分5.5
+1. 已经到不爱吃零食的地步了
 1. 医生建议异国旅行有病不要扛一扛
 1. 游神咚咚咚好热闹
-1. 春晚扭秧歌Bot也有人cos了
 1. 春节在家自制水果酒酿
-1. 河南人在人民会堂看哪吒2
-1. 万物皆可变身哪吒
-1. 哪吒破亿海报都是导演手绘的
+1. 春晚扭秧歌Bot也有人cos了
 1. 孙悟空的含金量还在上升
 1. 勇士有意集齐詹杜库
-1. 没有人会一直在原地等你
-1. 小S两个女儿回台
-1. 石矶娘娘模仿秀
-1. 春风若有怜花意 可否许我再少年
+1. 万物皆可变身哪吒
+1. 河南人在人民会堂看哪吒2
+1. 哪吒2的女性角色都是大女主
+1. 哪吒破亿海报都是导演手绘的
+1. 那尔那茜青花瓷踢腿
+1. 唐探让外国群演反思历史
 1. 疑似申公豹全家福
-1. 哪吒2转场天花板来了
-1. 格莱美完整获奖名单出炉
+1. 小S两个女儿回台
+1. 没有人会一直在原地等你
 1. 王楚钦回应奥运会后低潮期
+1. 陈垣宇0:3张禹珍
 1. 小米集团股价首破40港元
 1. 奥司他韦不能乱吃
+1. 格莱美完整获奖名单出炉
+1. 哪吒2转场天花板来了
 1. 独行侠新版首发五虎
 1. 中国常驻联合国代表谈DeepSeek
-1. 锐评封神2
-1. 黄仁勋给年轻人的建议
 1. 过年你们家的亲戚belike
-1. 苏亚雷斯期待跟张伟丽过招
-1. 我不是想要和你隔着屏幕说话
+1. 锐评封神2
 1. 唐探1900里的那些细节
-1. 正月初七是人日
-1. 我和我的猫在朋友圈暴晒
-1. 这盲盒原来是想开了
+1. 已经有大学生悄悄提前返校了
+1. 蛟龙行动潜艇战意味着什么
+1. 春风若有怜花意 可否许我再少年
+1. 这是黄爱洋吗
+1. 黄仁勋给年轻人的建议
+1. 亚马尔神级过人
+1. 你要我怎么做才能爱我
 
 ## 明星榜
 
@@ -87,10 +87,10 @@
 1. [Winter Wishlist](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
-1. [丁达尔的梦](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMU3WirUZBVQkAC9ccG5P2IQirziZM2RTInUY) - Youzee Music
+1. [丁达尔的梦](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMU3WirUZBVQkAC9ccG5P2IQirziZM2RTInUY) - Youzee Music
 1. [爱的就是你_崔十八 (主歌1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
 1. [天冷了你要记得穿秋裤（米三岁版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQlIwVIDWiZ6BQilAorS7MA0AgCkQDvcZAdm1) - 米三岁
-1. [开心往前飞（开心超人联盟主题曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
+1. [开心往前飞（开心超人联盟主题曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
 1. [春娇与志明](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e530d8fceb7044b39707d7f9ff54add1) - 街道办,欧阳耀莹
 1. [只你(直到幸福能触手可及)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
 
