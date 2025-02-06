@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-02-07 03:15:43 +0800`
+`更新时间：2025-02-07 04:18:46 +0800`
 
 ## 抖音热榜
 
 1. 湖人与黄蜂达成交易
-1. DeepSeek暂停API服务充值
+1. 名记：英格拉姆被交易至猛龙
 1. 亚冬会开幕式亮点抢先看
-1. 奥迪放弃改名计划
 1. 湖人交易得到马克威廉姆斯
-1. 重塑哪吒为啥用莲藕
+1. DeepSeek暂停API服务充值
+1. 奥迪放弃改名计划
 1. 哪吒2回应成为中国影史票房冠军
-1. 回出租屋吃年货有种委屈感
-1. 哈尔滨亚冬会媒体包里都有啥
-1. 田曦薇小猫敬礼
 1. 哪吒2官方玩梗
+1. 哈尔滨亚冬会媒体包里都有啥
+1. 名记：巴特勒被交易至勇士
 1. 环球时报社评哪吒2
-1. 把两只老虎弹出了恐怖的感觉
+1. 重塑哪吒为啥用莲藕
+1. 回出租屋吃年货有种委屈感
+1. 哪吒2无量仙翁配音是王德顺
 1. 女儿赖床不起 爸爸赋诗一首
+1. 田曦薇小猫敬礼
+1. 把两只老虎弹出了恐怖的感觉
+1. 吴京喊小哪吒冲冲冲
 1. 东眉大交易的前因后果
 1. 新年复工的第一顿火锅
-1. 哪吒2无量仙翁配音是王德顺
-1. 吴京喊小哪吒冲冲冲
 1. 妲己三次附身女童失败
-1. 中国神话人物传之哪吒篇
-1. 中国舞狮看广东
-1. 名记：巴特勒被交易至勇士
 1. 金饰价格突破860元
-1. 名记：英格拉姆被交易至猛龙
-1. 太乙真人纯善天花板
+1. 中国神话人物传之哪吒篇
+1. 王楚钦3:0卡尔伯格
+1. 中国舞狮看广东
 1. 哪吒2开始冲击全球票房榜单
-1. 敖丙看金箍棒的眼神
+1. 杜兰特无意重返勇士
 1. 哪吒2动画制作公司成打卡点
 1. 不如不见面翻唱
-1. 王楚钦3:0卡尔伯格
-1. 哪吒2爆火背后的经济逻辑
+1. 敖丙看金箍棒的眼神
 1. 用笑声唱Baby憋出内伤了
+1. 周深空灵歌声唱响巴黎
 1. 6大国产电影齐祝贺哪吒2
-1. 哪吒2可能被删减的剧情
+1. 太乙真人纯善天花板
 1. 人生是减法 来日并不方长
 1. 饺子谈哪吒3的创作
 1. 哪吒2登上纽约时代广场大屏
 1. 哪吒2海报都是杀青梗
-1. 哪吒官抖也在用同款哪吒玩偶
-1. 殷夫人配音员回应被质疑不贴脸
-1. 周深空灵歌声唱响巴黎
 1. 当我崩溃时我的闺蜜
-1. 杜兰特无意重返勇士
+1. 殷夫人配音员回应被质疑不贴脸
+1. 吴宣仪 浪姐
+1. 哪吒2可能被删减的剧情
+1. 哪吒2爆火背后的经济逻辑
+1. 哪吒官抖也在用同款哪吒玩偶
+1. 王曼昱0:3不敌蒯曼
 1. 明星都在挑战石矶娘娘配音
-1. 大胆点做自己
-1. 孩子收的压岁钱由孩子花完
 1. BLACKPINK2025年巡演预告
-1. 哪吒声优也给王者配过音
 1. 挑战成为百万博主
+1. 大胆点做自己
 
 ## 明星榜
 
@@ -84,8 +84,8 @@
 1. [ At Dusk  Love ](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 刘嗨雨
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [Winter Wishlist](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
-1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
-1. [无感 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
+1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
+1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
 1. [丁达尔的梦](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMU3WirUZBVQkAC9ccG5P2IQirziZM2RTInUY) - Youzee Music
 1. [爱的就是你_崔十八 (主歌1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
 1. [天冷了你要记得穿秋裤（米三岁版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQlIwVIDWiZ6BQilAorS7MA0AgCkQDvcZAdm1) - 米三岁
