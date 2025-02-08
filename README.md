@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-02-08 18:17:02 +0800`
+`更新时间：2025-02-08 19:13:43 +0800`
 
 ## 抖音热榜
 
 1. 四川筠连山体滑坡30余人失联
 1. 林孝埈夺金后哭了
 1. 亚冬会丁香花束背后的暖心彩蛋
-1. 哪吒2没骗我土拨鼠真这么打架
+1. 孙颖莎4:3王艺迪
 1. 林孝埈短道速滑500米夺金
-1. 情人节高段位送礼指南
-1. 张伟丽曾六年没回家过春节
+1. 王楚钦林诗栋男双冠军
+1. 哪吒2没骗我土拨鼠真这么打架
 1. 哪吒2票房破70亿
 1. “我们的春节”走进联合国机构
 1. 应急管理部部长赴四川筠连县
+1. 情人节高段位送礼指南
+1. 张伟丽曾六年没回家过春节
 1. 斗破苍穹萧炎晋升斗尊强者
+1. “江西是诺如病毒重灾区”不实
 1. 哪吒2的风吹到了美国
-1. 张碧晨唱哪吒片尾曲的含金量
 1. 哪吒2抖音影评量突破百万
-1. 余承恩粗心带娃险翻车
+1. 张碧晨唱哪吒片尾曲的含金量
 1. 汪小菲张兰抖音账号被无限期封禁
-1. 宠物很乖原来是智商问题
 1. 世人说什么正邪两派
+1. 宠物很乖原来是智商问题
+1. 余承恩粗心带娃险翻车
 1. 小哪吒太符合我的精神状态了
-1. 四川筠连发生山体滑坡
-1. 马上开学的你belike
-1. 徐艺洋说跟宁艺卓还有联系
-1. 哪吒2里藏着哪些考点
 1. 白月光标配黑长直我先用了
 1. 曝贾斯汀比伯健康状况堪忧
+1. 马上开学的你belike
+1. 徐艺洋说跟宁艺卓还有联系
+1. 六姊妹颖儿裸婚被赶出家门
+1. 用哪吒Rap打开大国重器
+1. 亚冬会摄影师脚踩冰刀上场
 1. 邓超孙俪结婚15年纪念日
 1. 全网帮哪吒导演画庆祝海报
-1. 用哪吒Rap打开大国重器
-1. 王楚钦林诗栋男双冠军
-1. 六姊妹颖儿裸婚被赶出家门
-1. 魔性老鼠舞挑战
-1. Bae代表比任何人都优先
-1. 米糕摇舞蹈挑战
-1. 算了 你肯定觉得没意思
-1. 自制石矶娘娘
-1. 吴京的回应到了哪吒2还适用
-1. 正月十一 一顺百顺
-1. 哈尔滨亚冬会开幕式
 1. DeepSeek下棋大战ChatGPT
-1. 宾阳炮龙节好震撼
-1. 哪吒背后的文史知识
-1. 当妹妹知道我有了男朋友
-1. 乌尔善说会调整殷郊法相质感
-1. 突然发现了上班的作用
-1. 谢娜回好六
+1. 魔性老鼠舞挑战
+1. 算了 你肯定觉得没意思
 1. 甘肃社火看天水
-1. 甜妹都在跳这个手势舞
-1. 亚冬会摄影师脚踩冰刀上场
+1. 自制石矶娘娘
+1. Bae代表比任何人都优先
+1. 吴京的回应到了哪吒2还适用
+1. 哪吒背后的文史知识
+1. 正月十一 一顺百顺
+1. 宾阳炮龙节好震撼
+1. 米糕摇舞蹈挑战
 1. 俄罗斯经济创历史新高
+1. 乌尔善说会调整殷郊法相质感
+1. 在家爆改老爸
+1. 甜妹都在跳这个手势舞
+1. 突然发现了上班的作用
+1. 独行侠总经理收到死亡威胁
+1. 余烬之上今日开播
 
 ## 明星榜
 
@@ -78,8 +78,8 @@
 1. [消散对白(圆梦版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
 1. [锈（给你的情诗生了锈）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8a1PBtVqIYbPEGK6e5A4egedVMdm3fCIz6bbE) - 江辰
 1. [你的](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
-1. [姑娘我怎能忘 (弹唱剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okamwrBGEMz6illuEofAsMV4yzF5tVWbBiA5AI) - 抠抠
-1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
+1. [姑娘我怎能忘 (弹唱剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okamwrBGEMz6illuEofAsMV4yzF5tVWbBiA5AI) - 抠抠
+1. [Cute](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
 1. [ At Dusk  Love ](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 刘嗨雨
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
