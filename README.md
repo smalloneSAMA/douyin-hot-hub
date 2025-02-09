@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-02-09 15:15:44 +0800`
+`更新时间：2025-02-09 16:20:18 +0800`
 
 ## 抖音热榜
 
 1. 四川山体滑坡1人遇难28人失联
 1. 张伟丽战胜苏亚雷斯卫冕
 1. 全球最大变质岩潜山油田投产
-1. 茸主战胜斯蒂尔
-1. 一代人有一代人的汤圆
-1. 哪吒2进入全球票房榜前50
 1. 小孩：这才是吃席
-1. 全网首档短剧晚会每一帧都是梗
-1. 徐梦桃：感谢自己的努力
-1. 1月CPI同比上涨0.5%
-1. 王者荣耀联动神都洛阳
+1. 哪吒2进入全球票房榜前40
+1. 茸主战胜斯蒂尔
+1. 湖人力克步行者
+1. 王健林开年出售5座万达广场
+1. 孙颖莎4:3王艺迪
+1. 一代人有一代人的汤圆
+1. 张伟丽：生活中我是个内向的人
 1. 勇士逆转胜公牛
-1. 情人节高段位送礼指南
+1. 王者荣耀联动神都洛阳
 1. 景区辟谣索道断裂两游客坠落
+1. Clap your hands up手势舞
 1. 王聪战胜布拉西尔
+1. 王濛怒斥韩国选手推搡林孝埈
+1. 苗苗也来跳同款哪吒舞
+1. 徐梦桃：感谢自己的努力
 1. 哪吒海外预售被疯抢
 1. 仙台有树开虐了
 1. 哪吒2背后的赢家
-1. 皇马1:1马竞
-1. 如果你有容貌焦虑请看我
 1. 动画公司为哪吒2推掉其他项目
 1. 全网帮哪吒导演画庆祝海报
-1. 苗苗也来跳同款哪吒舞
-1. 正月十二双喜临门吉祥日
+1. 情人节高段位送礼指南
+1. 如果你有容貌焦虑请看我
+1. 当两个没主见的人考虑吃什么
 1. 哪吒打油诗舞蹈挑战
-1. 张伟丽：生活中我是个内向的人
-1. 掌心人均变脸大师
-1. 看完哪吒想跟申公豹道个歉
+1. 正月十二双喜临门吉祥日
 1. 动画公司回应138家公司托举哪吒2
+1. 静电你真的很冒昧
+1. 看完哪吒想跟申公豹道个歉
+1. 王曼昱蒯曼3:2孙颖莎王艺迪
 1. 媒体：哪吒2击碎电影寒冬伪命题
 1. 第一次见拿草莓屁股求人办事的
-1. 王曼昱蒯曼3:2孙颖莎王艺迪
-1. 余烬之上不语只是一味反转
-1. 一生的爱翻唱
-1. 饺子导演大学同学发文回忆
-1. Clap your hands up手势舞
-1. 向太好意外的反差感
-1. 宠物很乖原来是智商问题
-1. 白月光标配黑长直我先用了
-1. 哪吒2抖音影评量突破百万
-1. 马上开学的你belike
-1. 萌娃版哪吒申公豹来了
-1. 张凌赫田曦薇新剧烟花吻
-1. 陈思诚成中国影史票房最高导演
+1. 掌心人均变脸大师
+1. 杜兰特该不该离开太阳
 1. 外国博主解读哪吒2
-1. 当两个没主见的人考虑吃什么
-1. 湖人力克步行者
-1. 网友不语只是一味让饺子导演别怕
+1. 余烬之上不语只是一味反转
+1. 宠物很乖原来是智商问题
+1. 仙台有树邓为超A人设
 1. 你好小狗 你好剪刀
-1. 看六姊妹一整个爆哭
+1. 张凌赫田曦薇新剧烟花吻
+1. 向太好意外的反差感
+1. 哪吒2抖音影评量突破百万
+1. 萌娃版哪吒申公豹来了
+1. 中国短道速滑女子3000米接力夺金
+1. 一生的爱翻唱
+1. 韩国犯规
+1. 白月光标配黑长直我先用了
 
 ## 明星榜
 
@@ -78,13 +78,13 @@
 
 1. [消散对白(圆梦版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
 1. [锈（给你的情诗生了锈）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8a1PBtVqIYbPEGK6e5A4egedVMdm3fCIz6bbE) - 江辰
-1. [你的](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
+1. [你的](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
 1. [姑娘我怎能忘 (弹唱剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okamwrBGEMz6illuEofAsMV4yzF5tVWbBiA5AI) - 抠抠
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
 1. [ At Dusk  Love ](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 刘嗨雨
-1. [执子之手 (剪辑2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
-1. [Winter Wishlist](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
+1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
+1. [Winter Wishlist](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
 1. [丁达尔的梦](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMU3WirUZBVQkAC9ccG5P2IQirziZM2RTInUY) - Youzee Music
