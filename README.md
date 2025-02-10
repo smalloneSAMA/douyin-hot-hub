@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-02-11 00:22:21 +0800`
+`更新时间：2025-02-11 01:15:01 +0800`
 
 ## 抖音热榜
 
@@ -19,51 +19,51 @@
 1. 如果用申公豹语音包导航
 1. 四川山体滑坡救援持续进行中
 1. 哪吒2进全球票房前30
-1. 游神回宫
-1. 出品方回应哪吒2被盗摄
 1. 希望商家读懂我的意思
 1. 林孝埈：想在亚冬会为中国队夺金
-1. 林诗栋说19岁不年轻了吧
+1. 收到了金智秀入驻抖音提醒
+1. 游神回宫
 1. 董宇辉退出与辉同行股东行列
+1. 林诗栋说19岁不年轻了吧
 1. 比亚迪“天神之眼”看点
+1. 出品方回应哪吒2被盗摄
 1. 张国伟复出夺冠
+1. 林更新三怼杨迪谢娜
 1. 黄旭华院士遗体送别仪式
-1. 台湾寒流来袭当天78人猝死
-1. 哪吒2洛杉矶首映礼
-1. 哪吒海外预告片
+1. 杨羡骊五娘对抗路少年夫妻
 1. 愿你三冬暖愿你春不寒
+1. 台湾寒流来袭当天78人猝死
 1. 我命由我不由天挑战
+1. 哪吒2洛杉矶首映礼
 1. 柯淳剧里有多深情现实就有多神经
 1. 大家好 我就是哪吒中的那个鼎
+1. 哪吒海外预告片
 1. 有金终止妊娠
-1. 赵露思拄拐杖散步被偶遇
 1. 外国人评电影哪吒2
+1. 张雅钦秒删
+1. 赵露思拄拐杖散步被偶遇
 1. 五福临门杨羡遇乐善已老实
 1. 哪吒2的这棵树含人量太高了
-1. 张雅钦秒删
-1. 藏不住了其实我是敖闰
 1. 揭秘哪吒2为什么成为票房榜首
-1. 黄子韬徐艺洋回归颜值情侣赛道
-1. 收到了金智秀入驻抖音提醒
 1. 你的寒假余额已不足
-1. 用这首歌记录平淡的幸福
+1. 藏不住了其实我是敖闰
 1. 谁来心疼一下敖光呢
-1. 杨子许佳琪演纣王妲己
+1. 黄子韬徐艺洋回归颜值情侣赛道
 1. 海外华人为哪吒2打call
+1. 马斯克政府效率部如何撼动美国
+1. 用这首歌记录平淡的幸福
+1. 徐明浩在创造营班味好重
 1. 张伟丽赛后发抖音
 1. 火爆全网的smoke编舞师来了
-1. 刘晓庆短剧路透
-1. 请容许我小小的骄傲
-1. 徐明浩在创造营班味好重
 1. 看完哪吒想跟申公豹道个歉
+1. 请容许我小小的骄傲
+1. 杨子许佳琪演纣王妲己
+1. 董思成五福临门当街抢新娘
+1. 勇士该如何在买断市场补强
+1. 你要我怎么做才吃这口菜
 1. 这首歌萌度超标
 1. 哪吒2开篇音乐创作故事
-1. 马斯克政府效率部如何撼动美国
-1. 勇士该如何在买断市场补强
-1. 非独生子女的几种相处模式
-1. 毕雯珺张予曦深情眼婚礼路透
-1. 淄博踩高跷的“小狐仙”回归
-1. 你要我怎么做才吃这口菜
+1. 刘晓庆短剧路透
 
 ## 明星榜
 
@@ -75,10 +75,10 @@
 
 ## 音乐榜
 
-1. [消散对白(圆梦版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
+1. [消散对白(圆梦版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
 1. [锈（给你的情诗生了锈）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8a1PBtVqIYbPEGK6e5A4egedVMdm3fCIz6bbE) - 江辰
 1. [你的](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
-1. [姑娘我怎能忘 (弹唱剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okamwrBGEMz6illuEofAsMV4yzF5tVWbBiA5AI) - 抠抠
+1. [姑娘我怎能忘 (弹唱剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okamwrBGEMz6illuEofAsMV4yzF5tVWbBiA5AI) - 抠抠
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
 1. [ At Dusk  Love ](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 刘嗨雨
