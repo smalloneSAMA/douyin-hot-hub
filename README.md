@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-02-11 15:17:09 +0800`
+`更新时间：2025-02-11 16:22:30 +0800`
 
 ## 抖音热榜
 
 1. 东契奇湖人首秀砍14分
-1. 立陶宛总统：再见了俄罗斯
-1. 消费品以旧换新销量显著增长
 1. 王宝强听了都得愣2秒
+1. 消费品以旧换新销量显著增长
 1. 到底谁有结界兽手办啊
-1. 当滑雪遇上汉服
 1. 影院回应哪吒2疑遭偷票房
-1. 勇士该如何在买断市场补强
 1. 福建人不语只是一味的咚咚咚
-1. 司法部原副部长刘志强被提起公诉
 1. 海斯：很乐意和东契奇打球
+1. 社火闹元宵
+1. 当滑雪遇上汉服
+1. 司法部原副部长刘志强被提起公诉
+1. 想不到硬核说唱居然在重庆监狱
 1. 库里38分
-1. 哪吒2进全球票房前30
+1. 国际现货金价创盘中历史新高
 1. 重庆辟谣八家人被埋特大事故
+1. 独行侠加时惜败国王
 1. 岳云鹏达成百亿演员成就
 1. 赵露思给小谢女儿过生日
-1. 社火闹元宵
 1. 消我泱泱三千恨
 1. 王者狄仁杰绮世丹青新皮肤
-1. 来重庆“吃”个轻轨再走吧
+1. 吴艳妮回应技术痛点
 1. 对话哪吒2无量仙翁配音演员
+1. 2025国际乒联第7周排名公布
 1. 刘梓晨 演员请就位
-1. 2025超级碗中场秀
-1. 想不到硬核说唱居然在重庆监狱
-1. 火爆全网的smoke编舞师来了
 1. 董思成五福临门当街抢新娘
-1. 这一刻和申公豹共鸣了
-1. 张伟丽乔安娜赛后相聚
+1. 担忧关税 大量黄金被运往美国
+1. 余承东疑喊话比亚迪
+1. 林孝埈说荣誉属于中国队
 1. 黄子韬徐艺洋回归颜值情侣赛道
+1. 林诗栋世界排名首次登顶
 1. 百色教育局通报一高中教师被举报
 1. 五福临门杨羡人如机
-1. 你的寒假余额已不足
-1. 请容许我小小的骄傲
 1. 六姊妹老四倒追离婚男
+1. 杨子许佳琪演纣王妲己
+1. 你的寒假余额已不足
 1. 海外华人为哪吒2打call
-1. 外国人评电影哪吒2
+1. 立陶宛总统：再见了俄罗斯
 1. 愿你三冬暖愿你春不寒
-1. 一口气看马斯克引爆德国政坛
 1. 杨迪又来接粉丝了吗
-1. 大家好 我就是哪吒中的那个鼎
-1. 张雅钦秒删
-1. 徐明浩在创造营班味好重
+1. 外国人评电影哪吒2
+1. 一口气看马斯克引爆德国政坛
 1. 张伟丽回应切肘疼不疼
-1. 用这首歌记录平淡的幸福
-1. 柯淳剧里有多深情现实就有多神经
-1. 藏不住了其实我是敖闰
+1. 这一刻和申公豹共鸣了
 1. 我命由我不由天挑战
-1. 开春这样穿清新又有质感
-1. 一岁我喊她妈妈 她爱了我一辈子
-1. 爱与被爱同时发生才有意义
+1. 请容许我小小的骄傲
+1. 这首歌萌度超标
+1. 柯淳剧里有多深情现实就有多神经
+1. 谁能拒绝这个大嘴鸟变声器啊
+1. 大家好 我就是哪吒中的那个鼎
+1. 徐明浩在创造营班味好重
+1. 用这首歌记录平淡的幸福
 
 ## 明星榜
 
@@ -81,10 +81,10 @@
 1. [你的](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
 1. [姑娘我怎能忘 (弹唱剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okamwrBGEMz6illuEofAsMV4yzF5tVWbBiA5AI) - 抠抠
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
-1. [Falling In Love（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
+1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
 1. [ At Dusk  Love ](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 刘嗨雨
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
-1. [Winter Wishlist](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
+1. [Winter Wishlist](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
 1. [爱的就是你_崔十八 (主歌1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
