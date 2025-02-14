@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-02-14 07:17:50 +0800`
+`更新时间：2025-02-14 09:16:04 +0800`
 
 ## 抖音热榜
 
 1. 哪吒2票房突破100亿
-1. 异地恋的情人节
+1. Zeus单杀Faker
 1. 首善答卷
-1. 美宣布对贸易伙伴征收对等关税
 1. 哪吒2破百亿上新闻联播
+1. 哪吒2百亿海报虽迟但到
 1. 媒体评哪吒2票房破百亿
 1. 演员高亮去世
-1. 王健林7702万股权被冻结
-1. 张碧晨喊话饺子哪吒3不要有压力
-1. 全抖音祝贺哪吒2票房百亿
-1. 我N个身份都不同意开学
-1. 当Kanye的歌遇上八方来财
+1. 异地恋的情人节
 1. AI不能替代什么人
-1. 解析哪吒百年影视形象发展史
+1. 情人节一个人也快乐享福
+1. 美宣布对贸易伙伴征收对等关税
+1. 刘诗诗红温了
+1. 全抖音祝贺哪吒2票房百亿
+1. 王健林7702万股权被冻结
 1. 扔鞭炮男孩要赔580万系谣言
-1. 美国队长4烂番茄52%
+1. 张碧晨喊话饺子哪吒3不要有压力
+1. 我N个身份都不同意开学
 1. 特效团队喊话饺子下次轻点折磨
-1. 媒体：春节档流量明星失灵了
-1. 哪吒2总观影人次突破2亿
+1. 美国队长4烂番茄52%
 1. 黄子韬徐艺洋能处不是没有原因的
-1. 挑战李羲承进行曲
-1. 分享镜头里的爱意
-1. 哪吒2配乐里的中国元素
-1. 双倍给下一个人
-1. 开学倒计时状态belike
+1. 哪吒2总观影人次突破2亿
+1. 解析哪吒百年影视形象发展史
 1. 哪吒背后是行业万鳞甲的托举
-1. 山西还在咚咚锵呢
-1. 一眼心动情人节穿搭
-1. 一代人有一代人的哪吒
-1. 势均力敌的双A情人节穿搭
-1. 顾茜茜给猪猪狠无敌化妆
-1. 晒晒你的春节档二刷票根
-1. TikTok顶流车评人入驻抖音
-1. 雷军体验舞狮
-1. 贾乃亮发抖音辟谣
-1. 岁月匆匆又要开学了
-1. 杨蓉一人怼大侦探全员
-1. 原来哪吒2经典表情这么来的
-1. 无穷小亮科普沙地里的蘑菇
-1. 律师谈女演员自曝无证酒驾
-1. Zeus单杀Faker
-1. 当营销号遇上叛逆期用户
-1. 曝马斯克要赔特朗普约1000万美元
-1. 中方回应澳军机侵闯西沙领空
-1. 是时候跳双人舞了
-1. 丑萌专用bgm来了
-1. 跳楼机全民改编挑战
-1. 小可爱也来秀恩爱
+1. 分享镜头里的爱意
+1. 媒体：春节档流量明星失灵了
+1. 挑战李羲承进行曲
+1. 哪吒2配乐里的中国元素
+1. 哪吒背后的中国动画产业地图
 1. 饺子终于从1亿画到百亿
+1. 当Kanye的歌遇上八方来财
+1. 山西还在咚咚锵呢
+1. 演员崔漫莉就编造酒驾致歉
+1. 原来哪吒2经典表情这么来的
+1. 顾茜茜给猪猪狠无敌化妆
+1. 贾乃亮发抖音辟谣
+1. 以后姐姐嫁人了你会难过吗
+1. 雷军体验舞狮
+1. 杨蓉一人怼大侦探全员
+1. 一代人有一代人的哪吒
+1. 把我变成玫瑰送给你
+1. 用歌声解说怎敌她千娇百媚
+1. TikTok顶流车评人入驻抖音
+1. 当营销号遇上叛逆期用户
+1. 晒晒你的春节档二刷票根
+1. 开学倒计时状态belike
+1. 双倍给下一个人
+1. 势均力敌的双A情人节穿搭
+1. 春节档电影齐贺哪吒2破百亿
+1. 一眼心动情人节穿搭
 1. 被在乎的时候心里会开花
 
 ## 明星榜
@@ -77,10 +77,10 @@
 ## 音乐榜
 
 1. [消散对白(圆梦版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
-1. [锈（给你的情诗生了锈）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8a1PBtVqIYbPEGK6e5A4egedVMdm3fCIz6bbE) - 江辰
+1. [锈（给你的情诗生了锈）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8a1PBtVqIYbPEGK6e5A4egedVMdm3fCIz6bbE) - 江辰
 1. [你的](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
 1. [姑娘我怎能忘 (弹唱剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okamwrBGEMz6illuEofAsMV4yzF5tVWbBiA5AI) - 抠抠
-1. [Cute](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
+1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
 1. [ At Dusk  Love ](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8CrpCf5CaYgI4ZrtQgMQAFEfuGqNnRSDQAPBc) - 刘嗨雨
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
