@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-02-16 14:22:31 +0800`
+`更新时间：2025-02-16 15:17:09 +0800`
 
 ## 抖音热榜
 
 1. NBA全明星扣篮赛
 1. 希罗三分大赛夺冠
 1. 301个县实现学前教育普及普惠
+1. XYG羲和正式退役
+1. 你想开出怎样的门
 1. 这灯一开直接天亮了
-1. 网友开始手搓哪吒2角色皮肤了
-1. 记录开学第一天
-1. 哪吒2总票房破115亿
-1. 当骨科医生展示医用工具
+1. 学校夜空的烟花惊艳了整个青春
 1. 有人凌晨4点排队买黄金
 1. 当我试图了解二胎育儿成本
-1. 学校夜空的烟花惊艳了整个青春
+1. 网友开始手搓哪吒2角色皮肤了
+1. 当骨科医生展示医用工具
 1. 文班保罗聪明反被聪明误
-1. 男生开学的cleanfit穿搭
-1. 开学第一天小学倒闭系谣言
+1. 记录开学第一天
+1. 两人造谣“烟花炸死人”被罚
+1. 孙颖莎亚洲杯出发
 1. 麦克朗制霸扣篮大赛
-1. 难哄顶配ost阵容
+1. 男生开学的cleanfit穿搭
+1. 难哄全阵容哄好我了
 1. 恋爱和战斗都要和平精英
 1. 仙台有树还挺有意思
-1. 抖音发布哪吒百亿票房纪念卡
-1. 我们只是把爱和时间给了孩子
 1. 挑战茯苓晋江式演技
-1. 用民乐的方式庆祝哪吒破百亿
+1. 抖音发布哪吒百亿票房纪念卡
 1. 美乐蒂爆改敖丙
+1. 我们只是把爱和时间给了孩子
+1. 用民乐的方式庆祝哪吒破百亿
 1. 爸爸在哄睡赛道强得可怕
-1. 手绘哪吒挑战
+1. 难哄顶配ost阵容
+1. NBA全明星中场表演顶碗
 1. 一小行星有2%概率在2032撞击地球
-1. 王毅的话DeepSeek是怎么翻译的
-1. 仙台有树好听劝的官方
 1. 第五人格弓箭手
-1. 开学季家长统一姿势
-1. en版跳楼机终于来了
+1. 手绘哪吒挑战
 1. 不同人笑的方式belike
-1. 被柯淳专属bgm硬控八秒
-1. 春风若有意许我再少年
-1. 从封神演义原著看懂哪吒
-1. 哪吒2全明星阵容大模仿
-1. 陈紫函戴向宇cos敖闰敖光
-1. 张元英跳entertainer
-1. 萌宠都在KissShy
 1. 乌尔善说希望观众给封神3机会
-1. 天庭三大反骨仔终于还是来了
-1. 火力全开DJ版舞蹈挑战
+1. 张元英跳entertainer
+1. 仙台有树好听劝的官方
+1. 开学季家长统一姿势
+1. 从封神演义原著看懂哪吒
 1. 外国演员评价哪吒2
-1. 林书豪以主教练身份出场
-1. 毛晓彤复刻敖瑞鹏早期抽象素材
-1. 你试过靠努力追上天赋吗
+1. 被柯淳专属bgm硬控八秒
 1. 一口气看懂哪吒编年史
-1. 马尔穆什半场帽子戏法
+1. 林书豪以主教练身份出场
+1. en版跳楼机终于来了
+1. U20亚洲杯澳大利亚逆转卡塔尔
 1. 这个BGM有种柳暗花明氛围感
-1. 申公豹全民演绎挑战
+1. 春风若有意许我再少年
+1. 哪吒2全明星阵容大模仿
+1. 马尔穆什半场帽子戏法
+1. 朴灿烈没握到张艺兴的手
+1. 毛晓彤复刻敖瑞鹏早期抽象素材
+1. 萌宠都在KissShy
 
 ## 明星榜
 
@@ -81,17 +81,17 @@
 1. [Love in the Dark（Phonk House）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIVPxCfsCoYJAJZmt0g8QmFElce9InjXDqAyBR) - 7ovey/uuml
 1. [爆竹声声一岁除(2025新年版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogeekoMkrSGH6OoIc7LfpQKfMkFWYAKfdINA1V) - 陆毅 / 鲍蕾 / 陆雨萱（贝儿）/ 陆雨菡（小叶子）
 1. [红蔷薇白玫瑰 (副歌)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIeiDfeyaEFgM7bXBJMAFCXFInztFks3JDWhx9) - G.E.M.邓紫棋
-1. [总有美好在路上(花在开云在飘笑容在脸上)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oU5u7NwtfBIvaNhoQBszOvAlRiAoiWAVVyBMq4) - 周深
-1. [彩虹 （副歌剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/66e0979fd8cb445a8a1813a9277d4696) - TimeZ
+1. [总有美好在路上(花在开云在飘笑容在脸上)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oU5u7NwtfBIvaNhoQBszOvAlRiAoiWAVVyBMq4) - 周深
+1. [彩虹 （副歌剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/66e0979fd8cb445a8a1813a9277d4696) - TimeZ
 1. [迷失driftaway(Edit)（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogaa1xGNeFO6FCaMgO8PzzAceEI4fBLDMi15H3) - 喪甜老爹&今日网抑
 1. [锈（给你的情诗生了锈）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8a1PBtVqIYbPEGK6e5A4egedVMdm3fCIz6bbE) - 江辰
-1. [KIRA（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0Bq3TvdHqOfzihWrHyABMociuMA3Inwsbx9Wi) - NIKS
+1. [KIRA（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0Bq3TvdHqOfzihWrHyABMociuMA3Inwsbx9Wi) - NIKS
 1. [100（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMYwtGyenWApgFhmBjFEgLDatpCZXz7MIGfBCs) - Tizzy T
 1. [你离开的事实（donk进行曲片段2）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYbTglI7EAnwfnMsTI75eUbV4bPGeLkePQafur) - DJ科目三
 1. [房间•2025（在这温暖的房间）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMzJcnT8BgIetASeBfwfEeBQVNfACiCifhfZP7g) - 刘兆宇/覆予
 1. [More of My Time (Lofi)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYExObgmbCQ1vXsegnZjJ6BAaDBQetNiGLEo7a) - Muspace Lofi
 1. [芒种（DJ筱轩版）-片段](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooJsZrIeBfMQ0z1n24wO3g6Ged9W0YffmogAVE) - DJ筱轩
-1. [Rainforest Flow（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o82ZpjE8IjV4PcDft5nvUtgQDfCyFAMO7BbniY) - Blue浪仔
+1. [Rainforest Flow（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o82ZpjE8IjV4PcDft5nvUtgQDfCyFAMO7BbniY) - Blue浪仔
 1. [只你(直到幸福能触手可及)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [Panic](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAmDmzQbIEdf8xCAjOntKDYBCMvBN5RfgCWF4Z) - elzio
