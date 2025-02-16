@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-02-16 11:24:16 +0800`
+`更新时间：2025-02-16 12:20:28 +0800`
 
 ## 抖音热榜
 
-1. 网友开始手搓哪吒2角色皮肤了
-1. AG跨赛季17大场连胜
+1. 文班保罗聪明反被聪明误
+1. 希罗三分大赛夺冠
 1. 银发旅游列车来了
-1. 恋爱和战斗都要和平精英
-1. 懂事的寝室长已经提前返校了
-1. 美乐蒂爆改敖丙
 1. 哪吒2总票房破115亿
+1. AG跨赛季17大场连胜
+1. 网友开始手搓哪吒2角色皮肤了
+1. 这灯一开直接天亮了
 1. 20岁歌手诗琳因病去世
+1. 懂事的寝室长已经提前返校了
+1. 记录开学第一天
 1. 北京卫视疑删除甄嬛传余莺儿戏份
 1. 包喜字饺子教程
-1. 林书豪以主教练身份出场
 1. 奥萨苏纳1:1皇马
-1. 上海男篮夺得首届CBA杯冠军
 1. 开学第一天小学倒闭系谣言
 1. 2025NBA全明星
-1. 王毅的话DeepSeek是怎么翻译的
+1. 恋爱和战斗都要和平精英
+1. 当骨科医生展示医用工具
+1. 我们只是把爱和时间给了孩子
 1. 抖音发布哪吒百亿票房纪念卡
-1. 旅游博主吴磊上线了
 1. 用民乐的方式庆祝哪吒破百亿
 1. 仙台有树还挺有意思
 1. 超可爱的小猫靠肩照教程
-1. 第五人格弓箭手
-1. 一口气看懂哪吒编年史
+1. 难哄顶配ost阵容
+1. 美乐蒂爆改敖丙
+1. 挑战茯苓晋江式演技
 1. 开学季家长统一姿势
-1. 开学满校园都是哪吒小可爱
+1. 林书豪以主教练身份出场
+1. 王毅的话DeepSeek是怎么翻译的
+1. 一口气看懂哪吒编年史
+1. U20亚洲杯澳大利亚逆转卡塔尔
 1. 春风若有意许我再少年
 1. 陈紫函戴向宇cos敖闰敖光
 1. 从封神演义原著看懂哪吒
-1. U20亚洲杯澳大利亚逆转卡塔尔
-1. 特朗普马斯克首次合体接受采访
-1. 电影院排片背后的资本大战
 1. 天庭三大反骨仔终于还是来了
 1. 这个BGM有种柳暗花明氛围感
 1. 你试过靠努力追上天赋吗
-1. 哪吒2全明星阵容大模仿
 1. 外国演员评价哪吒2
-1. 邓孝慈新剧爆改病娇前夫哥
-1. 马尔穆什半场帽子戏法
-1. 李盈莹受伤
-1. 王鹤棣：湖人交易完心态有点崩
+1. 上海男篮夺得首届CBA杯冠军
+1. 手绘哪吒挑战
+1. 开学满校园都是哪吒小可爱
 1. 辣妹子小匪与老公官宣离婚
+1. 哪吒2全明星阵容大模仿
+1. 特朗普马斯克首次合体接受采访
+1. 第五人格弓箭手
+1. 马尔穆什半场帽子戏法
 1. 萌宠都在KissShy
-1. 爸爸带娃上班宝宝自嗨哼APT
-1. 林子祥叶蒨文唱跳八分八
-1. 火力全开DJ版舞蹈挑战
-1. 佳佳一秒被哄好
 1. 费曼晒与杨阳洋合照
-1. 从来生死都看淡改编挑战
-1. 前国乒教练尹肖回应吴敬平
-1. 看沉浸式洗碗好解压
+1. 被柯淳专属bgm硬控八秒
+1. 敖瑞鹏用计算器表白
+1. 邓孝慈新剧爆改病娇前夫哥
 
 ## 明星榜
 
@@ -90,7 +90,7 @@
 1. [你离开的事实（donk进行曲片段2）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYbTglI7EAnwfnMsTI75eUbV4bPGeLkePQafur) - DJ科目三
 1. [房间•2025（在这温暖的房间）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMzJcnT8BgIetASeBfwfEeBQVNfACiCifhfZP7g) - 刘兆宇/覆予
 1. [More of My Time (Lofi)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYExObgmbCQ1vXsegnZjJ6BAaDBQetNiGLEo7a) - Muspace Lofi
-1. [芒种（DJ筱轩版）-片段](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooJsZrIeBfMQ0z1n24wO3g6Ged9W0YffmogAVE) - DJ筱轩
+1. [芒种（DJ筱轩版）-片段](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooJsZrIeBfMQ0z1n24wO3g6Ged9W0YffmogAVE) - DJ筱轩
 1. [Rainforest Flow（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o82ZpjE8IjV4PcDft5nvUtgQDfCyFAMO7BbniY) - Blue浪仔
 1. [只你(直到幸福能触手可及)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
@@ -99,7 +99,7 @@
 1. [哪吒哪吒](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUkQCgCDnBanFehFEFQDxCQntAOIfp9gyZYFVo) - 沪滔
 1. [苹果香Dj（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEeIEQbYGAOspCTRAIeYF4Ok8LgZ8NBaRe4ztR) - 黑大婶回乡带娃
 1. [Sea Of Lim](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIWFJ2IQh9BiwiNrlHsb7rf82ZBbgABM3QPzYZ) - Hhe
-1. [一个人去巴黎_易易](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okIXMCA0ZWZlCbDnuFaVfW7ySiitEEEgCf1IB3) - 易易
+1. [一个人去巴黎_易易](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okIXMCA0ZWZlCbDnuFaVfW7ySiitEEEgCf1IB3) - 易易
 
 ## 品牌榜
 
