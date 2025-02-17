@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-02-18 00:22:22 +0800`
+`更新时间：2025-02-18 01:16:04 +0800`
 
 ## 抖音热榜
 
 1. 邹家华同志逝世
 1. 四川山体滑坡已造成10死19失联
 1. 1月我国乘用车产量达215.1万辆
+1. 中俄美等国将参加联合军演
 1. 美国鸡蛋价格涨至历史新高
-1. 库里全明星MVP
 1. 哪吒2票房突破120亿
-1. 用欧若风打开春天
-1. 哪吒2冲击全球动画票房榜首
+1. 用非遗见证哪吒票房破120亿
 1. 王健林再被冻结1200万股权
+1. 用欧若风打开春天
+1. 韩警方：金赛纶死因无法公开
 1. 小米SU7断轴车主承认欺瞒网友
 1. 郭德纲：把霄字科“回炉重造”
 1. 这下是真李羲承跳进行曲了
-1. 韩警方：金赛纶死因无法公开
 1. 重庆轨道辟谣司机招聘信息
-1. 浪姐6一公分组
-1. 用非遗见证哪吒票房破120亿
+1. 京东外卖停止补贴后日单量降低
+1. 哪吒2冲击全球动画票房榜首
 1. 封神2妲己妆造
-1. 六姊妹二姐夫患病全家送钱
+1. 浪姐6一公分组
 1. 冯小刚曾向饺子发出邀约
-1. 刘浩存文淇亮相柏林电影节红毯
 1. 当我开始爱自己
 1. 2032年小行星会来吗
 1. 外国观众给哪吒2打分
-1. 赵露思小谢聊第一次见面的场景
 1. 今年的全明星太无聊
-1. 李羲承进行曲风吹到了明星
-1. 为什么玩Bbox要捂嘴
-1. 走失19天不幸去世女子父亲发声
-1. 看不到面的牛肉卷泡面
-1. 挑战随机生成穿搭
-1. 哪吒2到底藏了多少文物彩蛋
 1. 用DeepSeek模拟王者荣耀
-1. 超绝小可爱BGM
-1. 这个大众的名字却很与众不同
-1. 当农学生种出银环蛇甘蔗
+1. 李羲承进行曲风吹到了明星
+1. 赵露思小谢聊第一次见面的场景
 1. 刘亦菲：成年三部曲没丢脸
-1. 在我手机里咚咚咚好几天了
-1. 檀健次滤镜同款三连比心
+1. 走失19天不幸去世女子父亲发声
+1. 刘浩存文淇亮相柏林电影节红毯
+1. 这个大众的名字却很与众不同
 1. 英国粉丝回应周深演唱会取消
-1. 赵丽颖短发live图
-1. 元斌夫妇吊唁金赛纶
-1. 六校联考
+1. 挑战随机生成穿搭
+1. 在我手机里咚咚咚好几天了
 1. 上班比上学更爽吗
+1. 哪吒2到底藏了多少文物彩蛋
+1. 檀健次滤镜同款三连比心
+1. 超绝小可爱BGM
+1. 当农学生种出银环蛇甘蔗
+1. 赵丽颖短发live图
 1. 申公豹cos挑战
 1. 太乙真人纯善
+1. 元斌夫妇吊唁金赛纶
+1. 六校联考
 1. 可以成为我的恋人吗
 1. 我们只是把爱和时间给了孩子
+1. 为什么玩Bbox要捂嘴
+1. 看不到面的牛肉卷泡面
 1. 抖音学霸喊我返校开学了
-1. 宋雨琦获塔图姆to签球衣
-1. 被柯淳专属bgm硬控八秒
+1. 库里全明星MVP
+1. 小孩哥开学神器大赏
 
 ## 明星榜
 
@@ -84,17 +84,17 @@
 1. [总有美好在路上(花在开云在飘笑容在脸上)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oU5u7NwtfBIvaNhoQBszOvAlRiAoiWAVVyBMq4) - 周深
 1. [彩虹 （副歌剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/66e0979fd8cb445a8a1813a9277d4696) - TimeZ
 1. [迷失driftaway(Edit)（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogaa1xGNeFO6FCaMgO8PzzAceEI4fBLDMi15H3) - 喪甜老爹&今日网抑
-1. [锈（给你的情诗生了锈）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8a1PBtVqIYbPEGK6e5A4egedVMdm3fCIz6bbE) - 江辰
+1. [锈（给你的情诗生了锈）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8a1PBtVqIYbPEGK6e5A4egedVMdm3fCIz6bbE) - 江辰
 1. [KIRA（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0Bq3TvdHqOfzihWrHyABMociuMA3Inwsbx9Wi) - NIKS
 1. [100（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMYwtGyenWApgFhmBjFEgLDatpCZXz7MIGfBCs) - Tizzy T
 1. [你离开的事实（donk进行曲片段2）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYbTglI7EAnwfnMsTI75eUbV4bPGeLkePQafur) - DJ科目三
 1. [房间•2025（在这温暖的房间）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMzJcnT8BgIetASeBfwfEeBQVNfACiCifhfZP7g) - 刘兆宇/覆予
 1. [More of My Time (Lofi)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYExObgmbCQ1vXsegnZjJ6BAaDBQetNiGLEo7a) - Muspace Lofi
-1. [芒种（DJ筱轩版）-片段](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooJsZrIeBfMQ0z1n24wO3g6Ged9W0YffmogAVE) - DJ筱轩
+1. [芒种（DJ筱轩版）-片段](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooJsZrIeBfMQ0z1n24wO3g6Ged9W0YffmogAVE) - DJ筱轩
 1. [Rainforest Flow（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o82ZpjE8IjV4PcDft5nvUtgQDfCyFAMO7BbniY) - Blue浪仔
 1. [只你(直到幸福能触手可及)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
-1. [Panic](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAmDmzQbIEdf8xCAjOntKDYBCMvBN5RfgCWF4Z) - elzio
+1. [Panic](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAmDmzQbIEdf8xCAjOntKDYBCMvBN5RfgCWF4Z) - elzio
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [哪吒哪吒](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUkQCgCDnBanFehFEFQDxCQntAOIfp9gyZYFVo) - 沪滔
 1. [苹果香Dj（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEeIEQbYGAOspCTRAIeYF4Ok8LgZ8NBaRe4ztR) - 黑大婶回乡带娃
