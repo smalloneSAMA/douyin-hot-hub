@@ -11,59 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-02-20 09:16:53 +0800`
+`更新时间：2025-02-20 10:49:36 +0800`
 
 ## 抖音热榜
 
 1. 苹果发布iPhone 16e
 1. 姆巴佩帽子戏法
 1. 我国人形机器人又有突破
-1. 皇马3:1曼城
-1. 医生称郭艾伦情况乐观
-1. 毒角SHOW美国高速SUV自燃
 1. 哪吒2回应登顶全球动画票房榜
-1. 用各地文旅打开仙逆战天道
-1. 可可动画回应饺子导演闭关
-1. 香港观众评价哪吒2
-1. 俄军越过库尔斯克地区俄乌边界
-1. 导演郑某峰涉嫌猥亵儿童被刑拘
-1. 何炅认亲但留了一手
-1. 王大陆爸爸回应儿子逃兵役
+1. 皇马3:1曼城
 1. 从王大陆事件分析台湾服兵役制度
-1. 难哄口碑两极分化
+1. 用各地文旅打开仙逆战天道
+1. 奶茶不买你俩倒是对跳上了
 1. 库兹马求婚成功
+1. 可可豆动画回应饺子导演闭关
+1. 想好春天该怎么穿了吗
+1. 俄军越过库尔斯克地区俄乌边界
+1. 香港观众评价哪吒2
+1. 导演郑某峰涉嫌猥亵儿童被刑拘
+1. DeepSeek否认融资传闻
+1. 医生称郭艾伦情况乐观
+1. 何炅认亲但留了一手
+1. 难哄口碑两极分化
+1. 任贤齐在南京骑摩托车被罚
+1. 王大陆爸爸回应儿子逃兵役
 1. 仙台有树第27集封神
 1. 我奶玩反应小游戏比我厉害
-1. 任贤齐在南京骑摩托车被罚
-1. 哪吒2的百亿票房如何瓜分
 1. 女子遭丈夫灌面汤致死案一审开庭
-1. 哪吒2获超九成港澳影院排片
-1. 难哄剧宣排面
-1. 奶茶不买你俩倒是对跳上了
-1. 想好春天该怎么穿了吗
 1. 白敬亭桑延你稳重一点
-1. 这个春天一起做欧若风美女
-1. 用没关系晒出萌宠日常
-1. 谢霆锋演唱会门票炒至17万元
-1. 湖南卫视考古杨紫
-1. 走进悬空寺
-1. 你懂得我的固执 我懂你脾气
-1. 哪吒2香港首映礼含星量
-1. 哪吒2延长上映至3月30日
-1. 扮成哪吒去看哪吒2
-1. 理疗仪唱歌挑战
-1. 六姊妹何家欢方涛感情破裂
-1. 桑延守护型男友
-1. 召唤集齐哪吒抖音抽卡幸运儿
-1. 难哄最难哄的是男主
+1. 毒角SHOW美国高速SUV自燃
+1. 哪吒2获超九成港澳影院排片
 1. 每个人都是自己生活的主角
-1. 给我的戒指买了套独栋别墅
-1. 小米为何退出快充联盟
+1. 哪吒2的百亿票房怎么分
+1. 用没关系晒出萌宠日常
+1. 桑延守护型男友
+1. 你懂得我的固执 我懂你脾气
 1. 北大Python课在抖音学上了
-1. 用桑延视角打开难哄
+1. 召唤集齐哪吒抖音抽卡幸运儿
+1. 难哄剧宣排面
+1. 给我的戒指买了套独栋别墅
+1. 湖南卫视考古杨紫
+1. 男宝妈和女宝妈带娃的区别
+1. 扮成哪吒去看哪吒2
+1. 谢霆锋演唱会门票炒至17万元
+1. 哪吒2延长上映至3月30日
+1. 戒烟700天 我经历了什么
+1. 这个春天一起做欧若风美女
+1. 温以凡梦游抱住桑延
+1. 哪吒2香港首映礼含星量
+1. 走进悬空寺
+1. 六姊妹何家欢方涛感情破裂
+1. 难哄最难哄的是男主
+1. 小米为何退出快充联盟
+1. 理疗仪唱歌挑战
 1. 全固态电池是什么
-1. 剧本式许愿挑战
-1. 夜晚拍照补妆补光小技巧
 
 ## 明星榜
 
@@ -86,7 +87,7 @@
 1. [锈（给你的情诗生了锈）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8a1PBtVqIYbPEGK6e5A4egedVMdm3fCIz6bbE) - 江辰
 1. [KIRA（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0Bq3TvdHqOfzihWrHyABMociuMA3Inwsbx9Wi) - NIKS
 1. [100（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMYwtGyenWApgFhmBjFEgLDatpCZXz7MIGfBCs) - Tizzy T
-1. [你离开的事实（donk进行曲片段2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYbTglI7EAnwfnMsTI75eUbV4bPGeLkePQafur) - DJ科目三
+1. [你离开的事实（donk进行曲片段2）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYbTglI7EAnwfnMsTI75eUbV4bPGeLkePQafur) - DJ科目三
 1. [房间•2025（在这温暖的房间）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMzJcnT8BgIetASeBfwfEeBQVNfACiCifhfZP7g) - 刘兆宇/覆予
 1. [More of My Time (Lofi)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYExObgmbCQ1vXsegnZjJ6BAaDBQetNiGLEo7a) - Muspace Lofi
 1. [芒种（DJ筱轩版）-片段](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooJsZrIeBfMQ0z1n24wO3g6Ged9W0YffmogAVE) - DJ筱轩
@@ -94,11 +95,11 @@
 1. [只你(直到幸福能触手可及)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [Panic](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAmDmzQbIEdf8xCAjOntKDYBCMvBN5RfgCWF4Z) - elzio
-1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
-1. [哪吒哪吒](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUkQCgCDnBanFehFEFQDxCQntAOIfp9gyZYFVo) - 沪滔
+1. [执子之手 (剪辑2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
+1. [哪吒哪吒](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUkQCgCDnBanFehFEFQDxCQntAOIfp9gyZYFVo) - 沪滔
 1. [苹果香Dj（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEeIEQbYGAOspCTRAIeYF4Ok8LgZ8NBaRe4ztR) - 黑大婶回乡带娃
 1. [Sea Of Lim](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIWFJ2IQh9BiwiNrlHsb7rf82ZBbgABM3QPzYZ) - Hhe
-1. [一个人去巴黎_易易](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okIXMCA0ZWZlCbDnuFaVfW7ySiitEEEgCf1IB3) - 易易
+1. [一个人去巴黎_易易](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okIXMCA0ZWZlCbDnuFaVfW7ySiitEEEgCf1IB3) - 易易
 
 ## 品牌榜
 
