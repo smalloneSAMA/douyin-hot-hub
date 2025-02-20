@@ -11,59 +11,58 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-02-20 19:15:35 +0800`
+`更新时间：2025-02-20 20:34:44 +0800`
 
 ## 抖音热榜
 
 1. 苹果发布iPhone 16e
-1. 郭艾伦再次回应受伤事件
-1. 中国在高温超导领域获重大突破
-1. 乌民众谈美俄谈判：乌只是棋子
 1. 亚预赛中国男篮12人名单公布
+1. 中国在高温超导领域获重大突破
+1. 郑州下雪
+1. 郭艾伦否认自己被吴永盛所伤
 1. 杜兰特：篮球拯救了我的人生
 1. 周星驰经纪人否认郑某峰投资传闻
-1. 可可豆动画回应饺子导演闭关
+1. 这个春天一起做欧若风美女
 1. 福岛核污染水海洋生物样本抵华
 1. JENNIE入驻大事很妙
 1. 刘诗诗将所持股权转让给吴奇隆
-1. 哪吒2回应登顶全球动画票房榜
-1. 何炅认亲但留了一手
-1. 刘德华送电影票支持哪吒系谣言
-1. 这个春天一起做欧若风美女
-1. 郭艾伦否认自己被吴永盛所伤
-1. 黄蜂100:97战胜湖人
-1. 全固态电池是什么
 1. 乒乓球亚洲杯今日赛程
-1. 北大Python课在抖音学上了
-1. 乌否认俄军在库尔斯克州越境入乌
-1. 郑州下雪
+1. 郭艾伦再次回应受伤事件
+1. 哪吒2回应登顶全球动画票房榜
+1. 郭焱说张本今天幸福了
 1. 普京：非常愿意同特朗普会面
-1. 鸣潮坎特蕾拉
-1. 哪吒2获超九成港澳影院排片
-1. 抖音直播盛典到底有谁在
-1. 香港观众评价哪吒2
-1. 演员李嘉铭刘泳希离婚
-1. 你懂得我的固执 我懂你脾气
-1. 温以凡梦游抱住桑延
-1. 用没关系晒出萌宠日常
-1. 周渝民首度回应大S去世
-1. 刑侦现场开播
-1. 白敬亭耍帅失败气到跺脚
-1. 扮成哪吒去看哪吒2
-1. 奶茶不买你俩倒是对跳上了
-1. 成为孟子义走路粉
-1. 胡静公开老公从事行业
-1. 丁禹兮在用抖音讲故事
-1. 何家丽出手帮妹妹拿下豪宅
-1. 哪吒2的百亿票房怎么分
-1. 从王大陆事件分析台湾服兵役制度
-1. 球爹因健康问题被截肢
-1. 孙颖莎3:0胜印度选手
+1. 4分钟看王大陆为何拒服台湾兵役
 1. 郭焱谈孙颖莎亚洲杯开门红
+1. 乌否认俄军在库尔斯克州越境入乌
+1. 孙颖莎3:0胜印度选手
+1. 蔡徐坤紫色烟熏妆
+1. 抖音直播盛典到底有谁在
+1. 哪吒2获超九成港澳影院排片
+1. 球爹因健康问题被截肢
+1. “六小龙”为何纷纷落户杭州
+1. 温以凡梦游抱住桑延
+1. 演员李嘉铭刘泳希离婚
+1. 刘德华送电影票支持哪吒系谣言
 1. 无量仙翁配音演员第一次看哪吒2
-1. 董力和妻子相识是在路上偶遇
+1. 白敬亭耍帅失败气到跺脚
+1. 可可豆动画回应饺子导演闭关
+1. 香港观众评价哪吒2
+1. 用没关系晒出萌宠日常
+1. 扮成哪吒去看哪吒2
+1. 胡静公开老公从事行业
+1. 周渝民首度回应大S去世
+1. 金珉奎徐明浩superbowl
 1. 召唤集齐哪吒抖音抽卡幸运儿
-1. BLACKPINK官宣2025世界巡演
+1. 何家丽出手帮妹妹拿下豪宅
+1. 从王大陆事件分析台湾服兵役制度
+1. 成为孟子义走路粉
+1. 丁禹兮在用抖音讲故事
+1. 你懂得我的固执 我懂你脾气
+1. 奶茶不买你俩倒是对跳上了
+1. 刑侦现场开播
+1. 欢迎品尝兰州拉猫
+1. 哪吒之五毛特效版
+1. 想好春天该怎么穿了吗
 
 ## 明星榜
 
@@ -85,19 +84,19 @@
 1. [迷失driftaway(Edit)（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogaa1xGNeFO6FCaMgO8PzzAceEI4fBLDMi15H3) - 喪甜老爹&今日网抑
 1. [锈（给你的情诗生了锈）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8a1PBtVqIYbPEGK6e5A4egedVMdm3fCIz6bbE) - 江辰
 1. [KIRA（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0Bq3TvdHqOfzihWrHyABMociuMA3Inwsbx9Wi) - NIKS
-1. [100（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMYwtGyenWApgFhmBjFEgLDatpCZXz7MIGfBCs) - Tizzy T
+1. [100（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMYwtGyenWApgFhmBjFEgLDatpCZXz7MIGfBCs) - Tizzy T
 1. [你离开的事实（donk进行曲片段2）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYbTglI7EAnwfnMsTI75eUbV4bPGeLkePQafur) - DJ科目三
 1. [房间•2025（在这温暖的房间）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMzJcnT8BgIetASeBfwfEeBQVNfACiCifhfZP7g) - 刘兆宇/覆予
 1. [More of My Time (Lofi)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYExObgmbCQ1vXsegnZjJ6BAaDBQetNiGLEo7a) - Muspace Lofi
 1. [芒种（DJ筱轩版）-片段](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooJsZrIeBfMQ0z1n24wO3g6Ged9W0YffmogAVE) - DJ筱轩
 1. [Rainforest Flow（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o82ZpjE8IjV4PcDft5nvUtgQDfCyFAMO7BbniY) - Blue浪仔
-1. [只你(直到幸福能触手可及)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
-1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
+1. [只你(直到幸福能触手可及)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
+1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [Panic](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAmDmzQbIEdf8xCAjOntKDYBCMvBN5RfgCWF4Z) - elzio
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [哪吒哪吒](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUkQCgCDnBanFehFEFQDxCQntAOIfp9gyZYFVo) - 沪滔
 1. [苹果香Dj（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEeIEQbYGAOspCTRAIeYF4Ok8LgZ8NBaRe4ztR) - 黑大婶回乡带娃
-1. [Sea Of Lim](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIWFJ2IQh9BiwiNrlHsb7rf82ZBbgABM3QPzYZ) - Hhe
+1. [Sea Of Lim](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIWFJ2IQh9BiwiNrlHsb7rf82ZBbgABM3QPzYZ) - Hhe
 1. [一个人去巴黎_易易](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okIXMCA0ZWZlCbDnuFaVfW7ySiitEEEgCf1IB3) - 易易
 
 ## 品牌榜
