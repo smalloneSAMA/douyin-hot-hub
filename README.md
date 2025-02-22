@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-02-22 12:21:09 +0800`
+`更新时间：2025-02-22 13:17:11 +0800`
 
 ## 抖音热榜
 
 1. 张志磊称重结束
 1. 哪吒2总票房超130亿
 1. 超2600万人参与数码产品国补
+1. 勇士vs国王
+1. 全抖音都在过222
 1. 小学生模仿哪吒2名场面
 1. 用烧火棍在墙上画敖丙
-1. 全抖音都在过222
 1. 2025抖音春节非遗数据报告
-1. 张婉莹拿到S级
 1. 旺崽的摩洛哥奇遇记
 1. 美军高官连续遭解雇
+1. U20国足门票秒售罄
 1. 黄灿灿称曾因黄谣失去工作
+1. 克里斯蒂半场5中5
+1. 张婉莹拿到S级
+1. 一周辟谣速报
 1. 杨幂申请强制执行
 1. 黄子韬谈婚后变化
-1. 河南范县发生3.6级地震
-1. 一周辟谣速报
-1. U20国足门票秒售罄
-1. 李承铉在线炫耀有中国五星卡
-1. 勇士vs国王
+1. 吴川校园欺凌事件官方通报
 1. 六姊妹大结局
-1. 马斯克换头像了
+1. 河南范县发生3.6级地震
 1. 周鸿祎宣布取消送车门槛
-1. 我的电子试衣间
+1. 马斯克换头像了
 1. 王曼昱赛后采访
-1. 大衣哥：希望社会忘掉朱之文
-1. 难哄剧情被网友吐槽恶趣味
 1. 小黄豆破防曲我先用了
+1. 难哄剧情被网友吐槽恶趣味
+1. 我的电子试衣间
+1. 大衣哥：希望社会忘掉朱之文
+1. 光遇欧若拉巡演
+1. 电影天堂旅行团定档
 1. 当00后成为老师
-1. 谢谢亲爱的自己
-1. 玩个很新的东西
 1. 心情不好变成气球飞一会
-1. 小时候做过的那些事
-1. 妻子的浪漫旅行开播
+1. 谢谢亲爱的自己
 1. 王源主打颜值更新版抖音
-1. 桑延温以凡没谈上就吻上
-1. 难哄片花有点东西
+1. 玩个很新的东西
 1. 混剪哪吒2经典名场面
-1. 湖北省委原书记蒋超良被查
+1. 小时候做过的那些事
+1. 难哄片花有点东西
+1. 微波炉运镜就这么水灵灵的来了
 1. 选歌太快被歌骗了
 1. 难哄导演回应争议镜头
-1. 六姊妹太心疼大姐了
-1. 人累了可以靠在咪的胸膛
-1. 微波炉运镜就这么水灵灵的来了
-1. 谁说的桑延藏面条回去吃
-1. 吴镇宇不愧是狠人专业户
 1. 章若楠回应抖音1000多万赞
-1. 郑宇伯上演大心脏逆转
-1. 光遇欧若拉巡演
+1. 谁说的桑延藏面条回去吃
+1. 六姊妹太心疼大姐了
+1. 湖北省委原书记蒋超良被查
+1. 吴镇宇不愧是狠人专业户
 1. AI翻唱版跳楼机
-1. 挑战爆改好朋友
+1. JENNIE新歌ExtraL
+1. 人累了可以靠在咪的胸膛
+1. 京东进军外卖业引发鲶鱼效应
 1. 宝宝你看镜头啊
 
 ## 明星榜
@@ -79,7 +79,7 @@
 1. [没有如果（热恋版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4iETqbxIThtCXlBeV0DfAhZsbCFGhagYupnMx) - 大表哥Sophie、迦勒
 1. [对视（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogKtIhiB0WfAa18F9z3uWODMtZi2ysB1VuAIsQ) - Sasablue
 1. [Love in the Dark（Phonk House）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIVPxCfsCoYJAJZmt0g8QmFElce9InjXDqAyBR) - 7ovey/uuml
-1. [完美世界_女版_主歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocneCLOQAB6QhCFZmA2YpsLKZjtngZfuabFDE2) - 田园
+1. [完美世界_女版_主歌](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocneCLOQAB6QhCFZmA2YpsLKZjtngZfuabFDE2) - 田园
 1. [红蔷薇白玫瑰 (副歌)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIeiDfeyaEFgM7bXBJMAFCXFInztFks3JDWhx9) - G.E.M.邓紫棋
 1. [总有美好在路上(花在开云在飘笑容在脸上)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oU5u7NwtfBIvaNhoQBszOvAlRiAoiWAVVyBMq4) - 周深
 1. [彩虹 （副歌剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/66e0979fd8cb445a8a1813a9277d4696) - TimeZ
