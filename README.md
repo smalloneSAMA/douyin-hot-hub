@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-02-22 10:44:31 +0800`
+`更新时间：2025-02-22 11:20:27 +0800`
 
 ## 抖音热榜
 
-1. 河南范县发生3.6级地震
+1. 2025抖音春节非遗数据报告
 1. 哪吒2总票房超130亿
 1. 我国科学家发现细菌免疫新机制
-1. 当00后成为老师
-1. 挑战爆改好朋友
-1. 清冷新中式淡妆有多美
-1. 2025抖音春节非遗数据报告
-1. 沉浸式感受蜀绣之美
+1. 旺崽的摩洛哥奇遇记
+1. U20国足门票秒售罄
+1. 王曼昱赛后采访
+1. 湖北省委原书记蒋超良被查
+1. 瑞典首相警告欧洲
 1. 张婉莹拿到S级
+1. 美军高官连续遭解雇
 1. 六姊妹大结局
-1. 难哄剧情被网友吐槽恶趣味
 1. 黄灿灿称曾因黄谣失去工作
-1. 黄子韬谈婚后变化
+1. 河南范县发生3.6级地震
 1. 马斯克换头像了
 1. 一周辟谣速报
-1. 李承铉在线炫耀有中国五星卡
-1. 张志磊vs卡巴耶尔赛前状态
-1. 泰安致11死校门口车祸调查报告
 1. 杨幂申请强制执行
+1. 黄子韬谈婚后变化
+1. 李承铉在线炫耀有中国五星卡
 1. 桑延温以凡没谈上就吻上
-1. 旺崽的摩洛哥奇遇记
-1. 我的电子试衣间
-1. 哪吒2海外票房破亿
-1. 狄仁杰牡丹皮肤玩法攻略
-1. 大衣哥：希望社会忘掉朱之文
-1. 小时候做过的那些事
-1. 妻子的浪漫旅行开播
-1. U20国足门票秒售罄
-1. 湖北省委原书记蒋超良被查
-1. 人累了可以靠在咪的胸膛
-1. 玩个很新的东西
-1. 心情不好变成气球飞一会
-1. 小黄豆破防曲我先用了
 1. 郑宇伯上演大心脏逆转
-1. 难哄片花有点东西
+1. 我的电子试衣间
+1. 当00后成为老师
+1. 妻子的浪漫旅行开播
+1. 大衣哥：希望社会忘掉朱之文
+1. 小黄豆破防曲我先用了
+1. 难哄剧情被网友吐槽恶趣味
+1. 小时候做过的那些事
+1. 哪吒2海外票房破亿
+1. 人累了可以靠在咪的胸膛
+1. 心情不好变成气球飞一会
+1. 谢谢亲爱的自己
+1. 王源主打颜值更新版抖音
 1. 六姊妹太心疼大姐了
 1. 难哄导演回应争议镜头
-1. 王源主打颜值更新版抖音
 1. 谁说的桑延藏面条回去吃
-1. 谢谢亲爱的自己
-1. 桑延温以凡逛超市婚后感
-1. 选歌太快被歌骗了
-1. 微波炉运镜就这么水灵灵的来了
-1. 章若楠回应抖音1000多万赞
+1. 玩个很新的东西
+1. 挑战爆改好朋友
 1. 吴镇宇不愧是狠人专业户
-1. 卜冠今自创团队参加演员3
+1. 微波炉运镜就这么水灵灵的来了
+1. 选歌太快被歌骗了
+1. 难哄片花有点东西
+1. 清冷新中式淡妆有多美
 1. 宝宝你看镜头啊
-1. 三拜红尘凉还得黄龄唱
-1. 黄远集佳佳吃了39块钱的雪糕
+1. 卜冠今自创团队参加演员3
+1. 杨晓培说演员被压剧就火不了
 1. AI翻唱版跳楼机
+1. 章若楠回应抖音1000多万赞
+1. 未删减版甄嬛传还在审核中
+1. 我当然知道那不是我的月亮
+1. 蔡徐坤紫色烟熏妆
 
 ## 明星榜
 
@@ -80,14 +80,14 @@
 1. [对视（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogKtIhiB0WfAa18F9z3uWODMtZi2ysB1VuAIsQ) - Sasablue
 1. [Love in the Dark（Phonk House）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIVPxCfsCoYJAJZmt0g8QmFElce9InjXDqAyBR) - 7ovey/uuml
 1. [完美世界_女版_主歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocneCLOQAB6QhCFZmA2YpsLKZjtngZfuabFDE2) - 田园
-1. [红蔷薇白玫瑰 (副歌)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIeiDfeyaEFgM7bXBJMAFCXFInztFks3JDWhx9) - G.E.M.邓紫棋
-1. [总有美好在路上(花在开云在飘笑容在脸上)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oU5u7NwtfBIvaNhoQBszOvAlRiAoiWAVVyBMq4) - 周深
+1. [红蔷薇白玫瑰 (副歌)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIeiDfeyaEFgM7bXBJMAFCXFInztFks3JDWhx9) - G.E.M.邓紫棋
+1. [总有美好在路上(花在开云在飘笑容在脸上)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oU5u7NwtfBIvaNhoQBszOvAlRiAoiWAVVyBMq4) - 周深
 1. [彩虹 （副歌剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/66e0979fd8cb445a8a1813a9277d4696) - TimeZ
 1. [迷失driftaway(Edit)（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogaa1xGNeFO6FCaMgO8PzzAceEI4fBLDMi15H3) - 喪甜老爹&今日网抑
 1. [锈（给你的情诗生了锈）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8a1PBtVqIYbPEGK6e5A4egedVMdm3fCIz6bbE) - 江辰
 1. [KIRA（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0Bq3TvdHqOfzihWrHyABMociuMA3Inwsbx9Wi) - NIKS
 1. [100（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMYwtGyenWApgFhmBjFEgLDatpCZXz7MIGfBCs) - Tizzy T
-1. [你离开的事实（donk进行曲片段2）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYbTglI7EAnwfnMsTI75eUbV4bPGeLkePQafur) - DJ科目三
+1. [你离开的事实（donk进行曲片段2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYbTglI7EAnwfnMsTI75eUbV4bPGeLkePQafur) - DJ科目三
 1. [房间•2025（在这温暖的房间）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMzJcnT8BgIetASeBfwfEeBQVNfACiCifhfZP7g) - 刘兆宇/覆予
 1. [More of My Time (Lofi)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYExObgmbCQ1vXsegnZjJ6BAaDBQetNiGLEo7a) - Muspace Lofi
 1. [芒种（DJ筱轩版）-片段](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooJsZrIeBfMQ0z1n24wO3g6Ged9W0YffmogAVE) - DJ筱轩
