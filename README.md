@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-02-22 21:19:25 +0800`
+`更新时间：2025-02-22 22:15:25 +0800`
 
 ## 抖音热榜
 
 1. U20国足被沙特绝杀无缘世青赛
-1. EDG对阵G2
-1. 全面提升动力电池回收利用能力
 1. 张志磊vs卡巴耶尔
-1. 元流之子射手技能爆料
-1. 漂白剧组道歉
-1. 梁靖崑晋级亚洲杯八强
-1. 漂白受伤替身发声
-1. 许昕点评孙颖莎亚洲杯比赛
-1. 王者荣耀S39赛季前瞻
-1. 下饭杯开赛雪憨憨对战么么酱
-1. 全抖音都在过222
+1. 中国新特产的逆袭之路
+1. EDG对阵G2
+1. 杨戬玩法升级爆料
 1. 哪吒2香港首日开场超5万人
-1. 孙恩盛直播盛典红毯造型
-1. 一周辟谣速报
+1. 梁靖崑晋级亚洲杯八强
+1. 元流之子射手技能爆料
+1. 下饭杯开赛雪憨憨对战么么酱
 1. 抖音直播盛典晚会
-1. 用烧火棍在墙上画敖丙
-1. 抖音直播盛典红毯包出片的
+1. 许昕说就猜到王楚钦想潇洒一个
+1. 娜可露露李白暃沈梦溪加强
+1. 全抖音都在过222
 1. 小学生模仿哪吒2名场面
+1. 一周辟谣速报
+1. 孙恩盛直播盛典红毯造型
 1. 有点心疼这个小机器人了
-1. 俄或同意动用3000亿美元重建乌
+1. 用烧火棍在墙上画敖丙
 1. 出门动动为春天添彩
 1. 一人一猫骑车走过雪山
-1. 馕言文挑战
+1. 俄或同意动用3000亿美元重建乌
 1. 服务员大妈被詹姆斯拥抱
+1. 馕言文挑战
 1. 哪吒2的仙魔从哪里来
 1. 檀健次新剧被一个镯子拿下
+1. 开春穿点帅的
+1. 王者终极觉醒玩法爆料
 1. 如何实现用1块钱穿越中国
-1. 混剪哪吒2经典名场面
+1. 漂白剧组道歉
 1. 迪士尼在逃公主红毯造型
+1. 漂白受伤替身发声
 1. 桑延温以凡用蝴蝶定情
 1. 哪吒2总票房超130亿
-1. 开春穿点帅的
-1. 龙王夫妇直播盛典红毯造型
-1. 大衣哥：希望社会忘掉朱之文
+1. 抖音直播盛典红毯包出片的
+1. 一起跳胜利之舞146
+1. 混剪哪吒2经典名场面
+1. 被六姊妹老三怼老六爽到了
 1. 谢谢亲爱的自己
 1. 我的电子试衣间
-1. 孙颖莎vs张本美和
-1. 皮皮朱直播盛典红毯造型
-1. 用李羲承进行曲打开各地文旅
-1. 一起跳胜利之舞146
-1. 被六姊妹老三怼老六爽到了
-1. 小黄豆破防曲我先用了
 1. 微波炉运镜就这么水灵灵的来了
+1. 当父母加入颜值圈
+1. 龙王夫妇直播盛典红毯造型
+1. 用李羲承进行曲打开各地文旅
+1. 小黄豆破防曲我先用了
+1. 皮皮朱直播盛典红毯造型
+1. 大衣哥：希望社会忘掉朱之文
 1. 选歌太快被歌骗了
-1. 当00后成为老师
-1. 王心凌宁波演唱会
-1. 吴镇宇不愧是狠人专业户
-1. 玩个很新的东西
 1. 难哄片花有点东西
+1. 当00后成为老师
+1. 黄明昊杨超越麦克风接棒
 
 ## 明星榜
 
@@ -80,23 +80,23 @@
 1. [对视（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogKtIhiB0WfAa18F9z3uWODMtZi2ysB1VuAIsQ) - Sasablue
 1. [Love in the Dark（Phonk House）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIVPxCfsCoYJAJZmt0g8QmFElce9InjXDqAyBR) - 7ovey/uuml
 1. [完美世界_女版_主歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocneCLOQAB6QhCFZmA2YpsLKZjtngZfuabFDE2) - 田园
-1. [红蔷薇白玫瑰 (副歌)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIeiDfeyaEFgM7bXBJMAFCXFInztFks3JDWhx9) - G.E.M.邓紫棋
+1. [红蔷薇白玫瑰 (副歌)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIeiDfeyaEFgM7bXBJMAFCXFInztFks3JDWhx9) - G.E.M.邓紫棋
 1. [总有美好在路上(花在开云在飘笑容在脸上)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oU5u7NwtfBIvaNhoQBszOvAlRiAoiWAVVyBMq4) - 周深
-1. [彩虹 （副歌剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/66e0979fd8cb445a8a1813a9277d4696) - TimeZ
+1. [彩虹 （副歌剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/66e0979fd8cb445a8a1813a9277d4696) - TimeZ
 1. [迷失driftaway(Edit)（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogaa1xGNeFO6FCaMgO8PzzAceEI4fBLDMi15H3) - 喪甜老爹&今日网抑
 1. [锈（给你的情诗生了锈）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8a1PBtVqIYbPEGK6e5A4egedVMdm3fCIz6bbE) - 江辰
 1. [KIRA（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0Bq3TvdHqOfzihWrHyABMociuMA3Inwsbx9Wi) - NIKS
-1. [100（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMYwtGyenWApgFhmBjFEgLDatpCZXz7MIGfBCs) - Tizzy T
+1. [100（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMYwtGyenWApgFhmBjFEgLDatpCZXz7MIGfBCs) - Tizzy T
 1. [你离开的事实（donk进行曲片段2）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYbTglI7EAnwfnMsTI75eUbV4bPGeLkePQafur) - DJ科目三
 1. [房间•2025（在这温暖的房间）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMzJcnT8BgIetASeBfwfEeBQVNfACiCifhfZP7g) - 刘兆宇/覆予
 1. [More of My Time (Lofi)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYExObgmbCQ1vXsegnZjJ6BAaDBQetNiGLEo7a) - Muspace Lofi
 1. [芒种（DJ筱轩版）-片段](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooJsZrIeBfMQ0z1n24wO3g6Ged9W0YffmogAVE) - DJ筱轩
 1. [Rainforest Flow（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o82ZpjE8IjV4PcDft5nvUtgQDfCyFAMO7BbniY) - Blue浪仔
 1. [只你(直到幸福能触手可及)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
-1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
+1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [Panic](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAmDmzQbIEdf8xCAjOntKDYBCMvBN5RfgCWF4Z) - elzio
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
-1. [哪吒哪吒](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUkQCgCDnBanFehFEFQDxCQntAOIfp9gyZYFVo) - 沪滔
+1. [哪吒哪吒](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUkQCgCDnBanFehFEFQDxCQntAOIfp9gyZYFVo) - 沪滔
 1. [苹果香Dj（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEeIEQbYGAOspCTRAIeYF4Ok8LgZ8NBaRe4ztR) - 黑大婶回乡带娃
 1. [Sea Of Lim](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIWFJ2IQh9BiwiNrlHsb7rf82ZBbgABM3QPzYZ) - Hhe
 1. [一个人去巴黎_易易](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okIXMCA0ZWZlCbDnuFaVfW7ySiitEEEgCf1IB3) - 易易
