@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-02-23 12:20:48 +0800`
+`更新时间：2025-02-23 13:16:39 +0800`
 
 ## 抖音热榜
 
 1. 湖人终结掘金9连胜
-1. 宋亚东vs塞胡多
+1. 宋亚东技术判定战胜赛胡多
 1. 我国成功发射中星10R卫星
 1. 张本智和比赛中途换衣服的原因
-1. 北方出现了一只火老虎
-1. U20国足被沙特绝杀无缘世青赛
+1. 孙颖莎4:0陈幸同
+1. 东契奇首节轰16分
 1. 哪吒2总票房超135亿
-1. 娜可露露李白暃沈梦溪加强
-1. 许昕点评孙颖莎亚洲杯比赛
-1. 王者终极觉醒玩法爆料
 1. 当小孩哥误入魔术舞台
-1. 小学生模仿哪吒2名场面
-1. 有点心疼这个小机器人了
-1. 心脏支架会加速死亡系谣言
-1. 杨超越黄明昊跳Trouble Maker
-1. 沈月回忆去世的小猫
 1. 向太包场请全公司看哪吒2
-1. EDG战胜G2晋级四强
+1. 沈月回忆去世的小猫
+1. 北方出现了一只火老虎
+1. 王者终极觉醒玩法爆料
 1. 考研人查成绩状态
-1. 张志磊不敌卡巴耶尔
-1. 一人一猫骑车走过雪山
-1. 龙王夫妇直播盛典红毯造型
-1. 用李羲承进行曲打开各地文旅
-1. 蔡明说李小冉不适合做领队
+1. 心脏支架会加速死亡系谣言
 1. 服务员大妈被詹姆斯拥抱
-1. 檀健次新剧被一个镯子拿下
-1. 迪士尼在逃公主甜度超标
-1. 张婉莹演的白娘子是毒蛇
-1. 漂白剧组道歉
-1. 漂白受伤替身发声
-1. 周杰伦五月天合唱任性
-1. 当父母加入颜值圈
-1. 仙台有树宿命感
-1. 桑延被温以凡亲红温了
+1. 有点心疼这个小机器人了
+1. EDG战胜G2晋级四强
+1. 挑战李羲承进行曲多人版
+1. 用李羲承进行曲打开各地文旅
+1. 张志磊不敌卡巴耶尔
 1. 出门动动为春天添彩
-1. 听小甜哥何秋亊唱小甜歌
+1. 龙王夫妇直播盛典红毯造型
+1. 张婉莹演的白娘子是毒蛇
+1. 迪士尼在逃公主甜度超标
+1. 小学生模仿哪吒2名场面
+1. 春天的第一次野餐
+1. 当父母加入颜值圈
+1. 周杰伦五月天合唱任性
+1. 漂白剧组道歉
+1. 杨超越黄明昊跳Trouble Maker
+1. 仙台有树宿命感
+1. 哪吒2到底要炸出多少民间高手
+1. 檀健次新剧被一个镯子拿下
 1. 白鹿北上霸气护闺蜜
-1. 孙颖莎4:2张本美和
-1. 王心凌宁波演唱会
-1. 哪吒2的仙魔从哪里来
 1. 馕言文挑战
-1. 一起跳胜利之舞146
 1. 谢谢亲爱的自己
-1. 在广州感觉不可思议的地方
-1. 开春穿点帅的
-1. 刘晓庆超绝身体素质
-1. 用烧火棍在墙上画敖丙
 1. 我的电子试衣间
-1. 当国色芳华的角色打王者
+1. 孙颖莎4:2张本美和
+1. 刘晓庆超绝身体素质
+1. 孙恩盛舞台对我眼睛很友好
 1. 抖音直播盛典红毯包出片的
+1. 一人一猫骑车走过雪山
+1. 听小甜哥何秋亊唱小甜歌
+1. 谁懂三斤唱歌的感染力
+1. 哪吒2的仙魔从哪里来
+1. 开春穿点帅的
+1. 张杰凡希亚合唱Angel
+1. 一起跳胜利之舞146
+1. 在广州感觉不可思议的地方
+1. 我知道自己太普通
 
 ## 明星榜
 
@@ -76,12 +76,12 @@
 
 ## 音乐榜
 
-1. [没有如果（热恋版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4iETqbxIThtCXlBeV0DfAhZsbCFGhagYupnMx) - 大表哥Sophie、迦勒
+1. [没有如果（热恋版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4iETqbxIThtCXlBeV0DfAhZsbCFGhagYupnMx) - 大表哥Sophie、迦勒
 1. [对视（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogKtIhiB0WfAa18F9z3uWODMtZi2ysB1VuAIsQ) - Sasablue
 1. [Love in the Dark（Phonk House）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIVPxCfsCoYJAJZmt0g8QmFElce9InjXDqAyBR) - 7ovey/uuml
-1. [完美世界_女版_主歌](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocneCLOQAB6QhCFZmA2YpsLKZjtngZfuabFDE2) - 田园
+1. [完美世界_女版_主歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocneCLOQAB6QhCFZmA2YpsLKZjtngZfuabFDE2) - 田园
 1. [红蔷薇白玫瑰 (副歌)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIeiDfeyaEFgM7bXBJMAFCXFInztFks3JDWhx9) - G.E.M.邓紫棋
-1. [总有美好在路上(花在开云在飘笑容在脸上)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oU5u7NwtfBIvaNhoQBszOvAlRiAoiWAVVyBMq4) - 周深
+1. [总有美好在路上(花在开云在飘笑容在脸上)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oU5u7NwtfBIvaNhoQBszOvAlRiAoiWAVVyBMq4) - 周深
 1. [彩虹 （副歌剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/66e0979fd8cb445a8a1813a9277d4696) - TimeZ
 1. [迷失driftaway(Edit)（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogaa1xGNeFO6FCaMgO8PzzAceEI4fBLDMi15H3) - 喪甜老爹&今日网抑
 1. [锈（给你的情诗生了锈）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8a1PBtVqIYbPEGK6e5A4egedVMdm3fCIz6bbE) - 江辰
@@ -96,7 +96,7 @@
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [Panic](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAmDmzQbIEdf8xCAjOntKDYBCMvBN5RfgCWF4Z) - elzio
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
-1. [哪吒哪吒](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUkQCgCDnBanFehFEFQDxCQntAOIfp9gyZYFVo) - 沪滔
+1. [哪吒哪吒](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUkQCgCDnBanFehFEFQDxCQntAOIfp9gyZYFVo) - 沪滔
 1. [苹果香Dj（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEeIEQbYGAOspCTRAIeYF4Ok8LgZ8NBaRe4ztR) - 黑大婶回乡带娃
 1. [Sea Of Lim](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIWFJ2IQh9BiwiNrlHsb7rf82ZBbgABM3QPzYZ) - Hhe
 1. [一个人去巴黎_易易](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okIXMCA0ZWZlCbDnuFaVfW7ySiitEEEgCf1IB3) - 易易
