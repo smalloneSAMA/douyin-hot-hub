@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-02-28 19:15:56 +0800`
+`更新时间：2025-02-28 20:34:11 +0800`
 
 ## 抖音热榜
 
-1. EDG胜决对阵G2
+1. EDG不敌G2掉入败者组
 1. 下饭杯整活之夜全员FLAG
-1. 赏春还得是中式美学
+1. 稳中求进 韧中蓄势
 1. 萌娃：你能不能成熟点
 1. 余华英被执行死刑
-1. 春天穿欧若日日是好日
-1. 直到上了大学才发现
-1. 全抖音都在蹲的精选内容
 1. 库里12记三分砍56分
-1. 青春是无法回放的电影
-1. 二月的最后一天
+1. 春天穿欧若日日是好日
+1. 女生遭侵犯溺亡案二审改判死刑
+1. 全抖音都在蹲的精选内容
+1. 怦然新动的冬天在新疆
 1. 穿越剧常备的“七星连珠”来了吗
-1. 女生的早春打工人穿搭
-1. 早春省心穿搭
+1. 这些照片不能晒
+1. 桑延温以凡恋爱加急
 1. 余华英案始末
 1. A股
-1. 桑延告白温以凡让九年圆满
-1. 树下有片红房子大结局
-1. 桑延温以凡恋爱加急
-1. 这些照片不能晒
 1. 校园版李羲承进行曲
+1. 直到上了大学才发现
+1. 树下有片红房子大结局
+1. 青春是无法回放的电影
+1. 二月的最后一天
+1. 女生的早春打工人穿搭
 1. 实测小米SU7 Ultra
-1. 沈梦溪体验服调整上线
-1. Smoggy：这仅仅只是个开始
-1. 雷军喊话大家别抠车标了
-1. 雷军说SU7 Ultra预订量超乎想象
 1. 各行各业开跳胜利之舞
-1. 不要放过这个超可爱的田曦薇
-1. 详解哪吒2的票房分账规则
-1. 绍伊古抵达北京
-1. 薛之谦发抖音告别火星情报局
+1. 黄明昊你信杨超越真不是想的那样
+1. 早春省心穿搭
 1. 百忙之中抽空谈个恋爱
-1. 起猛了在时装周上看到小剧场了
+1. 薛之谦发抖音告别火星情报局
+1. 当外国人听到来财
+1. 桑延告白温以凡让九年圆满
+1. 不要放过这个超可爱的田曦薇
+1. 绍伊古抵达北京
+1. 滤镜剧情不按套路出牌
 1. 张艺兴郑州演唱会
 1. 在猫猫的脸上看到了震惊
 1. 方媛遭抢劫后报平安
 1. 小米SU7 Ultra正式上市
-1. 滤镜剧情不按套路出牌
-1. 苏新皓出发六次归来仍是起点
-1. 这届少女也太敢了吧
-1. 这届达人又在云南整活儿
 1. take me真的仙品
+1. 成龙张艺谋等众人现身三里屯
 1. 林俊杰现身伯克利音乐学院
+1. 起猛了在时装周上看到小剧场了
 1. 我老爸得了MVP是什么梗
 1. 感谢你曾经来过满满回忆杀
-1. 黄金价格持续震荡现在能入手吗
+1. 树下有片红房子豆瓣开分
+1. 雷军喊话大家别抠车标了
+1. 这届达人又在云南整活儿
+1. 祝你永远Hakuna Matata
+1. 雷军说SU7 Ultra预订量超乎想象
 1. 法国外交部：欧洲将力保乌安全
-1. 中国男篮96黄金一代再聚首
-1. 黄奕新剧人设是主人级别的
+1. Bass舞蹈逐渐离谱
 
 ## 明星榜
 
@@ -77,10 +77,9 @@
 
 1. [Kiss Kiss Shy Shy（Sped Up）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYpXDAeGgQK0zfPaji7iKUixpCXFGILeLGmvYA) - 李要红RedLi
 1. [Princess 1.3x（Cover XMASwu）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oU6YhPwII3eJFLR91gaQqABmJlDWCKGVaYGezf) - Playboy
-1. [对视（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogKtIhiB0WfAa18F9z3uWODMtZi2ysB1VuAIsQ) - Sasablue
 1. [困住你的不是别人(李羲承进行曲)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okWrrVL1iQGZbfHVeCPAe7IaerYfM2jEQi5mNI) - DJ阿智
 1. [跳楼机（神兔小P Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMv1ki9tiMuIghi4bJfevCNCZ74BnBNSAQYyBb) - 神兔小P
-1. [完美世界_女版_主歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocneCLOQAB6QhCFZmA2YpsLKZjtngZfuabFDE2) - 田园
+1. [月亮翻过小山坡（架子鼓版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMNeN2LYSVP6MMtoAQFGfeQDeftQqYPEErIl8Y) - 王海颖、孙圳翰
 1. [wilderness beat](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0oBmODSFCpfFdLRGzAAFC2ah9AIMEQfAOueVE) - R.RAIU
 1. [Unchanged Mind（Uloeeia Remix）（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIHYu1YfsziJqmggAqBsXOiiI2Y1QB6I61RsMW) - Uloeeia
 1. [Love Beat  (爱的心跳）（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUlARwvEINIisZ9nCnKMZiYFGfCCYLtDADDBge) - Zy
@@ -88,8 +87,9 @@
 1. [可可爱爱](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0deb1e75aea643b9927ba26aaafa29dd) - 西瓜milk
 1. [搀扶（DJ音符 Remix）（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okcfAi4dBAxsyB5TMXHgEVnk5FiWqzdmQGAQIU) - DJ音符
 1. [落（0.8降调剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ociN0WUv3APijBYr6DUmAHmdkZ5MjM6gIF3iA) - 唐伯虎Annie
-1. [此生无憾](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIauh7EisB4QhNZIAdTkdMWTv0irW9pigY61I) - 谙然
-1. [鸳鸯戏（DJ花子默 Remix）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ownCDSJwkB2QQCFZvAdYq2YRsitBgVfeddBDE0) - DJ花子默
+1. [对视（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogKtIhiB0WfAa18F9z3uWODMtZi2ysB1VuAIsQ) - Sasablue
+1. [此生无憾](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIauh7EisB4QhNZIAdTkdMWTv0irW9pigY61I) - 谙然
+1. [鸳鸯戏（DJ花子默 Remix）（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ownCDSJwkB2QQCFZvAdYq2YRsitBgVfeddBDE0) - DJ花子默
 1. [没关系（AY Collins Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIBbI5Ghw4zdUCQMJrDEFaAQilZP3EIDSi7MW) - AY Collins
 1. [哪吒哪吒](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUkQCgCDnBanFehFEFQDxCQntAOIfp9gyZYFVo) - 沪滔
 1. [reminds me of you](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAMZBDnCFAxfYh70DAIm4tFu8CQBGgfyEUtWsG) - Luv8z
