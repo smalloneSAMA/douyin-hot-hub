@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-19 22:20:52 +0800`
+`更新时间：2025-05-19 23:22:08 +0800`
 
 ## 抖音热榜
 
-1. 潘展乐200米自由泳夺冠
 1. 陈奕迅发文报平安
-1. 以旧换新政策效应持续释放
-1. 韩勇受贿2.61亿被判死缓
+1. 潘展乐200米自由泳夺冠
+1. 外国人眼中的中国式现代化
 1. 孙颖莎王楚钦战胜巴西组合
 1. WOD世界舞蹈大赛
-1. 今晚起加满一箱油将少花9元
+1. 约基奇赛后回应休赛期的打算
+1. 小米YU7本周发布
 1. 特朗普与普京电话会谈
 1. 华为nova14正式发布
-1. 小米YU7本周发布
-1. 外交部回应印巴局势
+1. 今晚起加满一箱油将少花9元
+1. 官方通报网传凤阳鼓楼坍塌
+1. 王楚钦换球拍
 1. 鸿蒙电脑正式发布
-1. 周也张宥浩撕拉片报废了
 1. 张九龄结婚
-1. 潘展乐2天2冠
-1. 陈冠希音乐节现场
+1. 藏海不敢与故人相认看哭了
+1. 甘薇让大家别替赵丽颖操心
+1. 娄艺潇还原福建三大渔女造型
+1. 拜登确诊癌症 特朗普发声
+1. 河南高温
+1. 黄杨钿甜事件合理质疑应有回应
 1. 被模仿吃饭的“韩国霸总”来抖音了
 1. 肖战藏海笑模仿
-1. 甘薇让大家别替赵丽颖操心
-1. 黄杨钿甜事件合理质疑应有回应
-1. 歌手叶晓粤辟谣陈奕迅去世
-1. 藏海传首播观后感
-1. 普通人挑战陈楚生的将进酒
-1. 华为nova14上手体验
-1. 潘展乐称奥运会后曾失去目标
-1. 情侣关系越稳定越容易一起变胖
-1. 黄杨钿甜同款耳环仿款售价不到百元
-1. 测完520礼物我笑了
-1. 藏海回京第一章复仇
-1. 谭乔回访15年前破电动车情侣
-1. 开始流行在楼梯间唱珠玉
-1. 人生几何能够得到知己
-1. 林志炫回应悟空争议
+1. 陈冠希音乐节现场
+1. 周也张宥浩撕拉片报废了
 1. 这跟和王安宇谈了有什么区别
-1. 水饺皇后马丽真诚永远是必杀技
-1. 拜登确诊癌症 特朗普发声
+1. 演员隋永清去世 曾出演霸王别姬
 1. 拜登确诊前列腺癌
+1. 虞书欣父亲否认侵吞国有资产传言
+1. 普通人挑战陈楚生的将进酒
+1. 敖瑞鹏喂喂喂手势舞
+1. 黄杨钿甜同款耳环仿款售价不到百元
+1. 华为nova14上手体验
+1. 藏海传首播观后感
+1. 情侣关系越稳定越容易一起变胖
+1. 人生几何能够得到知己
+1. 最吵的游戏出现了
+1. 年轮DJ舞蹈挑战
 1. 黄子韬卫生巾首场卖了4000万
+1. 林志炫回应悟空争议
 1. 单依纯在抖音批改翻唱作业
-1. 安静公主术后近况
-1. 姚晓棠：这样算不算靠近一点
-1. 藏海传抖音追剧团
+1. 开始流行在楼梯间唱珠玉
+1. 藏海回京第一章复仇
+1. 水饺皇后马丽真诚永远是必杀技
+1. 歌手叶晓粤辟谣陈奕迅去世
+1. 潘展乐称奥运会后曾失去目标
 1. 维生素B2带来的浪漫
-1. 今天是中国旅游日
-1. 逃离北上广的向往的生活
-1. 520民歌表白挑战
-1. idle回归
-1. 河南高温
-1. 金价快速回调一周跌近40元
+1. 谭乔回访15年前破电动车情侣
+1. 测完520礼物我笑了
+1. 邓紫棋演唱会的生命力
 
 ## 明星榜
 
@@ -75,50 +75,50 @@
 
 ## 音乐榜
 
-1. [亲爱的你啊（架子鼓版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQ8zBalRBNpHRmusUICfgeMkA9WtBQFkN0MEeQ) - 任素汐
+1. [亲爱的你啊（架子鼓版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQ8zBalRBNpHRmusUICfgeMkA9WtBQFkN0MEeQ) - 任素汐
 1. [那些喊给天空的（氛围版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooWf7FAsyENGLEYQ4OFfBCALsL1tfsQmzKD4au) - 黄子弘凡
 1. [千万次想象（让我再相爱一场）](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogtrB9fDQQnNZ7ot3eQowHpn8BnCtEp9FQs4Yg) - 张杰
-1. [去远方（DJ达苏deep Remix）（剪辑版）](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooaOxhHMIE6NFYbALvotYDFBGMnUNfufgCOF0Z) - DJ达苏deep
-1. [可爱又迷人的反派角色](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4xaBGOGBYFfBDwWyZesbfgJWAEhOCD4QQQzNF) - 神兔小P
-1. [奇不奇怪 （何勒巴 Remix）（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUKtOfOpTgxZDS3YPLhECSBD1A9FQWfnn7pkN3) - 何勒巴
-1. [风吹雾（前奏）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oo4MQeLZDVEH22zLBUGFYcF3z1OA6CAae9IReg) - Adoreya
+1. [去远方（DJ达苏deep Remix）（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooaOxhHMIE6NFYbALvotYDFBGMnUNfufgCOF0Z) - DJ达苏deep
+1. [可爱又迷人的反派角色](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4xaBGOGBYFfBDwWyZesbfgJWAEhOCD4QQQzNF) - 神兔小P
+1. [奇不奇怪 （何勒巴 Remix）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUKtOfOpTgxZDS3YPLhECSBD1A9FQWfnn7pkN3) - 何勒巴
+1. [风吹雾（前奏）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oo4MQeLZDVEH22zLBUGFYcF3z1OA6CAae9IReg) - Adoreya
 1. [母亲节快乐（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUcHhITMzJuDOAw1QhNaBpIB5fYikzgW2Ics85) - 闫辽艳
 1. [@𝟱 𝟳 𝟱 𝟳 🅴创作的原声](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8RW7iaBQKlAwKaifQ0sAEByIsbsRDMVaHJgmh) - 𝟱 𝟳 𝟱 𝟳 🅴/于佐伊ZOE
-1. [“Free” 100%晴天（Pop x Trap Type Beat）（剪辑版）](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oklIfCDEeJ0A2FZ5okQddHNtgI3SB4EMbt9iEZ) - DOS BeatSpace
-1. [第57次取消发送（回忆成了大问题）](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0kYgfCQctDAAJo29FwntqEXWDg1fSCqZGBGoC) - 菲菲公主
+1. [“Free” 100%晴天（Pop x Trap Type Beat）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oklIfCDEeJ0A2FZ5okQddHNtgI3SB4EMbt9iEZ) - DOS BeatSpace
+1. [第57次取消发送（回忆成了大问题）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0kYgfCQctDAAJo29FwntqEXWDg1fSCqZGBGoC) - 菲菲公主
 1. [心跳（你又在哭泣我给不了安慰）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owJHiEhBzAg7AaUiiNwMhBIIWAKhf8tQ6sM8Tk) - 王力宏
-1. [战斗吧(纯音乐)（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEzFwAbDRg2WjofCeUBFZrCyk1Iq8Et7n3r1Ub) - Meet遇见
+1. [战斗吧(纯音乐)（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEzFwAbDRg2WjofCeUBFZrCyk1Iq8Et7n3r1Ub) - Meet遇见
 1. [藍色多瑙河交響 (F)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d69c80e2d9b54b02a5c75847434abb3f) - Music Time
 1. [干物女（神兔小P Remix）（剪辑版3）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE9CiACiCImwlZQgjitaVfMMWVzJBfHBC5Mnio) - 神兔小P
 1. [Lojd(Meo)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYMb3QBghYSKtXearER8gfjH4cDWCzAerQQ0FB) - Hhe
-1. [可可爱爱](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0deb1e75aea643b9927ba26aaafa29dd) - 西瓜milk
-1. [COME BABY!](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osm0iU1kiHQggALFYWABx6awvrMPPEP9UIVVA) - BOKIE
-1. [夏至未至（0.9钢琴治愈版）](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYAtrzJIoEfmA5stWQNUAhyOxqsdyBdrhM2AQc) - 彭小羽&林尘宇
+1. [可可爱爱](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0deb1e75aea643b9927ba26aaafa29dd) - 西瓜milk
+1. [COME BABY!](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osm0iU1kiHQggALFYWABx6awvrMPPEP9UIVVA) - BOKIE
+1. [夏至未至（0.9钢琴治愈版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYAtrzJIoEfmA5stWQNUAhyOxqsdyBdrhM2AQc) - 彭小羽&林尘宇
 1. [搀扶（施正泽 Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogTPZzgFoINBtYAePBDF709EM4DQZxCKogf22q) - 施正泽
 1. [妈妈陪我长大了（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o43tOf3TB6QsKzHIMZ2gPOCrMdhWGzRmQGAxIx) - 陈小满 & 庄淇文29
 1. [时尚动感放克律动  Funk Caravan Main](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAyFQR8bXIqQGVLMZEOYDe7gEeroAqeSyfNGIe) - MangoAudio
 1. [ 错爱（磨尖的粉笔 Remix）（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oInI7BfWhpMKzEsFWPQZIaiihIp6DzL6BhAYAW) - 磨尖的粉笔
 1. [第57次取消发送（加速版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEDrvBBf01vA5isUzVXkXQoWwIp1AXdMCZwXip) - 菲菲公主
-1. [小可爱萌萌哒（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o098PJOKQDoG5CXAUhktynfBGo7kNt5bgCNeIZ) - 李佳语
+1. [小可爱萌萌哒（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o098PJOKQDoG5CXAUhktynfBGo7kNt5bgCNeIZ) - 李佳语
 1. [探故知](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4AvrnFBuC0EtOFZgPYZaeCDIugfasqonUlQlD) - _砚安
-1. [Hide Away (Alan Walker Remix)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocP7Z8JmmIQqtTBezBOFCwxEMoDH9SCEigfnGv) - Daya & Alan Walker
-1. [春禾](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMFBgdlu2fPY8CKEJfMLeQxUG3XzQuXA4PAam2) - Youzee Music
-1. [游京DJ](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYviZIAIBFiVrTrEcLWIMUDtwsEO88yZv78Q5) - 瑞悦儿
-1. [月亮翻过小山坡（架子鼓版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMNeN2LYSVP6MMtoAQFGfeQDeftQqYPEErIl8Y) - 王海颖、孙圳翰
+1. [Hide Away (Alan Walker Remix)](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocP7Z8JmmIQqtTBezBOFCwxEMoDH9SCEigfnGv) - Daya & Alan Walker
+1. [春禾](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMFBgdlu2fPY8CKEJfMLeQxUG3XzQuXA4PAam2) - Youzee Music
+1. [游京DJ](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYviZIAIBFiVrTrEcLWIMUDtwsEO88yZv78Q5) - 瑞悦儿
+1. [月亮翻过小山坡（架子鼓版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMNeN2LYSVP6MMtoAQFGfeQDeftQqYPEErIl8Y) - 王海颖、孙圳翰
 1. [空灵之波（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYQwYaCymlLYKSGgeLINeRu9GfP1DItAMBSeEg) - WindFi风歌
-1. [爆炸](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/305dc842daa44f0a8641a1005d02d6a7) - BCD Studio
-1. [未闻花名十孔口琴版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocelotejgCCvAZBSDXDHcZ8BDzAbo8pPtqkgQn) - 蓝馍馍
+1. [爆炸](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/305dc842daa44f0a8641a1005d02d6a7) - BCD Studio
+1. [未闻花名十孔口琴版](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocelotejgCCvAZBSDXDHcZ8BDzAbo8pPtqkgQn) - 蓝馍馍
 1. [Hening di Dalam Bayang（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIKhMLGfm1CTbwef3oIg0nEKVT6AQR3uUgeIg4) - 一树星火
-1. [虚拟（疯狂的海海 Remix）（剪辑版）](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYAKBEPecivrSWEHIziBzpvKMsJjQSFuAhhjOs) - 疯狂的海海
-1. [萱草花-钢琴版](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/27fec0747580412fb35f4ff841126bac) - 叮哈哈
+1. [虚拟（疯狂的海海 Remix）（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYAKBEPecivrSWEHIziBzpvKMsJjQSFuAhhjOs) - 疯狂的海海
+1. [萱草花-钢琴版](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/27fec0747580412fb35f4ff841126bac) - 叮哈哈
 1. [都不懂](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUsgMiC2CfgtAmQmZy0BBHsLDEMFIQFkXDC5fD) - yihuik苡慧
 1. [别分离就是了](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMrvB4kaAl1J21r1B5IyjAdkJMWUil4OYbWsi) - 赵美竹
 1. [母亲节快乐(纯音乐)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owheRAAfZXPHCRnk58wBbMvB8z8tQDFgD2lNBL) - 郭丹妮
-1. [西厢寻他（0.8x）片段](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oErz4cRHFBDyKs5ZwIig1SoBVfDE5KiiAWAKsM) - slow_77
+1. [西厢寻他（0.8x）片段](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oErz4cRHFBDyKs5ZwIig1SoBVfDE5KiiAWAKsM) - slow_77
 1. [哎呀我滴天呐（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okx1mfzRsWgPzMdICmhIUEABIGGQhLsbUyt8RC) - 雪人
-1. [蜜桃物语](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
-1. [好想我回来啊](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osBkHjBB5f8Dt1eZIIUHQtCQCHgbqYIkI2pIxn) - 华晨宇
-1. [脆弱的女人（1.2x）](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIXEjuo8QUjagLfCqfjDfDkzvFFFJJ7AumBPYy) - 卡西恩
+1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
+1. [好想我回来啊](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osBkHjBB5f8Dt1eZIIUHQtCQCHgbqYIkI2pIxn) - 华晨宇
+1. [脆弱的女人（1.2x）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIXEjuo8QUjagLfCqfjDfDkzvFFFJJ7AumBPYy) - 卡西恩
 
 ## 品牌榜
 
