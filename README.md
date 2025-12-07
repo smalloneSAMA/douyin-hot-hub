@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-07 07:19:31 +0800`
+`更新时间：2025-12-07 09:46:14 +0800`
 
 ## 抖音热榜
 
-1. 八国外长发表联合声明
-1. 车臣首府被袭击
+1. 马克龙发访华视频集锦
+1. 我在抖音刷到煮鸡蛋神了
 1. 兴趣消费释放文旅新动能
-1. 北京国安夺得足协杯冠军
-1. 杭州动物园黑熊袭击饲养员
-1. AG3:0TE溯
 1. 终于找到懂车弟了
-1. 这次B太的伞撑给了重庆妈妈
-1. 重卡油改电带动千亿投资
 1. 豆包AI手机深度体验
 1. 2025年度宝藏手搓大神
-1. 深圳：网传“318号函”系伪造
-1. 2025尖叫之夜
-1. 为什么马克龙访华要看都江堰
-1. 自制莓果巧克力冷萃酸奶夹
-1. 尖叫之夜CP大乱炖
-1. 阿富汗和巴基斯坦边境爆发冲突
-1. 16年注册CFM是什么梗
-1. 美军通报美舰误判击落自家战机
-1. 明星都来尖叫之夜了
-1. 运钞大劫案邻居爆改凶手
-1. 电影得闲谨制北京首映礼
-1. 狙击蝴蝶弟弟直球攻略姐姐
-1. 当赵露思遇上苹果
-1. 和夏奇拉一起挑战ZOO舞蹈
+1. 曾上头抽象编舞
+1. 白鹿曾舜晞唱着唱着就抱上了
+1. 重卡油改电带动千亿投资
+1. 北京国安夺得足协杯冠军
+1. 新疆高速多车追尾致9死7伤
 1. 王师傅洋妈战胜肖他小白
-1. 真周到冬天还要给大闸蟹穿棉衣
-1. 尖叫之夜内场
-1. 锦绣中华里的百样非遗
-1. 韩国凑不齐的五个云南凑齐了
-1. 白鹿澳门街头在逃黑天鹅
-1. 王一博手滑掉海里
-1. 聂九罗画中人转场帅炸了
-1. 2025尖叫之夜节目单
-1. 美军3架坠海超级大黄蜂战机未找回
-1. 此人蛋商恐怕在我之上
-1. 枭起青壤人枭黑白涧终战
-1. 普京怒斥美国
-1. 44岁宋智孝自曝一周喝5次酒
-1. 当你遇到顶级网感的网友
+1. 2025尖叫之夜
+1. AG3:0TE溯
+1. 李兰迪敖瑞鹏合唱氛围感
+1. 明星都来尖叫之夜了
+1. 尖叫之夜CP大乱炖
+1. 杭州动物园黑熊袭击饲养员
+1. 自制莓果巧克力冷萃酸奶夹
+1. 狙击蝴蝶弟弟直球攻略姐姐
+1. 和夏奇拉一起挑战ZOO舞蹈
 1. 尖叫之夜红毯光影盲盒
-1. 背后真的有高人指点
-1. 请把这条视频推给我的男朋友
-1. 抚慰犬：又怎么了我的大小姐
-1. 2025届喜人毕业快乐
-1. coke方圆把痞感氛围拿捏了
-1. 得闲谨制值得一看吗
+1. 电影得闲谨制北京首映礼
+1. 用111亿方块复刻唐朝盛世
+1. 韩国凑不齐的五个云南凑齐了
+1. 光栅壁纸我先用上了
+1. 聂九罗画中人转场帅炸了
+1. 16年注册CFM是什么梗
 1. 这家小店值得上烟火榜
-1. 跟喜夜2告别
+1. 王一博手滑掉海里
+1. 当你遇到顶级网感的网友
+1. 大家好我是尹正我演鬼子
+1. 枭起青壤人枭黑白涧终战
+1. 为什么马克龙访华要看都江堰
+1. 抚慰犬：又怎么了我的大小姐
+1. 云南滇疯舞团没有瓶颈期
+1. 普京怒斥美国
+1. 得闲谨制值得一看吗
+1. 心做摇舞蹈挑战
+1. 44岁宋智孝自曝一周喝5次酒
+1. 2025届喜人毕业快乐
+1. 美军通报美舰误判击落自家战机
+1. 这次B太的伞撑给了重庆妈妈
+1. 背后真的有高人指点
+1. 张桂源好帅的吸溜舞
+1. 马克龙奔跑与川大学生见面
 1. 小女孩不语只是一味地敲敲敲
+1. 唐诡陆续走红毯也在宠我
+1. 迈阿密国际3:1温哥华白浪
+1. 解放军潜艇罕见集群机动
 
 ## 明星榜
 
@@ -79,22 +79,22 @@
 1. [爱河（如果晚霞绕过火车）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocZWSIhB0ACxULYiiRLAlBIDWAs4fHYQKsMxkK) - ZaZaZsu
 1. [花田错_王睿卓（feat.柠檬叉）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okaggJQAgCFLsIMYEnzPeOeJfQGZDCGYnggS9c) - 王睿卓
 1. [程实说（还是玩骰子吧）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oELPYfA3JQhfn0PSFcNkwegp8mah4CDg8MczNW) - SHarK
-1. [红颜为谁开（DJAH版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIeMMG1EZCBL9TSIFMeUbpFwvfbA3SPQGazyIs) - DJAH
-1. [Take me hand（Zy版全网听）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owyUoUuVpA1I7BiszAYMSqbGseWQw8P7Ea2BiR) - Zy
+1. [红颜为谁开（DJAH版）](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIeMMG1EZCBL9TSIFMeUbpFwvfbA3SPQGazyIs) - DJAH
+1. [Take me hand（Zy版全网听）](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owyUoUuVpA1I7BiszAYMSqbGseWQw8P7Ea2BiR) - Zy
 1. [Strawberry Cream （剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osngkY1uYKIroOK1fCggmfne1QwmANs4g1Ef64) - Lunak
 1. [Echo of You（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMNh9BcnshOUPiM00HifAAQcImV80EISsVB9WI) - 蓝爵醺调
 1. [第57次取消发送（回忆成了大问题）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0kYgfCQctDAAJo29FwntqEXWDg1fSCqZGBGoC) - 菲菲公主
-1. [风吹雾（前奏）](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oo4MQeLZDVEH22zLBUGFYcF3z1OA6CAae9IReg) - Adoreya
+1. [风吹雾（前奏）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oo4MQeLZDVEH22zLBUGFYcF3z1OA6CAae9IReg) - Adoreya
 1. [九万字（我爱你苍凉双眼留有余温）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocQFYTD0zIshFvGQLLy6eeplSPdaPIiAgESeCW) - 张靓颖
 1. [亲爱的你啊（徐远书剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocYfalEIzETegPycsANLMYHhQFIQ1EGJblfBLC) - 徐远书
-1. [月亮照山川（DJ默涵片段）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oo9i1CliSgItAks0BWDMsU8i7fMaAIWhABDAQk) - 窝窝
-1. [莎拉的嘿哟](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oA4WMYrDIiTAroQiYKjaNUAkOCvkBgi0v1IVR) - 钱乐多
-1. [sweetie girl](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE91QSCQBAhYqZzmCEh4fggF0G0DdFxePaYf7a) - Luv8z
+1. [月亮照山川（DJ默涵片段）](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oo9i1CliSgItAks0BWDMsU8i7fMaAIWhABDAQk) - 窝窝
+1. [莎拉的嘿哟](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oA4WMYrDIiTAroQiYKjaNUAkOCvkBgi0v1IVR) - 钱乐多
+1. [sweetie girl](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE91QSCQBAhYqZzmCEh4fggF0G0DdFxePaYf7a) - Luv8z
 1. [亲爱的你啊（架子鼓版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQ8zBalRBNpHRmusUICfgeMkA9WtBQFkN0MEeQ) - 任素汐
 1. [天太热了（女版DJ）（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0NyDhsCW5zWCwahk2fzrIFdAvBDMQAKGgQhHB) - 歌手小芳
-1. [一举成名（Cover 小平）（剪辑版4）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4tFQoeCtrDle2MWAgnCYFSKZkkgwBCtD2Dlbc) - 史海军
+1. [一举成名（Cover 小平）（剪辑版4）](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4tFQoeCtrDle2MWAgnCYFSKZkkgwBCtD2Dlbc) - 史海军
 1. [好想见你一面1.2x](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEBAU9ouQjZmEvotFYC8NIMD1gXCNs6BFIfp3f) - 宁治国
-1. [You Make Me Smile（主歌）](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY7Ap5fiTZIjOo7oCsJMZPpizfoiIctDABABgF) - A.I.微雨
+1. [You Make Me Smile（主歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY7Ap5fiTZIjOo7oCsJMZPpizfoiIctDABABgF) - A.I.微雨
 1. [可可爱爱](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0deb1e75aea643b9927ba26aaafa29dd) - 西瓜milk
 1. [小手拉大手（神兔小P版）（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMvqy5ZnObg7WIQQzqKnPZurNilA6BXiMIMB7) - 神兔小P
 1. [爆炸](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/305dc842daa44f0a8641a1005d02d6a7) - BCD Studio
@@ -110,14 +110,14 @@
 1. [Show Me Love](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8WkOeIwoYBiEiH42vsy8xPUDGBUAA2MhG3zvI) - WizTheMc & bees & honey
 1. [心跳（你又在哭泣我给不了安慰）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owJHiEhBzAg7AaUiiNwMhBIIWAKhf8tQ6sM8Tk) - 王力宏
 1. [加绒摇](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os01hIGzeASIzBisyAKMBXzEQIWsQyvpricBiW) - 罗一刻
-1. [夏至未至（0.9钢琴治愈版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYAtrzJIoEfmA5stWQNUAhyOxqsdyBdrhM2AQc) - 彭小羽&林尘宇
+1. [夏至未至（0.9钢琴治愈版）](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYAtrzJIoEfmA5stWQNUAhyOxqsdyBdrhM2AQc) - 彭小羽&林尘宇
 1. [时尚动感放克律动  Funk Caravan Main](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAyFQR8bXIqQGVLMZEOYDe7gEeroAqeSyfNGIe) - MangoAudio
 1. [起风了（间奏加长版） （剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8a927fdf26bc49e0ada58e80d57cf030) - Mianyang
 1. [Off The Hook（Speed Up）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQZ2Df3MtEsQYlZsGgngFBhZQTZWC5C2fBHFqX) - Jeff Jarvis
-1. [蹦蹦跳跳(跟我一起蹦蹦跳跳)](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQHQfYvZqFXyczeeABX5YrgMB8M2pxuQDaCGLg) - 李昕融/付佳钰
+1. [蹦蹦跳跳(跟我一起蹦蹦跳跳)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQHQfYvZqFXyczeeABX5YrgMB8M2pxuQDaCGLg) - 李昕融/付佳钰
 1. [我相信-剪辑版](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEbrpmekDjxXQgD9ZZveItFnBkrQgoZAPTDCdA) - 丹尼·翁
 1. [零距离的思念](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYFeRLgJFAUz8GFeY6jDTjtBf2IajPtgAgCGQo) - TINY7
-1. [高考加油（励志音乐）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oohsBiQQIEzQhCWOMAYRHmiBaL0kDgfA4wBrZz) - HTT
+1. [高考加油（励志音乐）](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oohsBiQQIEzQhCWOMAYRHmiBaL0kDgfA4wBrZz) - HTT
 1. [重大的新闻通知 ](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYCBIfmCpiyngZfVgDHZH1b4tZA8EXDmgQmYQT) - 追乐者
 1. [千万次想象（若能再相爱一场）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oweM5GsvYKAVdeT1yGZIx5fP1QJmABL2gYFTse) - 张杰
 1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
