@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-04-09 13:10:58 +0800`
+`更新时间：2026-04-09 15:23:38 +0800`
 
 ## 抖音热榜
 
-1. 武汉暴雨
-1. 河南三地招商数据造假
-1. 3月我国物流业务活动趋于活跃
 1. 体验西双版纳的泼水文化
-1. 高级穿搭万能公式
-1. 3人摆拍“深山救助流浪女”被查
 1. 我就这样美美走进春夏
-1. NASA发布“最清晰的月球照片”
-1. 大巴黎2:0利物浦
-1. TES战胜WE
+1. 3月我国物流业务活动趋于活跃
+1. 河南三地招商数据造假
+1. 美联储会议纪要
+1. 3人摆拍“深山救助流浪女”被查
 1. 陈丽华告别仪式
 1. 3月辟谣榜
-1. 美联储会议纪要
 1. 霍尔木兹海峡已再次关闭
+1. 美伊临时停火或因以色列破裂
 1. 我见识到我自己的厉害了
-1. 留子美食挑战赛还是太权威了
-1. 阿凡提怎么天天都这么开心
 1. 冰湖重生带着复仇摇来复仇了
-1. A股
-1. 剑来2李二问拳大隋
-1. 冰湖重生抖音追剧团
+1. 留子美食挑战赛还是太权威了
 1. 全网都在复刻莫氏鸡煲
-1. 当我把假期碎片拍成了港风大片
-1. 哪吒2票房升至全球第4
-1. 杨紫复仇摇一键上头
-1. 浪姐完美的组队搭子
-1. 当不同游戏玩家玩洛克王国世界
-1. 钢铁森林江寒声以身入局
+1. 阿凡提怎么天天都这么开心
+1. 钢铁森林该燃冬时不燃冬
+1. 冰湖重生抖音追剧团
+1. 武拾光阻拦雾妄言断尾
 1. 雨爱浪姐一公小考第一
-1. 曾舜晞长枪一出真龙登场
-1. 曾沛慈的兵带着主题曲来了
-1. 饿了靠假吃螺蛳粉安慰自己
+1. 李小冉王濛唐艺昕重新定义SHE
 1. 薛之谦万兽之王的幕后三分半
-1. 荒野垂钓也能过上小康生活
-1. 爱播集结团播之夜
-1. TF四代外星小绿猫cha
-1. 晒出你的洛克王国老物件
-1. 我的妈耶张十一名字的由来
-1. 我来聊聊S9新赛季
+1. 当我把假期碎片拍成了港风大片
+1. A股
+1. 钢铁森林江寒声以身入局
+1. 哪吒2票房升至全球第4
+1. 剑来2李二问拳大隋
 1. 爱就一个字手势舞
-1. TXT主打歌舞蹈先公开
-1. 穆祉丞也来ACELERADA手势舞啦
-1. RED彭湘蕊高精力上学vlog
-1. 洛克王国OST
-1. 当我打电话说没钱吃饭时
-1. 一朵花一棵树一个小可爱
-1. 春天第一支云南山歌跳上了
+1. 曾舜晞长枪一出真龙登场
+1. 浪姐完美的组队搭子
 1. 虞书欣本尊跳进行曲了
+1. 曾沛慈的兵带着主题曲来了
+1. 晒出你的洛克王国老物件
+1. 当不同游戏玩家玩洛克王国世界
+1. TXT主打歌舞蹈先公开
+1. 洛克王国OST
+1. 饿了靠假吃螺蛳粉安慰自己
+1. 玉娇坚信张云魁还活着
 1. 叵测孟晓亮生父到底是谁
-1. 韩振版对你讲手势舞
+1. TF四代外星小绿猫cha
+1. RED彭湘蕊高精力上学vlog
+1. 一朵花一棵树一个小可爱
+1. 我的妈耶张十一名字的由来
+1. 春天第一支云南山歌跳上了
+1. 爱播集结团播之夜
+1. 危险关系颜聆反杀罗梁
+1. 我来聊聊S9新赛季
+1. 当我打电话说没钱吃饭时
+1. 穆祉丞也来ACELERADA手势舞啦
+1. 武汉暴雨
+1. 危险关系罗梁真实身份曝光
 
 ## 明星榜
 
@@ -90,25 +90,25 @@
 1. [拿下拿下（Cover 王者阿水 & 阿水）（剪辑版）](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYJXbFAzsaDMrEMTyNFfBCAKDYA5JQIxzuDfaf) - 长顺
 1. [你不必是一朵花（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAoQtZUEZDefdgqYygKM9MYlICRpFqDLYNBAFB) - J.H.H
 1. [几分之几（氛围r&b）（Cover 卢广仲）（剪辑版）](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4NeixD1IFCzMTBXLGEN9vtMAuLMfZWcpZPJgq) - PPR
-1. [here with me (Tove Ball Remix)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYMDnQQ0xhuEtBBRYVBAST5CElDHAyCIegfFZQ) - Tove Ball
+1. [here with me (Tove Ball Remix)](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYMDnQQ0xhuEtBBRYVBAST5CElDHAyCIegfFZQ) - Tove Ball
 1. [你很哇塞(女神节版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocAd6jRB8tNDteeZ1YoZ9ACDTJgb0tUS2OyQun) - 夏梓薰
 1. [Scared 2 be lonely beat（当真爱降临）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owjfz4peTBaAaEBSCCLX0yXQhjMh0NFlvA8yfg) - Yn1jasper
-1. [幸福降临（剪辑版）](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUdjQypvA0tzFQHpSXYieDWva8BfEw8hCeOmMs) - 刘星宇
-1. [第一天（R&B律动版）（Cover 孙燕姿）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEgddOap5NAOBMPPZ1PraX8TWiICUiEIdQln0) - 时弦Sienn
-1. [删照片 (你删了我的照片 也删了我的微信)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osKS07DqQFCQYiBVWSECe5t4AvOUfZFUpEClg6) - 李承翰（C$H）/ ND姜兆轩
-1. [Heroes 3](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0DDy2SqgNz4IPeaLGFqEQYGeA5gvaPC4oeDsX) - VZEUS
+1. [幸福降临（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUdjQypvA0tzFQHpSXYieDWva8BfEw8hCeOmMs) - 刘星宇
+1. [第一天（R&B律动版）（Cover 孙燕姿）（剪辑版）](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEgddOap5NAOBMPPZ1PraX8TWiICUiEIdQln0) - 时弦Sienn
+1. [删照片 (你删了我的照片 也删了我的微信)](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osKS07DqQFCQYiBVWSECe5t4AvOUfZFUpEClg6) - 李承翰（C$H）/ ND姜兆轩
+1. [Heroes 3](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0DDy2SqgNz4IPeaLGFqEQYGeA5gvaPC4oeDsX) - VZEUS
 1. [左转灯 (1000 Times+1)](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os77QI7MDoNbhBF2gEfwCLQCQFXeDoBtx4bZ8u) - 派偉俊/mac ova sea
 1. [ぎのようなときめき（兔子般的心动） 変速 ver.（剪辑版）](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4bUrFVtBMyjxg2bB7iQmNsxrAfL0BgIi3QdW0) - 鱼饼吃橘子
-1. [他只是经过](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8EBL0GofbonNCXbABaQ2bDweaFzrUfZX6AbdQ) - h3R3/高旭
+1. [他只是经过](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8EBL0GofbonNCXbABaQ2bDweaFzrUfZX6AbdQ) - h3R3/高旭
 1. [咏春（副歌）](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osUiFHCDnB6jThIFEAIO7CIftAHYf27g4ZMITL) - 梨香JZH & 口古口古
-1. [对空气撒个娇（女声版）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogC9FIdWILyeSakOQTIGM4e4YK4NAc7IBGtZez) - 姜小斌
+1. [对空气撒个娇（女声版）（剪辑版）](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogC9FIdWILyeSakOQTIGM4e4YK4NAc7IBGtZez) - 姜小斌
 1. [雨の日のアウトプット（雨天的创作输出）変速 ver.（剪辑版2）](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8TciQOuiBPMxgrQIWAB4hatsrMUv8K55IJ3a) - 鱼饼吃橘子
 1. [Proof(Slowed)](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogJ0kgE2pCAHTkFIBpFEgJDEtiCZThfYQaf0DN) - GOLD999
-1. [我欲成冰再也无退路（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYIWai0hQALEgiBbMfx99hHQiNDIsz75sGcBsn) - 迷雾里的幻境
+1. [我欲成冰再也无退路（剪辑版）](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYIWai0hQALEgiBbMfx99hHQiNDIsz75sGcBsn) - 迷雾里的幻境
 1. [够爱 (R&B版)（Cover 东城卫）（剪辑版）](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUOQyWOlADepaDKNDiFtgsYEZCpQOyiftYBpFv) - 大头钉
-1. [远去的列车](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os5pDflRtEDQYlf9hgngFB8IQ2ZHCaV61BrHQE) - 四熹丸子
-1. [无尽幸福](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4AuPT2eDMFGnF8xCxFQNxZo3BfwoCAIEwgEtR) - 凌晨一点的莱茵猫 & 二乘
-1. [りんごなんてつまらなくないもん！（苹果才不无聊呢！）](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4aaUKIAavFFeEf8CUzZpSf7FIDZBCDMCQlT4l) - 鱼饼吃橘子
+1. [远去的列车](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os5pDflRtEDQYlf9hgngFB8IQ2ZHCaV61BrHQE) - 四熹丸子
+1. [无尽幸福](https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4AuPT2eDMFGnF8xCxFQNxZo3BfwoCAIEwgEtR) - 凌晨一点的莱茵猫 & 二乘
+1. [りんごなんてつまらなくないもん！（苹果才不无聊呢！）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4aaUKIAavFFeEf8CUzZpSf7FIDZBCDMCQlT4l) - 鱼饼吃橘子
 1. [我就爱这乱七八糟的生活](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okAhFpgBnxTEtAFZd1YggmCCsBgfoUke5MnQND) - 2menG
 
 ## 品牌榜
